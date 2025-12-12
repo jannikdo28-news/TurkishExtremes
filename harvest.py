@@ -173,12 +173,12 @@ def translateData(data):
    anyText = str(data['title']) + '. ' + str(data['description'])
    if('de'==data['language']):
        data['de'] = anyText
-       data['en'] = lt.getTranslatorByLanguage('de','en').translate(data['de'])
-       data['la'] = lt.getTranslatorByLanguage('de','la').translate(data['de'])
+       data['en'] = lt.getTranslatorByLanguage('de','en').translate(anyText)
+       data['la'] = lt.getTranslatorByLanguage('de','la').translate(anyText)
    if('en'==data['language']):
        data['en'] = anyText
-       data['de'] = lt.getTranslatorByLanguage('en','de').translate(data['de'])
-       data['la'] = lt.getTranslatorByLanguage('en','la').translate(data['en'])
+       data['de'] = lt.getTranslatorByLanguage('en','de').translate(anyText)
+       data['la'] = lt.getTranslatorByLanguage('en','la').translate(anyText)
    if('' == data['language']):
        data['language'] = 'xx'
        data['de'] = ''
@@ -444,31 +444,37 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
       searchQuote = str(data['title']) + " " + str(data['description'])
       fullQuote = str(data['content'])
       foundKeywords = []
+      foundColumns = []
       found = False
       valid = 0.1
       for index2, column2 in termsLangDF.iterrows(): 
          keyword = column2['term']
          if(keyword.strip("'") in searchQuote):
              foundKeywords.append(keyword) 
+             foundColumns.append(column2) 
              found = True
              valid = max(valid,0.9)
          allFound = checkKeywordInQuote(keyword, searchQuote, case=True)
          if(allFound):
              foundKeywords.append(keyword) 
+             foundColumns.append(column2) 
              found = True
              valid = max(valid,0.8)
          allFound = checkKeywordInQuote(keyword, searchQuote, case=False)
          if(allFound):
              foundKeywords.append(keyword) 
+             foundColumns.append(column2) 
              found = True
              max(valid,0.7)
       # add seldom keywords twice if
-      keywordsSeldomLangDF = seldomDF[seldomDF['language']==language]
-      for index2, column2 in keywordsSeldomLangDF.iterrows(): 
+      if(not seldomDF.empty):
+       keywordsSeldomLangDF = seldomDF[seldomDF['language']==language]
+       for index2, column2 in keywordsSeldomLangDF.iterrows(): 
          keyword = column2['term']
          allFound = checkKeywordInQuote(keyword, searchQuote, case=True) 
          if(allFound):
              foundKeywords.append(keyword) 
+             foundColumns.append(column2) 
              found = True
       if(not found):
         for index2, column2 in termsLangDF.iterrows(): 
@@ -482,12 +488,13 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
            allFound = checkKeywordInQuote(keyword, fullQuote, case=True, anyKey=True)
            if(allFound):
              foundKeywords.append(keyword) 
+             foundColumns.append(column2) 
              found = True
              max(valid,0.2) 
       data['valid'] = valid
       if(valid>0.15):
         foundKeywords.append(keyWord) 
-        data['keyword'] = random.choice(foundKeywords)
+        anyColumn = random.choice(foundColumns)
         data['term'] = anyColumn['term']
         data['country'] = anyColumn['country']
         data['ipcc'] = anyColumn['ipcc']
@@ -496,13 +503,7 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
         data['topic'] = anyColumn['topic']
         foundArticles.append(data)
       else:
-        data['keyword'] = keyWord
-        data['term'] = anyColumn['term']
-        data['country'] = anyColumn['country']
-        data['ipcc'] = anyColumn['ipcc']
-        data['continent'] = anyColumn['continent']
-        data['feed'] = anyColumn['feed']
-        data['topic'] = anyColumn['topic']
+        data['term'] = keyWord
         #foundArticles.append(data)
 
     return foundArticles
