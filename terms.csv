@@ -1,21 +1,20 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'454d379110',extremes,Thunderstorm,#53785a,wmo,fırtına kıbrıs,2025-12-07T03:47:00+00:00,Cyprus,0.6654650195216278,0,1,tr,MED,Europe
 '1d702e03bc',extremes,Precipitation,#d60d2b,wmo,sağanak bulgaristan,2025-11-28T03:34:00+00:00,Bulgaria,0.6493232164998889,0,1,tr,MED,Europe
 'ee67546360',extremes,Precipitation,#d60d2b,wmo,yağış bulgaristan,2025-12-05T03:41:00+00:00,Bulgaria,0.6375210464809986,0,1,tr,MED,Europe
-'d567ca06c2',extremes,Precipitation,#d60d2b,wmo,yağmur Kırcaali Smolyan Blagoevgrad,2025-11-28T03:34:00+00:00,Bulgaria,0.6204107660265479,0,1,tr,MED,Europe
-'26015c1155',extremes,Storm,#b3b2b1,wmo,fırtına dalgası kıbrıs,2025-11-29T03:34:00+00:00,Cyprus,0.6136326998717029,0,1,tr,MED,Europe
 'd5d7a11479',extremes,Drought,#edc291,edo,kuraklık kıbrıs,2025-12-09T03:41:00+00:00,Cyprus,0.5975923606944011,0,1,tr,MED,Europe
 'fe6660da97',extremes,Precipitation,#d60d2b,wmo,sağanak kıbrıs,2025-12-08T03:44:00+00:00,Cyprus,0.5963804669277853,0,1,tr,MED,Europe
 '83d15a581c',extremes,Earthquake,#870007,usgs,deprem kocaaliler,2025-12-09T03:40:00+00:00,Turkey,0.5947656512087242,0,1,tr,MED,Asia
 'c9906674b2',extremes,Precipitation,#d60d2b,wmo,yağış kıbrıs,2025-12-09T03:41:00+00:00,Cyprus,0.5883966547132998,0,1,tr,MED,Europe
 'f685d1f47f',extremes,Drought,#edc291,edo,Kıbrıs'ta kuraklık,2025-12-10T03:45:00+00:00,Cyprus,0.5726434424995355,0,1,tr,MED,Europe
 '9797aa6299',extremes,Drought,#edc291,edo,yağmur eksikliği kıbrıs,2025-11-26T03:37:00+00:00,Cyprus,0.5684728395661582,1,1,tr,MED,Europe
+'454d379110',extremes,Thunderstorm,#53785a,wmo,fırtına kıbrıs,2025-12-07T03:47:00+00:00,Cyprus,0.5656452665933837,1,1,tr,MED,Europe
 'f39df9085b',extremes,Earthquake,#870007,usgs,deprem göynük,2025-12-09T03:40:00+00:00,Turkey,0.5650584723150319,0,1,tr,MED,Asia
 '1452522387',extremes,Precipitation,#d60d2b,wmo,kuzey makedonya'da sağanak yağmur,2025-11-27T03:34:00+00:00,North Macedonia,0.5576972231290631,0,1,tr,MED,Europe
 '4f00106436',extremes,Precipitation,#d60d2b,wmo,sağanak kuzey makedonya,2025-11-28T03:34:00+00:00,North Macedonia,0.5509985048361502,0,1,tr,MED,Europe
 '0be5ded7e1',extremes,Drought,#edc291,edo,kuruluk hindi,2025-12-01T04:02:00+00:00,Turkey,0.5489343533086142,0,1,tr,MED,Asia
 '67973e734f',extremes,Precipitation,#d60d2b,wmo,yağış kuzey makedonya,2025-11-28T03:34:00+00:00,North Macedonia,0.545489568042437,0,1,tr,MED,Europe
 '89426ddfd9',extremes,Fog,#d60d2b,wmo,Moldova sisi,2025-11-27T03:34:00+00:00,Moldova,0.5348246315021429,0,1,tr,WCE,Europe
+'26015c1155',extremes,Storm,#b3b2b1,wmo,fırtına dalgası kıbrıs,2025-11-29T03:34:00+00:00,Cyprus,0.5215877948909474,1,1,tr,MED,Europe
 '373c6724f3',extremes,Drought,#edc291,edo,yağmur eksikliği türkiye,2025-11-24T03:46:00+00:00,Turkey,0.5014347565817727,0,1,tr,MED,Asia
 '97ffca89ef',extremes,Precipitation,#d60d2b,wmo,yağış polog bölgesi,2025-12-05T03:41:00+00:00,North Macedonia,0.5010375336865147,0,1,tr,MED,Europe
 '0197d0c4df',extremes,Precipitation,#d60d2b,wmo,yağmur vardar bölgesi,2025-11-27T03:34:00+00:00,North Macedonia,0.4898838533897313,0,1,tr,MED,Europe
