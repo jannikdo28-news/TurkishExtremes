@@ -1,5 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'69840e877f',extremes,Storm,#b3b2b1,wmo,fırtına bulgaristan,2025-11-26T03:37:00+00:00,Bulgaria,0.6646352621549034,0,1,tr,MED,Europe
+'f685d1f47f',extremes,Drought,#edc291,edo,Kıbrıs'ta kuraklık,2025-12-10T03:45:00+00:00,Cyprus,0.5726434424995355,0,1,tr,MED,Europe
 '9797aa6299',extremes,Drought,#edc291,edo,yağmur eksikliği kıbrıs,2025-11-26T03:37:00+00:00,Cyprus,0.5684728395661582,1,1,tr,MED,Europe
+'67973e734f',extremes,Precipitation,#d60d2b,wmo,yağış kuzey makedonya,2025-11-28T03:34:00+00:00,North Macedonia,0.545489568042437,0,1,tr,MED,Europe
 'd567ca06c2',extremes,Precipitation,#d60d2b,wmo,yağmur Kırcaali Smolyan Blagoevgrad,2025-11-28T03:34:00+00:00,Bulgaria,0.5273491511225656,1,1,tr,MED,Europe
 '83d15a581c',extremes,Earthquake,#870007,usgs,deprem kocaaliler,2025-12-09T03:40:00+00:00,Turkey,0.5248231540402808,1,1,tr,MED,Asia
 '26015c1155',extremes,Storm,#b3b2b1,wmo,fırtına dalgası kıbrıs,2025-11-29T03:34:00+00:00,Cyprus,0.5215877948909474,1,1,tr,MED,Europe
@@ -45,5 +48,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e6d1629586',extremes,Wildfire,#d60d2b,acwe,orman yangını kuzey bölgesi,2025-11-27T03:34:00+00:00,Australia,0.3186710523035853,0,2,tr,CAU,Oceania
 'd5576244aa',extremes,Heat Wave,#c40202,acwe,sıcak hava dalgası kuzey bölgesi,2025-11-26T03:37:00+00:00,Australia,0.3183462179056731,0,2,tr,NAU,Oceania
 'c90309b4ea',extremes,Precipitation,#d60d2b,acwe,yağışlı hava Avustralya,2025-11-27T03:34:00+00:00,Australia,0.3182085863292513,0,2,tr,CAU,Oceania
+'cf0028758b',extremes,Flood,#030ba1,acwe,Queensland'de ani sel,2025-11-26T03:37:00+00:00,Australia,0.3181718136200919,0,1,tr,CAU,Oceania
+'83b05b31d0',extremes,Precipitation,#d60d2b,acwe,yağışlı dönem yeni güney galler,2025-11-27T03:34:00+00:00,Australia,0.3179579791731195,0,1,tr,EAU,Oceania
+'6977afac24',extremes,Volcano,#b83202,eonet,Puracé Yanardağı Kolombiya,2025-12-06T03:32:00+00:00,Colombia,0.3175532868372554,0,1,tr,NWS,South-America
+'b747714817',extremes,Cold Wave,#a7e9fa,acwe,soğuk dalga victoria,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,1,tr,SAU,Oceania
+'8ba9ae33f7',extremes,Heat Wave,#c40202,acwe,sıcak hava dalgası avustralya,2025-11-26T03:37:00+00:00,Australia,0.31661734371692934,0,1,tr,CAU,Oceania
 'fcf38cfed3',extremes,Drought,#edc291,edo,kuzey makedonya'da kuraklık,2025-12-01T04:02:00+00:00,North Macedonia,0.3149824126466736,1,1,tr,MED,Europe
+'6dfc67df50',extremes,Flood,#030ba1,cmeter,Arnavutluk'ta sel,2025-11-30T03:47:00+00:00,Albania,0.31477853461844485,0,1,tr,MED,Europe
+'59dbdf78a1',extremes,Wildfire,#d60d2b,acwe,orman yangını queensland,2025-11-27T03:34:00+00:00,Australia,0.3125771822937785,0,1,tr,CAU,Oceania
 'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2025-12-03T03:40:00+00:00,Moldova,0.2880213256453233,1,1,tr,WCE,Europe
