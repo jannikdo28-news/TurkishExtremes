@@ -3,12 +3,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fe6660da97',extremes,Precipitation,#d60d2b,wmo,sağanak kıbrıs,2025-12-08T03:44:00+00:00,Cyprus,0.5963804669277853,0,2,tr,MED,Europe
 'f685d1f47f',extremes,Drought,#edc291,edo,Kıbrıs'ta kuraklık,2025-12-10T03:45:00+00:00,Cyprus,0.5726434424995355,0,2,tr,MED,Europe
 '9797aa6299',extremes,Drought,#edc291,edo,yağmur eksikliği kıbrıs,2025-11-26T03:37:00+00:00,Cyprus,0.5684728395661582,1,1,tr,MED,Europe
-'69840e877f',extremes,Storm,#b3b2b1,wmo,fırtına bulgaristan,2025-11-26T03:37:00+00:00,Bulgaria,0.5649399728316679,1,1,tr,MED,Europe
-'1452522387',extremes,Precipitation,#d60d2b,wmo,kuzey makedonya'da sağanak yağmur,2025-11-27T03:34:00+00:00,North Macedonia,0.5576972231290631,0,1,tr,MED,Europe
-'1d702e03bc',extremes,Precipitation,#d60d2b,wmo,sağanak bulgaristan,2025-11-28T03:34:00+00:00,Bulgaria,0.5522247640249055,1,2,tr,MED,Europe
-'0be5ded7e1',extremes,Drought,#edc291,edo,kuruluk hindi,2025-12-01T04:02:00+00:00,Turkey,0.5489343533086142,0,1,tr,MED,Asia
 '67973e734f',extremes,Precipitation,#d60d2b,wmo,yağış kuzey makedonya,2025-11-28T03:34:00+00:00,North Macedonia,0.545489568042437,0,1,tr,MED,Europe
-'ee67546360',extremes,Precipitation,#d60d2b,wmo,yağış bulgaristan,2025-12-05T03:41:00+00:00,Bulgaria,0.5421929195088488,1,1,tr,MED,Europe
 '89426ddfd9',extremes,Fog,#d60d2b,wmo,Moldova sisi,2025-11-27T03:34:00+00:00,Moldova,0.5348246315021429,0,1,tr,WCE,Europe
 'd567ca06c2',extremes,Precipitation,#d60d2b,wmo,yağmur Kırcaali Smolyan Blagoevgrad,2025-11-28T03:34:00+00:00,Bulgaria,0.5273491511225656,1,1,tr,MED,Europe
 '26015c1155',extremes,Storm,#b3b2b1,wmo,fırtına dalgası kıbrıs,2025-11-29T03:34:00+00:00,Cyprus,0.5215877948909474,1,1,tr,MED,Europe
@@ -24,9 +19,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '454d379110',extremes,Thunderstorm,#53785a,wmo,fırtına kıbrıs,2025-12-07T03:47:00+00:00,Cyprus,0.4807984766043761,2,1,tr,MED,Europe
 'f39df9085b',extremes,Earthquake,#870007,usgs,deprem göynük,2025-12-09T03:40:00+00:00,Turkey,0.4805997314677771,1,1,tr,MED,Asia
 '6c138cde70',extremes,Earthquake,#870007,usgs,deprem sındırgı,2025-12-12T03:45:00+00:00,Turkey,0.4753482188249742,0,1,tr,MED,Asia
+'1452522387',extremes,Precipitation,#d60d2b,wmo,kuzey makedonya'da sağanak yağmur,2025-11-27T03:34:00+00:00,North Macedonia,0.4740426396597036,1,1,tr,MED,Europe
 '95a9bcfa10',extremes,Precipitation,#d60d2b,wmo,güneybatı bölgesinde sağanak yağmur,2025-11-26T03:37:00+00:00,North Macedonia,0.4733935009027297,0,1,tr,MED,Europe
 'cf98137375',extremes,Precipitation,#d60d2b,wmo,sağanak pelagonya bölgesi,2025-12-05T03:41:00+00:00,North Macedonia,0.4718290049943856,0,1,tr,MED,Europe
+'1d702e03bc',extremes,Precipitation,#d60d2b,wmo,sağanak bulgaristan,2025-11-28T03:34:00+00:00,Bulgaria,0.46939107942116964,2,1,tr,MED,Europe
 '4f00106436',extremes,Precipitation,#d60d2b,wmo,sağanak kuzey makedonya,2025-11-28T03:34:00+00:00,North Macedonia,0.4683487291107276,1,1,tr,MED,Europe
+'0be5ded7e1',extremes,Drought,#edc291,edo,kuruluk hindi,2025-12-01T04:02:00+00:00,Turkey,0.466594200312322,1,1,tr,MED,Asia
+'ee67546360',extremes,Precipitation,#d60d2b,wmo,yağış bulgaristan,2025-12-05T03:41:00+00:00,Bulgaria,0.4611640115825215,2,1,tr,MED,Europe
 'e3af58f5da',extremes,Drought,#edc291,edo,kuruluk bulgaristan,2025-12-05T03:41:00+00:00,Bulgaria,0.4386529921012213,0,1,tr,MED,Europe
 '27c5f85790',extremes,Drought,#edc291,edo,kuraklık hindisi,2025-12-13T03:38:00+00:00,Turkey,0.4379584006550729,0,2,tr,MED,Asia
 '4806a05714',extremes,Earthquake,#870007,usgs,deprem türkiye,2025-12-13T03:37:00+00:00,Turkey,0.417908085430546,1,2,tr,MED,Asia
@@ -37,16 +36,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '705642743d',extremes,Earthquake,#870007,usgs,deprem kıbrıs,2025-12-03T03:40:00+00:00,Cyprus,0.380942338607426,0,2,tr,MED,Europe
 '63663feccd',extremes,Drought,#edc291,edo,yağmur eksikliği Moldova,2025-12-07T03:47:00+00:00,Moldova,0.3753940530970741,0,2,tr,WCE,Europe
 '357f3c8921',extremes,Drought,#edc291,edo,kuzey makedonya'da yağmur eksikliği,2025-11-25T03:37:00+00:00,North Macedonia,0.3714971809134982,0,2,tr,MED,Europe
-'fcf38cfed3',extremes,Drought,#edc291,edo,kuzey makedonya'da kuraklık,2025-12-01T04:02:00+00:00,North Macedonia,0.3705675442902043,0,2,tr,MED,Europe
 '8220584aae',extremes,Drought,#edc291,edo,kuruluk kuzey makedonya,2025-11-28T03:34:00+00:00,North Macedonia,0.3632164724841547,0,2,tr,MED,Europe
 '030aa64ddb',extremes,Drought,#edc291,edo,kuraklık Moldova,2025-12-10T03:45:00+00:00,Moldova,0.3267928242942284,0,2,tr,WCE,Europe
 '126dbdb910',extremes,Drought,#edc291,edo,Moldova'nın kuraklığı,2025-11-30T03:47:00+00:00,Moldova,0.3239061102052745,0,2,tr,WCE,Europe
-'615eb4c759',extremes,Tropical Cyclone,#4f4f4f,eonet,tropik kasırga ditwah,2025-11-28T03:33:00+00:00,,0.31890064928959616,0,2,tr,EIO,Indian Ocean
+'615eb4c759',extremes,Tropical Cyclone,#4f4f4f,eonet,tropik kasırga ditwah,2025-11-28T03:33:00+00:00,,0.3189006492895961,0,2,tr,EIO,Indian Ocean
 '8d8981ac5b',extremes,Flood,#030ba1,acwe,Queensland'i sel bastı,2025-11-27T03:34:00+00:00,Australia,0.3187971077162626,0,2,tr,CAU,Oceania
-'641ad67faf',extremes,Wildfire,#d60d2b,acwe,güney avustralya'da yangın yasağı,2025-11-27T03:34:00+00:00,Australia,0.31877256057640063,0,2,tr,CAU,Oceania
-'83c282088c',extremes,Precipitation,#d60d2b,acwe,şiddetli yağmur kuzey bölgesi,2025-11-26T03:37:00+00:00,Australia,0.31874916548133436,0,2,tr,CAU,Oceania
-'9d59b1d751',extremes,Flood,#030ba1,acwe,Güney Avustralya'da ani sel,2025-11-27T03:34:00+00:00,Australia,0.31874140969916037,0,2,tr,SAU,Oceania
+'641ad67faf',extremes,Wildfire,#d60d2b,acwe,güney avustralya'da yangın yasağı,2025-11-27T03:34:00+00:00,Australia,0.3187725605764006,0,2,tr,CAU,Oceania
+'83c282088c',extremes,Precipitation,#d60d2b,acwe,şiddetli yağmur kuzey bölgesi,2025-11-26T03:37:00+00:00,Australia,0.3187491654813343,0,2,tr,CAU,Oceania
+'9d59b1d751',extremes,Flood,#030ba1,acwe,Güney Avustralya'da ani sel,2025-11-27T03:34:00+00:00,Australia,0.3187414096991603,0,2,tr,SAU,Oceania
 'e6d1629586',extremes,Wildfire,#d60d2b,acwe,orman yangını kuzey bölgesi,2025-11-27T03:34:00+00:00,Australia,0.3186710523035853,0,2,tr,CAU,Oceania
 'd5576244aa',extremes,Heat Wave,#c40202,acwe,sıcak hava dalgası kuzey bölgesi,2025-11-26T03:37:00+00:00,Australia,0.3183462179056731,0,2,tr,NAU,Oceania
 'c90309b4ea',extremes,Precipitation,#d60d2b,acwe,yağışlı hava Avustralya,2025-11-27T03:34:00+00:00,Australia,0.3182085863292513,0,2,tr,CAU,Oceania
+'fcf38cfed3',extremes,Drought,#edc291,edo,kuzey makedonya'da kuraklık,2025-12-01T04:02:00+00:00,North Macedonia,0.31498241264667365,1,1,tr,MED,Europe
 'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2025-12-03T03:40:00+00:00,Moldova,0.2880213256453233,1,1,tr,WCE,Europe
