@@ -11,7 +11,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c138cde70',extremes,Earthquake,#870007,usgs,deprem sındırgı,2025-12-12T03:45:00+00:00,Turkey,0.408996706001228,1,2,tr,MED,Asia
 '454d379110',extremes,Thunderstorm,#53785a,wmo,fırtına kıbrıs,2025-12-07T03:47:00+00:00,Cyprus,0.4086787051137197,3,1,tr,MED,Europe
 '1d702e03bc',extremes,Precipitation,#d60d2b,wmo,sağanak bulgaristan,2025-11-28T03:34:00+00:00,Bulgaria,0.3992824475079941,3,1,tr,MED,Europe
-'c1eef80860',extremes,Drought,#edc291,edo,kuraklık bulgaristan,2025-12-14T03:49:00+00:00,Bulgaria,0.3992706108119276,0,2,tr,MED,Europe
 'd961d384f7',extremes,Earthquake,#870007,usgs,deprem cimin,2025-12-19T03:45:00+00:00,Turkey,0.395428339518877,1,1,tr,MED,Asia
 'ee67546360',extremes,Precipitation,#d60d2b,wmo,yağış bulgaristan,2025-12-05T03:41:00+00:00,Bulgaria,0.3922894398451433,3,1,tr,MED,Europe
 '89426ddfd9',extremes,Fog,#d60d2b,wmo,Moldova sisi,2025-11-27T03:34:00+00:00,Moldova,0.3864107962602982,2,1,tr,WCE,Europe
@@ -31,8 +30,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bd9355fd65',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur polog bölgesi,2025-11-27T03:34:00+00:00,North Macedonia,0.3488702850416184,2,1,tr,MED,Europe
 'f39df9085b',extremes,Earthquake,#870007,usgs,deprem göynük,2025-12-09T03:40:00+00:00,Turkey,0.3477883614854689,3,1,tr,MED,Asia
 '772b48a222',extremes,Precipitation,#d60d2b,wmo,yağmur polog bölgesi,2025-11-26T03:37:00+00:00,North Macedonia,0.3476376406451625,2,1,tr,MED,Europe
-'1452522387',extremes,Precipitation,#d60d2b,wmo,kuzey makedonya'da sağanak yağmur,2025-11-27T03:34:00+00:00,North Macedonia,0.3424958071541358,3,1,tr,MED,Europe
 '95a9bcfa10',extremes,Precipitation,#d60d2b,wmo,güneybatı bölgesinde sağanak yağmur,2025-11-26T03:37:00+00:00,North Macedonia,0.3420268044022221,2,1,tr,MED,Europe
+'c1eef80860',extremes,Drought,#edc291,edo,kuraklık bulgaristan,2025-12-14T03:49:00+00:00,Bulgaria,0.33953003419013844,1,2,tr,MED,Europe
 '4f00106436',extremes,Precipitation,#d60d2b,wmo,sağanak kuzey makedonya,2025-11-28T03:34:00+00:00,North Macedonia,0.3383819567825006,3,1,tr,MED,Europe
 '0be5ded7e1',extremes,Drought,#edc291,edo,kuruluk hindi,2025-12-01T04:02:00+00:00,Turkey,0.3371143097256526,3,1,tr,MED,Asia
 '67973e734f',extremes,Precipitation,#d60d2b,wmo,yağış kuzey makedonya,2025-11-28T03:34:00+00:00,North Macedonia,0.3349987809740615,3,1,tr,MED,Europe
@@ -91,6 +90,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '46e78fc4cd',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur maldivler,2025-11-30T03:46:00+00:00,Maldives,0.3041559310830806,0,1,tr,EIO,Indian Ocean
 '9800aef52a',extremes,Snow&Ice,#d60d2b,wmo,çığ kanada,2025-12-10T03:45:00+00:00,Canada,0.3041520329813526,0,1,tr,NEN,North-America
 'bf37dbf3d7',extremes,Thunderstorm,#53785a,wmo,yeni zelanda'yı selamlayın,2025-12-02T03:41:00+00:00,New Zealand,0.3040394466418858,0,1,tr,NZ,Oceania
+'1452522387',extremes,Precipitation,#d60d2b,wmo,kuzey makedonya'da sağanak yağmur,2025-11-27T03:34:00+00:00,North Macedonia,0.29112143608101543,4,1,tr,MED,Europe
 'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2025-12-03T03:40:00+00:00,Moldova,0.2880213256453233,1,1,tr,WCE,Europe
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,yağışlı dönem yeni güney galler,2025-11-27T03:34:00+00:00,Australia,0.2702642822971516,1,1,tr,EAU,Oceania
 '6977afac24',extremes,Volcano,#b83202,eonet,Puracé Yanardağı Kolombiya,2025-12-06T03:32:00+00:00,Colombia,0.2699202938116671,1,1,tr,NWS,South-America
@@ -109,12 +109,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '99251f8aa7',extremes,Drought,#edc291,edo,Yağmur eksikliği Liberya,2025-12-08T03:45:00+00:00,Liberia,0.2623637624332612,1,1,tr,WAF,Africa
 '5e4bef8c2c',extremes,Cold Wave,#a7e9fa,wmo,soğuk dalga hindistan,2025-12-08T03:44:00+00:00,India,0.2622356819558267,1,1,tr,SAS,Asia
 '53af3d9646',extremes,Drought,#edc291,edo,kuraklık türkmenistan,2025-12-15T03:54:00+00:00,Turkmenistan,0.2621197790438807,1,1,tr,WCA,Asia
-'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,yağış tanzanya,2025-12-18T03:44:00+00:00,Tanzania,0.26200144946863846,1,1,tr,SEAF,Africa
+'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,yağış tanzanya,2025-12-18T03:44:00+00:00,Tanzania,0.2620014494686384,1,1,tr,SEAF,Africa
 '2407b3a8ab',extremes,Drought,#edc291,edo,kuruluk burundi,2025-12-03T03:40:00+00:00,Burundi,0.2619463335373195,1,1,tr,SEAF,Africa
 '99d338c49c',extremes,Drought,#edc291,edo,kuraklık özbekistan,2025-11-30T03:47:00+00:00,Uzbekistan,0.2618438425906376,1,1,tr,WCA,Asia
 '56dca2743f',extremes,Drought,#edc291,edo,kuraklık ekvator ginesi,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.2616682886476174,1,1,tr,WAF,Africa
 '052d9fa0c5',extremes,Storm,#b3b2b1,aidr,fırtına fırtına astım victoria,2025-12-12T03:46:00+00:00,Australia,0.2609046734147468,1,1,tr,SAU,Oceania
-'00856d5d4e',extremes,Precipitation,#d60d2b,wmo,yağış kuveyt,2025-12-11T03:46:00+00:00,Kuwait,0.26078901079477157,1,1,tr,ARP,Asia
+'00856d5d4e',extremes,Precipitation,#d60d2b,wmo,yağış kuveyt,2025-12-11T03:46:00+00:00,Kuwait,0.2607890107947715,1,1,tr,ARP,Asia
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,yağmur brezilya,2025-11-27T03:34:00+00:00,Brazil,0.2607309356131619,1,1,tr,SAM,South-America
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,sağanak tanzanya,2025-12-11T03:46:00+00:00,Tanzania,0.2605520064719467,1,1,tr,SEAF,Africa
 'ab3b052049',extremes,Precipitation,#d60d2b,cmeter,yağış arnavutluk,2025-12-01T04:03:00+00:00,Albania,0.2604142095873037,1,1,tr,MED,Europe
