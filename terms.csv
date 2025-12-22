@@ -83,7 +83,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '88f49d6040',extremes,Storm,#b3b2b1,wmo,fırtına zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.3026542140855294,0,1,tr,NWS,South-America
 'c766f9dbfa',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur tamil nadu'nun kancheepuram bölgesi,2025-11-30T03:46:00+00:00,India,0.3026305056364511,0,1,tr,SAS,Asia
 '2876c1c93a',extremes,Landslide,#572c03,wmo,toprak kayması norveç,2025-12-10T03:45:00+00:00,Norway,0.3025980704790159,0,1,tr,NEU,Europe
-'fa84ab2ea0',extremes,Thunderstorm,#53785a,wmo,şiddetli hava güney afrika,2025-12-12T03:45:00+00:00,South Africa,0.30258775280036804,0,1,tr,WSAF,Africa
+'fa84ab2ea0',extremes,Thunderstorm,#53785a,wmo,şiddetli hava güney afrika,2025-12-12T03:45:00+00:00,South Africa,0.302587752800368,0,1,tr,WSAF,Africa
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,fırtına güney afrika,2025-12-08T03:44:00+00:00,South Africa,0.3025662425362803,0,1,tr,WSAF,Africa
 '885597e0f4',extremes,Wildfire,#d60d2b,wmo,orman yangını avustralya,2025-12-05T03:41:00+00:00,Australia,0.3025596841486156,0,1,tr,CAU,Oceania
 'fe75824d98',extremes,Snow&Ice,#d60d2b,wmo,dondurucu Finlandiya,2025-12-01T04:02:00+00:00,Finland,0.3025550257920764,0,1,tr,NEU,Europe
@@ -125,7 +125,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4be795f03',extremes,Drought,#edc291,edo,yağmur eksikliği ekvator ginesi,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.2610809309296003,1,1,tr,WAF,Africa
 '052d9fa0c5',extremes,Storm,#b3b2b1,aidr,fırtına fırtına astım victoria,2025-12-12T03:46:00+00:00,Australia,0.2609046734147468,1,1,tr,SAU,Oceania
 '88c39c6d57',extremes,Precipitation,#d60d2b,wmo,baa atolü'nden thaa atolü'ne sağanak yağmur,2025-11-27T03:34:00+00:00,Maldives,0.2607965840113851,1,1,tr,EIO,Indian Ocean
-'00856d5d4e',extremes,Precipitation,#d60d2b,wmo,yağış kuveyt,2025-12-11T03:46:00+00:00,Kuwait,0.2607890107947715,1,1,tr,ARP,Asia
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur arjantin,2025-12-10T03:45:00+00:00,Argentina,0.2607773860815209,1,1,tr,SES,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,yağmur brezilya,2025-11-27T03:34:00+00:00,Brazil,0.2607309356131619,1,1,tr,SAM,South-America
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,sağanak tanzanya,2025-12-11T03:46:00+00:00,Tanzania,0.2605520064719467,1,1,tr,SEAF,Africa
@@ -166,5 +165,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ba9ae33f7',extremes,Heat Wave,#c40202,acwe,sıcak hava dalgası avustralya,2025-11-26T03:37:00+00:00,Australia,0.2287560308354813,2,1,tr,CAU,Oceania
 '8a654473a4',extremes,Drought,#edc291,edo,kuraklık sao tome ve principe,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.226045257620798,2,1,tr,WAF,Africa
 '5a20612e67',extremes,Drought,#edc291,edo,yağmur eksikliği trinidad ve tobago,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.2238869649907922,2,1,tr,NSA,North-America
+'00856d5d4e',extremes,Precipitation,#d60d2b,wmo,yağış kuveyt,2025-12-11T03:46:00+00:00,Kuwait,0.2218206741755558,2,1,tr,ARP,Asia
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,fırtına uruguay,2025-12-02T03:41:00+00:00,Uruguay,0.2203579541019282,2,1,tr,SES,South-America
 'ebb583160c',extremes,Precipitation,#d60d2b,wmo,yaylalar ve doğu kesimlerde sağanak yağış,2025-12-06T03:32:00+00:00,Madagascar,0.2194196341891226,2,1,tr,MDG,Africa
