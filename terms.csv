@@ -24,14 +24,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '87ba69f7f2',extremes,Storm,#b3b2b1,wmo,fırtına dalgası maldivler,2025-12-01T04:02:00+00:00,Maldives,0.3021730939683515,0,1,tr,EIO,Indian Ocean
 '6dfc67df50',extremes,Flood,#030ba1,cmeter,Arnavutluk'ta sel,2025-11-30T03:47:00+00:00,Albania,0.3020742811600524,3,2,tr,MED,Europe
 '11db661ab4',extremes,Thunderstorm,#53785a,wmo,şiddetli hava maldivler,2025-12-18T03:44:00+00:00,Maldives,0.3020690424099118,0,1,tr,EIO,Indian Ocean
-'ae340540d6',extremes,Precipitation,#d60d2b,wmo,sağanak Arjantin,2025-12-14T03:49:00+00:00,Argentina,0.30204388695869916,0,1,tr,SES,South-America
+'ae340540d6',extremes,Precipitation,#d60d2b,wmo,sağanak Arjantin,2025-12-14T03:49:00+00:00,Argentina,0.3020438869586991,0,1,tr,SES,South-America
 '0ea3de86e9',extremes,Wildfire,#d60d2b,wmo,orman yangını çin,2025-12-05T03:41:00+00:00,China,0.3020267391424865,0,1,tr,EAS,Asia
 '5e4ea480a4',extremes,Thunderstorm,#53785a,wmo,dolu katar,2025-12-13T03:38:00+00:00,Qatar,0.3020086304721588,0,1,tr,ARP,Asia
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,fırtına bahreyn,2025-12-19T03:46:00+00:00,Bahrain,0.3019434617494929,0,1,tr,ARP,Asia
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,fırtına brezilya,2025-12-14T03:49:00+00:00,Brazil,0.3018040627479539,0,1,tr,SAM,South-America
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,yağış ekvador,2025-12-19T03:46:00+00:00,Ecuador,0.3017700154025986,0,1,tr,NWS,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,fırtına arjantin,2025-12-14T03:49:00+00:00,Argentina,0.3016860899264215,0,1,tr,SES,South-America
-'ce2d4957e5',extremes,Fog,#d60d2b,wmo,sis kuveyt,2025-12-12T03:45:00+00:00,Kuwait,0.3016845338284077,0,1,tr,ARP,Asia
 'd7de784867',extremes,Flood,#030ba1,wmo,Filipinler'deki sel,2025-12-07T03:47:00+00:00,Philippines,0.301683857075212,0,1,tr,SEA,Asia
 '5998b1a528',extremes,Thunderstorm,#53785a,wmo,dolu Seyşeller,2025-12-16T03:47:00+00:00,Seychelles,0.3016619793959226,0,1,tr,EIO,Africa
 '3640cbbb22',extremes,Flood,#030ba1,wmo,İngiltere'nin güneybatısındaki sel,2025-12-09T03:41:00+00:00,United Kingdom,0.3016400955726229,0,1,tr,NEU,Europe
@@ -41,7 +40,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd709206c08',extremes,Storm,#b3b2b1,wmo,fırtına kaydı. 15 kordillera,2025-12-18T03:44:00+00:00,Chile,0.3015581086993469,0,1,tr,SWS,South-America
 'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,karaya yaklaşma avustralya,2025-12-08T03:45:00+00:00,Australia,0.3015548756473718,0,1,tr,NAU,Oceania
 '61bcd02de5',extremes,Drought,#edc291,edo,kuraklık mozambik,2025-12-08T03:45:00+00:00,Mozambique,0.3013813727833067,0,1,tr,ESAF,Africa
-'5436243a4b',extremes,Wildfire,#d60d2b,wmo,orman yangını stavropol krai,2025-12-05T03:41:00+00:00,Russia,0.3013778264815779,0,1,tr,ESB,Europe
 '1ff36d7a46',extremes,Drought,#edc291,edo,kuruluk belçika,2025-12-08T03:45:00+00:00,Belgium,0.3013734188017904,0,1,tr,WCE,Europe
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,yağış litoral,2025-12-18T03:44:00+00:00,Ecuador,0.3013592478469473,0,1,tr,NWS,South-America
 'f172d6090a',extremes,Precipitation,#d60d2b,wmo,yağmur taranaki,2025-12-02T03:41:00+00:00,New Zealand,0.3013541040620517,0,1,tr,NZ,Oceania
@@ -55,10 +53,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fe7870f943',extremes,Wildfire,#d60d2b,wmo,orman yangını jinggangshan şehri,2025-12-02T03:41:00+00:00,China,0.3012120212742524,0,1,tr,EAS,Asia
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,ABD'yi sel bastı,2025-12-08T03:44:00+00:00,United States,0.3012027164081983,0,1,tr,CNA,North-America
 '6560ef8c08',extremes,Storm,#b3b2b1,wmo,fırtına litoral,2025-12-19T03:46:00+00:00,Ecuador,0.3011818994246616,0,1,tr,NWS,South-America
-'00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,kasırga avustralya,2025-12-12T03:46:00+00:00,Australia,0.30110097104322636,0,1,tr,NAU,Oceania
+'00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,kasırga avustralya,2025-12-12T03:46:00+00:00,Australia,0.3011009710432263,0,1,tr,NAU,Oceania
 '872efa97c6',extremes,Snow&Ice,#d60d2b,wmo,don önleyici,2025-12-03T03:40:00+00:00,Canada,0.3010617692466334,0,1,tr,NEN,North-America
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,fırtına dalgası izlanda,2025-12-08T03:44:00+00:00,Iceland,0.3010192053750318,0,1,tr,GIC,Europe
-'037bb37761',extremes,Flood,#030ba1,wmo,sel Amerika Birleşik Devletleri,2025-12-07T03:47:00+00:00,United States,0.30099937248568276,0,1,tr,CNA,North-America
+'037bb37761',extremes,Flood,#030ba1,wmo,sel Amerika Birleşik Devletleri,2025-12-07T03:47:00+00:00,United States,0.3009993724856827,0,1,tr,CNA,North-America
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,orman yangını hindistan,2025-12-19T03:46:00+00:00,India,0.300993607099314,0,1,tr,SAS,Asia
 'b994dcebdd',extremes,Drought,#edc291,edo,Kuraklık Bulgaristan,2025-12-09T03:41:00+00:00,Bulgaria,0.3007278778511636,2,2,tr,MED,Europe
 '0e0cda9619',extremes,Precipitation,#d60d2b,wmo,yağış vardar bölgesi,2025-12-05T03:41:00+00:00,North Macedonia,0.2989197898566867,3,1,tr,MED,Europe
@@ -190,6 +188,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a724fe9ab3',extremes,Wildfire,#d60d2b,wmo,orman yangını rusya,2025-12-07T03:47:00+00:00,Russia,0.2569624062887913,1,1,tr,ESB,Europe
 'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur solomon adaları,2025-12-10T03:45:00+00:00,Solomon Islands,0.2569269595209677,1,1,tr,EPO,Oceania
 '559acde5fe',extremes,Fog,#d60d2b,wmo,sis sırbistan,2025-12-01T04:02:00+00:00,Serbia,0.2569080934577519,1,1,tr,MED,Europe
+'ce2d4957e5',extremes,Fog,#d60d2b,wmo,sis kuveyt,2025-12-12T03:45:00+00:00,Kuwait,0.2568818987541466,1,1,tr,ARP,Asia
 '50a3485796',extremes,Flood,#030ba1,wmo,Norveç'te ani sel,2025-12-01T04:02:00+00:00,Norway,0.2568742402151612,1,1,tr,NEU,Europe
 '05ddbeae20',extremes,Earthquake,#870007,usgs,deprem demokratik cumhuriyet,2025-11-30T03:46:00+00:00,Democratic Republic,0.2567938299104756,1,1,tr,SEAF,Africa
 '8f29727ea9',extremes,Drought,#edc291,edo,kuraklık ekvator ginesi,2025-12-05T03:41:00+00:00,Equatorial Guinea,0.2566978665240909,1,1,tr,WAF,Africa
