@@ -1,7 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'f685d1f47f',extremes,Drought,#edc291,edo,Kıbrıs'ta kuraklık,2025-12-10T03:45:00+00:00,Cyprus,0.5726434424995355,0,1,tr,MED,Europe
+'0be5ded7e1',extremes,Drought,#edc291,edo,kuruluk hindi,2025-12-01T04:02:00+00:00,Turkey,0.5489343533086142,0,1,tr,MED,Asia
+'6dfc67df50',extremes,Flood,#030ba1,cmeter,Arnavutluk'ta sel,2025-11-30T03:47:00+00:00,Albania,0.31477853461844485,0,1,tr,MED,Europe
 'fe6660da97',extremes,Precipitation,#d60d2b,wmo,sağanak kıbrıs,2025-12-08T03:44:00+00:00,Cyprus,0.3113143311142222,4,1,tr,MED,Europe
 '39bab6b4e3',extremes,Drought,#edc291,edo,kuraklık türkiye,2025-12-18T03:44:00+00:00,Turkey,0.3110922905681623,2,1,tr,MED,Asia
 '97ffca89ef',extremes,Precipitation,#d60d2b,wmo,yağış polog bölgesi,2025-12-05T03:41:00+00:00,North Macedonia,0.3076996753752308,3,1,tr,MED,Europe
+'3421a57149',extremes,Storm,#b3b2b1,wmo,fırtına ekvador,2025-12-19T03:46:00+00:00,Ecuador,0.3015839633435489,0,1,tr,NWS,South-America
+'d709206c08',extremes,Storm,#b3b2b1,wmo,fırtına kaydı. 15 kordillera,2025-12-18T03:44:00+00:00,Chile,0.3015581086993469,0,1,tr,SWS,South-America
 '5436243a4b',extremes,Wildfire,#d60d2b,wmo,orman yangını stavropol krai,2025-12-05T03:41:00+00:00,Russia,0.3013778264815779,0,1,tr,ESB,Europe
 'f172d6090a',extremes,Precipitation,#d60d2b,wmo,yağmur taranaki,2025-12-02T03:41:00+00:00,New Zealand,0.3013541040620517,0,1,tr,NZ,Oceania
 '82b998a6aa',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur wairarapa,2025-12-03T03:40:00+00:00,New Zealand,0.3013199862244352,0,1,tr,NZ,Oceania
@@ -18,9 +23,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '90353f7f8d',extremes,Fog,#d60d2b,wmo,sis hollanda,2025-12-05T03:41:00+00:00,Netherlands,0.3009374438560363,0,1,tr,NEU,Europe
 '38da30ea06',extremes,Storm,#b3b2b1,wmo,fırtına dalgalanması taranaki,2025-12-02T03:41:00+00:00,New Zealand,0.3009030653734496,0,1,tr,NZ,Oceania
 '57401e749f',extremes,Storm,#b3b2b1,wmo,fırtına kaydı. 11 patagonya subandina norte,2025-12-16T03:47:00+00:00,Chile,0.3008716145469334,0,1,tr,SWS,South-America
+'8c64e91fe4',extremes,Precipitation,#d60d2b,wmo,lindi ve mtwara bölgelerinin yağış alanları.,2025-12-18T03:44:00+00:00,Tanzania,0.3008697777240748,0,1,tr,SEAF,Africa
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,dondurucu İzlanda,2025-12-10T03:45:00+00:00,Iceland,0.3008066196787362,0,1,tr,GIC,Europe
 'b994dcebdd',extremes,Drought,#edc291,edo,Kuraklık Bulgaristan,2025-12-09T03:41:00+00:00,Bulgaria,0.3007278778511636,2,2,tr,MED,Europe
 'fa77cf1f9e',extremes,Storm,#b3b2b1,wmo,fırtına mendoza gral alvear malargue.,2025-12-04T03:42:00+00:00,Argentina,0.3007160775984911,0,1,tr,SES,South-America
+'265f040473',extremes,Snow&Ice,#d60d2b,wmo,kar finlandiya,2025-12-01T04:02:00+00:00,Finland,0.30069909818154017,0,1,tr,NEU,Europe
+'703b4e32c2',extremes,Thunderstorm,#53785a,wmo,İzlanda'da şiddetli hava,2025-12-12T03:45:00+00:00,Iceland,0.3006843970430151,0,1,tr,GIC,Europe
+'8744ccb432',extremes,Storm,#b3b2b1,wmo,fırtına la rioja la rioja.,2025-12-06T03:32:00+00:00,Argentina,0.3006496228717297,0,1,tr,SES,South-America
+'0eeb2fcda0',extremes,Precipitation,#d60d2b,wmo,yağmur,2025-12-02T03:41:00+00:00,New Zealand,0.3006463555877605,0,1,tr,NZ,Oceania
 '0e0cda9619',extremes,Precipitation,#d60d2b,wmo,yağış vardar bölgesi,2025-12-05T03:41:00+00:00,North Macedonia,0.2989197898566867,3,1,tr,MED,Europe
 '6c138cde70',extremes,Earthquake,#870007,usgs,deprem sındırgı,2025-12-12T03:45:00+00:00,Turkey,0.2988008198358872,3,2,tr,MED,Asia
 '357f3c8921',extremes,Drought,#edc291,edo,kuzey makedonya'da yağmur eksikliği,2025-12-18T03:44:00+00:00,North Macedonia,0.2971754295749194,1,1,tr,MED,Europe
