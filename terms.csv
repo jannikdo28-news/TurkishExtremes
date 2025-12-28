@@ -1,6 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'f685d1f47f',extremes,Drought,#edc291,edo,Kıbrıs'ta kuraklık,2025-12-10T03:45:00+00:00,Cyprus,0.5726434424995355,0,1,tr,MED,Europe
+'4f334dd4a7',extremes,Drought,#edc291,edo,yağmur eksikliği bulgaristan,2025-12-11T03:46:00+00:00,Bulgaria,0.47815774700539454,0,1,tr,MED,Europe
 '0be5ded7e1',extremes,Drought,#edc291,edo,kuruluk hindi,2025-12-01T04:02:00+00:00,Turkey,0.3966050702654737,2,1,tr,MED,Asia
+'6dfc67df50',extremes,Flood,#030ba1,cmeter,Arnavutluk'ta sel,2025-11-30T03:47:00+00:00,Albania,0.31477853461844485,0,1,tr,MED,Europe
 'fe6660da97',extremes,Precipitation,#d60d2b,wmo,sağanak kıbrıs,2025-12-08T03:44:00+00:00,Cyprus,0.3113143311142222,4,1,tr,MED,Europe
+'da5c6d0821',extremes,Drought,#edc291,edo,yağmur eksikliği kırgızistan,2025-11-30T03:47:00+00:00,Kyrgyzstan,0.30882337474258037,0,1,tr,WCA,Asia
 '97ffca89ef',extremes,Precipitation,#d60d2b,wmo,yağış polog bölgesi,2025-12-05T03:41:00+00:00,North Macedonia,0.3076996753752308,3,1,tr,MED,Europe
 '82b998a6aa',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur wairarapa,2025-12-03T03:40:00+00:00,New Zealand,0.3013199862244352,0,1,tr,NZ,Oceania
 'fb43bdaa2f',extremes,Drought,#edc291,edo,kuruluk saint pierre ve miquelon,2025-12-06T03:32:00+00:00,Saint Pierre and Miquelon,0.3013192013029018,0,1,tr,ENA,North-America
@@ -17,6 +21,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa77cf1f9e',extremes,Storm,#b3b2b1,wmo,fırtına mendoza gral alvear malargue.,2025-12-04T03:42:00+00:00,Argentina,0.3007160775984911,0,1,tr,SES,South-America
 '8744ccb432',extremes,Storm,#b3b2b1,wmo,fırtına la rioja la rioja.,2025-12-06T03:32:00+00:00,Argentina,0.3006496228717297,0,1,tr,SES,South-America
 '0eeb2fcda0',extremes,Precipitation,#d60d2b,wmo,yağmur,2025-12-02T03:41:00+00:00,New Zealand,0.3006463555877605,0,1,tr,NZ,Oceania
+'500172fc71',extremes,Snow&Ice,#d60d2b,wmo,dondurucu Rusya,2025-12-04T03:42:00+00:00,Russia,0.3006244752966605,0,1,tr,ESB,Europe
+'a6e9427fb1',extremes,Earthquake,#870007,usgs,Kolombiya depremi,2025-12-12T03:45:00+00:00,Colombia,0.3006235873347018,0,1,tr,NWS,South-America
+'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur hindistan,2025-12-04T03:42:00+00:00,India,0.3006140796132182,0,1,tr,SAS,Asia
+'5ff816cd7a',extremes,Thunderstorm,#53785a,wmo,dolu vanuatu,2025-12-13T03:38:00+00:00,Vanuatu,0.30060459080313295,0,1,tr,SPO,Oceania
+'2bb3d20abc',extremes,Fog,#d60d2b,wmo,sis belçika,2025-12-14T03:49:00+00:00,Belgium,0.30059531123881117,0,1,tr,WCE,Europe
+'e2082c3612',extremes,Storm,#b3b2b1,wmo,fırtına dalgası güney izlanda,2025-12-01T04:02:00+00:00,Iceland,0.3005878200897114,0,1,tr,GIC,Europe
 '0e0cda9619',extremes,Precipitation,#d60d2b,wmo,yağış vardar bölgesi,2025-12-05T03:41:00+00:00,North Macedonia,0.2989197898566867,3,1,tr,MED,Europe
 '6c138cde70',extremes,Earthquake,#870007,usgs,deprem sındırgı,2025-12-12T03:45:00+00:00,Turkey,0.2988008198358872,3,2,tr,MED,Asia
 '357f3c8921',extremes,Drought,#edc291,edo,kuzey makedonya'da yağmur eksikliği,2025-12-18T03:44:00+00:00,North Macedonia,0.2971754295749194,1,1,tr,MED,Europe
