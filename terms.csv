@@ -1,13 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'f685d1f47f',extremes,Drought,#edc291,edo,Kıbrıs'ta kuraklık,2025-12-10T03:45:00+00:00,Cyprus,0.5726434424995355,0,1,tr,MED,Europe
-'4f334dd4a7',extremes,Drought,#edc291,edo,yağmur eksikliği bulgaristan,2025-12-11T03:46:00+00:00,Bulgaria,0.4064340849545853,1,1,tr,MED,Europe
-'0be5ded7e1',extremes,Drought,#edc291,edo,kuruluk hindi,2025-12-01T04:02:00+00:00,Turkey,0.3966050702654737,2,1,tr,MED,Asia
+'4f334dd4a7',extremes,Drought,#edc291,edo,yağmur eksikliği bulgaristan,2025-12-11T03:46:00+00:00,Bulgaria,0.3454689722113975,2,1,tr,MED,Europe
+'0be5ded7e1',extremes,Drought,#edc291,edo,kuruluk hindi,2025-12-01T04:02:00+00:00,Turkey,0.33711430972565265,3,1,tr,MED,Asia
 'fe6660da97',extremes,Precipitation,#d60d2b,wmo,sağanak kıbrıs,2025-12-08T03:44:00+00:00,Cyprus,0.3113143311142222,4,1,tr,MED,Europe
-'614aacfa91',extremes,Thunderstorm,#53785a,wmo,İran'da şiddetli hava,2025-12-03T03:40:00+00:00,Iran,0.30128528490677575,0,1,tr,WCA,Asia
-'037bb37761',extremes,Flood,#030ba1,wmo,sel Amerika Birleşik Devletleri,2025-12-07T03:47:00+00:00,United States,0.3009993724856827,0,1,tr,CNA,North-America
-'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,orman yangını hindistan,2025-12-19T03:46:00+00:00,India,0.300993607099314,0,1,tr,SAS,Asia
 '51be8a2000',extremes,Snow&Ice,#d60d2b,wmo,don yaşlı karga,2025-12-03T03:40:00+00:00,Canada,0.3009792845394287,0,1,tr,NEN,North-America
-'90353f7f8d',extremes,Fog,#d60d2b,wmo,sis hollanda,2025-12-05T03:41:00+00:00,Netherlands,0.3009374438560363,0,1,tr,NEU,Europe
 '38da30ea06',extremes,Storm,#b3b2b1,wmo,fırtına dalgalanması taranaki,2025-12-02T03:41:00+00:00,New Zealand,0.3009030653734496,0,1,tr,NZ,Oceania
 '57401e749f',extremes,Storm,#b3b2b1,wmo,fırtına kaydı. 11 patagonya subandina norte,2025-12-16T03:47:00+00:00,Chile,0.3008716145469334,0,1,tr,SWS,South-America
 'fa77cf1f9e',extremes,Storm,#b3b2b1,wmo,fırtına mendoza gral alvear malargue.,2025-12-04T03:42:00+00:00,Argentina,0.3007160775984911,0,1,tr,SES,South-America
@@ -18,12 +13,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e2082c3612',extremes,Storm,#b3b2b1,wmo,fırtına dalgası güney izlanda,2025-12-01T04:02:00+00:00,Iceland,0.3005878200897114,0,1,tr,GIC,Europe
 '33cc9b24b0',extremes,Cold Wave,#a7e9fa,wmo,soğuk dalga gongliu ilçesi,2025-12-10T03:45:00+00:00,China,0.3005787083291602,0,1,tr,EAS,Asia
 '63f0055272',extremes,Thunderstorm,#53785a,wmo,şiddetli hava khai ma pofadder beaufort batı,2025-12-16T03:47:00+00:00,South Africa,0.3005772437256646,0,1,tr,WSAF,Africa
-'26ee8382ea',extremes,Snow&Ice,#d60d2b,wmo,simcoe delhi norfolk donuyor,2025-12-01T04:02:00+00:00,Canada,0.30056622335641664,0,1,tr,NEN,North-America
-'7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,buz İzlanda,2025-12-18T03:44:00+00:00,Iceland,0.30052313019788574,0,1,tr,GIC,Europe
+'26ee8382ea',extremes,Snow&Ice,#d60d2b,wmo,simcoe delhi norfolk donuyor,2025-12-01T04:02:00+00:00,Canada,0.3005662233564166,0,1,tr,NEN,North-America
+'7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,buz İzlanda,2025-12-18T03:44:00+00:00,Iceland,0.3005231301978857,0,1,tr,GIC,Europe
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,yeni zelanda fırtınası,2025-12-14T03:49:00+00:00,New Zealand,0.3004785931081257,0,1,tr,NZ,Oceania
-'f1ffcdc5d3',extremes,Flood,#030ba1,wmo,sel kralı wa,2025-12-10T03:45:00+00:00,United States,0.30041667282643386,0,1,tr,CNA,North-America
 '793f00879f',extremes,Snow&Ice,#d60d2b,wmo,Dondurucu Kings County Pei,2025-12-03T03:40:00+00:00,Canada,0.300414229771947,0,1,tr,NEN,North-America
-'66889dc3f2',extremes,Earthquake,#870007,usgs,deprem ollagüe,2025-12-14T03:49:00+00:00,Chile,0.30040885151532537,0,1,tr,SWS,South-America
+'66889dc3f2',extremes,Earthquake,#870007,usgs,deprem ollagüe,2025-12-14T03:49:00+00:00,Chile,0.3004088515153253,0,1,tr,SWS,South-America
 '0e0cda9619',extremes,Precipitation,#d60d2b,wmo,yağış vardar bölgesi,2025-12-05T03:41:00+00:00,North Macedonia,0.2989197898566867,3,1,tr,MED,Europe
 '6c138cde70',extremes,Earthquake,#870007,usgs,deprem sındırgı,2025-12-12T03:45:00+00:00,Turkey,0.2988008198358872,3,2,tr,MED,Asia
 '357f3c8921',extremes,Drought,#edc291,edo,kuzey makedonya'da yağmur eksikliği,2025-12-18T03:44:00+00:00,North Macedonia,0.2971754295749194,1,1,tr,MED,Europe
@@ -189,6 +183,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f172d6090a',extremes,Precipitation,#d60d2b,wmo,yağmur taranaki,2025-12-02T03:41:00+00:00,New Zealand,0.2561509884527439,1,1,tr,NZ,Oceania
 '82b998a6aa',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur wairarapa,2025-12-03T03:40:00+00:00,New Zealand,0.2561219882907699,1,1,tr,NZ,Oceania
 'fb43bdaa2f',extremes,Drought,#edc291,edo,kuruluk saint pierre ve miquelon,2025-12-06T03:32:00+00:00,Saint Pierre and Miquelon,0.2561213211074665,1,1,tr,ENA,North-America
+'614aacfa91',extremes,Thunderstorm,#53785a,wmo,İran'da şiddetli hava,2025-12-03T03:40:00+00:00,Iran,0.25609249217075936,1,1,tr,WCA,Asia
 '20a8865cfc',extremes,Storm,#b3b2b1,aidr,fırtına brisbane 2014,2025-12-13T03:38:00+00:00,Australia,0.2560885241698677,1,1,tr,EAU,Oceania
 '33030ebc24',extremes,Flood,#030ba1,wmo,Fransa'yı sel bastı,2025-12-06T03:32:00+00:00,France,0.2560839073920524,1,1,tr,WCE,Europe
 '872efa97c6',extremes,Snow&Ice,#d60d2b,wmo,don önleyici,2025-12-03T03:40:00+00:00,Canada,0.2560525188596384,1,1,tr,NEN,North-America
@@ -197,9 +192,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,ABD'yi sel bastı,2025-12-08T03:44:00+00:00,United States,0.2560223089469685,1,1,tr,CNA,North-America
 '6560ef8c08',extremes,Storm,#b3b2b1,wmo,fırtına litoral,2025-12-19T03:46:00+00:00,Ecuador,0.2560046145109623,1,1,tr,NWS,South-America
 '500172fc71',extremes,Snow&Ice,#d60d2b,wmo,dondurucu Rusya,2025-12-04T03:42:00+00:00,Russia,0.2559808490021614,1,1,tr,ESB,Europe
+'90353f7f8d',extremes,Fog,#d60d2b,wmo,sis hollanda,2025-12-05T03:41:00+00:00,Netherlands,0.25594684227763087,1,1,tr,NEU,Europe
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,kasırga avustralya,2025-12-12T03:46:00+00:00,Australia,0.2559358253867423,1,1,tr,NAU,Oceania
 '98cf5a1a2b',extremes,Tsunami,#690191,usgs,tsunami susitna,2025-11-30T03:46:00+00:00,Alaska,0.2559253829393723,1,1,tr,NWN,North-America
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,fırtına dalgası izlanda,2025-12-08T03:44:00+00:00,Iceland,0.255866324568777,1,1,tr,GIC,Europe
+'037bb37761',extremes,Flood,#030ba1,wmo,sel Amerika Birleşik Devletleri,2025-12-07T03:47:00+00:00,United States,0.2558494666128303,1,1,tr,CNA,North-America
+'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,orman yangını hindistan,2025-12-19T03:46:00+00:00,India,0.2558445660344169,1,1,tr,SAS,Asia
 '2cfcf7a5d7',extremes,Storm,#b3b2b1,wmo,fırtına مملكة البحرين والمناطق المحيطة بها,2025-12-19T03:46:00+00:00,Bahrain,0.2558257987371612,1,1,tr,ARP,Asia
 'a16de3dc21',extremes,Earthquake,#870007,usgs,deprem mene grande,2025-12-03T03:40:00+00:00,Venezuela,0.2558228880179879,1,1,tr,NSA,South-America
 '3a9e626ae6',extremes,Flood,#030ba1,wmo,ani sel Tillamook veya,2025-12-09T03:41:00+00:00,United States,0.2557806281617066,1,1,tr,CNA,North-America
@@ -210,6 +208,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '703b4e32c2',extremes,Thunderstorm,#53785a,wmo,İzlanda'da şiddetli hava,2025-12-12T03:45:00+00:00,Iceland,0.2555817374865628,1,1,tr,GIC,Europe
 '8744ccb432',extremes,Storm,#b3b2b1,wmo,fırtına la rioja la rioja.,2025-12-06T03:32:00+00:00,Argentina,0.2555521794409702,1,1,tr,SES,South-America
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur hindistan,2025-12-04T03:42:00+00:00,India,0.2555219676712354,1,1,tr,SAS,Asia
+'f1ffcdc5d3',extremes,Flood,#030ba1,wmo,sel kralı wa,2025-12-10T03:45:00+00:00,United States,0.25535417190246873,1,1,tr,CNA,North-America
 'f39df9085b',extremes,Earthquake,#870007,usgs,deprem göynük,2025-12-09T03:40:00+00:00,Turkey,0.2512770911732512,5,1,tr,MED,Asia
 '454d379110',extremes,Thunderstorm,#53785a,wmo,fırtına kıbrıs,2025-12-07T03:47:00+00:00,Cyprus,0.2509798097779631,6,1,tr,MED,Europe
 'd961d384f7',extremes,Earthquake,#870007,usgs,deprem cimin,2025-12-19T03:45:00+00:00,Turkey,0.2428424290070303,4,1,tr,MED,Asia
