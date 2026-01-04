@@ -7,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83d15a581c',extremes,Earthquake,#870007,usgs,deprem kocaaliler,2025-12-09T03:40:00+00:00,Turkey,0.4460996809342387,2,1,tr,MED,Asia
 'd5d7a11479',extremes,Drought,#edc291,edo,kuraklık kıbrıs,2025-12-09T03:41:00+00:00,Cyprus,0.4320380083517048,2,1,tr,MED,Europe
 '97ffca89ef',extremes,Precipitation,#d60d2b,wmo,yağış polog bölgesi,2025-12-05T03:41:00+00:00,North Macedonia,0.4258819036335375,1,1,tr,MED,Europe
-'0e0cda9619',extremes,Precipitation,#d60d2b,wmo,yağış vardar bölgesi,2025-12-05T03:41:00+00:00,North Macedonia,0.4137298129504315,1,1,tr,MED,Europe
 '0eeb2fcda0',extremes,Precipitation,#d60d2b,wmo,yağmur,2025-12-02T03:41:00+00:00,New Zealand,0.3975169267985206,2,3,tr,NZ,Oceania
 '705642743d',extremes,Earthquake,#870007,usgs,deprem kıbrıs,2025-12-03T03:40:00+00:00,Cyprus,0.380942338607426,0,1,tr,MED,Europe
 'e3af58f5da',extremes,Drought,#edc291,edo,kuruluk bulgaristan,2025-12-05T03:41:00+00:00,Bulgaria,0.3728550432860381,1,1,tr,MED,Europe
@@ -55,7 +54,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be4e178bab',extremes,Storm,#b3b2b1,wmo,fırtına dalgası uruguay,2025-12-02T03:41:00+00:00,Uruguay,0.2591413097294335,1,1,tr,SES,South-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,fırtına paraguay,2025-12-02T03:41:00+00:00,Paraguay,0.2590572812830294,1,1,tr,SES,South-America
 '042968096b',extremes,Storm,#b3b2b1,wmo,fırtına izlanda,2025-12-02T03:41:00+00:00,Iceland,0.2590265961094966,1,1,tr,GIC,Europe
-'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,dondurucu Kanada,2025-12-04T03:42:00+00:00,Canada,0.2590175529010661,1,1,tr,NEN,North-America
 'e190a41be9',extremes,Precipitation,#d60d2b,wmo,yağmur Libya'da.,2025-12-03T03:40:00+00:00,Libya,0.2589937969104506,1,1,tr,SAH,Africa
 '9d50c81991',extremes,Precipitation,#d60d2b,wmo,yağış eswatini,2025-12-14T03:49:00+00:00,Eswatini,0.258978047882671,1,1,tr,ESAF,Africa
 '06adbcbae1',extremes,Drought,#edc291,edo,kuruluk madagaskar,2025-12-03T03:40:00+00:00,Madagascar,0.2588114659408915,1,1,tr,MDG,Africa
