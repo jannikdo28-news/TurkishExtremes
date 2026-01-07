@@ -1,7 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'454d379110',extremes,Thunderstorm,#53785a,wmo,fırtına kıbrıs,2025-12-07T03:47:00+00:00,Cyprus,0.6654650195216278,0,1,tr,MED,Europe
+'fe6660da97',extremes,Precipitation,#d60d2b,wmo,sağanak kıbrıs,2025-12-08T03:44:00+00:00,Cyprus,0.5963804669277853,0,1,tr,MED,Europe
 'ee67546360',extremes,Precipitation,#d60d2b,wmo,yağış bulgaristan,2025-12-05T03:41:00+00:00,Bulgaria,0.5418928895088488,1,1,tr,MED,Europe
 '9797aa6299',extremes,Drought,#edc291,edo,yağmur eksikliği kıbrıs,2025-12-16T03:47:00+00:00,Cyprus,0.5342235234259548,1,1,tr,MED,Europe
 'f685d1f47f',extremes,Drought,#edc291,edo,Kıbrıs'ta kuraklık,2025-12-10T03:45:00+00:00,Cyprus,0.4867469261246051,1,1,tr,MED,Europe
+'0e0cda9619',extremes,Precipitation,#d60d2b,wmo,yağış vardar bölgesi,2025-12-05T03:41:00+00:00,North Macedonia,0.48674095641227244,0,1,tr,MED,Europe
 '4f334dd4a7',extremes,Drought,#edc291,edo,yağmur eksikliği bulgaristan,2025-12-11T03:46:00+00:00,Bulgaria,0.4781577470053945,0,1,tr,MED,Europe
 '0be5ded7e1',extremes,Drought,#edc291,edo,kuruluk hindi,2025-12-01T04:02:00+00:00,Turkey,0.466594200312322,1,1,tr,MED,Asia
 '373c6724f3',extremes,Drought,#edc291,edo,yağmur eksikliği türkiye,2025-12-15T03:54:00+00:00,Turkey,0.4557682967610451,3,1,tr,MED,Asia
@@ -16,6 +19,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c9906674b2',extremes,Precipitation,#d60d2b,wmo,yağış kıbrıs,2025-12-09T03:41:00+00:00,Cyprus,0.3623568213383052,3,1,tr,MED,Europe
 '97ffca89ef',extremes,Precipitation,#d60d2b,wmo,yağış polog bölgesi,2025-12-05T03:41:00+00:00,North Macedonia,0.3619996180885069,2,1,tr,MED,Europe
 'cf98137375',extremes,Precipitation,#d60d2b,wmo,sağanak pelagonya bölgesi,2025-12-05T03:41:00+00:00,North Macedonia,0.3408964561084436,2,1,tr,MED,Europe
+'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2025-12-03T03:40:00+00:00,Moldova,0.3388486184062628,0,1,tr,WCE,Europe
+'126dbdb910',extremes,Drought,#edc291,edo,Moldova'nın kuraklığı,2025-11-30T03:47:00+00:00,Moldova,0.3239061102052745,0,1,tr,WCE,Europe
+'6977afac24',extremes,Volcano,#b83202,eonet,Puracé Yanardağı Kolombiya,2025-12-06T03:32:00+00:00,Colombia,0.3175532868372554,0,1,tr,NWS,South-America
+'b747714817',extremes,Cold Wave,#a7e9fa,acwe,soğuk dalga victoria,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,1,tr,SAU,Oceania
+'6dfc67df50',extremes,Flood,#030ba1,cmeter,Arnavutluk'ta sel,2025-11-30T03:47:00+00:00,Albania,0.31477853461844485,0,1,tr,MED,Europe
+'8a654473a4',extremes,Drought,#edc291,edo,kuraklık sao tome ve principe,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.31286540847169286,0,1,tr,WAF,Africa
+'da5c6d0821',extremes,Drought,#edc291,edo,yağmur eksikliği kırgızistan,2025-11-30T03:47:00+00:00,Kyrgyzstan,0.30882337474258037,0,1,tr,WCA,Asia
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,yağış yeni zelanda,2025-12-02T03:41:00+00:00,New Zealand,0.3034371378332976,0,1,tr,NZ,Oceania
 'b4e820ac0f',extremes,Flood,#030ba1,wmo,"sel, bahçe ne keith ne",2025-12-04T03:42:00+00:00,United States,0.2998031765117195,0,1,tr,CNA,North-America
 'c1eef80860',extremes,Drought,#edc291,edo,kuraklık bulgaristan,2025-12-14T03:49:00+00:00,Bulgaria,0.2887505440616176,2,1,tr,MED,Europe
@@ -61,7 +71,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,yağış ekvador,2025-12-19T03:46:00+00:00,Ecuador,0.2565045130922088,1,1,tr,NWS,South-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,fırtına kabarması arjantin,2025-12-14T03:49:00+00:00,Argentina,0.2564822975560862,1,1,tr,SES,South-America
 'd7de784867',extremes,Flood,#030ba1,wmo,Filipinler'deki sel,2025-12-07T03:47:00+00:00,Philippines,0.2564312785139302,1,1,tr,SEA,Asia
-'8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,dondurucu İzlanda,2025-12-10T03:45:00+00:00,Iceland,0.25642532516020383,3,1,tr,GIC,Europe
+'8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,dondurucu İzlanda,2025-12-10T03:45:00+00:00,Iceland,0.2564253251602038,3,1,tr,GIC,Europe
 '3640cbbb22',extremes,Flood,#030ba1,wmo,İngiltere'nin güneybatısındaki sel,2025-12-09T03:41:00+00:00,United Kingdom,0.2563940812367294,1,1,tr,NEU,Europe
 '6cf82d1771',extremes,Flood,#030ba1,wmo,Filipinler'de sel,2025-12-07T03:47:00+00:00,Philippines,0.256391666593372,1,1,tr,SEA,Asia
 '3421a57149',extremes,Storm,#b3b2b1,wmo,fırtına ekvador,2025-12-19T03:46:00+00:00,Ecuador,0.2563463688420165,1,1,tr,NWS,South-America
