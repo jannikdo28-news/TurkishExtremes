@@ -1,21 +1,18 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'f39df9085b',extremes,Earthquake,#870007,usgs,deprem göynük,2025-12-09T03:40:00+00:00,Turkey,0.4802997014677771,1,1,tr,MED,Asia
 '9797aa6299',extremes,Drought,#edc291,edo,yağmur eksikliği kıbrıs,2025-12-16T03:47:00+00:00,Cyprus,0.4540899949120616,2,1,tr,MED,Europe
-'fe6660da97',extremes,Precipitation,#d60d2b,wmo,sağanak kıbrıs,2025-12-08T03:44:00+00:00,Cyprus,0.4308848873553249,2,1,tr,MED,Europe
 '97ffca89ef',extremes,Precipitation,#d60d2b,wmo,yağış polog bölgesi,2025-12-05T03:41:00+00:00,North Macedonia,0.4258819036335375,1,1,tr,MED,Europe
-'c9906674b2',extremes,Precipitation,#d60d2b,wmo,yağış kıbrıs,2025-12-09T03:41:00+00:00,Cyprus,0.4256716385303591,2,1,tr,MED,Europe
 'f685d1f47f',extremes,Drought,#edc291,edo,Kıbrıs'ta kuraklık,2025-12-10T03:45:00+00:00,Cyprus,0.4137348872059143,2,1,tr,MED,Europe
 '0e0cda9619',extremes,Precipitation,#d60d2b,wmo,yağış vardar bölgesi,2025-12-05T03:41:00+00:00,North Macedonia,0.4137298129504315,1,1,tr,MED,Europe
-'4f334dd4a7',extremes,Drought,#edc291,edo,yağmur eksikliği bulgaristan,2025-12-11T03:46:00+00:00,Bulgaria,0.4064340849545853,1,1,tr,MED,Europe
 '0eeb2fcda0',extremes,Precipitation,#d60d2b,wmo,yağmur,2025-12-02T03:41:00+00:00,New Zealand,0.397388142324197,3,3,tr,NZ,Oceania
 '373c6724f3',extremes,Drought,#edc291,edo,yağmur eksikliği türkiye,2025-12-15T03:54:00+00:00,Turkey,0.3874030522468883,4,1,tr,MED,Asia
-'705642743d',extremes,Earthquake,#870007,usgs,deprem kıbrıs,2025-12-03T03:40:00+00:00,Cyprus,0.380942338607426,0,1,tr,MED,Europe
 'e3af58f5da',extremes,Drought,#edc291,edo,kuruluk bulgaristan,2025-12-05T03:41:00+00:00,Bulgaria,0.3728550432860381,1,1,tr,MED,Europe
-'27c5f85790',extremes,Drought,#edc291,edo,kuraklık hindisi,2025-12-13T03:38:00+00:00,Turkey,0.37226464055681197,1,1,tr,MED,Asia
+'27c5f85790',extremes,Drought,#edc291,edo,kuraklık hindisi,2025-12-13T03:38:00+00:00,Turkey,0.3722646405568119,1,1,tr,MED,Asia
 'd5d7a11479',extremes,Drought,#edc291,edo,kuraklık kıbrıs,2025-12-09T03:41:00+00:00,Cyprus,0.367232307098949,3,1,tr,MED,Europe
+'c9906674b2',extremes,Precipitation,#d60d2b,wmo,yağış kıbrıs,2025-12-09T03:41:00+00:00,Cyprus,0.36212092275080526,3,1,tr,MED,Europe
 'b994dcebdd',extremes,Drought,#edc291,edo,Kuraklık Bulgaristan,2025-12-09T03:41:00+00:00,Bulgaria,0.353471000119016,1,1,tr,MED,Europe
+'4f334dd4a7',extremes,Drought,#edc291,edo,yağmur eksikliği bulgaristan,2025-12-11T03:46:00+00:00,Bulgaria,0.3454689722113975,2,1,tr,MED,Europe
 '030aa64ddb',extremes,Drought,#edc291,edo,kuraklık Moldova,2025-12-10T03:45:00+00:00,Moldova,0.3400214518344313,1,1,tr,WCE,Europe
-'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2025-12-03T03:40:00+00:00,Moldova,0.3388486184062628,0,1,tr,WCE,Europe
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,soğuk dalga victoria,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,1,tr,SAU,Oceania
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,fırtına avustralya,2025-12-05T03:41:00+00:00,Australia,0.3087605287264497,0,1,tr,SAU,Oceania
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,Hindistan'ın donması,2025-12-07T03:47:00+00:00,India,0.2629949437031582,1,1,tr,SAS,Asia
@@ -86,7 +83,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1411fb3a72',extremes,Landslide,#572c03,wmo,Vestland ve Rogaland'da heyelan,2025-12-16T03:47:00+00:00,Norway,0.2548415649662746,1,1,tr,NEU,Europe
 'd2f4c24db3',extremes,Flood,#030ba1,wmo,ani sel yakima wa,2025-12-10T03:45:00+00:00,United States,0.2548336231209542,1,1,tr,CNA,North-America
 '357f3c8921',extremes,Drought,#edc291,edo,kuzey makedonya'da yağmur eksikliği,2025-12-18T03:44:00+00:00,North Macedonia,0.2525991151386814,2,1,tr,MED,Europe
-'c1eef80860',extremes,Drought,#edc291,edo,kuraklık bulgaristan,2025-12-14T03:49:00+00:00,Bulgaria,0.24543796245237495,3,1,tr,MED,Europe
+'c1eef80860',extremes,Drought,#edc291,edo,kuraklık bulgaristan,2025-12-14T03:49:00+00:00,Bulgaria,0.2454379624523749,3,1,tr,MED,Europe
 'd961d384f7',extremes,Earthquake,#870007,usgs,deprem cimin,2025-12-19T03:45:00+00:00,Turkey,0.2428424290070303,4,1,tr,MED,Asia
 '89426ddfd9',extremes,Fog,#d60d2b,wmo,Moldova sisi,2025-12-18T03:44:00+00:00,Moldova,0.2385531394471688,5,1,tr,WCE,Europe
 '4806a05714',extremes,Earthquake,#870007,usgs,deprem türkiye,2025-12-13T03:37:00+00:00,Turkey,0.2374046086981212,6,3,tr,MED,Asia
