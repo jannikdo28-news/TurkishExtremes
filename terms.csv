@@ -1,9 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'ee67546360',extremes,Precipitation,#d60d2b,wmo,yağış bulgaristan,2025-12-05T03:41:00+00:00,Bulgaria,0.6375210464809986,0,1,tr,MED,Europe
-'0be5ded7e1',extremes,Drought,#edc291,edo,kuruluk hindi,2025-12-01T04:02:00+00:00,Turkey,0.5489343533086142,0,1,tr,MED,Asia
 '6c138cde70',extremes,Earthquake,#870007,usgs,deprem sındırgı,2025-12-12T03:45:00+00:00,Turkey,0.5393352557336724,0,1,tr,MED,Asia
 '9797aa6299',extremes,Drought,#edc291,edo,yağmur eksikliği kıbrıs,2025-12-16T03:47:00+00:00,Cyprus,0.5342235234259548,1,1,tr,MED,Europe
-'0e0cda9619',extremes,Precipitation,#d60d2b,wmo,yağış vardar bölgesi,2025-12-05T03:41:00+00:00,North Macedonia,0.48674095641227244,0,1,tr,MED,Europe
+'0e0cda9619',extremes,Precipitation,#d60d2b,wmo,yağış vardar bölgesi,2025-12-05T03:41:00+00:00,North Macedonia,0.4867409564122724,0,1,tr,MED,Europe
 '454d379110',extremes,Thunderstorm,#53785a,wmo,fırtına kıbrıs,2025-12-07T03:47:00+00:00,Cyprus,0.4807984766043761,2,1,tr,MED,Europe
 'f39df9085b',extremes,Earthquake,#870007,usgs,deprem göynük,2025-12-09T03:40:00+00:00,Turkey,0.4802997014677771,1,1,tr,MED,Asia
 'cf98137375',extremes,Precipitation,#d60d2b,wmo,sağanak pelagonya bölgesi,2025-12-05T03:41:00+00:00,North Macedonia,0.4718290049943856,0,1,tr,MED,Europe
@@ -20,11 +18,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f685d1f47f',extremes,Drought,#edc291,edo,Kıbrıs'ta kuraklık,2025-12-10T03:45:00+00:00,Cyprus,0.4137348872059143,2,1,tr,MED,Europe
 '4f334dd4a7',extremes,Drought,#edc291,edo,yağmur eksikliği bulgaristan,2025-12-11T03:46:00+00:00,Bulgaria,0.4064340849545853,1,1,tr,MED,Europe
 '030aa64ddb',extremes,Drought,#edc291,edo,kuraklık Moldova,2025-12-10T03:45:00+00:00,Moldova,0.4000252374522721,0,1,tr,WCE,Europe
-'705642743d',extremes,Earthquake,#870007,usgs,deprem kıbrıs,2025-12-03T03:40:00+00:00,Cyprus,0.38094233860742605,0,1,tr,MED,Europe
 '63663feccd',extremes,Drought,#edc291,edo,yağmur eksikliği Moldova,2025-12-07T03:47:00+00:00,Moldova,0.3753940530970741,0,1,tr,WCE,Europe
-'fcf38cfed3',extremes,Drought,#edc291,edo,kuraklık kuzey makedonya,2025-12-01T04:02:00+00:00,North Macedonia,0.37056754429020433,0,1,tr,MED,Europe
-'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2025-12-03T03:40:00+00:00,Moldova,0.3388486184062628,0,1,tr,WCE,Europe
-'126dbdb910',extremes,Drought,#edc291,edo,Moldova'nın kuraklığı,2025-11-30T03:47:00+00:00,Moldova,0.3239061102052745,0,1,tr,WCE,Europe
 '27c5f85790',extremes,Drought,#edc291,edo,kuraklık hindisi,2025-12-13T03:38:00+00:00,Turkey,0.3164249444732901,2,1,tr,MED,Asia
 '5a20612e67',extremes,Drought,#edc291,edo,yağmur eksikliği Trinidad ve Tobago,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.3098781522363908,0,1,tr,NSA,North-America
 'c9080fa8ac',extremes,Drought,#edc291,edo,Kuzey Makedonya'da kuraklık,2025-12-15T03:54:00+00:00,North Macedonia,0.2572294366523937,2,1,tr,MED,Europe
@@ -54,7 +48,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,yağış arjantin,2025-12-16T03:47:00+00:00,Argentina,0.2552521641822372,1,1,tr,SES,South-America
 '7c2a177b68',extremes,Wildfire,#d60d2b,wmo,orman yangını victoria mallee ve wimmera,2025-12-19T03:46:00+00:00,Australia,0.2552217571832301,1,1,tr,CAU,Oceania
 '0c663115df',extremes,Snow&Ice,#d60d2b,wmo,yeni zelanda çığ,2025-12-18T03:44:00+00:00,New Zealand,0.2552177495059561,1,1,tr,NZ,Oceania
-'ca11d03786',extremes,Thunderstorm,#53785a,wmo,dolu izlanda,2025-12-12T03:45:00+00:00,Iceland,0.2552094357077702,1,1,tr,GIC,Europe
 '2c8681b398',extremes,Flood,#030ba1,wmo,sel benton veya polk veya,2025-12-11T03:46:00+00:00,United States,0.255175914917143,1,1,tr,CNA,North-America
 'a7e8b5d526',extremes,Flood,#030ba1,wmo,sel yakima wa,2025-12-12T03:45:00+00:00,United States,0.2551509582818982,1,1,tr,CNA,North-America
 '1bd470d857',extremes,Cold Wave,#a7e9fa,wmo,Çin'in donması,2025-12-10T03:45:00+00:00,China,0.2550588810673037,1,1,tr,EAS,Asia
@@ -92,6 +85,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,yağmur Arjantin,2025-12-16T03:47:00+00:00,Argentina,0.2176401275942903,2,1,tr,SES,South-America
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,orman yangını hindistan,2025-12-19T03:46:00+00:00,India,0.2174678811292543,2,1,tr,SAS,Asia
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,sis belçika,2025-12-14T03:49:00+00:00,Belgium,0.2171801123700409,2,1,tr,WCE,Europe
+'ca11d03786',extremes,Thunderstorm,#53785a,wmo,dolu izlanda,2025-12-12T03:45:00+00:00,Iceland,0.2170780353516047,2,1,tr,GIC,Europe
 'cc845dcf1a',extremes,Landslide,#572c03,wmo,rogaland ve vest agder'ın kaya kayması kısımları,2025-12-18T03:44:00+00:00,Norway,0.217012561522541,2,1,tr,NEU,Europe
 '575ec472b2',extremes,Cold Wave,#a7e9fa,wmo,Qitai ilçesinin donması,2025-12-12T03:45:00+00:00,China,0.2168158397304579,2,1,tr,EAS,Asia
 'b354d99860',extremes,Snow&Ice,#d60d2b,wmo,kar etiyopya,2025-12-13T03:38:00+00:00,Ethiopia,0.1914291168162981,3,2,tr,NEAF,Africa
