@@ -1,9 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'83d15a581c',extremes,Earthquake,#870007,usgs,deprem kocaaliler,2025-12-09T03:40:00+00:00,Turkey,0.5248231540402808,1,1,tr,MED,Asia
-'d5d7a11479',extremes,Drought,#edc291,edo,kuraklık kıbrıs,2025-12-09T03:41:00+00:00,Cyprus,0.507953506590241,1,1,tr,MED,Europe
-'fe6660da97',extremes,Precipitation,#d60d2b,wmo,sağanak kıbrıs,2025-12-08T03:44:00+00:00,Cyprus,0.5069233968886175,1,1,tr,MED,Europe
-'97ffca89ef',extremes,Precipitation,#d60d2b,wmo,yağış polog bölgesi,2025-12-05T03:41:00+00:00,North Macedonia,0.5010375336865147,0,1,tr,MED,Europe
-'c9906674b2',extremes,Precipitation,#d60d2b,wmo,yağış kıbrıs,2025-12-09T03:41:00+00:00,Cyprus,0.5001371565063049,1,1,tr,MED,Europe
 'f39df9085b',extremes,Earthquake,#870007,usgs,deprem göynük,2025-12-09T03:40:00+00:00,Turkey,0.4802997014677771,1,1,tr,MED,Asia
 '373c6724f3',extremes,Drought,#edc291,edo,yağmur eksikliği türkiye,2025-12-15T03:54:00+00:00,Turkey,0.4557682967610451,2,1,tr,MED,Asia
 '9797aa6299',extremes,Drought,#edc291,edo,yağmur eksikliği kıbrıs,2025-12-16T03:47:00+00:00,Cyprus,0.4540899949120616,2,1,tr,MED,Europe
@@ -14,7 +9,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,çekirge,2025-12-15T03:53:00+00:00,,0.2566565802251044,1,1,tr,,
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,yağış ekvador,2025-12-19T03:46:00+00:00,Ecuador,0.2565045130922088,1,1,tr,NWS,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,fırtına ekvador,2025-12-19T03:46:00+00:00,Ecuador,0.2563463688420165,1,1,tr,NWS,South-America
-'aa56a8832c',extremes,Snow&Ice,#d60d2b,wmo,çığ etiyopya,2025-12-14T03:49:00+00:00,Ethiopia,0.2562335769881946,1,1,tr,NEAF,Africa
 '20a8865cfc',extremes,Storm,#b3b2b1,aidr,fırtına brisbane 2014,2025-12-13T03:38:00+00:00,Australia,0.2560885241698677,1,1,tr,EAU,Oceania
 '6560ef8c08',extremes,Storm,#b3b2b1,wmo,fırtına litoral,2025-12-19T03:46:00+00:00,Ecuador,0.2560046145109623,1,1,tr,NWS,South-America
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,kasırga avustralya,2025-12-12T03:46:00+00:00,Australia,0.2559358253867423,1,1,tr,NAU,Oceania
@@ -29,7 +23,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,yeni zelanda fırtınası,2025-12-14T03:49:00+00:00,New Zealand,0.2554068041419068,1,1,tr,NZ,Oceania
 '66889dc3f2',extremes,Earthquake,#870007,usgs,deprem ollagüe,2025-12-14T03:49:00+00:00,Chile,0.2553475237880265,1,1,tr,SWS,South-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,yağış arjantin,2025-12-16T03:47:00+00:00,Argentina,0.2552521641822372,1,1,tr,SES,South-America
-'7c2a177b68',extremes,Wildfire,#d60d2b,wmo,orman yangını victoria mallee ve wimmera,2025-12-19T03:46:00+00:00,Australia,0.2552217571832301,1,1,tr,CAU,Oceania
 '0c663115df',extremes,Snow&Ice,#d60d2b,wmo,yeni zelanda çığ,2025-12-18T03:44:00+00:00,New Zealand,0.2552177495059561,1,1,tr,NZ,Oceania
 'a7e8b5d526',extremes,Flood,#030ba1,wmo,sel yakima wa,2025-12-12T03:45:00+00:00,United States,0.2551509582818982,1,1,tr,CNA,North-America
 '125ea98162',extremes,Thunderstorm,#53785a,wmo,güneydoğu izlanda'yı dolu,2025-12-13T03:38:00+00:00,Iceland,0.2549830538121644,1,1,tr,GIC,Europe
@@ -50,6 +43,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,yağmur Arjantin,2025-12-16T03:47:00+00:00,Argentina,0.2176401275942903,2,1,tr,SES,South-America
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,orman yangını hindistan,2025-12-19T03:46:00+00:00,India,0.2174678811292543,2,1,tr,SAS,Asia
 'cc845dcf1a',extremes,Landslide,#572c03,wmo,rogaland ve vest agder'ın kaya kayması kısımları,2025-12-18T03:44:00+00:00,Norway,0.217012561522541,2,1,tr,NEU,Europe
+'7c2a177b68',extremes,Wildfire,#d60d2b,wmo,orman yangını victoria mallee ve wimmera,2025-12-19T03:46:00+00:00,Australia,0.21693849360574557,2,1,tr,CAU,Oceania
 'b354d99860',extremes,Snow&Ice,#d60d2b,wmo,kar etiyopya,2025-12-13T03:38:00+00:00,Ethiopia,0.1914291168162981,3,2,tr,NEAF,Africa
 'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,yağış tanzanya,2025-12-18T03:44:00+00:00,Tanzania,0.1892960472410912,3,1,tr,SEAF,Africa
 '8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,sağanak zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.1891324472766289,3,1,tr,NWS,South-America
