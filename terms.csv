@@ -5,12 +5,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '373c6724f3',extremes,Drought,#edc291,edo,yağmur eksikliği türkiye,2025-12-15T03:54:00+00:00,Turkey,0.4557682967610451,2,1,tr,MED,Asia
 '9797aa6299',extremes,Drought,#edc291,edo,yağmur eksikliği kıbrıs,2025-12-16T03:47:00+00:00,Cyprus,0.4540899949120616,2,1,tr,MED,Europe
 '89426ddfd9',extremes,Fog,#d60d2b,wmo,Moldova sisi,2025-12-18T03:44:00+00:00,Moldova,0.3884439478073176,2,1,tr,WCE,Europe
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,en soğuk yıl,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,tr,,
+'b6cef22543',extremes,Drought,#edc291,random,su kısıtlaması,2026-01-15T10:20:00+00:00,,0.25669966665781385,0,1,tr,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,çekirge,2025-12-15T03:53:00+00:00,,0.2566565802251044,1,1,tr,,
+'95b2881221',extremes,Precipitation,#d60d2b,random,atmosferik nehir,2026-01-15T10:20:00+00:00,,0.25657695119733326,0,1,tr,,
+'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,soğuğu kaydedin,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,tr,,
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,yağış ekvador,2025-12-19T03:46:00+00:00,Ecuador,0.2565045130922088,1,1,tr,NWS,South-America
+'633ed59c63',extremes,Iceberg,#d60d2b,random,arktik deniz buzu,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,tr,,
 '3421a57149',extremes,Storm,#b3b2b1,wmo,fırtına ekvador,2025-12-19T03:46:00+00:00,Ecuador,0.2563463688420165,1,1,tr,NWS,South-America
+'0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,tr,,
+'ccefefc59e',extremes,Drought,#edc291,random,ani kuraklık,2026-01-15T10:20:00+00:00,,0.2561951224549235,0,1,tr,,
+'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tayfun,2026-01-15T10:20:00+00:00,,0.2560990530904549,0,1,tr,,
 '20a8865cfc',extremes,Storm,#b3b2b1,aidr,fırtına brisbane 2014,2025-12-13T03:38:00+00:00,Australia,0.2560885241698677,1,1,tr,EAU,Oceania
 '2cfcf7a5d7',extremes,Storm,#b3b2b1,wmo,fırtına مملكة البحرين والمناطق المحيطة بها,2025-12-19T03:46:00+00:00,Bahrain,0.2558257987371612,1,1,tr,ARP,Asia
 '8c64e91fe4',extremes,Precipitation,#d60d2b,wmo,lindi ve mtwara bölgelerinin yağış alanları.,2025-12-18T03:44:00+00:00,Tanzania,0.2557393110654636,1,1,tr,SEAF,Africa
+'f90601fa23',extremes,Volcano,#b83202,random,yanardağ patlaması,2026-01-15T10:20:00+00:00,,0.2556038068151502,0,1,tr,,
 '5ff816cd7a',extremes,Thunderstorm,#53785a,wmo,dolu vanuatu,2025-12-13T03:38:00+00:00,Vanuatu,0.2555139021826629,1,1,tr,SPO,Oceania
 '63f0055272',extremes,Thunderstorm,#53785a,wmo,şiddetli hava khai ma pofadder beaufort batı,2025-12-16T03:47:00+00:00,South Africa,0.2554906571668149,1,1,tr,WSAF,Africa
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,buz İzlanda,2025-12-18T03:44:00+00:00,Iceland,0.2554446606682028,1,1,tr,GIC,Europe
@@ -21,6 +30,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '125ea98162',extremes,Thunderstorm,#53785a,wmo,güneydoğu izlanda'yı dolu,2025-12-13T03:38:00+00:00,Iceland,0.2549830538121644,1,1,tr,GIC,Europe
 '4880385bef',extremes,Wildfire,#d60d2b,wmo,orman yangını Songyang ilçesi,2025-12-15T03:54:00+00:00,China,0.2549153520383397,1,1,tr,EAS,Asia
 '1411fb3a72',extremes,Landslide,#572c03,wmo,Vestland ve Rogaland'da heyelan,2025-12-16T03:47:00+00:00,Norway,0.2548415649662746,1,1,tr,NEU,Europe
+'1fefacbadb',extremes,Iceberg,#d60d2b,random,buzul buzağılaması,2026-01-15T10:20:00+00:00,,0.2545099887501987,0,1,tr,,
 '357f3c8921',extremes,Drought,#edc291,edo,kuzey makedonya'da yağmur eksikliği,2025-12-18T03:44:00+00:00,North Macedonia,0.2525991151386814,2,1,tr,MED,Europe
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,tropikal siklon 08p,2025-12-16T03:46:00+00:00,,0.2291048221314881,2,1,tr,SPO,Pacific Ocean
 '88f49d6040',extremes,Storm,#b3b2b1,wmo,fırtına zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.218667669676795,2,1,tr,NWS,South-America
