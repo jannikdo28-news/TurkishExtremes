@@ -3,6 +3,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d702e03bc',extremes,Precipitation,#d60d2b,wmo,sağanak bulgaristan,2026-01-15T12:14:00+00:00,Bulgaria,0.5903366910250424,1,1,tr,MED,Europe
 '6c138cde70',extremes,Earthquake,#870007,usgs,deprem sındırgı,2025-12-12T03:45:00+00:00,Turkey,0.5346350873736215,1,2,tr,MED,Asia
 '0be5ded7e1',extremes,Drought,#edc291,edo,kuruluk hindi,2026-01-15T10:57:00+00:00,Turkey,0.5322773873962832,1,1,tr,MED,Asia
+'62084daeb0',extremes,Earthquake,#870007,random,deprem,2026-01-15T10:39:00+00:00,,0.5032466780732374,1,3,tr,,
 '82d648b882',extremes,Drought,#edc291,random,kuraklık,2026-01-15T10:39:00+00:00,,0.4987615382736481,1,3,tr,,
 'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2026-01-15T10:57:00+00:00,Moldova,0.4885765331245796,1,1,tr,WCE,Europe
 'f685d1f47f',extremes,Drought,#edc291,edo,Kıbrıs'ta kuraklık,2026-01-15T10:57:00+00:00,Cyprus,0.4745658689492218,1,1,tr,MED,Europe
@@ -15,7 +16,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,ısı,2026-01-15T10:39:00+00:00,,0.4099752445939704,0,1,tr,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,kar fırtınası,2026-01-15T10:39:00+00:00,,0.4099516371853199,0,1,tr,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,kar fırtınası,2026-01-15T10:39:00+00:00,,0.4099008832218642,0,1,tr,,
-'62084daeb0',extremes,Earthquake,#870007,random,deprem,2026-01-15T10:39:00+00:00,,0.4097458683214559,0,1,tr,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,ulusal kasırga merkezi,2026-01-15T10:39:00+00:00,,0.4089201669038112,0,1,tr,,
 'd961d384f7',extremes,Earthquake,#870007,usgs,deprem cimin,2025-12-19T03:45:00+00:00,Turkey,0.395428339518877,1,1,tr,MED,Asia
 '126dbdb910',extremes,Drought,#edc291,edo,Moldova'nın kuraklığı,2026-01-15T12:14:00+00:00,Moldova,0.3933575631020125,1,1,tr,WCE,Europe
@@ -40,36 +40,27 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,tr,,
 'ccefefc59e',extremes,Drought,#edc291,random,ani kuraklık,2026-01-15T10:20:00+00:00,,0.2561951224549235,0,1,tr,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tayfun,2026-01-15T10:20:00+00:00,,0.2560990530904549,0,1,tr,,
-'20a8865cfc',extremes,Storm,#b3b2b1,aidr,fırtına brisbane 2014,2025-12-13T03:38:00+00:00,Australia,0.2560885241698677,1,1,tr,EAU,Oceania
 '2cfcf7a5d7',extremes,Storm,#b3b2b1,wmo,fırtına مملكة البحرين والمناطق المحيطة بها,2025-12-19T03:46:00+00:00,Bahrain,0.2558257987371612,1,1,tr,ARP,Asia
 '8c64e91fe4',extremes,Precipitation,#d60d2b,wmo,lindi ve mtwara bölgelerinin yağış alanları.,2025-12-18T03:44:00+00:00,Tanzania,0.2557393110654636,1,1,tr,SEAF,Africa
 'f90601fa23',extremes,Volcano,#b83202,random,yanardağ patlaması,2026-01-15T10:20:00+00:00,,0.2556038068151502,0,1,tr,,
-'5ff816cd7a',extremes,Thunderstorm,#53785a,wmo,dolu vanuatu,2025-12-13T03:38:00+00:00,Vanuatu,0.2555139021826629,1,1,tr,SPO,Oceania
 '63f0055272',extremes,Thunderstorm,#53785a,wmo,şiddetli hava khai ma pofadder beaufort batı,2025-12-16T03:47:00+00:00,South Africa,0.2554906571668149,1,1,tr,WSAF,Africa
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,buz İzlanda,2025-12-18T03:44:00+00:00,Iceland,0.2554446606682028,1,1,tr,GIC,Europe
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,yeni zelanda fırtınası,2025-12-14T03:49:00+00:00,New Zealand,0.2554068041419068,1,1,tr,NZ,Oceania
 '66889dc3f2',extremes,Earthquake,#870007,usgs,deprem ollagüe,2025-12-14T03:49:00+00:00,Chile,0.2553475237880265,1,1,tr,SWS,South-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,yağış arjantin,2025-12-16T03:47:00+00:00,Argentina,0.2552521641822372,1,1,tr,SES,South-America
 '0c663115df',extremes,Snow&Ice,#d60d2b,wmo,yeni zelanda çığ,2025-12-18T03:44:00+00:00,New Zealand,0.2552177495059561,1,1,tr,NZ,Oceania
-'125ea98162',extremes,Thunderstorm,#53785a,wmo,güneydoğu izlanda'yı dolu,2025-12-13T03:38:00+00:00,Iceland,0.2549830538121644,1,1,tr,GIC,Europe
 '4880385bef',extremes,Wildfire,#d60d2b,wmo,orman yangını Songyang ilçesi,2025-12-15T03:54:00+00:00,China,0.2549153520383397,1,1,tr,EAS,Asia
 '1411fb3a72',extremes,Landslide,#572c03,wmo,Vestland ve Rogaland'da heyelan,2025-12-16T03:47:00+00:00,Norway,0.2548415649662746,1,1,tr,NEU,Europe
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,buzul buzağılaması,2026-01-15T10:20:00+00:00,,0.2545099887501987,0,1,tr,,
 '357f3c8921',extremes,Drought,#edc291,edo,kuzey makedonya'da yağmur eksikliği,2025-12-18T03:44:00+00:00,North Macedonia,0.2525991151386814,2,1,tr,MED,Europe
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,en soğuk yıl,2026-01-15T10:20:00+00:00,,0.2398044025496697,1,2,tr,,
-'707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,tropikal siklon 08p,2025-12-16T03:46:00+00:00,,0.2291048221314881,2,1,tr,SPO,Pacific Ocean
 '88f49d6040',extremes,Storm,#b3b2b1,wmo,fırtına zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.218667669676795,2,1,tr,NWS,South-America
 '11db661ab4',extremes,Thunderstorm,#53785a,wmo,şiddetli hava maldivler,2025-12-18T03:44:00+00:00,Maldives,0.2182448831411612,2,1,tr,EIO,Indian Ocean
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,fırtına bahreyn,2025-12-19T03:46:00+00:00,Bahrain,0.2181541511140085,2,1,tr,ARP,Asia
 'f3823dead6',extremes,Storm,#b3b2b1,wmo,fırtına dalgası amazonía ecuatoriana,2025-12-18T03:44:00+00:00,Ecuador,0.2181292385787055,2,1,tr,NWS,South-America
-'5998b1a528',extremes,Thunderstorm,#53785a,wmo,dolu Seyşeller,2025-12-16T03:47:00+00:00,Seychelles,0.217950780113554,2,1,tr,EIO,Africa
 'd709206c08',extremes,Storm,#b3b2b1,wmo,fırtına kaydı. 15 kordillera,2025-12-18T03:44:00+00:00,Chile,0.2178757335352781,2,1,tr,SWS,South-America
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur brezilya,2025-12-18T03:44:00+00:00,Brazil,0.2177472148280708,2,1,tr,SAM,South-America
-'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,yağmur Arjantin,2025-12-16T03:47:00+00:00,Argentina,0.2176401275942903,2,1,tr,SES,South-America
 '6560ef8c08',extremes,Storm,#b3b2b1,wmo,fırtına litoral,2025-12-19T03:46:00+00:00,Ecuador,0.2176039223343179,2,1,tr,NWS,South-America
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,orman yangını hindistan,2025-12-19T03:46:00+00:00,India,0.2174678811292543,2,1,tr,SAS,Asia
-'57401e749f',extremes,Storm,#b3b2b1,wmo,fırtına kaydı. 11 patagonya subandina norte,2025-12-16T03:47:00+00:00,Chile,0.2173797415101593,2,1,tr,SWS,South-America
 'cc845dcf1a',extremes,Landslide,#572c03,wmo,rogaland ve vest agder'ın kaya kayması kısımları,2025-12-18T03:44:00+00:00,Norway,0.217012561522541,2,1,tr,NEU,Europe
 '7c2a177b68',extremes,Wildfire,#d60d2b,wmo,orman yangını victoria mallee ve wimmera,2025-12-19T03:46:00+00:00,Australia,0.2169384936057455,2,1,tr,CAU,Oceania
-'b354d99860',extremes,Snow&Ice,#d60d2b,wmo,kar etiyopya,2025-12-13T03:38:00+00:00,Ethiopia,0.1914291168162981,3,2,tr,NEAF,Africa
-'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,sağanak zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.1891324472766289,3,1,tr,NWS,South-America
