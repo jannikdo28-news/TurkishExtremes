@@ -1,22 +1,21 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'1f343ea703',extremes,Earthquake,#870007,usgs,deprem doğanyol,2026-01-15T12:13:00+00:00,Turkey,0.7909962264745082,0,1,tr,MED,Asia
 'bec5ab9e20',extremes,Precipitation,#d60d2b,wmo,yağmur dobrich varna silistra,2026-01-15T10:56:00+00:00,Bulgaria,0.5907472899139201,1,1,tr,MED,Europe
 '1d702e03bc',extremes,Precipitation,#d60d2b,wmo,sağanak bulgaristan,2026-01-15T12:14:00+00:00,Bulgaria,0.5903366910250424,1,1,tr,MED,Europe
 '6c138cde70',extremes,Earthquake,#870007,usgs,deprem sındırgı,2025-12-12T03:45:00+00:00,Turkey,0.5346350873736215,1,2,tr,MED,Asia
 '0be5ded7e1',extremes,Drought,#edc291,edo,kuruluk hindi,2026-01-15T10:57:00+00:00,Turkey,0.5322773873962832,1,1,tr,MED,Asia
-'27c5f85790',extremes,Drought,#edc291,edo,kuraklık hindisi,2026-01-17T03:44:00+00:00,Turkey,0.5146522692499793,0,1,tr,MED,Asia
 '62084daeb0',extremes,Earthquake,#870007,random,deprem,2026-01-15T10:39:00+00:00,,0.5032466780732374,1,3,tr,,
 '82d648b882',extremes,Drought,#edc291,random,kuraklık,2026-01-15T10:39:00+00:00,,0.4987615382736481,1,3,tr,,
-'69840e877f',extremes,Storm,#b3b2b1,wmo,fırtına bulgaristan,2026-01-17T03:44:00+00:00,Bulgaria,0.48940455858063237,0,1,tr,MED,Europe
 'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2026-01-15T10:57:00+00:00,Moldova,0.4885765331245796,1,1,tr,WCE,Europe
 'f685d1f47f',extremes,Drought,#edc291,edo,Kıbrıs'ta kuraklık,2026-01-15T10:57:00+00:00,Cyprus,0.4745658689492218,1,1,tr,MED,Europe
-'b7c6466c74',extremes,Storm,#b3b2b1,wmo,dobriç fırtınası,2026-01-17T03:44:00+00:00,Bulgaria,0.47381257095530244,0,1,tr,MED,Europe
+'b7c6466c74',extremes,Storm,#b3b2b1,wmo,dobriç fırtınası,2026-01-17T03:44:00+00:00,Bulgaria,0.4738125709553024,0,1,tr,MED,Europe
 '4f334dd4a7',extremes,Drought,#edc291,edo,yağmur eksikliği bulgaristan,2026-01-15T12:14:00+00:00,Bulgaria,0.4689021213898358,1,1,tr,MED,Europe
 '373c6724f3',extremes,Drought,#edc291,edo,yağmur eksikliği türkiye,2025-12-15T03:54:00+00:00,Turkey,0.4557682967610451,2,1,tr,MED,Asia
 '9797aa6299',extremes,Drought,#edc291,edo,yağmur eksikliği kıbrıs,2025-12-16T03:47:00+00:00,Cyprus,0.4540899949120616,2,1,tr,MED,Europe
+'27c5f85790',extremes,Drought,#edc291,edo,kuraklık hindisi,2026-01-17T03:44:00+00:00,Turkey,0.4374544288624824,1,1,tr,MED,Asia
 '15a9c61e3e',extremes,Landslide,#572c03,random,heyelan,2026-01-15T12:13:00+00:00,,0.4304017426429281,1,3,tr,,
 'c9080fa8ac',extremes,Drought,#edc291,edo,Kuzey Makedonya'da kuraklık,2026-01-15T12:14:00+00:00,North Macedonia,0.4268469573271874,1,1,tr,MED,Europe
 '4806a05714',extremes,Earthquake,#870007,usgs,deprem türkiye,2026-01-15T10:56:00+00:00,Turkey,0.4165918089084729,0,1,tr,MED,Asia
+'69840e877f',extremes,Storm,#b3b2b1,wmo,fırtına bulgaristan,2026-01-17T03:44:00+00:00,Bulgaria,0.41644391979353745,1,1,tr,MED,Europe
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.4125214953633049,1,2,tr,,
 '8220584aae',extremes,Drought,#edc291,edo,kuruluk kuzey makedonya,2026-01-17T03:44:00+00:00,North Macedonia,0.4100183616451022,0,1,tr,MED,Europe
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,ısı,2026-01-15T10:39:00+00:00,,0.4099752445939704,0,1,tr,,
@@ -29,11 +28,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,siklon,2026-01-15T10:56:00+00:00,,0.3842609399530786,1,2,tr,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,sulu kar,2026-01-15T12:13:00+00:00,,0.3623016721052898,1,1,tr,,
 '40f675561f',extremes,Heat Wave,#c40202,random,en sıcak yaz,2026-01-15T10:56:00+00:00,,0.3506564445657735,1,2,tr,,
-'538eadceb4',extremes,Heat Wave,#c40202,random,ılıman kış,2026-01-17T03:44:00+00:00,,0.34864645073840245,0,1,tr,,
+'538eadceb4',extremes,Heat Wave,#c40202,random,ılıman kış,2026-01-17T03:44:00+00:00,,0.3486464507384024,0,1,tr,,
 '1c38b19449',extremes,Storm,#b3b2b1,random,toz çanakları,2026-01-15T10:39:00+00:00,,0.3484455631965196,1,1,tr,,
 '3fa143a609',extremes,Storm,#b3b2b1,random,toz kar fırtınası,2026-01-15T10:39:00+00:00,,0.3484155837900779,1,1,tr,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,ulusal kasırga merkezi,2026-01-15T10:39:00+00:00,,0.3475821418682395,1,1,tr,,
-'845dd2d698',extremes,Storm,#b3b2b1,random,kasırga,2026-01-17T03:44:00+00:00,,0.34387966352720745,0,1,tr,,
+'845dd2d698',extremes,Storm,#b3b2b1,random,kasırga,2026-01-17T03:44:00+00:00,,0.3438796635272074,0,1,tr,,
 '55c39b351d',extremes,Storm,#b3b2b1,random,toz şeytanı,2026-01-15T10:56:00+00:00,,0.34341234140124,0,1,tr,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,çekirgeler,2026-01-15T10:56:00+00:00,,0.3419969009279606,0,1,tr,,
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,kavurucu sıcaklık,2026-01-15T12:13:00+00:00,,0.3378073195500063,0,1,tr,,
@@ -43,7 +42,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,kasırga,2026-01-15T10:56:00+00:00,,0.3314856725807237,0,1,tr,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,hava cephesi,2026-01-15T10:56:00+00:00,,0.3298698012195951,1,2,tr,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,karaya yaklaşma,2026-01-17T03:44:00+00:00,,0.3294232107700241,0,1,tr,,
-'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,kırağı kışı,2026-01-17T03:44:00+00:00,,0.32880302696201225,0,1,tr,,
+'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,kırağı kışı,2026-01-17T03:44:00+00:00,,0.3288030269620122,0,1,tr,,
 '45f861329d',extremes,Landslide,#572c03,aidr,heyelan adelaide tepeleri güney avustralya,2026-01-15T10:57:00+00:00,Australia,0.3200075473236523,0,1,tr,SAU,Oceania
 'a241cba1ba',extremes,Volcano,#b83202,eonet,Ambrym Yanardağı Vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.3199887686613118,0,1,tr,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,volkan filipinler,2026-01-15T10:56:00+00:00,Philippines,0.3199774831115323,0,1,tr,SEA,Asia
