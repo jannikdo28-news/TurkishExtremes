@@ -21,10 +21,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '126dbdb910',extremes,Drought,#edc291,edo,Moldova'nın kuraklığı,2026-01-15T12:14:00+00:00,Moldova,0.3933575631020125,1,1,tr,WCE,Europe
 '89426ddfd9',extremes,Fog,#d60d2b,wmo,Moldova sisi,2025-12-18T03:44:00+00:00,Moldova,0.3884439478073176,2,1,tr,WCE,Europe
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,sulu kar,2026-01-15T12:13:00+00:00,,0.3623016721052898,1,1,tr,,
+'40f675561f',extremes,Heat Wave,#c40202,random,en sıcak yaz,2026-01-15T10:56:00+00:00,,0.35065644456577355,1,2,tr,,
 '1c38b19449',extremes,Storm,#b3b2b1,random,toz çanakları,2026-01-15T10:39:00+00:00,,0.3484455631965196,1,1,tr,,
 '3fa143a609',extremes,Storm,#b3b2b1,random,toz kar fırtınası,2026-01-15T10:39:00+00:00,,0.3484155837900779,1,1,tr,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,ulusal kasırga merkezi,2026-01-15T10:39:00+00:00,,0.3475821418682395,1,1,tr,,
-'40f675561f',extremes,Heat Wave,#c40202,random,en sıcak yaz,2026-01-15T10:56:00+00:00,,0.3470966900262298,0,1,tr,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,siklon,2026-01-15T10:56:00+00:00,,0.3453068999447984,0,1,tr,,
 '55c39b351d',extremes,Storm,#b3b2b1,random,toz şeytanı,2026-01-15T10:56:00+00:00,,0.34341234140124,0,1,tr,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,çekirgeler,2026-01-15T10:56:00+00:00,,0.3419969009279606,0,1,tr,,
@@ -63,8 +63,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f90601fa23',extremes,Volcano,#b83202,random,yanardağ patlaması,2026-01-15T10:20:00+00:00,,0.2556038068151502,0,1,tr,,
 '63f0055272',extremes,Thunderstorm,#53785a,wmo,şiddetli hava khai ma pofadder beaufort batı,2025-12-16T03:47:00+00:00,South Africa,0.2554906571668149,1,1,tr,WSAF,Africa
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,buz İzlanda,2025-12-18T03:44:00+00:00,Iceland,0.2554446606682028,1,1,tr,GIC,Europe
-'aff561d50a',extremes,Storm,#b3b2b1,wmo,yeni zelanda fırtınası,2025-12-14T03:49:00+00:00,New Zealand,0.2554068041419068,1,1,tr,NZ,Oceania
-'66889dc3f2',extremes,Earthquake,#870007,usgs,deprem ollagüe,2025-12-14T03:49:00+00:00,Chile,0.2553475237880265,1,1,tr,SWS,South-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,yağış arjantin,2025-12-16T03:47:00+00:00,Argentina,0.2552521641822372,1,1,tr,SES,South-America
 '0c663115df',extremes,Snow&Ice,#d60d2b,wmo,yeni zelanda çığ,2025-12-18T03:44:00+00:00,New Zealand,0.2552177495059561,1,1,tr,NZ,Oceania
 '4880385bef',extremes,Wildfire,#d60d2b,wmo,orman yangını Songyang ilçesi,2025-12-15T03:54:00+00:00,China,0.2549153520383397,1,1,tr,EAS,Asia
