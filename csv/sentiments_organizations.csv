@@ -1,23 +1,46 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Meteorology,Meteorology,ORG,0.1566283524904214,0.4592911877394635,en,14.500000000000004
-the General Directorate of Meteorology,the General Directorate of Meteorology,ORG,0.13042929292929295,0.4561868686868687,en,5.5
-AKOM,AKOM,ORG,-0.25,0.14285714285714288,en,2.8
-- Anadolu Agency,- Anadolu Agency,ORG,0.0,0.0,en,2.5
-Eastern,Eastern,ORG,-0.05921052631578948,0.0,en,1.9
-IFRC,IFRC,ORG,-0.04,0.0,en,1.0
-Manisa,Manisa,ORG,0.0,0.0,en,1.0
-Real Racing,Real Racing,ORG,-0.058333333333333334,0.0,en,1.0
-Coastal,Coastal,ORG,-0.08333333333333333,0.0,en,1.0
+Meteorology,Meteorology,ORG,0.16804647785039936,0.4646877269426288,en,15.300000000000004
+the General Directorate of Meteorology,the General Directorate of Meteorology,ORG,0.11710426179604264,0.49438736681887363,en,7.300000000000001
+AKOM,AKOM,ORG,0.007246376811594202,0.34057971014492755,en,4.6
+- Anadolu Agency,- Anadolu Agency,ORG,0.0,0.0,en,4.1
+Eastern,Eastern,ORG,-0.06001984126984128,0.0515873015873016,en,2.8
+AFAD,AFAD,ORG,0.17857142857142858,0.04761904761904762,en,2.8
+AK Party,AK Party,ORG,-0.10526315789473685,0.0,en,1.9
+the European Side,the European Side,ORG,0.009999999999999998,0.0,en,1.0
+Tunceli,Tunceli,ORG,0.0,0.0,en,1.0
+the University of Hawaii,the University of Hawaii,ORG,-0.0625,0.0,en,1.0
+Bartın-Cide,Bartın-Cide,ORG,-0.1,0.0,en,1.0
+the National Taiwan University,the National Taiwan University,ORG,-0.0625,0.0,en,1.0
+Cide-Bartın highway,Cide-Bartın highway,ORG,-0.1416666666666667,0.0,en,1.0
 Erzurum,Erzurum,ORG,0.1875,0.0,en,1.0
-Icelandic,Icelandic,ORG,-0.6,0.0,en,1.0
-Sapanca Municipality,Sapanca Municipality,ORG,0.11818181818181818,0.0,en,1.0
-Red Crescent Societies,Red Crescent Societies,ORG,-0.04,0.0,en,1.0
-International Federation of Red Cross,International Federation of Red Cross,ORG,-0.04,0.0,en,1.0
-Red Cross,Red Cross,ORG,-0.19999999999999998,0.0,en,1.0
-Siirt,Siirt,ORG,0.027083333333333345,0.0,en,1.0
-"Batman, Mardin","Batman, Mardin",ORG,0.027083333333333345,0.0,en,1.0
-Bingöl,Bingöl,ORG,0.1277777777777778,0.0,en,1.0
-Time,Time,ORG,0.0,0.0,en,1.0
-The General Directorate of Meteorology,The General Directorate of Meteorology,ORG,0.02500000000000001,0.0,en,1.0
-MGM,MGM,ORG,0.4125,0.0,en,1.0
+Coastal,Coastal,ORG,-0.08333333333333333,0.0,en,1.0
+the Ministry of Internal Affairs,the Ministry of Internal Affairs,ORG,0.0,0.0,en,1.0
 MGSB,MGSB,ORG,0.0,0.0,en,1.0
+The Ministry of Internal Affairs,The Ministry of Internal Affairs,ORG,-0.05555555555555555,0.0,en,1.0
+Iğdır,Iğdır,ORG,0.0,0.0,en,1.0
+General Directorate of Meteorology,General Directorate of Meteorology,ORG,-0.09166666666666667,0.0,en,1.0
+DSI,DSI,ORG,0.0,0.0,en,1.0
+Real Racing,Real Racing,ORG,-0.058333333333333334,0.0,en,1.0
+Manisa,Manisa,ORG,0.0,0.0,en,1.0
+Icelandic,Icelandic,ORG,-0.6,0.0,en,1.0
+NASA,NASA,ORG,0.2525,0.0,en,1.0
+TUIK,TUIK,ORG,-0.125,0.0,en,1.0
+SWOT,SWOT,ORG,0.2525,0.0,en,1.0
+MGM,MGM,ORG,0.4125,0.0,en,1.0
+The General Directorate of Meteorology,The General Directorate of Meteorology,ORG,0.02500000000000001,0.0,en,1.0
+Time,Time,ORG,0.0,0.0,en,1.0
+Bingöl,Bingöl,ORG,0.1277777777777778,0.0,en,1.0
+"Batman, Mardin","Batman, Mardin",ORG,0.027083333333333345,0.0,en,1.0
+Siirt,Siirt,ORG,0.027083333333333345,0.0,en,1.0
+Eskişehir Osmangazi University,Eskişehir Osmangazi University,ORG,0.0,0.0,en,1.0
+Eskişehir Osmangazi University Faculty of Architecture-Engineering Department of Geological Engineering Lecturer,Eskişehir Osmangazi University Faculty of Architecture-Engineering Department of Geological Engineering Lecturer,ORG,0.25,0.0,en,1.0
+Red Cross,Red Cross,ORG,-0.19999999999999998,0.0,en,1.0
+International Federation of Red Cross,International Federation of Red Cross,ORG,-0.04,0.0,en,1.0
+Red Crescent Societies,Red Crescent Societies,ORG,-0.04,0.0,en,1.0
+IFRC,IFRC,ORG,-0.04,0.0,en,1.0
+Istanbul University,Istanbul University,ORG,0.14625,0.0,en,1.0
+Kandilli,Kandilli,ORG,0.5,0.0,en,1.0
+the Disaster and Emergency Management,the Disaster and Emergency Management,ORG,0.0,0.0,en,1.0
+Boğaziçi University Kandilli Observatory and Earthquake Research Institute,Boğaziçi University Kandilli Observatory and Earthquake Research Institute,ORG,0.0,0.0,en,1.0
+Sapanca Municipality,Sapanca Municipality,ORG,0.11818181818181818,0.0,en,1.0
+Kandilli Observatory,Kandilli Observatory,ORG,0.0,0.0,en,1.0

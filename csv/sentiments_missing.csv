@@ -1,54 +1,115 @@
 ,phrase,label,sentiment,subjectivity,language,count
+2025,2025,DATE,,,en,6.200000000000001
+first,first,ORDINAL,,,en,5.3999999999999995
+the day,the day,DATE,,,en,4.6
 Central Anatolia,Central Anatolia,NORP,0.04960317460317461,0.6165674603174603,en,4.6
+Last minute,Last minute,TIME,,,en,2.8
+6.5,6.5,CARDINAL,,,en,2.8
+the evening hours,the evening hours,TIME,,,en,2.8
+the year,the year,DATE,,,en,2.8
+tomorrow,tomorrow,DATE,,,en,2.7
 Thousands,Thousands,CARDINAL,,,en,2.4
-the day,the day,DATE,,,en,1.9
-"Saturday, December 27","Saturday, December 27",DATE,,,en,1.9
-19,19,CARDINAL,,,en,1.9
-42,42,CARDINAL,,,en,1.9
-first,first,ORDINAL,,,en,1.9
-Anatolian,Anatolian,NORP,,,en,1.9
-yesterday,yesterday,DATE,,,en,1.9
-4 degrees,4 degrees,QUANTITY,,,en,1.9
+5,5,CARDINAL,,,en,2.1999999999999997
+48,48,CARDINAL,,,en,1.9
+70 years,70 years,DATE,,,en,1.9
 "Monday, December 29","Monday, December 29",DATE,,,en,1.9
+"Saturday, December 27","Saturday, December 27",DATE,,,en,1.9
+Anatolian,Anatolian,NORP,,,en,1.9
+42,42,CARDINAL,,,en,1.9
+4 degrees,4 degrees,QUANTITY,,,en,1.9
 80 percent,80 percent,PERCENT,,,en,1.9
-the evening hours,the evening hours,TIME,,,en,1.9
+19,19,CARDINAL,,,en,1.9
 the new week,the new week,DATE,,,en,1.9
+Monday,Monday,DATE,,,en,1.9
+yesterday,yesterday,DATE,,,en,1.9
+36,36,CARDINAL,,,en,1.9
+6.2,6.2,CARDINAL,,,en,1.9
 Winter,Winter,DATE,,,en,1.8
-25 degrees below zero,25 degrees below zero,QUANTITY,,,en,1.0
-New Year's Eve,New Year's Eve,EVENT,,,en,1.0
-the last days of the year,the last days of the year,DATE,,,en,1.0
-one,one,CARDINAL,,,en,1.0
-3 degrees,3 degrees,QUANTITY,,,en,1.0
-30.3,30.3,CARDINAL,,,en,1.0
-Last minute,Last minute,TIME,,,en,1.0
-night,night,TIME,,,en,1.0
-Bâton de pluies,Bâton de pluies,WORK_OF_ART,,,en,1.0
-tomorrow,tomorrow,DATE,,,en,1.0
-Eastern Anatolia,Eastern Anatolia,NORP,-0.011574074074074073,0.041666666666666664,en,1.0
-about 1 hour,about 1 hour,TIME,,,en,1.0
+millions,millions,CARDINAL,,,en,1.8
+thousands,thousands,CARDINAL,,,en,1.8
+today,today,DATE,,,en,1.8
+4,4,CARDINAL,,,en,1.8
+Santorini,Santorini,NORP,0.0,0.4,en,1.7
+146,146,CARDINAL,,,en,1.7
+one,one,CARDINAL,,,en,1.7
+This year,This year,DATE,,,en,1.7
+6,6,CARDINAL,,,en,1.3
+an hour,an hour,TIME,,,en,1.0
+68 days,68 days,DATE,,,en,1.0
 0 in the evening and night hours,0 in the evening and night hours,TIME,,,en,1.0
-4,4,CARDINAL,,,en,1.0
-Spanish,Spanish,NORP,,,en,1.0
+about 1 hour,about 1 hour,TIME,,,en,1.0
+more than 12 thousand,more than 12 thousand,CARDINAL,,,en,1.0
+"Monday, January 12","Monday, January 12",DATE,,,en,1.0
+one day,one day,DATE,,,en,1.0
+days,days,DATE,,,en,1.0
+Eastern Anatolia,Eastern Anatolia,NORP,-0.011574074074074073,0.041666666666666664,en,1.0
+3 days,3 days,DATE,,,en,1.0
+Ukrainian,Ukrainian,NORP,,,en,1.0
+two weeks ago,two weeks ago,DATE,,,en,1.0
+53,53,CARDINAL,,,en,1.0
+296 kilometers,296 kilometers,QUANTITY,,,en,1.0
+"February 6, 2023","February 6, 2023",DATE,,,en,1.0
+a day,a day,DATE,,,en,1.0
+the night into day,the night into day,TIME,,,en,1.0
+January 2,January 2,DATE,,,en,1.0
+10 degrees,10 degrees,QUANTITY,,,en,1.0
+31,31,CARDINAL,,,en,1.0
 "January 10, 2026","January 10, 2026",DATE,,,en,1.0
-Palestinians,Palestinians,NORP,,,en,1.0
+The Winter Olympics,The Winter Olympics,EVENT,,,en,1.0
+Spanish,Spanish,NORP,,,en,1.0
+last summer,last summer,DATE,,,en,1.0
+4.7,4.7,CARDINAL,,,en,1.0
+Elazığ,Elazığ,WORK_OF_ART,0.0,0.0,en,1.0
+60-90 km,60-90 km,QUANTITY,,,en,1.0
+Tuesday,Tuesday,DATE,,,en,1.0
+Sunday,Sunday,DATE,,,en,1.0
+1st,1st,ORDINAL,,,en,1.0
+Brazilian,Brazilian,NORP,,,en,1.0
+seconds,seconds,TIME,,,en,1.0
+five,five,CARDINAL,,,en,1.0
+minus 10 degrees,minus 10 degrees,QUANTITY,,,en,1.0
+nearly 700,nearly 700,CARDINAL,,,en,1.0
+262,262,CARDINAL,,,en,1.0
+53 thousand,53 thousand,CARDINAL,,,en,1.0
+4 meters,4 meters,QUANTITY,,,en,1.0
+8.8,8.8,CARDINAL,,,en,1.0
+every year,every year,DATE,,,en,1.0
+10 centimeters,10 centimeters,QUANTITY,,,en,1.0
 the week,the week,DATE,,,en,1.0
+the middle of winter,the middle of winter,DATE,,,en,1.0
+"Monday, December 15","Monday, December 15",DATE,,,en,1.0
+2,2,CARDINAL,,,en,1.0
+5-day,5-day,TIME,,,en,1.0
+more than 250 thousand,more than 250 thousand,CARDINAL,,,en,1.0
+250 thousand,250 thousand,CARDINAL,,,en,1.0
+Today,Today,DATE,,,en,1.0
+30 percent,30 percent,PERCENT,,,en,1.0
+One,One,CARDINAL,,,en,1.0
+Izmir,Izmir,NORP,,,en,1.0
+"today, December 2, 2025","today, December 2, 2025",DATE,,,en,1.0
+the first working day of the week,the first working day of the week,DATE,,,en,1.0
+Catholic,Catholic,NORP,,,en,1.0
+billions of pesos,billions of pesos,MONEY,,,en,1.0
+9 percent,9 percent,PERCENT,,,en,1.0
+30.9 percent,30.9 percent,PERCENT,,,en,1.0
+0.9 percent,0.9 percent,PERCENT,,,en,1.0
+Palestinians,Palestinians,NORP,,,en,1.0
+Bâton de pluies,Bâton de pluies,WORK_OF_ART,,,en,1.0
+night,night,TIME,,,en,1.0
+25 degrees below zero,25 degrees below zero,QUANTITY,,,en,1.0
+30.3,30.3,CARDINAL,,,en,1.0
+the last days of the year,the last days of the year,DATE,,,en,1.0
+700,700,CARDINAL,,,en,1.0
+New Year's Eve,New Year's Eve,EVENT,,,en,1.0
+3 degrees,3 degrees,QUANTITY,,,en,1.0
+Tens of thousands,Tens of thousands,CARDINAL,,,en,1.0
+this year,this year,DATE,,,en,1.0
+three,three,CARDINAL,,,en,1.0
+winter,winter,DATE,,,en,1.0
+3,3,CARDINAL,,,en,1.0
 1-day,1-day,CARDINAL,,,en,1.0
 1 day,1 day,DATE,,,en,1.0
-billions of pesos,billions of pesos,MONEY,,,en,1.0
-Catholic,Catholic,NORP,,,en,1.0
-the first working day of the week,the first working day of the week,DATE,,,en,1.0
-"today, December 2, 2025","today, December 2, 2025",DATE,,,en,1.0
-Izmir,Izmir,NORP,,,en,1.0
-One,One,CARDINAL,,,en,1.0
-30 percent,30 percent,PERCENT,,,en,1.0
-Today,Today,DATE,,,en,1.0
-250 thousand,250 thousand,CARDINAL,,,en,1.0
-more than 250 thousand,more than 250 thousand,CARDINAL,,,en,1.0
-5-day,5-day,TIME,,,en,1.0
-2,2,CARDINAL,,,en,1.0
-"Monday, December 15","Monday, December 15",DATE,,,en,1.0
-millions,millions,CARDINAL,,,en,1.0
-the middle of winter,the middle of winter,DATE,,,en,1.0
-today,today,DATE,,,en,1.0
+12 miles,12 miles,QUANTITY,,,en,1.0
 38,38,CARDINAL,,,en,1.0
-the night into day,the night into day,TIME,,,en,1.0
+2024,2024,DATE,,,en,1.0
+"Thursday, January 15, 2026","Thursday, January 15, 2026",DATE,,,en,1.0
