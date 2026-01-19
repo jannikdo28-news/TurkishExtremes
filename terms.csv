@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'1f343ea703',extremes,Earthquake,#870007,usgs,deprem doğanyol,2026-01-15T12:13:00+00:00,Turkey,0.7909962264745082,0,1,tr,MED,Asia
 'bec5ab9e20',extremes,Precipitation,#d60d2b,wmo,yağmur dobrich varna silistra,2026-01-15T10:56:00+00:00,Bulgaria,0.5907472899139201,1,1,tr,MED,Europe
 '1d702e03bc',extremes,Precipitation,#d60d2b,wmo,sağanak bulgaristan,2026-01-15T12:14:00+00:00,Bulgaria,0.5903366910250424,1,1,tr,MED,Europe
 '6c138cde70',extremes,Earthquake,#870007,usgs,deprem sındırgı,2025-12-12T03:45:00+00:00,Turkey,0.5346350873736215,1,2,tr,MED,Asia
@@ -12,6 +13,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9797aa6299',extremes,Drought,#edc291,edo,yağmur eksikliği kıbrıs,2025-12-16T03:47:00+00:00,Cyprus,0.4540899949120616,2,1,tr,MED,Europe
 '845dd2d698',extremes,Storm,#b3b2b1,random,kasırga,2026-01-17T03:44:00+00:00,,0.4431978039981262,1,2,tr,,
 '27c5f85790',extremes,Drought,#edc291,edo,kuraklık hindisi,2026-01-17T03:44:00+00:00,Turkey,0.4374544288624824,1,1,tr,MED,Asia
+'fbaa1c52eb',extremes,Drought,#edc291,edo,kuruluk kıbrıs,2026-01-19T04:03:00+00:00,Cyprus,0.43569324130748277,0,1,tr,MED,Europe
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,gece donu,2026-01-15T10:56:00+00:00,,0.4356307143308171,1,2,tr,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,heyelan,2026-01-15T12:13:00+00:00,,0.4304017426429281,1,3,tr,,
 'c9080fa8ac',extremes,Drought,#edc291,edo,Kuzey Makedonya'da kuraklık,2026-01-15T12:14:00+00:00,North Macedonia,0.4268469573271874,1,1,tr,MED,Europe
@@ -24,10 +26,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b7c6466c74',extremes,Storm,#b3b2b1,wmo,dobriç fırtınası,2026-01-17T03:44:00+00:00,Bulgaria,0.402740685312007,1,1,tr,MED,Europe
 '538eadceb4',extremes,Heat Wave,#c40202,random,ılıman kış,2026-01-17T03:44:00+00:00,,0.396799528127642,1,2,tr,,
 'd961d384f7',extremes,Earthquake,#870007,usgs,deprem cimin,2025-12-19T03:45:00+00:00,Turkey,0.395428339518877,1,1,tr,MED,Asia
+'5b8cf400f9',extremes,Iceberg,#d60d2b,random,buzdağı buzağılama,2026-01-19T04:02:00+00:00,,0.39397580623010814,0,1,tr,,
 '126dbdb910',extremes,Drought,#edc291,edo,Moldova'nın kuraklığı,2026-01-15T12:14:00+00:00,Moldova,0.3933575631020125,1,1,tr,WCE,Europe
 '89426ddfd9',extremes,Fog,#d60d2b,wmo,Moldova sisi,2025-12-18T03:44:00+00:00,Moldova,0.3884439478073176,2,1,tr,WCE,Europe
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,şiddetli yağmur,2026-01-17T03:44:00+00:00,,0.3861778096952828,1,1,tr,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,siklon,2026-01-15T10:56:00+00:00,,0.3842609399530786,1,2,tr,,
+'fcf38cfed3',extremes,Drought,#edc291,edo,kuraklık kuzey makedonya,2026-01-19T04:03:00+00:00,North Macedonia,0.3824675155239244,0,1,tr,MED,Europe
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,en soğuk gün,2026-01-15T10:56:00+00:00,,0.376376077578239,1,3,tr,,
 '69791e5a17',extremes,Flood,#030ba1,random,ani sel,2026-01-17T03:44:00+00:00,,0.3695427186585041,1,3,tr,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,sulu kar,2026-01-15T12:13:00+00:00,,0.3623016721052898,1,1,tr,,
@@ -42,6 +46,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,kar fırtınası,2026-01-15T10:56:00+00:00,,0.3344515297349608,0,1,tr,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,kasırga,2026-01-15T10:56:00+00:00,,0.3314856725807237,0,1,tr,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,hava cephesi,2026-01-15T10:56:00+00:00,,0.3298698012195951,1,2,tr,,
+'357f3c8921',extremes,Drought,#edc291,edo,kuzey makedonya'da yağmur eksikliği,2026-01-15T10:57:00+00:00,North Macedonia,0.325475075575401,0,1,tr,MED,Europe
 '3894a694d1',extremes,Flood,#030ba1,aidr,Avustralya'da ani sel,2026-01-15T10:57:00+00:00,Australia,0.3199061281685654,0,1,tr,EAU,Oceania
 '6852666385',extremes,Earthquake,#870007,usgs,deprem limanı mathurin,2026-01-15T12:13:00+00:00,Mauritius,0.3198614496640228,0,1,tr,SIO,Indian Ocean
 '2c38aada07',extremes,Earthquake,#870007,usgs,deprem kolkanı,2026-01-15T12:13:00+00:00,Chile,0.3198596275137257,0,1,tr,SWS,South-America
@@ -66,6 +71,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '01e4b0cc71',extremes,Earthquake,#870007,usgs,deprem kuril'sk,2026-01-15T10:56:00+00:00,Russia,0.3198107857016188,0,1,tr,EAS,Asia
 'e1256a9495',extremes,Tsunami,#690191,usgs,tsunami rancho viejo,2026-01-15T10:56:00+00:00,Mexico,0.3198089224614129,0,1,tr,SCA,North-America
 'f8fc7b9a8d',extremes,Tsunami,#690191,usgs,tsunami yakutat,2026-01-15T10:56:00+00:00,Canada,0.319808672196729,0,1,tr,NWN,North-America
+'e551102071',extremes,Earthquake,#870007,usgs,vanuatu depremi,2026-01-15T10:56:00+00:00,Vanuatu,0.31980758222472205,0,1,tr,SPO,Pacific Ocean
+'f5e86f8f49',extremes,Earthquake,#870007,usgs,deprem san miguel,2026-01-15T10:56:00+00:00,Ecuador,0.31980657221500236,0,1,tr,NWS,South-America
+'e6998a615e',extremes,Earthquake,#870007,usgs,deprem murghob,2026-01-15T12:13:00+00:00,Tajikistan,0.3198049562481557,0,1,tr,WCA,Asia
+'c605f8759a',extremes,Earthquake,#870007,usgs,deprem guam,2026-01-15T10:56:00+00:00,Guam,0.31980275137930514,0,1,tr,NPO,Pacific Ocean
+'9f3b29621a',extremes,Earthquake,#870007,usgs,deprem merkezi orta atlantik sırtı,2026-01-15T10:56:00+00:00,,0.31980246935086426,0,1,tr,EAO,Atlantic Ocean
 '4e1d59e985',extremes,Precipitation,#d60d2b,wmo,yağmur bulgaristan,2026-01-15T10:56:00+00:00,Bulgaria,0.3106452496143368,1,1,tr,MED,Europe
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,bomba kasırgası,2026-01-15T10:56:00+00:00,,0.3092974987090162,1,1,tr,,
 'e3af58f5da',extremes,Drought,#edc291,edo,kuruluk bulgaristan,2026-01-15T10:57:00+00:00,Bulgaria,0.3072989490295514,1,1,tr,MED,Europe
@@ -78,7 +88,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,karaya yaklaşma,2026-01-17T03:44:00+00:00,,0.2800097291545205,1,1,tr,,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,kırağı kışı,2026-01-17T03:44:00+00:00,,0.2794825729177103,1,1,tr,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,orman yangını,2026-01-17T03:44:00+00:00,,0.2746907670415916,1,1,tr,,
-'45f861329d',extremes,Landslide,#572c03,aidr,heyelan adelaide tepeleri güney avustralya,2026-01-15T10:57:00+00:00,Australia,0.27200641522510444,1,1,tr,SAU,Oceania
+'45f861329d',extremes,Landslide,#572c03,aidr,heyelan adelaide tepeleri güney avustralya,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,tr,SAU,Oceania
 'a241cba1ba',extremes,Volcano,#b83202,eonet,Ambrym Yanardağı Vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,tr,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,volkan filipinler,2026-01-15T10:56:00+00:00,Philippines,0.2719808606448024,1,1,tr,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,Avustralya'da nehir taşması,2026-01-15T10:57:00+00:00,Australia,0.2719285584694787,1,1,tr,EAU,Oceania
