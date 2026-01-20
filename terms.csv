@@ -17,7 +17,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa8badb0c3',extremes,Tsunami,#690191,usgs,tsunami baculin,2026-01-15T10:56:00+00:00,Philippines,0.4223032730204247,1,2,tr,SEA,Asia
 '4806a05714',extremes,Earthquake,#870007,usgs,deprem türkiye,2026-01-15T10:56:00+00:00,Turkey,0.4165918089084729,0,1,tr,MED,Asia
 '69840e877f',extremes,Storm,#b3b2b1,wmo,fırtına bulgaristan,2026-01-17T03:44:00+00:00,Bulgaria,0.4164439197935374,1,1,tr,MED,Europe
-'de3b36bacb',extremes,Thunderstorm,#53785a,random,şiddetli hava,2026-01-20T03:55:00+00:00,,0.41443326820854864,1,3,tr,,
+'de3b36bacb',extremes,Thunderstorm,#53785a,random,şiddetli hava,2026-01-20T03:55:00+00:00,,0.4144332682085486,1,3,tr,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.4125214953633049,1,2,tr,,
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,ısı,2026-01-15T10:39:00+00:00,,0.4099752445939704,0,1,tr,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,kar fırtınası,2026-01-15T10:39:00+00:00,,0.4099516371853199,0,1,tr,,
@@ -32,6 +32,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,en soğuk gün,2026-01-15T10:56:00+00:00,,0.376376077578239,1,3,tr,,
 'fbaa1c52eb',extremes,Drought,#edc291,edo,kuruluk kıbrıs,2026-01-19T04:03:00+00:00,Cyprus,0.3703392551113603,1,1,tr,MED,Europe
 '69791e5a17',extremes,Flood,#030ba1,random,ani sel,2026-01-17T03:44:00+00:00,,0.3695427186585041,1,3,tr,,
+'2617cc6cc9',extremes,Earthquake,#870007,usgs,deprem yeni zelanda,2026-01-15T10:56:00+00:00,New Zealand,0.3626021390906192,1,2,tr,NZ,Oceania
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,sulu kar,2026-01-15T12:13:00+00:00,,0.3623016721052898,1,1,tr,,
 '40f675561f',extremes,Heat Wave,#c40202,random,en sıcak yaz,2026-01-15T10:56:00+00:00,,0.3506564445657735,1,2,tr,,
 '8220584aae',extremes,Drought,#edc291,edo,kuruluk kuzey makedonya,2026-01-17T03:44:00+00:00,North Macedonia,0.3485156073983368,1,1,tr,MED,Europe
@@ -49,7 +50,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,hava cephesi,2026-01-15T10:56:00+00:00,,0.3298698012195951,1,2,tr,,
 '3e4b341619',extremes,Storm,#b3b2b1,random,fırtına,2026-01-20T03:55:00+00:00,,0.3288165914676854,0,1,tr,,
 'fcf38cfed3',extremes,Drought,#edc291,edo,kuraklık kuzey makedonya,2026-01-19T04:03:00+00:00,North Macedonia,0.3250973881953357,1,1,tr,MED,Europe
-'2617cc6cc9',extremes,Earthquake,#870007,usgs,deprem yeni zelanda,2026-01-15T10:56:00+00:00,New Zealand,0.3198259577536697,0,1,tr,NZ,Oceania
 '73d01d320c',extremes,Earthquake,#870007,usgs,deprem afganistan,2026-01-15T12:13:00+00:00,Afghanistan,0.3198213295077491,0,1,tr,WCA,Asia
 'f4e7397282',extremes,Tsunami,#690191,usgs,tsunami limanı alsworth,2026-01-15T10:56:00+00:00,United States,0.3198213068509887,0,1,tr,NWN,North-America
 '072f41af80',extremes,Earthquake,#870007,usgs,deprem aratoca,2026-01-15T10:56:00+00:00,Colombia,0.3198170611292842,0,1,tr,NWS,South-America
@@ -76,7 +76,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4ea40cfaf4',extremes,Earthquake,#870007,usgs,deprem prensi edward adaları bölgesi,2026-01-15T10:56:00+00:00,,0.3197749182823346,0,1,tr,SOO,Antarctica
 'f7921ef009',extremes,Earthquake,#870007,usgs,deprem vilyuchinsk,2026-01-15T10:56:00+00:00,Russia,0.3197735132787656,0,1,tr,RFE,Asia
 '1133ce1349',extremes,Earthquake,#870007,usgs,deprem kosta rika,2026-01-15T12:13:00+00:00,Costa Rica,0.3197730547566457,0,1,tr,SCA,South-America
-'d59a7e48d7',extremes,Drought,#edc291,random,buharlaşma-terleme,2026-01-20T03:55:00+00:00,,0.31299651955730423,1,1,tr,,
+'d59a7e48d7',extremes,Drought,#edc291,random,buharlaşma-terleme,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,tr,,
 '4e1d59e985',extremes,Precipitation,#d60d2b,wmo,yağmur bulgaristan,2026-01-15T10:56:00+00:00,Bulgaria,0.3106452496143368,1,1,tr,MED,Europe
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,bomba kasırgası,2026-01-15T10:56:00+00:00,,0.3092974987090162,1,1,tr,,
 'e3af58f5da',extremes,Drought,#edc291,edo,kuruluk bulgaristan,2026-01-15T10:57:00+00:00,Bulgaria,0.3072989490295514,1,1,tr,MED,Europe
