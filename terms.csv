@@ -8,13 +8,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2026-01-15T10:57:00+00:00,Moldova,0.4885765331245796,1,1,tr,WCE,Europe
 'f685d1f47f',extremes,Drought,#edc291,edo,Kıbrıs'ta kuraklık,2026-01-15T10:57:00+00:00,Cyprus,0.4745658689492218,1,1,tr,MED,Europe
 '4f334dd4a7',extremes,Drought,#edc291,edo,yağmur eksikliği bulgaristan,2026-01-15T12:14:00+00:00,Bulgaria,0.4689021213898358,1,1,tr,MED,Europe
-'373c6724f3',extremes,Drought,#edc291,edo,yağmur eksikliği türkiye,2025-12-15T03:54:00+00:00,Turkey,0.4557682967610451,2,1,tr,MED,Asia
 '9797aa6299',extremes,Drought,#edc291,edo,yağmur eksikliği kıbrıs,2025-12-16T03:47:00+00:00,Cyprus,0.4540899949120616,2,1,tr,MED,Europe
 '845dd2d698',extremes,Storm,#b3b2b1,random,kasırga,2026-01-17T03:44:00+00:00,,0.4431978039981262,1,2,tr,,
 '27c5f85790',extremes,Drought,#edc291,edo,kuraklık hindisi,2026-01-17T03:44:00+00:00,Turkey,0.4374544288624824,1,1,tr,MED,Asia
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,gece donu,2026-01-15T10:56:00+00:00,,0.4356307143308171,1,2,tr,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,heyelan,2026-01-15T12:13:00+00:00,,0.4304017426429281,1,3,tr,,
 'c9080fa8ac',extremes,Drought,#edc291,edo,Kuzey Makedonya'da kuraklık,2026-01-15T12:14:00+00:00,North Macedonia,0.4268469573271874,1,1,tr,MED,Europe
+'fa8badb0c3',extremes,Tsunami,#690191,usgs,tsunami baculin,2026-01-15T10:56:00+00:00,Philippines,0.4223032730204247,1,2,tr,SEA,Asia
 '4806a05714',extremes,Earthquake,#870007,usgs,deprem türkiye,2026-01-15T10:56:00+00:00,Turkey,0.4165918089084729,0,1,tr,MED,Asia
 '69840e877f',extremes,Storm,#b3b2b1,wmo,fırtına bulgaristan,2026-01-17T03:44:00+00:00,Bulgaria,0.4164439197935374,1,1,tr,MED,Europe
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.4125214953633049,1,2,tr,,
@@ -45,14 +45,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,kasırga,2026-01-15T10:56:00+00:00,,0.3314856725807237,0,1,tr,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,hava cephesi,2026-01-15T10:56:00+00:00,,0.3298698012195951,1,2,tr,,
 'fcf38cfed3',extremes,Drought,#edc291,edo,kuraklık kuzey makedonya,2026-01-19T04:03:00+00:00,North Macedonia,0.3250973881953357,1,1,tr,MED,Europe
-'26349abe17',extremes,Tsunami,#690191,usgs,tsunami attu istasyonu,2026-01-15T12:13:00+00:00,Alaska,0.3198458782942405,0,1,tr,NPO,Pacific Ocean
-'464d595634',extremes,Earthquake,#870007,usgs,deprem camiña,2026-01-15T12:13:00+00:00,Chile,0.3198429479823136,0,1,tr,SWS,South-America
-'018b9ccc96',extremes,Earthquake,#870007,usgs,Mauritius birleşme bölgesi depremi,2026-01-15T10:56:00+00:00,,0.3198426792048654,0,1,tr,SIO,Indian Ocean
-'76ad379230',extremes,Earthquake,#870007,usgs,deprem petropavlovsk kamchatsky,2026-01-15T10:56:00+00:00,Russia,0.319841949147882,0,1,tr,RFE,Asia
-'4d51911b1d',extremes,Earthquake,#870007,usgs,deprem sola,2026-01-15T10:56:00+00:00,Vanuatu,0.319832409967632,0,1,tr,SPO,Pacific Ocean
-'6b1cc9478a',extremes,Earthquake,#870007,usgs,deprem mabaruma,2026-01-15T10:56:00+00:00,Guyana,0.3198304675636247,0,1,tr,NSA,South-America
-'d18c9a3f35',extremes,Earthquake,#870007,usgs,san antonio de los cobres depremi,2026-01-15T10:56:00+00:00,Argentina,0.3198285138531148,0,1,tr,SES,South-America
-'fa8badb0c3',extremes,Tsunami,#690191,usgs,tsunami baculin,2026-01-15T10:56:00+00:00,Philippines,0.3198273270828526,0,1,tr,SEA,Asia
 '23ad2bb822',extremes,Earthquake,#870007,usgs,deprem rusya,2026-01-15T10:56:00+00:00,Russia,0.3198270531980787,0,1,tr,EAS,Asia
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,deprem yeni zelanda,2026-01-15T10:56:00+00:00,New Zealand,0.3198259577536697,0,1,tr,NZ,Oceania
 '73d01d320c',extremes,Earthquake,#870007,usgs,deprem afganistan,2026-01-15T12:13:00+00:00,Afghanistan,0.3198213295077491,0,1,tr,WCA,Asia
@@ -89,7 +81,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,kırağı kışı,2026-01-17T03:44:00+00:00,,0.2794825729177103,1,1,tr,,
 '357f3c8921',extremes,Drought,#edc291,edo,kuzey makedonya'da yağmur eksikliği,2026-01-15T10:57:00+00:00,North Macedonia,0.2766538142390908,1,1,tr,MED,Europe
 '776fe47817',extremes,Wildfire,#d60d2b,random,orman yangını,2026-01-17T03:44:00+00:00,,0.2746907670415916,1,1,tr,,
-'1a17358ebb',extremes,Tsunami,#690191,usgs,tsunami tobelo,2026-01-15T10:56:00+00:00,Indonesia,0.27217001220170023,1,1,tr,SEA,Asia
+'1a17358ebb',extremes,Tsunami,#690191,usgs,tsunami tobelo,2026-01-15T10:56:00+00:00,Indonesia,0.2721700122017002,1,1,tr,SEA,Asia
 '3894a694d1',extremes,Flood,#030ba1,aidr,Avustralya'da ani sel,2026-01-15T10:57:00+00:00,Australia,0.2720702239432805,1,1,tr,EAU,Oceania
 '3a67915e02',extremes,Earthquake,#870007,usgs,deprem peru,2026-01-15T10:56:00+00:00,Peru,0.2720285180627262,1,1,tr,NWS,South-America
 '45f861329d',extremes,Landslide,#572c03,aidr,heyelan adelaide tepeleri güney avustralya,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,tr,SAU,Oceania
@@ -101,6 +93,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2c38aada07',extremes,Earthquake,#870007,usgs,deprem kolkanı,2026-01-15T12:13:00+00:00,Chile,0.2718806833866668,1,1,tr,SWS,South-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,deprem ollagüe,2026-01-15T10:56:00+00:00,Chile,0.2718780783172336,1,1,tr,SWS,South-America
 '6bad2a8cbc',extremes,Earthquake,#870007,usgs,deprem san agustín de valle fértil,2026-01-15T12:13:00+00:00,Argentina,0.2718757205905468,1,1,tr,SES,South-America
+'26349abe17',extremes,Tsunami,#690191,usgs,tsunami attu istasyonu,2026-01-15T12:13:00+00:00,Alaska,0.27186899655010444,1,1,tr,NPO,Pacific Ocean
+'464d595634',extremes,Earthquake,#870007,usgs,deprem camiña,2026-01-15T12:13:00+00:00,Chile,0.2718665057849666,1,1,tr,SWS,South-America
+'018b9ccc96',extremes,Earthquake,#870007,usgs,Mauritius birleşme bölgesi depremi,2026-01-15T10:56:00+00:00,,0.2718662773241356,1,1,tr,SIO,Indian Ocean
+'76ad379230',extremes,Earthquake,#870007,usgs,deprem petropavlovsk kamchatsky,2026-01-15T10:56:00+00:00,Russia,0.2718656567756997,1,1,tr,RFE,Asia
+'4d51911b1d',extremes,Earthquake,#870007,usgs,deprem sola,2026-01-15T10:56:00+00:00,Vanuatu,0.2718575484724872,1,1,tr,SPO,Pacific Ocean
+'6b1cc9478a',extremes,Earthquake,#870007,usgs,deprem mabaruma,2026-01-15T10:56:00+00:00,Guyana,0.271855897429081,1,1,tr,NSA,South-America
+'d18c9a3f35',extremes,Earthquake,#870007,usgs,san antonio de los cobres depremi,2026-01-15T10:56:00+00:00,Argentina,0.2718542367751476,1,1,tr,SES,South-America
 'b6cef22543',extremes,Drought,#edc291,random,su kısıtlaması,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,tr,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosferik nehir,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,tr,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,soğuğu kaydedin,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,tr,,
