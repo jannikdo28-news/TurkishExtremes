@@ -48,10 +48,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,hava cephesi,2026-01-15T10:56:00+00:00,,0.3298698012195951,1,2,tr,,
 '3e4b341619',extremes,Storm,#b3b2b1,random,fırtına,2026-01-20T03:55:00+00:00,,0.3288165914676854,0,1,tr,,
 'fcf38cfed3',extremes,Drought,#edc291,edo,kuraklık kuzey makedonya,2026-01-19T04:03:00+00:00,North Macedonia,0.3250973881953357,1,1,tr,MED,Europe
-'e6998a615e',extremes,Earthquake,#870007,usgs,deprem murghob,2026-01-15T12:13:00+00:00,Tajikistan,0.3198049562481557,0,1,tr,WCA,Asia
-'c605f8759a',extremes,Earthquake,#870007,usgs,deprem guam,2026-01-15T10:56:00+00:00,Guam,0.3198027513793051,0,1,tr,NPO,Pacific Ocean
-'9f3b29621a',extremes,Earthquake,#870007,usgs,deprem merkezi orta atlantik sırtı,2026-01-15T10:56:00+00:00,,0.3198024693508642,0,1,tr,EAO,Atlantic Ocean
-'70773b5956',extremes,Earthquake,#870007,usgs,deprem alaska,2026-01-15T10:56:00+00:00,Alaska,0.3198017125682,0,1,tr,NWN,North-America
+'70773b5956',extremes,Earthquake,#870007,usgs,deprem alaska,2026-01-15T10:56:00+00:00,Alaska,0.32228150068297,1,1,tr,NWN,North-America
 '4594f1a372',extremes,Earthquake,#870007,usgs,deprem iran,2026-01-15T10:56:00+00:00,Iran,0.3197940875986025,0,1,tr,WCA,Asia
 '957a7a09df',extremes,Earthquake,#870007,usgs,deprem attu istasyonu,2026-01-15T10:56:00+00:00,Alaska,0.3197938741364492,0,1,tr,NPO,Pacific Ocean
 'db2a276fc1',extremes,Earthquake,#870007,usgs,deprem aisen,2026-01-15T12:13:00+00:00,Chile,0.3197935412133924,0,1,tr,SWS,South-America
@@ -108,14 +105,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d51911b1d',extremes,Earthquake,#870007,usgs,deprem sola,2026-01-15T10:56:00+00:00,Vanuatu,0.2718575484724872,1,1,tr,SPO,Pacific Ocean
 '6b1cc9478a',extremes,Earthquake,#870007,usgs,deprem mabaruma,2026-01-15T10:56:00+00:00,Guyana,0.271855897429081,1,1,tr,NSA,South-America
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,san antonio de los cobres depremi,2026-01-15T10:56:00+00:00,Argentina,0.2718542367751476,1,1,tr,SES,South-America
-'f4e7397282',extremes,Tsunami,#690191,usgs,tsunami limanı alsworth,2026-01-15T10:56:00+00:00,United States,0.27184811082334037,1,1,tr,NWN,North-America
-'072f41af80',extremes,Earthquake,#870007,usgs,deprem aratoca,2026-01-15T10:56:00+00:00,Colombia,0.27184450195989157,1,1,tr,NWS,South-America
-'43165fdae0',extremes,Earthquake,#870007,usgs,deprem villası basilio nievas,2026-01-15T12:13:00+00:00,Argentina,0.27184438462564176,1,1,tr,SWS,South-America
-'01e4b0cc71',extremes,Earthquake,#870007,usgs,deprem kuril'sk,2026-01-15T10:56:00+00:00,Russia,0.27183916784637596,1,1,tr,EAS,Asia
-'e1256a9495',extremes,Tsunami,#690191,usgs,tsunami rancho viejo,2026-01-15T10:56:00+00:00,Mexico,0.27183758409220093,1,1,tr,SCA,North-America
-'f8fc7b9a8d',extremes,Tsunami,#690191,usgs,tsunami yakutat,2026-01-15T10:56:00+00:00,Canada,0.27183737136721964,1,1,tr,NWN,North-America
+'f4e7397282',extremes,Tsunami,#690191,usgs,tsunami limanı alsworth,2026-01-15T10:56:00+00:00,United States,0.2718481108233403,1,1,tr,NWN,North-America
+'072f41af80',extremes,Earthquake,#870007,usgs,deprem aratoca,2026-01-15T10:56:00+00:00,Colombia,0.2718445019598915,1,1,tr,NWS,South-America
+'43165fdae0',extremes,Earthquake,#870007,usgs,deprem villası basilio nievas,2026-01-15T12:13:00+00:00,Argentina,0.2718443846256417,1,1,tr,SWS,South-America
+'01e4b0cc71',extremes,Earthquake,#870007,usgs,deprem kuril'sk,2026-01-15T10:56:00+00:00,Russia,0.2718391678463759,1,1,tr,EAS,Asia
+'e1256a9495',extremes,Tsunami,#690191,usgs,tsunami rancho viejo,2026-01-15T10:56:00+00:00,Mexico,0.2718375840922009,1,1,tr,SCA,North-America
+'f8fc7b9a8d',extremes,Tsunami,#690191,usgs,tsunami yakutat,2026-01-15T10:56:00+00:00,Canada,0.2718373713672196,1,1,tr,NWN,North-America
 'e551102071',extremes,Earthquake,#870007,usgs,vanuatu depremi,2026-01-15T10:56:00+00:00,Vanuatu,0.2718364448910137,1,1,tr,SPO,Pacific Ocean
-'f5e86f8f49',extremes,Earthquake,#870007,usgs,deprem san miguel,2026-01-15T10:56:00+00:00,Ecuador,0.27183558638275196,1,1,tr,NWS,South-America
+'f5e86f8f49',extremes,Earthquake,#870007,usgs,deprem san miguel,2026-01-15T10:56:00+00:00,Ecuador,0.2718355863827519,1,1,tr,NWS,South-America
+'e6998a615e',extremes,Earthquake,#870007,usgs,deprem murghob,2026-01-15T12:13:00+00:00,Tajikistan,0.27183421281093234,1,1,tr,WCA,Asia
+'c605f8759a',extremes,Earthquake,#870007,usgs,deprem guam,2026-01-15T10:56:00+00:00,Guam,0.2718323386724093,1,1,tr,NPO,Pacific Ocean
+'9f3b29621a',extremes,Earthquake,#870007,usgs,deprem merkezi orta atlantik sırtı,2026-01-15T10:56:00+00:00,,0.27183209894823457,1,1,tr,EAO,Atlantic Ocean
 'b6cef22543',extremes,Drought,#edc291,random,su kısıtlaması,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,tr,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosferik nehir,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,tr,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,soğuğu kaydedin,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,tr,,
