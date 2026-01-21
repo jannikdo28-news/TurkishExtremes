@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'1f343ea703',extremes,Earthquake,#870007,usgs,deprem doğanyol,2026-01-15T12:13:00+00:00,Turkey,0.7909962264745082,0,1,tr,MED,Asia
 'bec5ab9e20',extremes,Precipitation,#d60d2b,wmo,yağmur dobrich varna silistra,2026-01-15T10:56:00+00:00,Bulgaria,0.5907472899139201,1,1,tr,MED,Europe
 '1d702e03bc',extremes,Precipitation,#d60d2b,wmo,sağanak bulgaristan,2026-01-15T12:14:00+00:00,Bulgaria,0.5903366910250424,1,1,tr,MED,Europe
 '6c138cde70',extremes,Earthquake,#870007,usgs,deprem sındırgı,2025-12-12T03:45:00+00:00,Turkey,0.5346350873736215,1,2,tr,MED,Asia
@@ -76,6 +77,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4ea40cfaf4',extremes,Earthquake,#870007,usgs,deprem prensi edward adaları bölgesi,2026-01-15T10:56:00+00:00,,0.3197749182823346,0,1,tr,SOO,Antarctica
 'f7921ef009',extremes,Earthquake,#870007,usgs,deprem vilyuchinsk,2026-01-15T10:56:00+00:00,Russia,0.3197735132787656,0,1,tr,RFE,Asia
 '1133ce1349',extremes,Earthquake,#870007,usgs,deprem kosta rika,2026-01-15T12:13:00+00:00,Costa Rica,0.3197730547566457,0,1,tr,SCA,South-America
+'c685705bbd',extremes,Earthquake,#870007,usgs,deprem çin,2026-01-15T10:56:00+00:00,China,0.31977260661763446,0,1,tr,EAS,Asia
+'6bf5e2061d',extremes,Earthquake,#870007,usgs,deprem kale noktası,2026-01-15T10:56:00+00:00,New Zealand,0.31977139966941065,0,1,tr,NZ,Oceania
+'f5afb20efd',extremes,Earthquake,#870007,usgs,deprem güney sandviç adaları bölgesi,2026-01-15T10:56:00+00:00,,0.3197666649904967,0,1,tr,SOO,Antarctica
+'17c827a010',extremes,Earthquake,#870007,usgs,deprem japonya,2026-01-15T10:56:00+00:00,Japan,0.3197648775137647,0,1,tr,EAS,Asia
+'edcb89e9c3',extremes,Earthquake,#870007,usgs,deprem papua yeni gine,2026-01-15T10:56:00+00:00,Papua New Guinea,0.3197647017684222,0,1,tr,SEA,Asia
+'03f33e230d',extremes,Earthquake,#870007,usgs,deprem şili,2026-01-15T10:56:00+00:00,Chile,0.31975595146311836,0,1,tr,SWS,South-America
+'0a2120b175',extremes,Earthquake,#870007,usgs,deprem diego de almagro,2026-01-15T10:56:00+00:00,Chile,0.3197547085914504,0,1,tr,SWS,South-America
+'7d79b2a1fb',extremes,Earthquake,#870007,usgs,deprem kencong,2026-01-15T12:13:00+00:00,Indonesia,0.3197536299108499,0,1,tr,NAU,Oceania
+'3e797c4058',extremes,Earthquake,#870007,usgs,deprem fiji,2026-01-15T10:56:00+00:00,Fiji,0.3197488869798659,0,1,tr,SPO,Pacific Ocean
 'd59a7e48d7',extremes,Drought,#edc291,random,buharlaşma-terleme,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,tr,,
 '4e1d59e985',extremes,Precipitation,#d60d2b,wmo,yağmur bulgaristan,2026-01-15T10:56:00+00:00,Bulgaria,0.3106452496143368,1,1,tr,MED,Europe
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,bomba kasırgası,2026-01-15T10:56:00+00:00,,0.3092974987090162,1,1,tr,,
