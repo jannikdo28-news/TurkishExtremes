@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'1f343ea703',extremes,Earthquake,#870007,usgs,deprem doğanyol,2026-01-15T12:13:00+00:00,Turkey,0.7909962264745082,0,1,tr,MED,Asia
 'bec5ab9e20',extremes,Precipitation,#d60d2b,wmo,yağmur dobrich varna silistra,2026-01-15T10:56:00+00:00,Bulgaria,0.5907472899139201,1,1,tr,MED,Europe
 '1d702e03bc',extremes,Precipitation,#d60d2b,wmo,sağanak bulgaristan,2026-01-15T12:14:00+00:00,Bulgaria,0.5903366910250424,1,1,tr,MED,Europe
 '908f74a83c',extremes,Snow&Ice,#d60d2b,wmo,dondurucu Bulgaristan,2026-01-21T03:56:00+00:00,Bulgaria,0.5511572745230702,1,1,tr,MED,Europe
@@ -24,6 +25,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,kar fırtınası,2026-01-15T10:39:00+00:00,,0.4099516371853199,0,1,tr,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,kar fırtınası,2026-01-15T10:39:00+00:00,,0.4099008832218642,0,1,tr,,
 'b7c6466c74',extremes,Storm,#b3b2b1,wmo,dobriç fırtınası,2026-01-17T03:44:00+00:00,Bulgaria,0.402740685312007,1,1,tr,MED,Europe
+'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,buzdağı arctis,2026-01-21T03:55:00+00:00,,0.39748902644162987,0,1,tr,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,ılıman kış,2026-01-17T03:44:00+00:00,,0.396799528127642,1,2,tr,,
 'd961d384f7',extremes,Earthquake,#870007,usgs,deprem cimin,2025-12-19T03:45:00+00:00,Turkey,0.395428339518877,1,1,tr,MED,Asia
 '126dbdb910',extremes,Drought,#edc291,edo,Moldova'nın kuraklığı,2026-01-15T12:14:00+00:00,Moldova,0.3933575631020125,1,1,tr,WCE,Europe
@@ -79,6 +81,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e797c4058',extremes,Earthquake,#870007,usgs,deprem fiji,2026-01-15T10:56:00+00:00,Fiji,0.3197488869798659,0,1,tr,SPO,Pacific Ocean
 '6628268bda',extremes,Earthquake,#870007,usgs,deprem korla,2026-01-15T10:56:00+00:00,China,0.3197488214779085,0,1,tr,ECA,Asia
 'd920e41c1e',extremes,Earthquake,#870007,usgs,deprem mek'ele,2026-01-15T12:13:00+00:00,Ethiopia,0.3197475341186085,0,1,tr,NEAF,Africa
+'29aa7b93c5',extremes,Earthquake,#870007,usgs,fiji adalarının güneyinde deprem,2026-01-15T10:56:00+00:00,,0.31974619879240757,0,1,tr,SPO,Pacific Ocean
+'3e36cbc783',extremes,Earthquake,#870007,usgs,deprem konsepti,2026-01-15T12:13:00+00:00,Venezuela,0.3197420361636449,0,1,tr,NWS,South-America
+'8bf8909453',extremes,Earthquake,#870007,usgs,deprem levuka,2026-01-15T10:56:00+00:00,Fiji,0.3197390800577933,0,1,tr,SPO,Pacific Ocean
+'9de3c9007e',extremes,Earthquake,#870007,usgs,deprem yakutat,2026-01-15T10:56:00+00:00,Alaska,0.3197345887234546,0,1,tr,NWN,North-America
+'2fa9116266',extremes,Earthquake,#870007,usgs,deprem limanı alsworth,2026-01-15T12:13:00+00:00,United States,0.3197340735312253,0,1,tr,NWN,North-America
+'b0d647e9d3',extremes,Earthquake,#870007,usgs,deprem güneydoğu hint sırtı,2026-01-15T10:56:00+00:00,,0.3197330455307343,0,1,tr,SOO,Antarctica
+'0f6b56852d',extremes,Earthquake,#870007,usgs,deprem baculin,2026-01-15T10:56:00+00:00,Philippines,0.31973083171213906,0,1,tr,SEA,Asia
+'80f83e2f4e',extremes,Earthquake,#870007,usgs,bolivya depremi,2026-01-15T12:13:00+00:00,Bolivia,0.31972829453300444,0,1,tr,SES,South-America
 'd59a7e48d7',extremes,Drought,#edc291,random,buharlaşma-terleme,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,tr,,
 '4e1d59e985',extremes,Precipitation,#d60d2b,wmo,yağmur bulgaristan,2026-01-15T10:56:00+00:00,Bulgaria,0.3106452496143368,1,1,tr,MED,Europe
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,bomba kasırgası,2026-01-15T10:56:00+00:00,,0.3092974987090162,1,1,tr,,
