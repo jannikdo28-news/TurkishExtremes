@@ -51,14 +51,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,kasırga,2026-01-15T10:56:00+00:00,,0.3314856725807237,0,1,tr,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,hava cephesi,2026-01-15T10:56:00+00:00,,0.3298698012195951,1,2,tr,,
 '3e4b341619',extremes,Storm,#b3b2b1,random,fırtına,2026-01-20T03:55:00+00:00,,0.3288165914676854,0,1,tr,,
-'db5f39549c',extremes,Earthquake,#870007,usgs,deprem endonezya,2026-01-15T10:56:00+00:00,Indonesia,0.32801522457361987,1,1,tr,SEA,Asia
+'db5f39549c',extremes,Earthquake,#870007,usgs,deprem endonezya,2026-01-15T10:56:00+00:00,Indonesia,0.3280152245736198,1,1,tr,SEA,Asia
 'fcf38cfed3',extremes,Drought,#edc291,edo,kuraklık kuzey makedonya,2026-01-19T04:03:00+00:00,North Macedonia,0.3250973881953357,1,1,tr,MED,Europe
 'b994dcebdd',extremes,Drought,#edc291,edo,Kuraklık Bulgaristan,2026-01-21T03:56:00+00:00,Bulgaria,0.3249202376415849,1,1,tr,MED,Europe
 '70773b5956',extremes,Earthquake,#870007,usgs,deprem alaska,2026-01-15T10:56:00+00:00,Alaska,0.32228150068297,1,1,tr,NWN,North-America
 '4594f1a372',extremes,Earthquake,#870007,usgs,deprem iran,2026-01-15T10:56:00+00:00,Iran,0.3222750194588121,1,1,tr,WCA,Asia
-'85a135fac3',extremes,Earthquake,#870007,usgs,ozernovskiy depremi,2026-01-15T10:56:00+00:00,Russia,0.3197876248263615,0,1,tr,RFE,Asia
-'51dfc3f3e1',extremes,Earthquake,#870007,usgs,deprem kokopo,2026-01-15T10:56:00+00:00,Papua New Guinea,0.3197855556545587,0,1,tr,EPO,Pacific Ocean
-'fc0fd225f3',extremes,Earthquake,#870007,usgs,deprem burma myanmar,2026-01-15T12:13:00+00:00,Burma (Myanmar),0.3197854094247633,0,1,tr,SAS,Asia
 '066ed457ed',extremes,Earthquake,#870007,usgs,deprem kuzey mariana adaları,2026-01-15T12:13:00+00:00,Northern Mariana Islands,0.3197822395529101,0,1,tr,NPO,Pacific Ocean
 '4ea40cfaf4',extremes,Earthquake,#870007,usgs,deprem prensi edward adaları bölgesi,2026-01-15T10:56:00+00:00,,0.3197749182823346,0,1,tr,SOO,Antarctica
 'f7921ef009',extremes,Earthquake,#870007,usgs,deprem vilyuchinsk,2026-01-15T10:56:00+00:00,Russia,0.3197735132787656,0,1,tr,RFE,Asia
@@ -105,6 +102,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45f861329d',extremes,Landslide,#572c03,aidr,heyelan adelaide tepeleri güney avustralya,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,tr,SAU,Oceania
 'a241cba1ba',extremes,Volcano,#b83202,eonet,Ambrym Yanardağı Vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,tr,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,volkan filipinler,2026-01-15T10:56:00+00:00,Philippines,0.2719808606448024,1,1,tr,SEA,Asia
+'fc0fd225f3',extremes,Earthquake,#870007,usgs,deprem burma myanmar,2026-01-15T12:13:00+00:00,Burma (Myanmar),0.2719676130110488,1,1,tr,SAS,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,Avustralya'da nehir taşması,2026-01-15T10:57:00+00:00,Australia,0.2719285584694787,1,1,tr,EAU,Oceania
 'ebe314dd99',extremes,Flood,#030ba1,aidr,Şiddetli yağış ve sel Queensland Şubat 2020,2026-01-15T10:57:00+00:00,Australia,0.2719274879956287,1,1,tr,EAU,Oceania
 '6852666385',extremes,Earthquake,#870007,usgs,deprem limanı mathurin,2026-01-15T12:13:00+00:00,Mauritius,0.2718822322144194,1,1,tr,SIO,Indian Ocean
@@ -129,10 +127,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e6998a615e',extremes,Earthquake,#870007,usgs,deprem murghob,2026-01-15T12:13:00+00:00,Tajikistan,0.2718342128109323,1,1,tr,WCA,Asia
 'c605f8759a',extremes,Earthquake,#870007,usgs,deprem guam,2026-01-15T10:56:00+00:00,Guam,0.2718323386724093,1,1,tr,NPO,Pacific Ocean
 '9f3b29621a',extremes,Earthquake,#870007,usgs,deprem merkezi orta atlantik sırtı,2026-01-15T10:56:00+00:00,,0.2718320989482345,1,1,tr,EAO,Atlantic Ocean
-'957a7a09df',extremes,Earthquake,#870007,usgs,deprem attu istasyonu,2026-01-15T10:56:00+00:00,Alaska,0.27182479301598184,1,1,tr,NPO,Pacific Ocean
+'957a7a09df',extremes,Earthquake,#870007,usgs,deprem attu istasyonu,2026-01-15T10:56:00+00:00,Alaska,0.2718247930159818,1,1,tr,NPO,Pacific Ocean
 'db2a276fc1',extremes,Earthquake,#870007,usgs,deprem aisen,2026-01-15T12:13:00+00:00,Chile,0.2718245100313835,1,1,tr,SWS,South-America
 '7e7895dc7a',extremes,Earthquake,#870007,usgs,deprem tacikistan,2026-01-15T10:56:00+00:00,Tajikistan,0.2718240888930743,1,1,tr,WCA,Asia
 '8710bd49ea',extremes,Earthquake,#870007,usgs,deprem severo kuril'sk,2026-01-15T10:56:00+00:00,Russia,0.2718233424444694,1,1,tr,RFE,Asia
+'85a135fac3',extremes,Earthquake,#870007,usgs,ozernovskiy depremi,2026-01-15T10:56:00+00:00,Russia,0.2718194811024073,1,1,tr,RFE,Asia
+'51dfc3f3e1',extremes,Earthquake,#870007,usgs,deprem kokopo,2026-01-15T10:56:00+00:00,Papua New Guinea,0.27181772230637485,1,1,tr,EPO,Pacific Ocean
 'b6cef22543',extremes,Drought,#edc291,random,su kısıtlaması,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,tr,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosferik nehir,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,tr,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,soğuğu kaydedin,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,tr,,
