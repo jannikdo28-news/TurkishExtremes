@@ -47,6 +47,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,ulusal kasırga merkezi,2026-01-15T10:39:00+00:00,,0.3475821418682395,1,1,tr,,
 '02f56319a7',extremes,Flood,#030ba1,wmo,Avustralya'da sel,2026-01-15T10:56:00+00:00,Australia,0.3472265609500765,1,2,tr,CAU,Oceania
 '23ad2bb822',extremes,Earthquake,#870007,usgs,deprem rusya,2026-01-15T10:56:00+00:00,Russia,0.344985488400185,1,2,tr,EAS,Asia
+'17c827a010',extremes,Earthquake,#870007,usgs,deprem japonya,2026-01-15T10:56:00+00:00,Japan,0.34155052088669996,1,2,tr,EAS,Asia
 '7e303c7e63',extremes,Snow Avalanche,#deddd5,random,kar çığı,2026-01-20T03:55:00+00:00,,0.3397097135233366,1,1,tr,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,buzdağı arctis,2026-01-21T03:55:00+00:00,,0.3378656724753853,1,1,tr,,
 '560b05d603',extremes,Heat Wave,#c40202,random,sıcak hava dalgası,2026-01-18T03:56:00+00:00,,0.3375420458851556,1,1,tr,,
@@ -62,9 +63,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '70773b5956',extremes,Earthquake,#870007,usgs,deprem alaska,2026-01-15T10:56:00+00:00,Alaska,0.32228150068297,1,1,tr,NWN,North-America
 '4594f1a372',extremes,Earthquake,#870007,usgs,deprem iran,2026-01-15T10:56:00+00:00,Iran,0.3222750194588121,1,1,tr,WCA,Asia
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,cıva düşüşleri,2026-01-22T03:59:00+00:00,,0.3202101394246374,1,1,tr,,
-'6bf5e2061d',extremes,Earthquake,#870007,usgs,deprem kale noktası,2026-01-15T10:56:00+00:00,New Zealand,0.3197713996694106,0,1,tr,NZ,Oceania
-'f5afb20efd',extremes,Earthquake,#870007,usgs,deprem güney sandviç adaları bölgesi,2026-01-15T10:56:00+00:00,,0.3197666649904967,0,1,tr,SOO,Antarctica
-'17c827a010',extremes,Earthquake,#870007,usgs,deprem japonya,2026-01-15T10:56:00+00:00,Japan,0.3197648775137647,0,1,tr,EAS,Asia
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,deprem papua yeni gine,2026-01-15T10:56:00+00:00,Papua New Guinea,0.3197647017684222,0,1,tr,SEA,Asia
 '03f33e230d',extremes,Earthquake,#870007,usgs,deprem şili,2026-01-15T10:56:00+00:00,Chile,0.3197559514631183,0,1,tr,SWS,South-America
 '0a2120b175',extremes,Earthquake,#870007,usgs,deprem diego de almagro,2026-01-15T10:56:00+00:00,Chile,0.3197547085914504,0,1,tr,SWS,South-America
@@ -151,6 +149,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '066ed457ed',extremes,Earthquake,#870007,usgs,deprem kuzey mariana adaları,2026-01-15T12:13:00+00:00,Northern Mariana Islands,0.2718149036199735,1,1,tr,NPO,Pacific Ocean
 '4ea40cfaf4',extremes,Earthquake,#870007,usgs,deprem prensi edward adaları bölgesi,2026-01-15T10:56:00+00:00,,0.2718086805399844,1,1,tr,SOO,Antarctica
 'f7921ef009',extremes,Earthquake,#870007,usgs,deprem vilyuchinsk,2026-01-15T10:56:00+00:00,Russia,0.2718074862869507,1,1,tr,RFE,Asia
+'6bf5e2061d',extremes,Earthquake,#870007,usgs,deprem kale noktası,2026-01-15T10:56:00+00:00,New Zealand,0.271805689718999,1,1,tr,NZ,Oceania
+'f5afb20efd',extremes,Earthquake,#870007,usgs,deprem güney sandviç adaları bölgesi,2026-01-15T10:56:00+00:00,,0.27180166524192223,1,1,tr,SOO,Antarctica
 'b6cef22543',extremes,Drought,#edc291,random,su kısıtlaması,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,tr,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosferik nehir,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,tr,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,soğuğu kaydedin,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,tr,,
