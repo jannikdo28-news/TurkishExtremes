@@ -3,7 +3,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bec5ab9e20',extremes,Precipitation,#d60d2b,wmo,yağmur dobrich varna silistra,2026-01-15T10:56:00+00:00,Bulgaria,0.5907472899139201,1,1,tr,MED,Europe
 '1d702e03bc',extremes,Precipitation,#d60d2b,wmo,sağanak bulgaristan,2026-01-15T12:14:00+00:00,Bulgaria,0.5903366910250424,1,1,tr,MED,Europe
 '23ed4f617b',extremes,Precipitation,#d60d2b,wmo,yağmur güneydoğu bölgesi,2026-01-25T04:06:00+00:00,North Macedonia,0.5867700821182398,1,2,tr,MED,Europe
-'6110d41627',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur Üsküp bölgesi,2026-01-26T04:09:00+00:00,North Macedonia,0.5698993250428068,0,1,tr,MED,Europe
 '3b5fd3f9c6',extremes,Thunderstorm,#53785a,wmo,şiddetli hava kıbrıs,2026-01-24T03:48:00+00:00,Cyprus,0.5650456020431261,1,1,tr,MED,Europe
 '908f74a83c',extremes,Snow&Ice,#d60d2b,wmo,dondurucu Bulgaristan,2026-01-21T03:56:00+00:00,Bulgaria,0.5511572745230702,1,1,tr,MED,Europe
 '6c138cde70',extremes,Earthquake,#870007,usgs,deprem sındırgı,2025-12-12T03:45:00+00:00,Turkey,0.5346350873736215,1,2,tr,MED,Asia
@@ -16,7 +15,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '62084daeb0',extremes,Earthquake,#870007,random,deprem,2026-01-15T10:39:00+00:00,,0.5032466780732374,1,3,tr,,
 '82d648b882',extremes,Drought,#edc291,random,kuraklık,2026-01-15T10:39:00+00:00,,0.4987615382736481,1,3,tr,,
 'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2026-01-15T10:57:00+00:00,Moldova,0.4885765331245796,1,1,tr,WCE,Europe
-'1690b6b5fa',extremes,Precipitation,#d60d2b,wmo,yağış doğu bölgesi,2026-01-26T04:09:00+00:00,North Macedonia,0.4853004899485724,0,1,tr,MED,Europe
+'1690b6b5fa',extremes,Precipitation,#d60d2b,wmo,yağış doğu bölgesi,2026-01-26T04:09:00+00:00,North Macedonia,0.48780544645628654,1,2,tr,MED,Europe
+'6110d41627',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur Üsküp bölgesi,2026-01-26T04:09:00+00:00,North Macedonia,0.4844144262863858,1,1,tr,MED,Europe
 '772b48a222',extremes,Precipitation,#d60d2b,wmo,yağmur polog bölgesi,2026-01-26T04:09:00+00:00,North Macedonia,0.4758219702437976,0,1,tr,MED,Europe
 'f685d1f47f',extremes,Drought,#edc291,edo,Kıbrıs'ta kuraklık,2026-01-15T10:57:00+00:00,Cyprus,0.4745658689492218,1,1,tr,MED,Europe
 '4f334dd4a7',extremes,Drought,#edc291,edo,yağmur eksikliği bulgaristan,2026-01-15T12:14:00+00:00,Bulgaria,0.4689021213898358,1,1,tr,MED,Europe
