@@ -34,6 +34,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0f6b56852d',extremes,Earthquake,#870007,usgs,deprem baculin,2026-01-15T10:56:00+00:00,Philippines,0.4222212519553181,1,2,tr,SEA,Asia
 'b0d647e9d3',extremes,Earthquake,#870007,usgs,deprem güneydoğu hint sırtı,2026-01-15T10:56:00+00:00,,0.4220731187011241,1,2,tr,SOO,Antarctica
 '9de3c9007e',extremes,Earthquake,#870007,usgs,deprem yakutat,2026-01-15T10:56:00+00:00,Alaska,0.4219244154149364,1,2,tr,NWN,North-America
+'da0b9741fb',extremes,Earthquake,#870007,usgs,deprem rancho viejo,2026-01-15T12:13:00+00:00,Mexico,0.42189401647431735,1,2,tr,SCA,North-America
 '69840e877f',extremes,Storm,#b3b2b1,wmo,fırtına bulgaristan,2026-01-17T03:44:00+00:00,Bulgaria,0.4164439197935374,1,1,tr,MED,Europe
 '39bab6b4e3',extremes,Drought,#edc291,edo,kuraklık türkiye,2026-01-21T03:56:00+00:00,Turkey,0.4163152287310364,1,1,tr,MED,Asia
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,şiddetli hava,2026-01-20T03:55:00+00:00,,0.4144332682085486,1,3,tr,,
@@ -86,7 +87,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '70773b5956',extremes,Earthquake,#870007,usgs,deprem alaska,2026-01-15T10:56:00+00:00,Alaska,0.32228150068297,1,1,tr,NWN,North-America
 '4594f1a372',extremes,Earthquake,#870007,usgs,deprem iran,2026-01-15T10:56:00+00:00,Iran,0.3222750194588121,1,1,tr,WCA,Asia
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,cıva düşüşleri,2026-01-22T03:59:00+00:00,,0.3202101394246374,1,1,tr,,
-'da0b9741fb',extremes,Earthquake,#870007,usgs,deprem rancho viejo,2026-01-15T12:13:00+00:00,Mexico,0.3196988252639028,0,1,tr,SCA,North-America
 '5bf34f285a',extremes,Earthquake,#870007,usgs,deprem italya,2026-01-15T10:56:00+00:00,Italy,0.3196985807356531,0,1,tr,MED,Europe
 '505a53d28b',extremes,Earthquake,#870007,usgs,deprem port vila,2026-01-15T10:56:00+00:00,Vanuatu,0.3196954803184954,0,1,tr,SPO,Oceania
 '8684156e57',extremes,Earthquake,#870007,usgs,deprem meleği,2026-01-15T12:13:00+00:00,Vanuatu,0.3196862671084346,0,1,tr,SPO,Pacific Ocean
