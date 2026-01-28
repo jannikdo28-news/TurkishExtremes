@@ -3,9 +3,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bec5ab9e20',extremes,Precipitation,#d60d2b,wmo,yağmur dobrich varna silistra,2026-01-15T10:56:00+00:00,Bulgaria,0.5907472899139201,1,1,tr,MED,Europe
 '1d702e03bc',extremes,Precipitation,#d60d2b,wmo,sağanak bulgaristan,2026-01-15T12:14:00+00:00,Bulgaria,0.5903366910250424,1,1,tr,MED,Europe
 '23ed4f617b',extremes,Precipitation,#d60d2b,wmo,yağmur güneydoğu bölgesi,2026-01-25T04:06:00+00:00,North Macedonia,0.5867700821182398,1,2,tr,MED,Europe
+'cc59e040c2',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur vardar bölgesi,2026-01-27T03:58:00+00:00,North Macedonia,0.5751274651685072,0,1,tr,MED,Europe
 '1f343ea703',extremes,Earthquake,#870007,usgs,deprem doğanyol,2026-01-15T12:13:00+00:00,Turkey,0.5714947736278322,2,1,tr,MED,Asia
 '3b5fd3f9c6',extremes,Thunderstorm,#53785a,wmo,şiddetli hava kıbrıs,2026-01-24T03:48:00+00:00,Cyprus,0.5650456020431261,1,1,tr,MED,Europe
 '908f74a83c',extremes,Snow&Ice,#d60d2b,wmo,dondurucu Bulgaristan,2026-01-21T03:56:00+00:00,Bulgaria,0.5511572745230702,1,1,tr,MED,Europe
+'89426ddfd9',extremes,Fog,#d60d2b,wmo,Moldova sisi,2026-01-28T03:56:00+00:00,Moldova,0.5370987169565331,0,1,tr,WCE,Europe
 '924042ea68',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur bulgaristan,2026-01-26T04:09:00+00:00,Bulgaria,0.5357885732153059,1,1,tr,MED,Europe
 '0be5ded7e1',extremes,Drought,#edc291,edo,kuruluk hindi,2026-01-15T10:57:00+00:00,Turkey,0.5322773873962832,1,1,tr,MED,Asia
 '65d103c340',extremes,Precipitation,#d60d2b,wmo,yağmur kuzey makedonya,2026-01-25T04:06:00+00:00,North Macedonia,0.5129947798941957,1,1,tr,MED,Europe
@@ -80,6 +82,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '560b05d603',extremes,Heat Wave,#c40202,random,sıcak hava dalgası,2026-01-18T03:56:00+00:00,,0.3375420458851556,1,1,tr,,
 '9797aa6299',extremes,Drought,#edc291,edo,yağmur eksikliği kıbrıs,2026-01-24T03:49:00+00:00,Cyprus,0.3362301676878984,1,1,tr,MED,Europe
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,buzdağı buzağılama,2026-01-19T04:02:00+00:00,,0.3348794352955919,1,1,tr,,
+'a5ff1cde4a',extremes,Drought,#edc291,random,toprak nemi,2026-01-28T03:56:00+00:00,,0.33466874911870864,0,1,tr,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,kar fırtınası,2026-01-15T10:56:00+00:00,,0.3344515297349608,0,1,tr,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,hava cephesi,2026-01-15T10:56:00+00:00,,0.3298698012195951,1,2,tr,,
 '3e4b341619',extremes,Storm,#b3b2b1,random,fırtına,2026-01-20T03:55:00+00:00,,0.3288165914676854,0,1,tr,,
@@ -120,7 +123,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2725619969',extremes,Earthquake,#870007,usgs,deprem hanawa,2026-01-15T12:13:00+00:00,Japan,0.3195356071355527,0,1,tr,EAS,Asia
 '74236bd182',extremes,Drought,#edc291,edo,İzlanda'da yağmur eksikliği,2026-01-15T10:57:00+00:00,Iceland,0.3195301763658332,0,1,tr,GIC,Europe
 '40a849aef3',extremes,Earthquake,#870007,usgs,deprem zhaotong,2026-01-15T12:13:00+00:00,China,0.3195106860766282,0,1,tr,EAS,Asia
+'a6144d1f04',extremes,Earthquake,#870007,usgs,deprem sıçan adaları aleutian adaları alaska,2026-01-15T10:56:00+00:00,,0.3194963093664921,0,1,tr,NPO,Pacific Ocean
+'0816dd344b',extremes,Earthquake,#870007,usgs,deprem lae,2026-01-15T10:56:00+00:00,Papua New Guinea,0.3194929068163263,0,1,tr,SEA,Asia
 'f986f74559',extremes,Earthquake,#870007,usgs,deprem yonakuni,2026-01-15T10:56:00+00:00,Japan,0.3194878129364829,0,1,tr,EAS,Asia
+'e1559df16c',extremes,Earthquake,#870007,usgs,deprem tobelo,2026-01-15T10:56:00+00:00,Indonesia,0.3194694374992225,0,1,tr,SEA,Asia
 'daed8f4597',extremes,Earthquake,#870007,usgs,deprem somali,2026-01-15T12:13:00+00:00,Somalia,0.3156712953814893,1,1,tr,NEAF,Africa
 '8b4587c763',extremes,Storm,#b3b2b1,random,toz fırtınası,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,tr,,
 'd59a7e48d7',extremes,Drought,#edc291,random,buharlaşma-terleme,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,tr,,
