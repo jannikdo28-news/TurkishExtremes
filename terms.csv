@@ -110,6 +110,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '731557e0bc',extremes,Earthquake,#870007,usgs,timor leste depremi,2026-01-15T10:56:00+00:00,Timor Leste,0.3196242788058043,0,1,tr,SEA,Asia
 '7d68920b56',extremes,Earthquake,#870007,usgs,deprem Nikaragua,2026-01-15T10:56:00+00:00,Nicaragua,0.3196080006379447,0,1,tr,SCA,North-America
 'eabe6169ab',extremes,Earthquake,#870007,usgs,deprem tongası,2026-01-15T10:56:00+00:00,Tonga,0.3195783635027257,0,1,tr,SPO,Pacific Ocean
+'f199635353',extremes,Earthquake,#870007,usgs,deprem morigaonu,2026-01-15T10:56:00+00:00,India,0.31957535918298335,0,1,tr,SAS,Asia
 'c42e3feacc',extremes,Earthquake,#870007,usgs,kuril adalarının kuzeybatısında deprem,2026-01-15T10:56:00+00:00,,0.3195688126309816,0,1,tr,RFE,Asia
 'f6ff301646',extremes,Drought,#edc291,edo,kuraklık somali,2026-01-15T10:57:00+00:00,Somalia,0.3195655994444291,0,1,tr,NEAF,Africa
 'd9cc56f031',extremes,Drought,#edc291,edo,Kuraklık Tacikistan,2026-01-15T10:57:00+00:00,Tajikistan,0.3195640466482966,0,1,tr,WCA,Asia
@@ -117,6 +118,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cce4634973',extremes,Drought,#edc291,edo,kuraklık kenya,2026-01-15T10:57:00+00:00,Kenya,0.3195427369737428,0,1,tr,SEAF,Africa
 '08226562a9',extremes,Earthquake,#870007,usgs,deprem fais,2026-01-15T10:56:00+00:00,Micronesia,0.3195394583161646,0,1,tr,NPO,Pacific Ocean
 '43540d11be',extremes,Earthquake,#870007,usgs,deprem akkeshi,2026-01-15T10:56:00+00:00,Japan,0.319536041667731,0,1,tr,EAS,Asia
+'2725619969',extremes,Earthquake,#870007,usgs,deprem hanawa,2026-01-15T12:13:00+00:00,Japan,0.3195356071355527,0,1,tr,EAS,Asia
+'74236bd182',extremes,Drought,#edc291,edo,İzlanda'da yağmur eksikliği,2026-01-15T10:57:00+00:00,Iceland,0.3195301763658332,0,1,tr,GIC,Europe
+'40a849aef3',extremes,Earthquake,#870007,usgs,deprem zhaotong,2026-01-15T12:13:00+00:00,China,0.3195106860766282,0,1,tr,EAS,Asia
+'f986f74559',extremes,Earthquake,#870007,usgs,deprem yonakuni,2026-01-15T10:56:00+00:00,Japan,0.3194878129364829,0,1,tr,EAS,Asia
 'daed8f4597',extremes,Earthquake,#870007,usgs,deprem somali,2026-01-15T12:13:00+00:00,Somalia,0.3156712953814893,1,1,tr,NEAF,Africa
 '8b4587c763',extremes,Storm,#b3b2b1,random,toz fırtınası,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,tr,,
 'd59a7e48d7',extremes,Drought,#edc291,random,buharlaşma-terleme,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,tr,,
