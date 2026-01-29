@@ -81,8 +81,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,buzdağı arctis,2026-01-21T03:55:00+00:00,,0.3378656724753853,1,1,tr,,
 '560b05d603',extremes,Heat Wave,#c40202,random,sıcak hava dalgası,2026-01-18T03:56:00+00:00,,0.3375420458851556,1,1,tr,,
 '9797aa6299',extremes,Drought,#edc291,edo,yağmur eksikliği kıbrıs,2026-01-24T03:49:00+00:00,Cyprus,0.3362301676878984,1,1,tr,MED,Europe
+'a5ff1cde4a',extremes,Drought,#edc291,random,toprak nemi,2026-01-28T03:56:00+00:00,,0.3353685267509023,1,1,tr,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,buzdağı buzağılama,2026-01-19T04:02:00+00:00,,0.3348794352955919,1,1,tr,,
-'a5ff1cde4a',extremes,Drought,#edc291,random,toprak nemi,2026-01-28T03:56:00+00:00,,0.3346687491187086,0,1,tr,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,kar fırtınası,2026-01-15T10:56:00+00:00,,0.3344515297349608,0,1,tr,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,hava cephesi,2026-01-15T10:56:00+00:00,,0.3298698012195951,1,2,tr,,
 '3e4b341619',extremes,Storm,#b3b2b1,random,fırtına,2026-01-20T03:55:00+00:00,,0.3288165914676854,0,1,tr,,
@@ -128,9 +128,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f986f74559',extremes,Earthquake,#870007,usgs,deprem yonakuni,2026-01-15T10:56:00+00:00,Japan,0.3194878129364829,0,1,tr,EAS,Asia
 '0e39632695',extremes,Drought,#edc291,edo,İran'da yağmur eksikliği,2026-01-15T10:57:00+00:00,Iran,0.3194737814584171,0,1,tr,WCA,Asia
 'e1559df16c',extremes,Earthquake,#870007,usgs,deprem tobelo,2026-01-15T10:56:00+00:00,Indonesia,0.3194694374992225,0,1,tr,SEA,Asia
-'958e326b08',extremes,Earthquake,#870007,usgs,deprem bonin adaları japonya bölgesi,2026-01-15T10:56:00+00:00,,0.31946011211228353,0,1,tr,NPO,Pacific Ocean
-'c25ecb1005',extremes,Earthquake,#870007,usgs,deprem yılan,2026-01-15T10:56:00+00:00,Taiwan,0.31945485899156206,0,1,tr,EAS,Asia
-'06532967b8',extremes,Drought,#edc291,edo,yağmur eksikliği brezilya,2026-01-15T10:57:00+00:00,Brazil,0.31944700721575636,0,1,tr,SAM,South-America
+'958e326b08',extremes,Earthquake,#870007,usgs,deprem bonin adaları japonya bölgesi,2026-01-15T10:56:00+00:00,,0.3194601121122835,0,1,tr,NPO,Pacific Ocean
+'c25ecb1005',extremes,Earthquake,#870007,usgs,deprem yılan,2026-01-15T10:56:00+00:00,Taiwan,0.319454858991562,0,1,tr,EAS,Asia
+'06532967b8',extremes,Drought,#edc291,edo,yağmur eksikliği brezilya,2026-01-15T10:57:00+00:00,Brazil,0.3194470072157563,0,1,tr,SAM,South-America
 'daed8f4597',extremes,Earthquake,#870007,usgs,deprem somali,2026-01-15T12:13:00+00:00,Somalia,0.3156712953814893,1,1,tr,NEAF,Africa
 '8b4587c763',extremes,Storm,#b3b2b1,random,toz fırtınası,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,tr,,
 'd59a7e48d7',extremes,Drought,#edc291,random,buharlaşma-terleme,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,tr,,
