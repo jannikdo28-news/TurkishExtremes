@@ -68,6 +68,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fbaa1c52eb',extremes,Drought,#edc291,edo,kuruluk kıbrıs,2026-01-19T04:03:00+00:00,Cyprus,0.3703392551113603,1,1,tr,MED,Europe
 '69791e5a17',extremes,Flood,#030ba1,random,ani sel,2026-01-17T03:44:00+00:00,,0.3695427186585041,1,3,tr,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,donma,2026-01-22T03:59:00+00:00,,0.3682520372615738,1,2,tr,,
+'ccefefc59e',extremes,Drought,#edc291,random,ani kuraklık,2026-01-15T10:20:00+00:00,,0.36806588408668495,1,2,tr,,
 'c9080fa8ac',extremes,Drought,#edc291,edo,Kuzey Makedonya'da kuraklık,2026-01-15T12:14:00+00:00,North Macedonia,0.3628199137281093,2,1,tr,MED,Europe
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,deprem yeni zelanda,2026-01-15T10:56:00+00:00,New Zealand,0.3626021390906192,1,2,tr,NZ,Oceania
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,sulu kar,2026-01-15T12:13:00+00:00,,0.3623016721052898,1,1,tr,,
@@ -127,7 +128,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '40a849aef3',extremes,Earthquake,#870007,usgs,deprem zhaotong,2026-01-15T12:13:00+00:00,China,0.3195106860766282,0,1,tr,EAS,Asia
 'a6144d1f04',extremes,Earthquake,#870007,usgs,deprem sıçan adaları aleutian adaları alaska,2026-01-15T10:56:00+00:00,,0.3194963093664921,0,1,tr,NPO,Pacific Ocean
 '0816dd344b',extremes,Earthquake,#870007,usgs,deprem lae,2026-01-15T10:56:00+00:00,Papua New Guinea,0.3194929068163263,0,1,tr,SEA,Asia
-'f986f74559',extremes,Earthquake,#870007,usgs,deprem yonakuni,2026-01-15T10:56:00+00:00,Japan,0.3194878129364829,0,1,tr,EAS,Asia
 '0e39632695',extremes,Drought,#edc291,edo,İran'da yağmur eksikliği,2026-01-15T10:57:00+00:00,Iran,0.3194737814584171,0,1,tr,WCA,Asia
 '1a5e4bce35',extremes,Drought,#edc291,edo,yağmur eksikliği kuveyt,2026-01-15T10:57:00+00:00,Kuwait,0.3194730257656478,0,1,tr,ARP,Asia
 'e1559df16c',extremes,Earthquake,#870007,usgs,deprem tobelo,2026-01-15T10:56:00+00:00,Indonesia,0.3194694374992225,0,1,tr,SEA,Asia
@@ -231,12 +231,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ba6e07a583',extremes,Storm,#b3b2b1,emdat,hasakeh valiliklerinde fırtına,2026-01-15T10:57:00+00:00,Syria,0.2717310539086509,1,1,tr,MED,Asia
 'cc449c3731',extremes,Earthquake,#870007,usgs,deprem kermadec adaları bölgesi,2026-01-15T10:56:00+00:00,,0.2717250609168859,1,1,tr,SPO,Pacific Ocean
 '5484f48de4',extremes,Earthquake,#870007,usgs,Hint sırtının ortasında deprem,2026-01-15T10:56:00+00:00,,0.2717248220686753,1,1,tr,SIO,Indian Ocean
+'f986f74559',extremes,Earthquake,#870007,usgs,deprem yonakuni,2026-01-15T10:56:00+00:00,Japan,0.2715646409960104,1,1,tr,EAS,Asia
 'b6cef22543',extremes,Drought,#edc291,random,su kısıtlaması,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,tr,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosferik nehir,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,tr,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,soğuğu kaydedin,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,tr,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arktik deniz buzu,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,tr,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,tr,,
-'ccefefc59e',extremes,Drought,#edc291,random,ani kuraklık,2026-01-15T10:20:00+00:00,,0.2561951224549235,0,1,tr,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tayfun,2026-01-15T10:20:00+00:00,,0.2560990530904549,0,1,tr,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,buzul buzağılaması,2026-01-15T10:20:00+00:00,,0.2545099887501987,0,1,tr,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,en soğuk yıl,2026-01-15T10:20:00+00:00,,0.2398044025496697,1,2,tr,,
