@@ -102,6 +102,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '70773b5956',extremes,Earthquake,#870007,usgs,deprem alaska,2026-01-15T10:56:00+00:00,Alaska,0.32228150068297,1,1,tr,NWN,North-America
 '4594f1a372',extremes,Earthquake,#870007,usgs,deprem iran,2026-01-15T10:56:00+00:00,Iran,0.3222750194588121,1,1,tr,WCA,Asia
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,cıva düşüşleri,2026-01-22T03:59:00+00:00,,0.3202101394246374,1,1,tr,,
+'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,tropikal kasırga italya,2026-01-28T03:57:00+00:00,Italy,0.3200075473236523,0,1,tr,MED,Europe
 '53e17b7a15',extremes,Earthquake,#870007,usgs,deprem houma,2026-01-15T10:56:00+00:00,Tonga,0.3196466018795789,0,1,tr,SPO,Pacific Ocean
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,deprem hindistan,2026-01-15T10:56:00+00:00,India,0.3196398560337847,0,1,tr,SAS,Asia
 '2407b3a8ab',extremes,Drought,#edc291,edo,kuruluk burundi,2026-01-15T10:57:00+00:00,Burundi,0.3196375825182323,0,1,tr,SEAF,Africa
@@ -137,6 +138,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eb91bf9344',extremes,Earthquake,#870007,usgs,Kermadec adalarının güneyinde deprem,2026-01-15T10:56:00+00:00,,0.3194433959116101,0,1,tr,SPO,Pacific Ocean
 'bef1a25283',extremes,Drought,#edc291,edo,Kuraklık Suriye,2026-01-15T10:57:00+00:00,Syria,0.3194401627265655,0,1,tr,MED,Asia
 '1c9dc747da',extremes,Drought,#edc291,edo,yağmur eksikliği küba,2026-01-15T10:57:00+00:00,Cuba,0.319438728692943,0,1,tr,CAR,North-America
+'16348a6786',extremes,Drought,#edc291,edo,Kuraklık Tunus,2026-01-15T10:57:00+00:00,Tunisia,0.31943838840514277,0,1,tr,MED,Africa
 'a627698ed3',extremes,Earthquake,#870007,usgs,deprem santiago,2026-01-15T10:56:00+00:00,Philippines,0.3194338133381616,0,1,tr,SEA,Asia
 'b9418001ff',extremes,Earthquake,#870007,usgs,deprem bitung,2026-01-15T10:56:00+00:00,Indonesia,0.319433633471652,0,1,tr,SEA,Asia
 'ebe3f8a23f',extremes,Drought,#edc291,edo,yağmur eksikliği kiribati,2026-01-15T10:57:00+00:00,Kiribati,0.3194305040332959,0,1,tr,EAO,Atlantic Ocean
@@ -144,6 +146,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1613eab3ee',extremes,Drought,#edc291,edo,yağmur eksikliği etiyopya,2026-01-15T10:57:00+00:00,Ethiopia,0.3194186726390862,0,1,tr,NEAF,Africa
 'f1493fbbc1',extremes,Drought,#edc291,edo,yağmur eksikliği bouvet adası,2026-01-15T10:57:00+00:00,Bouvet Island,0.3194139236097523,0,1,tr,SOO,Antarctica
 '5bd3759e67',extremes,Drought,#edc291,edo,kuraklık wallis ve futuna,2026-01-15T10:57:00+00:00,Wallis and Futuna,0.31941119043432,0,1,tr,SPO,Pacific Ocean
+'69a64e0e6b',extremes,Drought,#edc291,edo,kuruluk irak,2026-01-15T10:57:00+00:00,Iraq,0.3193951598575566,0,1,tr,WCA,Asia
+'3c0d8a70ba',extremes,Earthquake,#870007,usgs,deprem finschhafen,2026-01-15T12:13:00+00:00,Papua New Guinea,0.3193941326949972,0,1,tr,SEA,Asia
 'daed8f4597',extremes,Earthquake,#870007,usgs,deprem somali,2026-01-15T12:13:00+00:00,Somalia,0.3156712953814893,1,1,tr,NEAF,Africa
 '8b4587c763',extremes,Storm,#b3b2b1,random,toz fırtınası,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,tr,,
 'd59a7e48d7',extremes,Drought,#edc291,random,buharlaşma-terleme,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,tr,,
