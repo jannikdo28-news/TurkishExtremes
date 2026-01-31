@@ -105,7 +105,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '53e17b7a15',extremes,Earthquake,#870007,usgs,deprem houma,2026-01-15T10:56:00+00:00,Tonga,0.3196466018795789,0,1,tr,SPO,Pacific Ocean
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,deprem hindistan,2026-01-15T10:56:00+00:00,India,0.3196398560337847,0,1,tr,SAS,Asia
 '2407b3a8ab',extremes,Drought,#edc291,edo,kuruluk burundi,2026-01-15T10:57:00+00:00,Burundi,0.3196375825182323,0,1,tr,SEAF,Africa
-'485794e3d4',extremes,Earthquake,#870007,usgs,deprem kanada,2026-01-15T12:13:00+00:00,Canada,0.3196374775984123,0,1,tr,NWN,North-America
 '3ba62ce4f2',extremes,Earthquake,#870007,usgs,deprem yunanistan,2026-01-15T10:56:00+00:00,Greece,0.3196343064074037,0,1,tr,MED,Europe
 '526ac614cf',extremes,Earthquake,#870007,usgs,deprem sainte marie,2026-01-15T12:13:00+00:00,Martinique,0.3196320647270624,0,1,tr,CAR,North-America
 '909be204f9',extremes,Earthquake,#870007,usgs,Sadakat adalarının güneydoğusundaki deprem,2026-01-15T10:56:00+00:00,,0.3196248459197977,0,1,tr,SPO,Pacific Ocean
@@ -156,6 +155,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4e1d59e985',extremes,Precipitation,#d60d2b,wmo,yağmur bulgaristan,2026-01-15T10:56:00+00:00,Bulgaria,0.3106452496143368,1,1,tr,MED,Europe
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,bomba kasırgası,2026-01-15T10:56:00+00:00,,0.3092974987090162,1,1,tr,,
 'e3af58f5da',extremes,Drought,#edc291,edo,kuruluk bulgaristan,2026-01-15T10:57:00+00:00,Bulgaria,0.3072989490295514,1,1,tr,MED,Europe
+'485794e3d4',extremes,Earthquake,#870007,usgs,deprem kanada,2026-01-15T12:13:00+00:00,Canada,0.3063753242919838,1,1,tr,NWN,North-America
 '283b154c38',extremes,Wet Spell,#d60d2b,random,ıslak büyü,2026-01-15T12:13:00+00:00,,0.3061723629772925,1,1,tr,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,rekor ısı,2026-01-21T03:55:00+00:00,,0.302534602528104,1,1,tr,,
 'a652c78afc',extremes,Drought,#edc291,random,mega kuraklık,2026-01-18T03:56:00+00:00,,0.3006146746719527,1,1,tr,,
