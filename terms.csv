@@ -1,6 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '785dd66d15',extremes,Snow&Ice,#d60d2b,wmo,kar bulgaristan,2026-02-01T04:41:00+00:00,Bulgaria,0.6277715676107397,1,2,tr,MED,Europe
 'b520ea04bb',extremes,Snow&Ice,#d60d2b,wmo,don bulgaristan,2026-02-01T04:41:00+00:00,Bulgaria,0.6028079678896892,2,2,tr,MED,Europe
+'23ed4f617b',extremes,Precipitation,#d60d2b,wmo,yağmur güneydoğu bölgesi,2026-01-25T04:06:00+00:00,North Macedonia,0.5740914120804282,3,2,tr,MED,Europe
 '1f343ea703',extremes,Earthquake,#870007,usgs,deprem doğanyol,2026-01-15T12:13:00+00:00,Turkey,0.5714947736278322,2,1,tr,MED,Asia
 'ea363a8d9a',extremes,Snow&Ice,#d60d2b,wmo,buz bulgaristan,2026-02-01T04:41:00+00:00,Bulgaria,0.5656834306349042,1,1,tr,MED,Europe
 '1e73286365',extremes,Cold Wave,#a7e9fa,wmo,Bulgaristan'ın donması,2026-02-02T04:36:00+00:00,Bulgaria,0.5617828943833065,1,1,tr,MED,Europe
@@ -17,7 +18,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bec5ab9e20',extremes,Precipitation,#d60d2b,wmo,yağmur dobrich varna silistra,2026-01-15T10:56:00+00:00,Bulgaria,0.5021351964268321,2,1,tr,MED,Europe
 '1d702e03bc',extremes,Precipitation,#d60d2b,wmo,sağanak bulgaristan,2026-01-15T12:14:00+00:00,Bulgaria,0.501786187371286,2,1,tr,MED,Europe
 '82d648b882',extremes,Drought,#edc291,random,kuraklık,2026-01-15T10:39:00+00:00,,0.4987615382736481,1,3,tr,,
-'23ed4f617b',extremes,Precipitation,#d60d2b,wmo,yağmur güneydoğu bölgesi,2026-01-25T04:06:00+00:00,North Macedonia,0.4987545848005038,2,1,tr,MED,Europe
 'ee67546360',extremes,Precipitation,#d60d2b,wmo,yağış bulgaristan,2026-01-30T04:21:00+00:00,Bulgaria,0.4947211815234065,1,1,tr,MED,Europe
 'cc59e040c2',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur vardar bölgesi,2026-01-27T03:58:00+00:00,North Macedonia,0.4888583453932311,1,1,tr,MED,Europe
 'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2026-01-15T10:57:00+00:00,Moldova,0.4885765331245796,1,1,tr,WCE,Europe
@@ -54,7 +54,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'da0b9741fb',extremes,Earthquake,#870007,usgs,deprem rancho viejo,2026-01-15T12:13:00+00:00,Mexico,0.4218940164743173,1,2,tr,SCA,North-America
 'f200ff28aa',extremes,Earthquake,#870007,usgs,deprem amerika birleşik devletleri,2026-01-15T10:56:00+00:00,United States,0.4218729015411429,1,2,tr,WNA,North-America
 '16348a6786',extremes,Drought,#edc291,edo,Kuraklık Tunus,2026-01-15T10:57:00+00:00,Tunisia,0.4216726451443713,1,2,tr,MED,Africa
-'00ae724501',extremes,Snow&Ice,#d60d2b,wmo,buz kuzey makedonya,2026-02-01T04:41:00+00:00,North Macedonia,0.42141094736840917,2,1,tr,MED,Europe
+'00ae724501',extremes,Snow&Ice,#d60d2b,wmo,buz kuzey makedonya,2026-02-01T04:41:00+00:00,North Macedonia,0.4214109473684091,2,1,tr,MED,Europe
 '2332e761a7',extremes,Precipitation,#d60d2b,wmo,sağanak kuzeydoğu bölgesi,2026-02-01T04:41:00+00:00,North Macedonia,0.41865843291103,1,1,tr,MED,Europe
 '69840e877f',extremes,Storm,#b3b2b1,wmo,fırtına bulgaristan,2026-01-17T03:44:00+00:00,Bulgaria,0.4164439197935374,1,1,tr,MED,Europe
 '39bab6b4e3',extremes,Drought,#edc291,edo,kuraklık türkiye,2026-01-21T03:56:00+00:00,Turkey,0.4163152287310364,1,1,tr,MED,Asia
@@ -152,7 +152,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4e1d59e985',extremes,Precipitation,#d60d2b,wmo,yağmur bulgaristan,2026-01-15T10:56:00+00:00,Bulgaria,0.3106452496143368,1,1,tr,MED,Europe
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,deprem hindistan,2026-01-15T10:56:00+00:00,India,0.309793937628717,1,1,tr,SAS,Asia
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,bomba kasırgası,2026-01-15T10:56:00+00:00,,0.3092974987090162,1,1,tr,,
-'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tayfun,2026-01-15T10:20:00+00:00,,0.30899931649052303,1,3,tr,,
+'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tayfun,2026-01-15T10:20:00+00:00,,0.308999316490523,1,3,tr,,
 'e3af58f5da',extremes,Drought,#edc291,edo,kuruluk bulgaristan,2026-01-15T10:57:00+00:00,Bulgaria,0.3072989490295514,1,1,tr,MED,Europe
 '485794e3d4',extremes,Earthquake,#870007,usgs,deprem kanada,2026-01-15T12:13:00+00:00,Canada,0.3063753242919838,1,1,tr,NWN,North-America
 '283b154c38',extremes,Wet Spell,#d60d2b,random,ıslak büyü,2026-01-15T12:13:00+00:00,,0.3061723629772925,1,1,tr,,
@@ -271,9 +271,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b9418001ff',extremes,Earthquake,#870007,usgs,deprem bitung,2026-01-15T10:56:00+00:00,Indonesia,0.2715185884509042,1,1,tr,SEA,Asia
 'ebe3f8a23f',extremes,Drought,#edc291,edo,yağmur eksikliği kiribati,2026-01-15T10:57:00+00:00,Kiribati,0.2715159284283015,1,1,tr,EAO,Atlantic Ocean
 '5bd3759e67',extremes,Drought,#edc291,edo,kuraklık wallis ve futuna,2026-01-15T10:57:00+00:00,Wallis and Futuna,0.271499511869172,1,1,tr,SPO,Pacific Ocean
-'9845e6aafe',extremes,Drought,#edc291,edo,kuraklık kuzey mariana adaları,2026-01-15T10:57:00+00:00,Northern Mariana Islands,0.27149432657737627,1,1,tr,NPO,Pacific Ocean
-'f5090b53e9',extremes,Drought,#edc291,edo,kuruluk fransız polinezyası,2026-01-15T10:57:00+00:00,French Polynesia,0.27148342008236065,1,1,tr,SPO,Pacific Ocean
-'1918ad6f9e',extremes,Drought,#edc291,edo,kuraklık tuvalu,2026-01-15T10:57:00+00:00,Tuvalu,0.27147055309037676,1,1,tr,EPO,Pacific Ocean
+'9845e6aafe',extremes,Drought,#edc291,edo,kuraklık kuzey mariana adaları,2026-01-15T10:57:00+00:00,Northern Mariana Islands,0.2714943265773762,1,1,tr,NPO,Pacific Ocean
+'f5090b53e9',extremes,Drought,#edc291,edo,kuruluk fransız polinezyası,2026-01-15T10:57:00+00:00,French Polynesia,0.2714834200823606,1,1,tr,SPO,Pacific Ocean
+'1918ad6f9e',extremes,Drought,#edc291,edo,kuraklık tuvalu,2026-01-15T10:57:00+00:00,Tuvalu,0.2714705530903767,1,1,tr,EPO,Pacific Ocean
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,soğuğu kaydedin,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,tr,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arktik deniz buzu,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,tr,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,tr,,
