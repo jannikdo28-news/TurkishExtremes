@@ -111,12 +111,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b994dcebdd',extremes,Drought,#edc291,edo,Kuraklık Bulgaristan,2026-01-21T03:56:00+00:00,Bulgaria,0.3249202376415849,1,1,tr,MED,Europe
 '70773b5956',extremes,Earthquake,#870007,usgs,deprem alaska,2026-01-15T10:56:00+00:00,Alaska,0.32228150068297,1,1,tr,NWN,North-America
 '4594f1a372',extremes,Earthquake,#870007,usgs,deprem iran,2026-01-15T10:56:00+00:00,Iran,0.3222750194588121,1,1,tr,WCA,Asia
+'bef1a25283',extremes,Drought,#edc291,edo,Kuraklık Suriye,2026-01-15T10:57:00+00:00,Syria,0.32197418331758065,1,1,tr,MED,Asia
 '904c16f856',extremes,Drought,#edc291,edo,kuraklık dönemi,2026-01-15T10:57:00+00:00,Togo,0.3219126115204829,1,1,tr,WAF,Africa
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,cıva düşüşleri,2026-01-22T03:59:00+00:00,,0.3202101394246374,1,1,tr,,
-'958e326b08',extremes,Earthquake,#870007,usgs,deprem bonin adaları japonya bölgesi,2026-01-15T10:56:00+00:00,,0.3194601121122835,0,1,tr,NPO,Pacific Ocean
-'34799f2163',extremes,Drought,#edc291,edo,kuraklık kongo cumhuriyeti,2026-01-15T10:57:00+00:00,Republic of the Congo,0.3194515879691881,0,1,tr,CAF,Africa
-'06532967b8',extremes,Drought,#edc291,edo,yağmur eksikliği brezilya,2026-01-15T10:57:00+00:00,Brazil,0.3194470072157563,0,1,tr,SAM,South-America
-'bef1a25283',extremes,Drought,#edc291,edo,Kuraklık Suriye,2026-01-15T10:57:00+00:00,Syria,0.3194401627265655,0,1,tr,MED,Asia
 'a627698ed3',extremes,Earthquake,#870007,usgs,deprem santiago,2026-01-15T10:56:00+00:00,Philippines,0.3194338133381616,0,1,tr,SEA,Asia
 '3f59d8a7a4',extremes,Drought,#edc291,edo,kuraklık ermenistan,2026-01-15T10:57:00+00:00,Armenia,0.3194219355111868,0,1,tr,WCA,Asia
 '1613eab3ee',extremes,Drought,#edc291,edo,yağmur eksikliği etiyopya,2026-01-15T10:57:00+00:00,Ethiopia,0.3194186726390862,0,1,tr,NEAF,Africa
@@ -146,8 +143,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2072c25fd3',extremes,Drought,#edc291,edo,kuraklık Guyana,2026-01-15T10:57:00+00:00,Guyana,0.3193318160482953,0,1,tr,NSA,South-America
 '925cc6c6e9',extremes,Drought,#edc291,edo,Kuraklık Kosta Rika,2026-01-15T10:57:00+00:00,Costa Rica,0.3193315261263682,0,1,tr,SCA,South-America
 '6797a9705d',extremes,Drought,#edc291,edo,kuraklık jamaika,2026-01-15T10:57:00+00:00,Jamaica,0.3193252325143567,0,1,tr,CAR,North-America
-'474905c6c6',extremes,Drought,#edc291,edo,yağmur eksikliği Namibya,2026-01-15T10:57:00+00:00,Namibia,0.31932025368051736,0,1,tr,WSAF,Africa
-'6cfc55b8b1',extremes,Drought,#edc291,edo,kuruluk bonaire saint eustatius ve saba,2026-01-15T10:57:00+00:00,Bonaire; Saint Eustatius and Saba ,0.31931075145496013,0,1,tr,CAR,North-America
+'474905c6c6',extremes,Drought,#edc291,edo,yağmur eksikliği Namibya,2026-01-15T10:57:00+00:00,Namibia,0.3193202536805173,0,1,tr,WSAF,Africa
+'6cfc55b8b1',extremes,Drought,#edc291,edo,kuruluk bonaire saint eustatius ve saba,2026-01-15T10:57:00+00:00,Bonaire; Saint Eustatius and Saba ,0.3193107514549601,0,1,tr,CAR,North-America
 '04bee72edb',extremes,Drought,#edc291,edo,yağmur eksikliği antigua ve barbuda,2026-01-15T10:57:00+00:00,Antigua and Barbuda,0.3192995257692845,0,1,tr,CAR,North-America
 'daed8f4597',extremes,Earthquake,#870007,usgs,deprem somali,2026-01-15T12:13:00+00:00,Somalia,0.3156712953814893,1,1,tr,NEAF,Africa
 '8b4587c763',extremes,Storm,#b3b2b1,random,toz fırtınası,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,tr,,
@@ -278,7 +275,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0e39632695',extremes,Drought,#edc291,edo,İran'da yağmur eksikliği,2026-01-15T10:57:00+00:00,Iran,0.2715527142396545,1,1,tr,WCA,Asia
 '1a5e4bce35',extremes,Drought,#edc291,edo,yağmur eksikliği kuveyt,2026-01-15T10:57:00+00:00,Kuwait,0.2715520719008006,1,1,tr,ARP,Asia
 'c29a12e099',extremes,Earthquake,#870007,usgs,deprem san vicente de cañete,2026-01-15T12:13:00+00:00,Peru,0.2715416777646466,1,1,tr,NWS,South-America
+'958e326b08',extremes,Earthquake,#870007,usgs,deprem bonin adaları japonya bölgesi,2026-01-15T10:56:00+00:00,,0.27154109529544096,1,1,tr,NPO,Pacific Ocean
 '0ca87424f0',extremes,Drought,#edc291,edo,kuruluk fas,2026-01-15T10:57:00+00:00,Morocco,0.2715361379186661,1,1,tr,MED,Africa
+'34799f2163',extremes,Drought,#edc291,edo,kuraklık kongo cumhuriyeti,2026-01-15T10:57:00+00:00,Republic of the Congo,0.2715338497738099,1,1,tr,CAF,Africa
+'06532967b8',extremes,Drought,#edc291,edo,yağmur eksikliği brezilya,2026-01-15T10:57:00+00:00,Brazil,0.27152995613339287,1,1,tr,SAM,South-America
 'eb91bf9344',extremes,Earthquake,#870007,usgs,Kermadec adalarının güneyinde deprem,2026-01-15T10:56:00+00:00,,0.2715268865248685,1,1,tr,SPO,Pacific Ocean
 '1c9dc747da',extremes,Drought,#edc291,edo,yağmur eksikliği küba,2026-01-15T10:57:00+00:00,Cuba,0.2715229193890015,1,1,tr,CAR,North-America
 'b9418001ff',extremes,Earthquake,#870007,usgs,deprem bitung,2026-01-15T10:56:00+00:00,Indonesia,0.2715185884509042,1,1,tr,SEA,Asia
