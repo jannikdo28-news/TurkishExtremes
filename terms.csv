@@ -144,7 +144,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cdbf3f27ef',extremes,Drought,#edc291,edo,kuraklık haiti,2026-01-15T10:57:00+00:00,Haiti,0.3193394836946488,0,1,tr,CAR,North-America
 '685995fcc4',extremes,Earthquake,#870007,usgs,Macquarie adasının batısında deprem,2026-01-15T10:56:00+00:00,,0.3193359624061447,0,1,tr,SOO,Antarctica
 '2072c25fd3',extremes,Drought,#edc291,edo,kuraklık Guyana,2026-01-15T10:57:00+00:00,Guyana,0.3193318160482953,0,1,tr,NSA,South-America
+'925cc6c6e9',extremes,Drought,#edc291,edo,Kuraklık Kosta Rika,2026-01-15T10:57:00+00:00,Costa Rica,0.3193315261263682,0,1,tr,SCA,South-America
 '6797a9705d',extremes,Drought,#edc291,edo,kuraklık jamaika,2026-01-15T10:57:00+00:00,Jamaica,0.3193252325143567,0,1,tr,CAR,North-America
+'474905c6c6',extremes,Drought,#edc291,edo,yağmur eksikliği Namibya,2026-01-15T10:57:00+00:00,Namibia,0.31932025368051736,0,1,tr,WSAF,Africa
+'6cfc55b8b1',extremes,Drought,#edc291,edo,kuruluk bonaire saint eustatius ve saba,2026-01-15T10:57:00+00:00,Bonaire; Saint Eustatius and Saba ,0.31931075145496013,0,1,tr,CAR,North-America
+'04bee72edb',extremes,Drought,#edc291,edo,yağmur eksikliği antigua ve barbuda,2026-01-15T10:57:00+00:00,Antigua and Barbuda,0.3192995257692845,0,1,tr,CAR,North-America
 'daed8f4597',extremes,Earthquake,#870007,usgs,deprem somali,2026-01-15T12:13:00+00:00,Somalia,0.3156712953814893,1,1,tr,NEAF,Africa
 '8b4587c763',extremes,Storm,#b3b2b1,random,toz fırtınası,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,tr,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,donma,2026-01-22T03:59:00+00:00,,0.3130146366723377,2,1,tr,,
@@ -200,7 +204,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b1cc9478a',extremes,Earthquake,#870007,usgs,deprem mabaruma,2026-01-15T10:56:00+00:00,Guyana,0.271855897429081,1,1,tr,NSA,South-America
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,san antonio de los cobres depremi,2026-01-15T10:56:00+00:00,Argentina,0.2718542367751476,1,1,tr,SES,South-America
 '53e17b7a15',extremes,Earthquake,#870007,usgs,deprem houma,2026-01-15T10:56:00+00:00,Tonga,0.271849626597642,1,1,tr,SPO,Pacific Ocean
-'e1559df16c',extremes,Earthquake,#870007,usgs,deprem tobelo,2026-01-15T10:56:00+00:00,Indonesia,0.27184905187433916,1,1,tr,SEA,Asia
+'e1559df16c',extremes,Earthquake,#870007,usgs,deprem tobelo,2026-01-15T10:56:00+00:00,Indonesia,0.2718490518743391,1,1,tr,SEA,Asia
 'f4e7397282',extremes,Tsunami,#690191,usgs,tsunami limanı alsworth,2026-01-15T10:56:00+00:00,United States,0.2718481108233403,1,1,tr,NWN,North-America
 '072f41af80',extremes,Earthquake,#870007,usgs,deprem aratoca,2026-01-15T10:56:00+00:00,Colombia,0.2718445019598915,1,1,tr,NWS,South-America
 '43165fdae0',extremes,Earthquake,#870007,usgs,deprem villası basilio nievas,2026-01-15T12:13:00+00:00,Argentina,0.2718443846256417,1,1,tr,SWS,South-America
