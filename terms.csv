@@ -63,6 +63,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '51aedbfec2',extremes,Storm,#b3b2b1,wmo,kuzeydoğu bölgesinde fırtına,2026-02-05T04:27:00+00:00,North Macedonia,0.394218155487912,2,1,tr,MED,Europe
 '126dbdb910',extremes,Drought,#edc291,edo,Moldova'nın kuraklığı,2026-01-15T12:14:00+00:00,Moldova,0.3933575631020125,1,1,tr,WCE,Europe
 '67973e734f',extremes,Precipitation,#d60d2b,wmo,yağış kuzey makedonya,2026-01-27T03:58:00+00:00,North Macedonia,0.3915159368442001,2,1,tr,MED,Europe
+'1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,kar esiyor,2026-02-07T04:19:00+00:00,,0.38959966067076396,0,1,tr,,
 'd811d106a0',extremes,Snow&Ice,#d60d2b,wmo,kar Moldova,2026-01-30T04:21:00+00:00,Moldova,0.3891206303053126,2,1,tr,WCE,Europe
 '89426ddfd9',extremes,Fog,#d60d2b,wmo,Moldova sisi,2026-01-28T03:56:00+00:00,Moldova,0.3880538230010951,2,1,tr,WCE,Europe
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,şiddetli yağmur,2026-01-17T03:44:00+00:00,,0.3861778096952828,1,1,tr,,
@@ -147,6 +148,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6faf696dd9',extremes,Earthquake,#870007,usgs,deprem akureyri,2026-01-25T04:05:00+00:00,Iceland,0.3151483773883602,0,1,tr,GIC,Europe
 '57c3ca9f77',extremes,Earthquake,#870007,usgs,antarktika depremi,2026-02-04T04:21:00+00:00,,0.3150962022879079,0,1,tr,EAN,
 '5c7fcfcede',extremes,Earthquake,#870007,usgs,deprem hihifo,2026-02-05T04:27:00+00:00,Tonga,0.3150569953078763,0,1,tr,SPO,Pacific Ocean
+'22ea11191f',extremes,Earthquake,#870007,usgs,deprem batagay,2026-01-31T04:16:00+00:00,Russia,0.3148579802727754,0,1,tr,RAR,Europe
 '8b4587c763',extremes,Storm,#b3b2b1,random,toz fırtınası,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,tr,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,donma,2026-01-22T03:59:00+00:00,,0.3130146366723377,2,1,tr,,
 'd59a7e48d7',extremes,Drought,#edc291,random,buharlaşma-terleme,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,tr,,
@@ -172,7 +174,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,karaya yaklaşma,2026-01-17T03:44:00+00:00,,0.2800097291545205,1,1,tr,,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,kırağı kışı,2026-01-17T03:44:00+00:00,,0.2794825729177103,1,1,tr,,
 '357f3c8921',extremes,Drought,#edc291,edo,kuzey makedonya'da yağmur eksikliği,2026-01-15T10:57:00+00:00,North Macedonia,0.2766538142390908,1,1,tr,MED,Europe
-'fcf38cfed3',extremes,Drought,#edc291,edo,kuraklık kuzey makedonya,2026-01-19T04:03:00+00:00,North Macedonia,0.27633277996603534,2,1,tr,MED,Europe
+'fcf38cfed3',extremes,Drought,#edc291,edo,kuraklık kuzey makedonya,2026-01-19T04:03:00+00:00,North Macedonia,0.2763327799660353,2,1,tr,MED,Europe
 '053bb10e09',extremes,Heat Wave,#c40202,random,hint yazı,2026-01-23T04:02:00+00:00,,0.2759803107403592,1,1,tr,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,orman yangını,2026-01-17T03:44:00+00:00,,0.2746907670415916,1,1,tr,,
 '73d01d320c',extremes,Earthquake,#870007,usgs,deprem afganistan,2026-01-15T12:13:00+00:00,Afghanistan,0.2724481900815867,1,1,tr,WCA,Asia
@@ -295,10 +297,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '69a64e0e6b',extremes,Drought,#edc291,edo,kuruluk irak,2026-01-15T10:57:00+00:00,Iraq,0.2714858858789231,1,1,tr,WCA,Asia
 '3c0d8a70ba',extremes,Earthquake,#870007,usgs,deprem finschhafen,2026-01-15T12:13:00+00:00,Papua New Guinea,0.2714850127907476,1,1,tr,SEA,Asia
 'f5090b53e9',extremes,Drought,#edc291,edo,kuruluk fransız polinezyası,2026-01-15T10:57:00+00:00,French Polynesia,0.2714834200823606,1,1,tr,SPO,Pacific Ocean
-'99549776e6',extremes,Drought,#edc291,edo,kuraklık papua yeni gine,2026-01-15T10:57:00+00:00,Papua New Guinea,0.27148222245534137,1,1,tr,EPO,Pacific Ocean
+'99549776e6',extremes,Drought,#edc291,edo,kuraklık papua yeni gine,2026-01-15T10:57:00+00:00,Papua New Guinea,0.2714822224553413,1,1,tr,EPO,Pacific Ocean
 '5a7935db1c',extremes,Drought,#edc291,edo,kuraklık eswatini,2026-01-15T10:57:00+00:00,Eswatini,0.2714810352997441,1,1,tr,ESAF,Africa
 'bba49c53eb',extremes,Drought,#edc291,edo,yağmur eksikliği norfolk adası,2026-01-15T10:57:00+00:00,Norfolk Island,0.2714780957413227,1,1,tr,SPO,Pacific Ocean
-'88c42e7c0f',extremes,Drought,#edc291,edo,yağmur eksikliği,2026-01-15T10:57:00+00:00,Tonga,0.27147118672568155,1,1,tr,SPO,Pacific Ocean
+'88c42e7c0f',extremes,Drought,#edc291,edo,yağmur eksikliği,2026-01-15T10:57:00+00:00,Tonga,0.2714711867256815,1,1,tr,SPO,Pacific Ocean
 '4c395ac77e',extremes,Drought,#edc291,edo,kuruluk burkina faso,2026-01-15T10:57:00+00:00,Burkina Faso,0.2714705968155138,1,1,tr,WAF,Africa
 '1918ad6f9e',extremes,Drought,#edc291,edo,kuraklık tuvalu,2026-01-15T10:57:00+00:00,Tuvalu,0.2714705530903767,1,1,tr,EPO,Pacific Ocean
 'bc178afc30',extremes,Drought,#edc291,edo,kuruluk mauritius,2026-01-15T10:57:00+00:00,Mauritius,0.2714679332096981,1,1,tr,SIO,Indian Ocean
@@ -312,7 +314,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,en soğuk yıl,2026-01-15T10:20:00+00:00,,0.2398044025496697,1,2,tr,,
 '3e36cbc783',extremes,Earthquake,#870007,usgs,deprem konsepti,2026-01-15T12:13:00+00:00,Venezuela,0.2313136511282333,2,1,tr,NWS,South-America
 '6bad2a8cbc',extremes,Earthquake,#870007,usgs,deprem san agustín de valle fértil,2026-01-15T12:13:00+00:00,Argentina,0.2310943625019648,2,1,tr,SES,South-America
-'90e6558608',extremes,Earthquake,#870007,usgs,güney orta atlantik sırtı depremi,2026-01-15T10:56:00+00:00,,0.23099346535540538,2,1,tr,SAO,Atlantic Ocean
+'90e6558608',extremes,Earthquake,#870007,usgs,güney orta atlantik sırtı depremi,2026-01-15T10:56:00+00:00,,0.2309934653554053,2,1,tr,SAO,Atlantic Ocean
 '505a53d28b',extremes,Earthquake,#870007,usgs,deprem port vila,2026-01-15T10:56:00+00:00,Vanuatu,0.2309799845301128,2,1,tr,SPO,Oceania
 'b6cef22543',extremes,Drought,#edc291,random,su kısıtlaması,2026-01-15T10:20:00+00:00,,0.2181947166591417,1,1,tr,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosferik nehir,2026-01-15T10:20:00+00:00,,0.2180904085177332,1,1,tr,,
