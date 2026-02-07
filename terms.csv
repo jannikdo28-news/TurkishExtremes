@@ -67,6 +67,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd811d106a0',extremes,Snow&Ice,#d60d2b,wmo,kar Moldova,2026-01-30T04:21:00+00:00,Moldova,0.3891206303053126,2,1,tr,WCE,Europe
 '89426ddfd9',extremes,Fog,#d60d2b,wmo,Moldova sisi,2026-01-28T03:56:00+00:00,Moldova,0.3880538230010951,2,1,tr,WCE,Europe
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,şiddetli yağmur,2026-01-17T03:44:00+00:00,,0.3861778096952828,1,1,tr,,
+'c948617fef',extremes,Heat Wave,#c40202,random,aşırı ısıya maruz kalma,2026-02-06T04:27:00+00:00,,0.3854552607611397,0,1,tr,,
 'a0d6658b6f',extremes,Precipitation,#d60d2b,wmo,kuzeydoğu bölgesinde yağmur,2026-01-25T04:06:00+00:00,North Macedonia,0.3847047343491783,2,1,tr,MED,Europe
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,kar fırtınası,2026-01-15T10:56:00+00:00,,0.3846892457292621,1,3,tr,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,buz parçası,2026-01-23T04:02:00+00:00,,0.3845865103894661,2,2,tr,,
@@ -139,6 +140,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '04bee72edb',extremes,Drought,#edc291,edo,yağmur eksikliği antigua ve barbuda,2026-01-15T10:57:00+00:00,Antigua and Barbuda,0.3192995257692845,0,1,tr,CAR,North-America
 'c660d659ce',extremes,Tropical Cyclone,#4f4f4f,eonet,tropikal siklon fytia,2026-01-31T04:16:00+00:00,,0.3187607686933643,0,1,tr,ESAF,Africa
 'f9a3abc8c2',extremes,Landslide,#572c03,random,çamur akışı,2026-01-17T03:44:00+00:00,,0.3177236538422508,0,1,tr,,
+'1405131905',extremes,Thunderstorm,#53785a,random,dolu,2026-01-22T03:59:00+00:00,,0.317221186998045,0,1,tr,,
 'f314bb7747',extremes,Flood,#030ba1,aidr,avustralya'da şiddetli sel,2026-02-05T04:28:00+00:00,Australia,0.3160616969059588,0,1,tr,CAU,Oceania
 'daed8f4597',extremes,Earthquake,#870007,usgs,deprem somali,2026-01-15T12:13:00+00:00,Somalia,0.3156712953814893,1,1,tr,NEAF,Africa
 '55e8cccd81',extremes,Earthquake,#870007,usgs,deprem san juan,2026-01-31T04:16:00+00:00,Peru,0.3155590964946482,0,1,tr,SWS,South-America
@@ -147,6 +149,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '65b4a087de',extremes,Earthquake,#870007,usgs,deprem kalansīyah,2026-02-05T04:27:00+00:00,Yemen,0.3152494958064409,0,1,tr,ARS,Indian Ocean
 '255621cc4c',extremes,Earthquake,#870007,usgs,deprem panguna,2026-01-31T04:16:00+00:00,Papua New Guinea,0.3152302515713779,0,1,tr,EPO,Pacific Ocean
 '6faf696dd9',extremes,Earthquake,#870007,usgs,deprem akureyri,2026-01-25T04:05:00+00:00,Iceland,0.3151483773883602,0,1,tr,GIC,Europe
+'57c3ca9f77',extremes,Earthquake,#870007,usgs,antarktika depremi,2026-02-04T04:21:00+00:00,,0.3150962022879079,0,1,tr,EAN,
+'5c7fcfcede',extremes,Earthquake,#870007,usgs,deprem hihifo,2026-02-05T04:27:00+00:00,Tonga,0.31505699530787634,0,1,tr,SPO,Pacific Ocean
 '8b4587c763',extremes,Storm,#b3b2b1,random,toz fırtınası,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,tr,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,donma,2026-01-22T03:59:00+00:00,,0.3130146366723377,2,1,tr,,
 'd59a7e48d7',extremes,Drought,#edc291,random,buharlaşma-terleme,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,tr,,
