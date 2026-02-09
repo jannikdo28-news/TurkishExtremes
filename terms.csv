@@ -148,10 +148,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '57c3ca9f77',extremes,Earthquake,#870007,usgs,antarktika depremi,2026-02-04T04:21:00+00:00,,0.3150962022879079,0,1,tr,EAN,
 '5c7fcfcede',extremes,Earthquake,#870007,usgs,deprem hihifo,2026-02-05T04:27:00+00:00,Tonga,0.3150569953078763,0,1,tr,SPO,Pacific Ocean
 '22ea11191f',extremes,Earthquake,#870007,usgs,deprem batagay,2026-01-31T04:16:00+00:00,Russia,0.3148579802727754,0,1,tr,RAR,Europe
+'381ceff412',extremes,Earthquake,#870007,usgs,deprem kimbe,2026-01-29T04:18:00+00:00,Papua New Guinea,0.314711308366733,0,1,tr,EPO,Pacific Ocean
 '628c910b11',extremes,Flood,#030ba1,aidr,Yeni Güney Galler'de sel baskını 2022,2026-02-01T04:41:00+00:00,Australia,0.3146840262444516,0,1,tr,EAU,Oceania
 'de55985e54',extremes,Earthquake,#870007,usgs,deprem hadibu,2026-01-21T03:55:00+00:00,Yemen,0.3145829230459449,0,1,tr,ARS,Indian Ocean
 '3673682ec0',extremes,Earthquake,#870007,usgs,deprem yükseliş adası bölgesi,2026-01-28T03:56:00+00:00,,0.3145096057209501,0,1,tr,SAO,Atlantic Ocean
+'9a84ac4373',extremes,Tsunami,#690191,usgs,tsunami alaska,2026-02-05T04:27:00+00:00,Alaska,0.3140848681264619,0,1,tr,NPO,Pacific Ocean
 '8b4587c763',extremes,Storm,#b3b2b1,random,toz fırtınası,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,tr,,
+'3017638745',extremes,Earthquake,#870007,usgs,deprem ust' kamçatsk staryy,2026-02-05T04:27:00+00:00,Russia,0.3139623148136632,0,1,tr,RFE,Europe
+'9044bc0335',extremes,Earthquake,#870007,usgs,deprem georgetown,2026-01-21T03:55:00+00:00,Saint Helena,0.31374005395354204,0,1,tr,SAO,Atlantic Ocean
+'d9e53070b4',extremes,Flood,#030ba1,aidr,Sel Mackay Queensland 2008,2026-01-20T03:57:00+00:00,,0.3134301733095393,0,1,tr,EAU,Oceania
+'3336c980ab',extremes,Earthquake,#870007,usgs,deprem saint helena,2026-01-21T03:55:00+00:00,Saint Helena,0.31341237526365134,0,1,tr,EAO,Atlantic Ocean
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,donma,2026-01-22T03:59:00+00:00,,0.3130146366723377,2,1,tr,,
 'd59a7e48d7',extremes,Drought,#edc291,random,buharlaşma-terleme,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,tr,,
 'c685705bbd',extremes,Earthquake,#870007,usgs,deprem çin,2026-01-15T10:56:00+00:00,China,0.3113071656249893,1,2,tr,EAS,Asia
