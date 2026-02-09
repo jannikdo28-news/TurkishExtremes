@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'62084daeb0',extremes,Earthquake,#870007,random,deprem,2026-01-15T10:39:00+00:00,,0.6093744632488232,3,3,tr,,
+'62084daeb0',extremes,Earthquake,#870007,random,deprem,2026-01-15T10:39:00+00:00,,0.6047531855796815,4,3,tr,,
 'bec5ab9e20',extremes,Precipitation,#d60d2b,wmo,yağmur dobrich varna silistra,2026-01-15T10:56:00+00:00,Bulgaria,0.5021351964268321,2,1,tr,MED,Europe
 '1d702e03bc',extremes,Precipitation,#d60d2b,wmo,sağanak bulgaristan,2026-01-15T12:14:00+00:00,Bulgaria,0.501786187371286,2,1,tr,MED,Europe
 '785dd66d15',extremes,Snow&Ice,#d60d2b,wmo,kar bulgaristan,2026-02-01T04:41:00+00:00,Bulgaria,0.4974895955987594,3,1,tr,MED,Europe
@@ -121,7 +121,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bef1a25283',extremes,Drought,#edc291,edo,Kuraklık Suriye,2026-01-15T10:57:00+00:00,Syria,0.3219741833175806,1,1,tr,MED,Asia
 '904c16f856',extremes,Drought,#edc291,edo,kuraklık dönemi,2026-01-15T10:57:00+00:00,Togo,0.3219126115204829,1,1,tr,WAF,Africa
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,cıva düşüşleri,2026-01-22T03:59:00+00:00,,0.3202101394246374,1,1,tr,,
-'fd25f2baec',extremes,Drought,#edc291,edo,kuruluk Seyşel Adaları,2026-01-15T10:57:00+00:00,Seychelles,0.3193818845357581,0,1,tr,EIO,Indian Ocean
 '93760c82eb',extremes,Drought,#edc291,edo,kuruluk lesotho,2026-01-15T10:57:00+00:00,Lesotho,0.3193790419938667,0,1,tr,ESAF,Africa
 '34fd30e809',extremes,Earthquake,#870007,usgs,deprem kalaması,2026-01-15T10:56:00+00:00,Chile,0.3193642581749714,0,1,tr,SWS,South-America
 '22cdaf7557',extremes,Drought,#edc291,edo,kuraklık malavi,2026-01-15T10:57:00+00:00,Malawi,0.3193558219375216,0,1,tr,ESAF,Africa
@@ -310,6 +309,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bba49c53eb',extremes,Drought,#edc291,edo,yağmur eksikliği norfolk adası,2026-01-15T10:57:00+00:00,Norfolk Island,0.2714780957413227,1,1,tr,SPO,Pacific Ocean
 'a0374d7fc3',extremes,Drought,#edc291,edo,yağmur eksikliği nijer,2026-01-15T10:57:00+00:00,Niger,0.2714756631795222,1,1,tr,SAH,Africa
 'f84e373f72',extremes,Drought,#edc291,edo,yağmur eksikliği cocos adaları,2026-01-15T10:57:00+00:00,Cocos Islands,0.2714749304674092,1,1,tr,SIO,Indian Ocean
+'fd25f2baec',extremes,Drought,#edc291,edo,kuruluk Seyşel Adaları,2026-01-15T10:57:00+00:00,Seychelles,0.2714746018553944,1,1,tr,EIO,Indian Ocean
 '88c42e7c0f',extremes,Drought,#edc291,edo,yağmur eksikliği,2026-01-15T10:57:00+00:00,Tonga,0.2714711867256815,1,1,tr,SPO,Pacific Ocean
 '4c395ac77e',extremes,Drought,#edc291,edo,kuruluk burkina faso,2026-01-15T10:57:00+00:00,Burkina Faso,0.2714705968155138,1,1,tr,WAF,Africa
 '1918ad6f9e',extremes,Drought,#edc291,edo,kuraklık tuvalu,2026-01-15T10:57:00+00:00,Tuvalu,0.2714705530903767,1,1,tr,EPO,Pacific Ocean
@@ -320,7 +320,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '925cc6c6e9',extremes,Drought,#edc291,edo,Kuraklık Kosta Rika,2026-01-15T10:57:00+00:00,Costa Rica,0.271431797207413,1,1,tr,SCA,South-America
 '6797a9705d',extremes,Drought,#edc291,edo,kuraklık jamaika,2026-01-15T10:57:00+00:00,Jamaica,0.2714264476372032,1,1,tr,CAR,North-America
 '474905c6c6',extremes,Drought,#edc291,edo,yağmur eksikliği Namibya,2026-01-15T10:57:00+00:00,Namibia,0.2714222156284397,1,1,tr,WSAF,Africa
-'255621cc4c',extremes,Earthquake,#870007,usgs,deprem panguna,2026-01-31T04:16:00+00:00,Papua New Guinea,0.26794571383567123,1,1,tr,EPO,Pacific Ocean
+'255621cc4c',extremes,Earthquake,#870007,usgs,deprem panguna,2026-01-31T04:16:00+00:00,Papua New Guinea,0.2679457138356712,1,1,tr,EPO,Pacific Ocean
 '6faf696dd9',extremes,Earthquake,#870007,usgs,deprem akureyri,2026-01-25T04:05:00+00:00,Iceland,0.2678761207801062,1,1,tr,GIC,Europe
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,soğuğu kaydedin,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,tr,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arktik deniz buzu,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,tr,,
