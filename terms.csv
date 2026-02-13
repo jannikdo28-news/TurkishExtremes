@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'3e4b341619',extremes,Storm,#b3b2b1,random,fırtına,2026-01-20T03:55:00+00:00,,0.5112826896308572,2,3,tr,,
+'3e4b341619',extremes,Storm,#b3b2b1,random,fırtına,2026-01-20T03:55:00+00:00,,0.5577264843680468,3,3,tr,,
 'bec5ab9e20',extremes,Precipitation,#d60d2b,wmo,yağmur dobrich varna silistra,2026-01-15T10:56:00+00:00,Bulgaria,0.5021351964268321,2,1,tr,MED,Europe
 '1d702e03bc',extremes,Precipitation,#d60d2b,wmo,sağanak bulgaristan,2026-01-15T12:14:00+00:00,Bulgaria,0.501786187371286,2,1,tr,MED,Europe
 '5b35936697',extremes,Storm,#b3b2b1,wmo,fırtına doğu bölgesi,2026-02-05T04:27:00+00:00,North Macedonia,0.4992703569971602,3,2,tr,MED,Europe
@@ -199,9 +199,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,trinidad ve tobago fırtınası,2026-02-10T04:43:00+00:00,Trinidad and Tobago,0.3060784731831012,0,1,tr,NSA,North-America
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,fırtına güney afrika,2026-02-05T04:27:00+00:00,South Africa,0.3060708547440301,0,1,tr,WSAF,Africa
 '9ceba27bb5',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası brezilya,2026-02-03T04:27:00+00:00,Brazil,0.3060285556857266,0,1,tr,SAM,South-America
-'f1101350a4',extremes,Storm,#b3b2b1,wmo,fırtına şili,2026-02-05T04:27:00+00:00,Chile,0.30602477111548976,0,1,tr,SWS,South-America
+'f1101350a4',extremes,Storm,#b3b2b1,wmo,fırtına şili,2026-02-05T04:27:00+00:00,Chile,0.3060247711154897,0,1,tr,SWS,South-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,fırtına brezilya,2026-02-08T04:43:00+00:00,Brazil,0.3059560081009341,0,1,tr,SAM,South-America
-'a1f794d6b8',extremes,Storm,#b3b2b1,wmo,fırtına dalgalanması oran,2026-02-08T04:43:00+00:00,Algeria,0.30594913543299507,0,1,tr,SAH,Africa
+'a1f794d6b8',extremes,Storm,#b3b2b1,wmo,fırtına dalgalanması oran,2026-02-08T04:43:00+00:00,Algeria,0.305949135432995,0,1,tr,SAH,Africa
 '9aceadd432',extremes,Heat Wave,#c40202,random,rekor ısı,2026-01-21T03:55:00+00:00,,0.302534602528104,1,1,tr,,
 'a652c78afc',extremes,Drought,#edc291,random,mega kuraklık,2026-01-18T03:56:00+00:00,,0.3006146746719527,1,1,tr,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,buzdağı antarktika,2026-01-18T03:56:00+00:00,,0.2961872775454394,2,1,tr,,
