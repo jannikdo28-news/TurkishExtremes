@@ -63,6 +63,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,buz parçası,2026-01-23T04:02:00+00:00,,0.3845865103894661,2,2,tr,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,siklon,2026-01-15T10:56:00+00:00,,0.3842609399530786,1,2,tr,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,orman yangını,2026-01-24T03:48:00+00:00,,0.3834965733510891,1,2,tr,,
+'95b2881221',extremes,Precipitation,#d60d2b,random,atmosferik nehir,2026-02-06T04:27:00+00:00,,0.3815726341990076,0,1,tr,,
 '23ad2bb822',extremes,Earthquake,#870007,usgs,deprem rusya,2026-01-15T10:56:00+00:00,Russia,0.3803467208298124,2,3,tr,EAS,Asia
 '4960d34559',extremes,Precipitation,#d60d2b,wmo,yağış güneydoğu bölgesi,2026-02-05T04:27:00+00:00,North Macedonia,0.3799389176672974,2,1,tr,MED,Europe
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,sulu kar,2026-01-15T12:13:00+00:00,,0.3784567212894963,2,1,tr,,
@@ -87,7 +88,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0f6b56852d',extremes,Earthquake,#870007,usgs,deprem baculin,2026-01-15T10:56:00+00:00,Philippines,0.3588881091620204,2,1,tr,SEA,Asia
 '9de3c9007e',extremes,Earthquake,#870007,usgs,deprem yakutat,2026-01-15T10:56:00+00:00,Alaska,0.3586357531026959,2,1,tr,NWN,North-America
 'da0b9741fb',extremes,Earthquake,#870007,usgs,deprem rancho viejo,2026-01-15T12:13:00+00:00,Mexico,0.3586099140031696,2,1,tr,SCA,North-America
-'ee67546360',extremes,Precipitation,#d60d2b,wmo,yağış bulgaristan,2026-01-30T04:21:00+00:00,Bulgaria,0.35758606865066117,3,1,tr,MED,Europe
+'ee67546360',extremes,Precipitation,#d60d2b,wmo,yağış bulgaristan,2026-01-30T04:21:00+00:00,Bulgaria,0.3575860686506611,3,1,tr,MED,Europe
 '030aa64ddb',extremes,Drought,#edc291,edo,kuraklık Moldova,2026-01-22T04:00:00+00:00,Moldova,0.3562952959487325,1,1,tr,WCE,Europe
 '2332e761a7',extremes,Precipitation,#d60d2b,wmo,sağanak kuzeydoğu bölgesi,2026-02-01T04:41:00+00:00,North Macedonia,0.3558596679743755,2,1,tr,MED,Europe
 '40f675561f',extremes,Heat Wave,#c40202,random,en sıcak yaz,2026-01-15T10:56:00+00:00,,0.3506564445657735,1,2,tr,,
@@ -172,17 +173,22 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1f1fab5693',extremes,Precipitation,#d60d2b,wmo,sağanak yağış kongo cumhuriyeti,2026-02-13T04:34:00+00:00,Republic of the Congo,0.3082378090606924,0,1,tr,CAF,Africa
 '0d261f252d',extremes,Storm,#b3b2b1,random,kış fırtınası,2026-01-26T04:08:00+00:00,,0.308071468206377,0,1,tr,,
 '0f0c46c2b9',extremes,Precipitation,#d60d2b,acwe,yağış güney avustralya,2026-01-28T03:57:00+00:00,Australia,0.3079471104686876,0,1,tr,SAU,Oceania
+'d0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,yağış ekvador,2026-01-26T04:09:00+00:00,Ecuador,0.3079424398741478,0,1,tr,NWS,South-America
 '7b672dbbe2',extremes,Earthquake,#870007,usgs,deprem güney doğu pasifik yükselişi,2026-02-05T04:27:00+00:00,,0.3079063278340997,0,1,tr,SPO,Pacific Ocean
+'6c91162e45',extremes,Precipitation,#d60d2b,wmo,yağış ekvador kıtası,2026-02-14T04:21:00+00:00,Ecuador,0.3077827391367791,0,1,tr,NWS,South-America
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur yeni zelanda,2026-02-13T04:34:00+00:00,New Zealand,0.3077190924613537,0,1,tr,NZ,Oceania
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,yağış yeni zelanda,2026-02-12T04:37:00+00:00,New Zealand,0.3075762304921123,0,1,tr,NZ,Oceania
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,çığ fransa,2026-02-05T04:27:00+00:00,France,0.3075750673862922,0,1,tr,WCE,Europe
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,yağmur brezilya,2026-02-06T04:27:00+00:00,Brazil,0.307443163276544,0,1,tr,SAM,South-America
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,soğuk dalga brezilya,2026-02-07T04:19:00+00:00,Brazil,0.3074172832985185,0,1,tr,SAM,South-America
+'8ade601e1d',extremes,Precipitation,#d60d2b,wmo,sağanak yeni zelanda,2026-02-10T04:43:00+00:00,New Zealand,0.3073951995183608,0,1,tr,NZ,Oceania
 'e3af58f5da',extremes,Drought,#edc291,edo,kuruluk bulgaristan,2026-01-15T10:57:00+00:00,Bulgaria,0.3072989490295514,1,1,tr,MED,Europe
 '64476ecf6f',extremes,Precipitation,#d60d2b,acwe,şiddetli yağmur güney avustralya,2026-01-27T03:59:00+00:00,Australia,0.3072700177133782,0,1,tr,CAU,Oceania
 '48a9733a03',extremes,Storm,#b3b2b1,wmo,maldivler fırtınası,2026-02-06T04:27:00+00:00,Maldives,0.3070771782131387,0,1,tr,EIO,Indian Ocean
 'cd349f2a0f',extremes,Drought,#edc291,edo,kuruluk hong kong,2026-02-06T04:28:00+00:00,Hong Kong,0.3070603586824189,0,1,tr,EAS,Asia
+'c229b0919c',extremes,Precipitation,#d60d2b,wmo,yağmur suudi arabistan,2026-02-06T04:27:00+00:00,Saudi Arabia,0.30700370750628136,0,1,tr,ARP,Asia
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur arjantin,2026-02-05T04:27:00+00:00,Argentina,0.3068969587002354,0,1,tr,SES,South-America
+'4ae75fc210',extremes,Precipitation,#d60d2b,wmo,sağanak suudi arabistan,2026-02-05T04:27:00+00:00,Saudi Arabia,0.30673752349825056,0,1,tr,ARP,Asia
 '893e673584',extremes,Earthquake,#870007,usgs,deprem orta doğu pasifik yükselişi,2026-02-05T04:27:00+00:00,,0.3066345035951426,0,1,tr,EPO,Pacific Ocean
 '02711610b5',extremes,Storm,#b3b2b1,wmo,fırtına arjantin,2026-02-05T04:27:00+00:00,Argentina,0.3066021403556171,0,1,tr,SES,South-America
 '3f0fdf7387',extremes,Earthquake,#870007,usgs,galapagos üçlü kavşak bölgesi depremi,2026-01-29T04:18:00+00:00,,0.3064130050444243,0,1,tr,EPO,Pacific Ocean
@@ -217,6 +223,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,kar kanadası,2026-02-06T04:27:00+00:00,Canada,0.3054802177825022,0,1,tr,NEN,North-America
 'a828348731',extremes,Storm,#b3b2b1,wmo,fırtına kosta rika,2026-01-31T04:16:00+00:00,Costa Rica,0.3054478706418487,0,1,tr,SCA,North-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,yağış brezilya,2026-02-07T04:19:00+00:00,Brazil,0.3054093933997213,0,1,tr,SAM,South-America
+'e2f2dcafbb',extremes,Storm,#b3b2b1,wmo,fırtına dalgası sierra sur,2026-02-12T04:37:00+00:00,Ecuador,0.3053622153530865,0,1,tr,NWS,South-America
+'5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,çığ rusya,2026-02-05T04:27:00+00:00,Russia,0.3053321323129854,0,1,tr,ESB,Europe
+'12775cc05a',extremes,Drought,#edc291,wmo,kuraklık brezilya,2026-02-05T04:27:00+00:00,Brazil,0.30528690862080643,0,1,tr,SAM,South-America
+'b36377911d',extremes,Storm,#b3b2b1,wmo,kuzey pasifik bölgelerinde fırtına dalgalanması.,2026-02-03T04:27:00+00:00,Costa Rica,0.3052837539705935,0,1,tr,SCA,North-America
 '9aceadd432',extremes,Heat Wave,#c40202,random,rekor ısı,2026-01-21T03:55:00+00:00,,0.302534602528104,1,1,tr,,
 'a652c78afc',extremes,Drought,#edc291,random,mega kuraklık,2026-01-18T03:56:00+00:00,,0.3006146746719527,1,1,tr,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,buzdağı antarktika,2026-01-18T03:56:00+00:00,,0.2961872775454394,2,1,tr,,
