@@ -38,6 +38,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82d648b882',extremes,Drought,#edc291,random,kuraklık,2026-01-15T10:39:00+00:00,,0.4239479975326009,2,2,tr,,
 '16348a6786',extremes,Drought,#edc291,edo,Kuraklık Tunus,2026-01-15T10:57:00+00:00,Tunisia,0.4216726451443713,1,2,tr,MED,Africa
 '00ae724501',extremes,Snow&Ice,#d60d2b,wmo,buz kuzey makedonya,2026-02-01T04:41:00+00:00,North Macedonia,0.4214109473684091,2,1,tr,MED,Europe
+'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,sıcaklık düşüyor,2026-02-12T04:36:00+00:00,,0.42104798685259986,1,2,tr,,
 'ee67546360',extremes,Precipitation,#d60d2b,wmo,yağış bulgaristan,2026-01-30T04:21:00+00:00,Bulgaria,0.4205130042948955,2,1,tr,MED,Europe
 'f9a3abc8c2',extremes,Landslide,#572c03,random,çamur akışı,2026-01-17T03:44:00+00:00,,0.4202151207659131,1,2,tr,,
 '44211c95de',extremes,Flood,#030ba1,aidr,Avustralya'da sel,2026-02-05T04:28:00+00:00,Australia,0.4182525609882879,1,2,tr,EAU,Oceania
@@ -121,7 +122,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bef1a25283',extremes,Drought,#edc291,edo,Kuraklık Suriye,2026-01-15T10:57:00+00:00,Syria,0.3219741833175806,1,1,tr,MED,Asia
 '904c16f856',extremes,Drought,#edc291,edo,kuraklık dönemi,2026-01-15T10:57:00+00:00,Togo,0.3219126115204829,1,1,tr,WAF,Africa
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,cıva düşüşleri,2026-01-22T03:59:00+00:00,,0.3202101394246374,1,1,tr,,
-'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,sıcaklık düşüyor,2026-02-12T04:36:00+00:00,,0.3179975433559999,0,1,tr,,
 'daed8f4597',extremes,Earthquake,#870007,usgs,deprem somali,2026-01-15T12:13:00+00:00,Somalia,0.3156712953814893,1,1,tr,NEAF,Africa
 '54927bfe65',extremes,Flood,#030ba1,random,kıyı su baskını,2026-02-12T04:36:00+00:00,,0.3153113400631214,0,1,tr,,
 '65b4a087de',extremes,Earthquake,#870007,usgs,deprem kalansīyah,2026-02-05T04:27:00+00:00,Yemen,0.3152494958064409,0,1,tr,ARS,Indian Ocean
@@ -212,12 +212,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a1d6f6b899',extremes,Storm,#b3b2b1,wmo,fırtına dalgası Sierra ve Amazonia kıyılarında,2026-02-04T04:21:00+00:00,Ecuador,0.3057732112392244,0,1,tr,NWS,South-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,fırtına paraguay,2026-02-13T04:34:00+00:00,Paraguay,0.3057624660454825,0,1,tr,SES,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,sağanak brezilya,2026-02-05T04:27:00+00:00,Brazil,0.3056709187230583,0,1,tr,SAM,South-America
-'12545c3510',extremes,Earthquake,#870007,usgs,deprem hengchun,2026-01-27T03:58:00+00:00,Taiwan,0.30563619295770905,0,1,tr,EAS,Asia
+'12545c3510',extremes,Earthquake,#870007,usgs,deprem hengchun,2026-01-27T03:58:00+00:00,Taiwan,0.305636192957709,0,1,tr,EAS,Asia
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,yağmur Arjantin,2026-02-05T04:27:00+00:00,Argentina,0.3055862975867796,0,1,tr,SES,South-America
 'dbc33f3019',extremes,Snow&Ice,#d60d2b,wmo,Moldova don cumhuriyeti,2026-02-05T04:27:00+00:00,Republic of Moldova,0.3055491868484402,0,1,tr,WCE,Europe
 '46757c038c',extremes,Thunderstorm,#53785a,wmo,güney afrika'yı dolu,2026-02-05T04:27:00+00:00,South Africa,0.3055396645696847,0,1,tr,WSAF,Africa
-'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,kar kanadası,2026-02-06T04:27:00+00:00,Canada,0.30548021778250223,0,1,tr,NEN,North-America
-'a828348731',extremes,Storm,#b3b2b1,wmo,fırtına kosta rika,2026-01-31T04:16:00+00:00,Costa Rica,0.30544787064184875,0,1,tr,SCA,North-America
+'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,kar kanadası,2026-02-06T04:27:00+00:00,Canada,0.3054802177825022,0,1,tr,NEN,North-America
+'a828348731',extremes,Storm,#b3b2b1,wmo,fırtına kosta rika,2026-01-31T04:16:00+00:00,Costa Rica,0.3054478706418487,0,1,tr,SCA,North-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,yağış brezilya,2026-02-07T04:19:00+00:00,Brazil,0.3054093933997213,0,1,tr,SAM,South-America
 'b0d647e9d3',extremes,Earthquake,#870007,usgs,deprem güneydoğu hint sırtı,2026-01-15T10:56:00+00:00,,0.3049478282615621,3,1,tr,SOO,Antarctica
 '9aceadd432',extremes,Heat Wave,#c40202,random,rekor ısı,2026-01-21T03:55:00+00:00,,0.302534602528104,1,1,tr,,
