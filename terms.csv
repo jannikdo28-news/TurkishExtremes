@@ -49,6 +49,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '848cffa79e',extremes,Precipitation,#d60d2b,wmo,yağış Üsküp bölgesi,2026-02-01T04:41:00+00:00,North Macedonia,0.4141907697163267,1,1,tr,MED,Europe
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.4125214953633049,1,2,tr,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,en sıcak yıl,2026-01-29T04:18:00+00:00,,0.4100273950665608,2,2,tr,,
+'5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,çığ rusya,2026-02-05T04:27:00+00:00,Russia,0.4096823274660376,1,2,tr,ESB,Europe
 '3b5fd3f9c6',extremes,Thunderstorm,#53785a,wmo,şiddetli hava kıbrıs,2026-01-24T03:48:00+00:00,Cyprus,0.4082454474761586,3,1,tr,MED,Europe
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,kasırga,2026-01-15T10:56:00+00:00,,0.4076629116936151,1,2,tr,,
 'f685d1f47f',extremes,Drought,#edc291,edo,Kıbrıs'ta kuraklık,2026-01-15T10:57:00+00:00,Cyprus,0.4033809886068385,2,1,tr,MED,Europe
@@ -223,19 +224,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a828348731',extremes,Storm,#b3b2b1,wmo,fırtına kosta rika,2026-01-31T04:16:00+00:00,Costa Rica,0.3054478706418487,0,1,tr,SCA,North-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,yağış brezilya,2026-02-07T04:19:00+00:00,Brazil,0.3054093933997213,0,1,tr,SAM,South-America
 'e2f2dcafbb',extremes,Storm,#b3b2b1,wmo,fırtına dalgası sierra sur,2026-02-12T04:37:00+00:00,Ecuador,0.3053622153530865,0,1,tr,NWS,South-America
-'5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,çığ rusya,2026-02-05T04:27:00+00:00,Russia,0.3053321323129854,0,1,tr,ESB,Europe
 '12775cc05a',extremes,Drought,#edc291,wmo,kuraklık brezilya,2026-02-05T04:27:00+00:00,Brazil,0.3052869086208064,0,1,tr,SAM,South-America
 'b36377911d',extremes,Storm,#b3b2b1,wmo,kuzey pasifik bölgelerinde fırtına dalgalanması.,2026-02-03T04:27:00+00:00,Costa Rica,0.3052837539705935,0,1,tr,SCA,North-America
-'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur brezilya,2026-02-07T04:19:00+00:00,Brazil,0.30526442474604676,0,1,tr,SAM,South-America
+'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur brezilya,2026-02-07T04:19:00+00:00,Brazil,0.3052644247460467,0,1,tr,SAM,South-America
 'f0dc39c1d8',extremes,Storm,#b3b2b1,wmo,fırtına sierra sur,2026-02-13T04:34:00+00:00,Ecuador,0.3052558376157547,0,1,tr,NWS,South-America
 '3c2108148e',extremes,Earthquake,#870007,usgs,deprem pagan bölgesi kuzey mariana adaları,2026-02-05T04:27:00+00:00,,0.3052540098088987,0,1,tr,NPO,Pacific Ocean
-'5cb766f03d',extremes,Storm,#b3b2b1,wmo,fırtına dalgası alanı 2 - orta şiddette,2026-02-01T04:41:00+00:00,Paraguay,0.30524835164735603,0,1,tr,SES,South-America
-'3421a57149',extremes,Storm,#b3b2b1,wmo,fırtına ekvador,2026-01-26T04:09:00+00:00,Ecuador,0.30524386155031913,0,1,tr,NWS,South-America
+'5cb766f03d',extremes,Storm,#b3b2b1,wmo,fırtına dalgası alanı 2 - orta şiddette,2026-02-01T04:41:00+00:00,Paraguay,0.305248351647356,0,1,tr,SES,South-America
+'3421a57149',extremes,Storm,#b3b2b1,wmo,fırtına ekvador,2026-01-26T04:09:00+00:00,Ecuador,0.3052438615503191,0,1,tr,NWS,South-America
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,fırtına güney afrika,2026-02-07T04:19:00+00:00,South Africa,0.3052265357945408,0,1,tr,WSAF,Africa
 'aba9de13df',extremes,Wildfire,#d60d2b,wmo,orman yangını güney afrika,2026-02-05T04:27:00+00:00,South Africa,0.3052139719129037,0,1,tr,WSAF,Africa
-'8f29727ea9',extremes,Drought,#edc291,edo,kuraklık ekvator ginesi,2026-02-08T04:43:00+00:00,Equatorial Guinea,0.30518780657892397,0,1,tr,WAF,Africa
-'e9f2b42100',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası la plata y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.30517463732505457,0,1,tr,SES,South-America
-'e91f56dabe',extremes,Wildfire,#d60d2b,wmo,orman yangını rogaland,2026-01-26T04:09:00+00:00,Norway,0.30517035543783005,0,1,tr,NEU,Europe
+'8f29727ea9',extremes,Drought,#edc291,edo,kuraklık ekvator ginesi,2026-02-08T04:43:00+00:00,Equatorial Guinea,0.3051878065789239,0,1,tr,WAF,Africa
+'e9f2b42100',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası la plata y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.3051746373250545,0,1,tr,SES,South-America
+'e91f56dabe',extremes,Wildfire,#d60d2b,wmo,orman yangını rogaland,2026-01-26T04:09:00+00:00,Norway,0.30517035543783,0,1,tr,NEU,Europe
 '9aceadd432',extremes,Heat Wave,#c40202,random,rekor ısı,2026-01-21T03:55:00+00:00,,0.302534602528104,1,1,tr,,
 'a652c78afc',extremes,Drought,#edc291,random,mega kuraklık,2026-01-18T03:56:00+00:00,,0.3006146746719527,1,1,tr,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,buzdağı antarktika,2026-01-18T03:56:00+00:00,,0.2961872775454394,2,1,tr,,
