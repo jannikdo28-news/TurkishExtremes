@@ -1,43 +1,50 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Mansur Yavaş,Mansur Yavaş,PERSON,-0.07589285714285715,0.22767857142857142,en,2.8
 Özgür Özel,Özgür Özel,PERSON,0.0,0.0,en,2.8
-İbrahim Hayri Barut,İbrahim Hayri Barut,PERSON,0.0,0.06578947368421052,en,1.9
-Şener Üşümezsoy,Şener Üşümezsoy,PERSON,0.1049641148325359,0.4529505582137161,en,1.9
+Züleyha Ortak,Züleyha Ortak,PERSON,0.4736842105263158,0.6052631578947368,en,1.9
 İslam Memiş,İslam Memiş,PERSON,0.0,0.0,en,1.9
-Cevdet Yılmaz,Cevdet Yılmaz,PERSON,0.32565789473684215,0.5208333333333334,en,1.9
 Ömer Çelik,Ömer Çelik,PERSON,0.0,0.0,en,1.9
+Fatma Arat,Fatma Arat,PERSON,0.32894736842105265,0.8421052631578948,en,1.9
+Şener Üşümezsoy,Şener Üşümezsoy,PERSON,0.1049641148325359,0.4529505582137161,en,1.9
 Merve İldeniz,Merve İldeniz,PERSON,0.3815789473684211,0.5,en,1.9
-Balıkesir Sındırgı,Balıkesir Sındırgı,PERSON,0.39473684210526316,0.39473684210526316,en,1.9
-Hande Ataizi,Hande Ataizi,PERSON,0.0,0.0,en,1.9
+Cevdet Yılmaz,Cevdet Yılmaz,PERSON,0.32565789473684215,0.5208333333333334,en,1.9
 Hamza Aydoğdu,Hamza Aydoğdu,PERSON,0.07177033492822966,0.2631578947368421,en,1.9
-Volkan Kazak,Volkan Kazak,PERSON,0.46568627450980393,0.5637254901960784,en,1.7
-Esra Toptaş,Esra Toptaş,PERSON,0.0,0.0,en,1.7
+Osman Bektaş,Osman Bektaş,PERSON,0.18161881977671454,0.6244019138755981,en,1.9
+Recep Tayyip Erdoğan,Recep Tayyip Erdoğan,PERSON,0.08931419457735247,0.2743221690590112,en,1.9
+Balıkesir Sındırgı,Balıkesir Sındırgı,PERSON,0.39473684210526316,0.39473684210526316,en,1.9
+Serdar Dağ,Serdar Dağ,PERSON,0.4736842105263158,0.6052631578947368,en,1.9
+Hande Ataizi,Hande Ataizi,PERSON,0.0,0.0,en,1.9
+İbrahim Hayri Barut,İbrahim Hayri Barut,PERSON,0.0,0.06578947368421052,en,1.9
 Özgür Karaoğlu,Özgür Karaoğlu,PERSON,0.24509803921568626,0.3480392156862746,en,1.7
-Volkan Demirel,Volkan Demirel,PERSON,0.48039215686274517,0.5490196078431373,en,1.7
+Esra Toptaş,Esra Toptaş,PERSON,0.0,0.0,en,1.7
 Rumen Radev,Rumen Radev,PERSON,0.0,0.0,en,1.7
-Tekin Bingöl,Tekin Bingöl,PERSON,0.18333333333333335,0.5,en,1.0
-Tayyip Erdoğan,Tayyip Erdoğan,PERSON,0.6000000000000001,0.9,en,1.0
-Ali Ebu Zur,Ali Ebu Zur,PERSON,-0.2833333333333333,0.7916666666666666,en,1.0
-Devlet Bahçeli,Devlet Bahçeli,PERSON,0.6000000000000001,0.9,en,1.0
-Şükrü Küçükşahin,Şükrü Küçükşahin,PERSON,0.6000000000000001,0.9,en,1.0
-Fatih Karaca,Fatih Karaca,PERSON,0.0,0.0,en,1.0
-Ümit Özdağ,Ümit Özdağ,PERSON,0.0,0.0,en,1.0
-USS Abraham Lincoln,USS Abraham Lincoln,PERSON,0.0,0.0,en,1.0
-Ümit Hodja,Ümit Hodja,PERSON,-0.6999999999999998,0.6666666666666666,en,1.0
-Gökhan Yılmaz,Gökhan Yılmaz,PERSON,0.0,0.08333333333333334,en,1.0
-Storm Kristin,Storm Kristin,PERSON,0.125,0.2916666666666667,en,1.0
-Fatih Çekirge,Fatih Çekirge,PERSON,-0.4,0.7,en,1.0
-Özgür Efendi,Özgür Efendi,PERSON,0.0,0.0,en,1.0
+Volkan Demirel,Volkan Demirel,PERSON,0.48039215686274517,0.5490196078431373,en,1.7
+Volkan Kazak,Volkan Kazak,PERSON,0.46568627450980393,0.5637254901960784,en,1.7
+Abdurrahman Tutdere,Abdurrahman Tutdere,PERSON,0.0,0.0,en,1.0
+Thomas Landon,Thomas Landon,PERSON,0.11666666666666665,0.3166666666666667,en,1.0
+Shavket Mirziyoyev,Shavket Mirziyoyev,PERSON,-0.3,0.4,en,1.0
 Selim Bora,Selim Bora,PERSON,-0.4,0.7,en,1.0
+Fatih Çekirge,Fatih Çekirge,PERSON,-0.4,0.7,en,1.0
+Ümit Özdağ,Ümit Özdağ,PERSON,0.0,0.0,en,1.0
+Storm Kristin,Storm Kristin,PERSON,0.125,0.2916666666666667,en,1.0
+Tekin Bingöl,Tekin Bingöl,PERSON,0.18333333333333335,0.5,en,1.0
 Mount Hasan,Mount Hasan,PERSON,0.005555555555555554,0.43888888888888883,en,1.0
 Semeru Volcano,Semeru Volcano,PERSON,-0.4,0.6,en,1.0
-Özgür Efen,Özgür Efen,PERSON,0.0,0.0,en,1.0
+Gökhan Yılmaz,Gökhan Yılmaz,PERSON,0.0,0.08333333333333334,en,1.0
+USS Abraham Lincoln,USS Abraham Lincoln,PERSON,0.0,0.0,en,1.0
+Sefa Yapıcı,Sefa Yapıcı,PERSON,0.0,0.0,en,1.0
+Cengiz Kamalı,Cengiz Kamalı,PERSON,0.050000000000000044,0.9,en,1.0
+Fatih Karaca,Fatih Karaca,PERSON,0.0,0.0,en,1.0
+Erzincan Kemah,Erzincan Kemah,PERSON,0.0,0.0,en,1.0
+İbrahim Yumaklı,İbrahim Yumaklı,PERSON,0.0,0.0,en,1.0
+Abdullah Özdemir,Abdullah Özdemir,PERSON,-0.08125,0.26875,en,1.0
+Mesut Özarslan,Mesut Özarslan,PERSON,0.0625,0.5,en,1.0
+Ümit Hodja,Ümit Hodja,PERSON,-0.6999999999999998,0.6666666666666666,en,1.0
 Şahin Şahbaz,Şahin Şahbaz,PERSON,0.05000000000000002,0.5,en,1.0
-Ahmet Övgün Ercan,Ahmet Övgün Ercan,PERSON,0.4,1.0,en,1.0
-Arslan BULUT,Arslan BULUT,PERSON,0.0,0.0,en,1.0
+Tayyip Erdoğan,Tayyip Erdoğan,PERSON,0.6000000000000001,0.9,en,1.0
+Mehmet Yuva,Mehmet Yuva,PERSON,0.0,0.1,en,1.0
 Özgür Karoğlu,Özgür Karoğlu,PERSON,0.0,0.4,en,1.0
 Tommaso Della Longa,Tommaso Della Longa,PERSON,-0.04,0.1,en,1.0
-Recep Tayyip Erdoğan,Recep Tayyip Erdoğan,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
 Nicolas Aujula,Nicolas Aujula,PERSON,-0.5,0.5333333333333333,en,1.0
 Iğdır FK,Iğdır FK,PERSON,0.0,0.0,en,1.0
 Tayfun Kahraman,Tayfun Kahraman,PERSON,0.0,0.0,en,1.0
@@ -46,12 +53,18 @@ Deir Belah,Deir Belah,PERSON,-0.125,0.5650000000000001,en,1.0
 Mahmoud al-Akra,Mahmoud al-Akra,PERSON,-0.125,0.5650000000000001,en,1.0
 Metin Arolat,Metin Arolat,PERSON,0.19999999999999998,0.5190476190476191,en,1.0
 Hane İslam Eserl,Hane İslam Eserl,PERSON,0.0,0.0,en,1.0
-Mehmet Yuva,Mehmet Yuva,PERSON,0.0,0.1,en,1.0
+Yasin Yıldız,Yasin Yıldız,PERSON,0.3416666666666667,0.5833333333333334,en,1.0
 Raşit Yıldırım,Raşit Yıldırım,PERSON,-0.10555555555555556,0.638888888888889,en,1.0
+Şükrü Küçükşahin,Şükrü Küçükşahin,PERSON,0.6000000000000001,0.9,en,1.0
 Hayri Soylu,Hayri Soylu,PERSON,0.0,0.0,en,1.0
 Saime Kayaaslan,Saime Kayaaslan,PERSON,0.0,0.0,en,1.0
 İbrahim Kayaaslan,İbrahim Kayaaslan,PERSON,0.0,0.0,en,1.0
 Adil Tek,Adil Tek,PERSON,0.6,0.8,en,1.0
 İbrahim Batur Barut,İbrahim Batur Barut,PERSON,0.0,0.125,en,1.0
 Hüseyin Yayman,Hüseyin Yayman,PERSON,0.0,0.0,en,1.0
-Erzincan Kemah,Erzincan Kemah,PERSON,0.0,0.0,en,1.0
+Arslan BULUT,Arslan BULUT,PERSON,0.0,0.0,en,1.0
+Özgür Efendi,Özgür Efendi,PERSON,0.0,0.0,en,1.0
+Özgür Efen,Özgür Efen,PERSON,0.0,0.0,en,1.0
+Ali Ebu Zur,Ali Ebu Zur,PERSON,-0.2833333333333333,0.7916666666666666,en,1.0
+Devlet Bahçeli,Devlet Bahçeli,PERSON,0.6000000000000001,0.9,en,1.0
+Ahmet Övgün Ercan,Ahmet Övgün Ercan,PERSON,0.4,1.0,en,1.0
