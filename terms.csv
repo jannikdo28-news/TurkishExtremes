@@ -35,7 +35,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c37833a8e4',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur Moldova,2026-02-15T04:35:00+00:00,Moldova,0.443121616168001,1,1,tr,WCE,Europe
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,gece donu,2026-01-15T10:56:00+00:00,,0.4423707188540153,3,1,tr,,
 '4b7c13d40d',extremes,Storm,#b3b2b1,wmo,fırtına dalgası polog bölgesi,2026-02-15T04:35:00+00:00,North Macedonia,0.4421082917716045,1,1,tr,MED,Europe
-'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tropikal fırtına,2026-02-16T04:37:00+00:00,,0.44207462529544395,1,2,tr,,
+'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tropikal fırtına,2026-02-16T04:37:00+00:00,,0.4420746252954439,1,2,tr,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,rekor yağış,2026-01-27T03:58:00+00:00,,0.4396272012248618,2,2,tr,,
 'a4c593186d',extremes,Storm,#b3b2b1,wmo,fırtına dalgalanması Pelagonya bölgesi,2026-02-15T04:35:00+00:00,North Macedonia,0.4392642653873884,1,1,tr,MED,Europe
 '2f048a32c8',extremes,Thunderstorm,#53785a,wmo,kuzey makedonya'yı dolu,2026-02-15T04:35:00+00:00,North Macedonia,0.4376050790731932,1,1,tr,MED,Europe
@@ -248,6 +248,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '55b46ae31c',extremes,Storm,#b3b2b1,wmo,fırtına dalgası naama,2026-02-03T04:27:00+00:00,Algeria,0.3051078649584971,0,1,tr,SAH,Africa
 'b3c0051e90',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası formosa ve alrededores,2026-02-06T04:27:00+00:00,Argentina,0.305104784467637,0,1,tr,SES,South-America
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,orman yangını hindistan,2026-02-11T04:41:00+00:00,India,0.3050785001775705,0,1,tr,SAS,Asia
+'9801f8158e',extremes,Precipitation,#d60d2b,wmo,yağmur ekvador,2026-01-28T03:56:00+00:00,Ecuador,0.30506984591353287,0,1,tr,NWS,South-America
+'994fe03563',extremes,Snow Avalanche,#deddd5,wmo,çığ slovenya,2026-01-30T04:21:00+00:00,Slovenia,0.3050687672670658,0,1,tr,WCE,Europe
+'68a565abbc',extremes,Storm,#b3b2b1,wmo,fırtına dalgası yeni zelanda,2026-02-14T04:21:00+00:00,New Zealand,0.30506056215854566,0,1,tr,NZ,Oceania
+'d98aa38709',extremes,Fog,#d60d2b,wmo,sis suudi arabistan,2026-02-07T04:19:00+00:00,Saudi Arabia,0.3050296149179436,0,1,tr,ARP,Asia
+'fda000bba3',extremes,Storm,#b3b2b1,wmo,fırtına dalgası kıyı ve Sierra,2026-02-03T04:27:00+00:00,Ecuador,0.30502194183574255,0,1,tr,NWS,South-America
+'fa84ab2ea0',extremes,Thunderstorm,#53785a,wmo,şiddetli hava güney afrika,2026-02-07T04:19:00+00:00,South Africa,0.30502116099830917,0,1,tr,WSAF,Africa
+'0077950340',extremes,Wildfire,#d60d2b,wmo,orman yangını norveç,2026-01-28T03:56:00+00:00,Norway,0.30501736718148614,0,1,tr,NEU,Europe
+'3e989c7f7d',extremes,Precipitation,#d60d2b,wmo,yağmur maldivler,2026-02-08T04:43:00+00:00,Maldives,0.30500796653910206,0,1,tr,EIO,Indian Ocean
+'8bb788b602',extremes,Wildfire,#d60d2b,wmo,orman yangını assam,2026-02-11T04:41:00+00:00,India,0.30499176593451466,0,1,tr,SAS,Asia
+'3c909564eb',extremes,Thunderstorm,#53785a,wmo,fırtınalı pazar günleri nehir vadisi addo,2026-02-05T04:27:00+00:00,South Africa,0.3049877504405255,0,1,tr,WSAF,Africa
 '9aceadd432',extremes,Heat Wave,#c40202,random,rekor ısı,2026-01-21T03:55:00+00:00,,0.302534602528104,1,1,tr,,
 'a652c78afc',extremes,Drought,#edc291,random,mega kuraklık,2026-01-18T03:56:00+00:00,,0.3006146746719527,1,1,tr,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,buzdağı antarktika,2026-01-18T03:56:00+00:00,,0.2961872775454394,2,1,tr,,
@@ -445,7 +455,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fcc3f80d6b',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası paraguay,2026-01-24T03:48:00+00:00,Paraguay,0.2629892809304889,1,1,tr,SES,South-America
 '8ebd9f213e',extremes,Wildfire,#d60d2b,acwe,güney avustralya orman yangını,2026-01-27T03:59:00+00:00,Australia,0.2627388601373374,1,1,tr,SAU,Oceania
 '676a85a2fa',extremes,Drought,#edc291,edo,kuruluk sao tome ve principe,2026-02-02T04:36:00+00:00,Sao Tome and Principe,0.2623219212299609,1,1,tr,WAF,Africa
-'7b672dbbe2',extremes,Earthquake,#870007,usgs,deprem güney doğu pasifik yükselişi,2026-02-05T04:27:00+00:00,,0.26172037865898473,1,1,tr,SPO,Pacific Ocean
+'7b672dbbe2',extremes,Earthquake,#870007,usgs,deprem güney doğu pasifik yükselişi,2026-02-05T04:27:00+00:00,,0.2617203786589847,1,1,tr,SPO,Pacific Ocean
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur yeni zelanda,2026-02-13T04:34:00+00:00,New Zealand,0.2615612285921506,1,1,tr,NZ,Oceania
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,fırtına kabarması arjantin,2026-02-05T04:27:00+00:00,Argentina,0.2606998144441404,1,1,tr,SES,South-America
 '21ada6323e',extremes,Drought,#edc291,edo,yağmur eksikliği azerbaycan,2026-02-05T04:28:00+00:00,Azerbaijan,0.2605300374739157,1,1,tr,WCA,Asia
