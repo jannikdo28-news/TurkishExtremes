@@ -91,14 +91,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '23ad2bb822',extremes,Earthquake,#870007,usgs,deprem rusya,2026-01-15T10:56:00+00:00,Russia,0.3803467208298124,2,3,tr,EAS,Asia
 '4960d34559',extremes,Precipitation,#d60d2b,wmo,yağış güneydoğu bölgesi,2026-02-05T04:27:00+00:00,North Macedonia,0.3799389176672974,2,1,tr,MED,Europe
 'f685d1f47f',extremes,Drought,#edc291,edo,Kıbrıs'ta kuraklık,2026-02-05T04:28:00+00:00,Cyprus,0.3769723706685114,1,1,tr,MED,Europe
-'845dd2d698',extremes,Storm,#b3b2b1,random,kasırga,2026-01-17T03:44:00+00:00,,0.3767182083984072,2,1,tr,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,en soğuk gün,2026-01-15T10:56:00+00:00,,0.376376077578239,1,3,tr,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,sulu kar,2026-02-05T04:27:00+00:00,,0.3752038944655028,1,1,tr,,
 'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2026-02-05T04:28:00+00:00,Moldova,0.3737408664247804,1,1,tr,WCE,Europe
 '373c6724f3',extremes,Drought,#edc291,edo,yağmur eksikliği türkiye,2026-01-24T03:49:00+00:00,Turkey,0.3734707354007098,1,1,tr,MED,Asia
 'a4c593186d',extremes,Storm,#b3b2b1,wmo,fırtına dalgalanması Pelagonya bölgesi,2026-02-15T04:35:00+00:00,North Macedonia,0.3733746255792801,2,1,tr,MED,Europe
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,çekirge,2026-01-26T04:08:00+00:00,,0.3721650463731569,2,1,tr,,
-'27c5f85790',extremes,Drought,#edc291,edo,kuraklık hindisi,2026-01-17T03:44:00+00:00,Turkey,0.37183626453311,2,1,tr,MED,Asia
 'fbaa1c52eb',extremes,Drought,#edc291,edo,kuruluk kıbrıs,2026-01-19T04:03:00+00:00,Cyprus,0.3703392551113603,1,1,tr,MED,Europe
 '4f00106436',extremes,Precipitation,#d60d2b,wmo,sağanak kuzey makedonya,2026-01-25T04:06:00+00:00,North Macedonia,0.3693435505338387,3,1,tr,MED,Europe
 'ccefefc59e',extremes,Drought,#edc291,random,ani kuraklık,2026-01-15T10:20:00+00:00,,0.3680658840866849,1,2,tr,,
@@ -146,8 +144,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-05T04:27:00+00:00,,0.3183242775108461,1,1,tr,,
 '924236ebf8',extremes,Earthquake,#870007,usgs,deprem yenangyaung,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.3183132814951275,1,1,tr,SAS,Asia
 '70773b5956',extremes,Earthquake,#870007,usgs,deprem alaska,2026-02-05T04:27:00+00:00,Alaska,0.318304392260812,1,1,tr,NPO,Pacific Ocean
-'357f3c8921',extremes,Drought,#edc291,edo,kuzey makedonya'da yağmur eksikliği,2026-02-06T04:28:00+00:00,North Macedonia,0.31471726871274275,1,1,tr,MED,Europe
-'95694d19cf',extremes,Earthquake,#870007,usgs,deprem yemen,2026-02-05T04:27:00+00:00,Yemen,0.3146765776723637,0,1,tr,ARS,Indian Ocean
+'357f3c8921',extremes,Drought,#edc291,edo,kuzey makedonya'da yağmur eksikliği,2026-02-06T04:28:00+00:00,North Macedonia,0.3147172687127427,1,1,tr,MED,Europe
 '53e17b7a15',extremes,Earthquake,#870007,usgs,deprem houma,2026-02-05T04:27:00+00:00,Tonga,0.3142062016441617,0,1,tr,SPO,Pacific Ocean
 '8b4587c763',extremes,Storm,#b3b2b1,random,toz fırtınası,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,tr,,
 '997a2e2157',extremes,Earthquake,#870007,usgs,deprem arjantin,2026-02-05T04:27:00+00:00,Argentina,0.3139374809123158,0,1,tr,SWS,South-America
@@ -265,9 +262,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9797aa6299',extremes,Drought,#edc291,edo,yağmur eksikliği kıbrıs,2026-01-24T03:49:00+00:00,Cyprus,0.2857956425347136,2,1,tr,MED,Europe
 '63663feccd',extremes,Drought,#edc291,edo,yağmur eksikliği Moldova,2026-01-24T03:49:00+00:00,Moldova,0.2833234831185419,1,1,tr,WCE,Europe
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,kırağı kışı,2026-01-17T03:44:00+00:00,,0.2794825729177103,1,1,tr,,
-'fcf38cfed3',extremes,Drought,#edc291,edo,kuraklık kuzey makedonya,2026-01-19T04:03:00+00:00,North Macedonia,0.2763327799660353,2,1,tr,MED,Europe
 '053bb10e09',extremes,Heat Wave,#c40202,random,hint yazı,2026-01-23T04:02:00+00:00,,0.2759803107403592,1,1,tr,,
-'776fe47817',extremes,Wildfire,#d60d2b,random,orman yangını,2026-01-17T03:44:00+00:00,,0.2746907670415916,1,1,tr,,
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,tropikal kasırga italya,2026-01-28T03:57:00+00:00,Italy,0.2720064152251044,1,1,tr,MED,Europe
 'c660d659ce',extremes,Tropical Cyclone,#4f4f4f,eonet,tropikal siklon fytia,2026-01-31T04:16:00+00:00,,0.2709466533893596,1,1,tr,ESAF,Africa
 'c1c906585f',extremes,Tropical Cyclone,#4f4f4f,eonet,tropikal siklon 18p,2026-01-29T04:18:00+00:00,,0.2705833282606931,1,1,tr,SPO,Pacific Ocean
@@ -290,6 +285,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5c7fcfcede',extremes,Earthquake,#870007,usgs,deprem hihifo,2026-02-05T04:27:00+00:00,Tonga,0.2677984460116948,1,1,tr,SPO,Pacific Ocean
 '40726d14cc',extremes,Tsunami,#690191,usgs,tsunami adak,2026-01-30T04:21:00+00:00,Alaska,0.2677838570670129,1,1,tr,NPO,Pacific Ocean
 '22ea11191f',extremes,Earthquake,#870007,usgs,deprem batagay,2026-01-31T04:16:00+00:00,Russia,0.2676292832318591,1,1,tr,RAR,Europe
+'95694d19cf',extremes,Earthquake,#870007,usgs,deprem yemen,2026-02-05T04:27:00+00:00,Yemen,0.26762510602150913,1,1,tr,ARS,Indian Ocean
 '4ea40cfaf4',extremes,Earthquake,#870007,usgs,deprem prensi edward adaları bölgesi,2026-02-05T04:27:00+00:00,,0.2675542887751005,1,1,tr,SOO,Antarctica
 '381ceff412',extremes,Earthquake,#870007,usgs,deprem kimbe,2026-01-29T04:18:00+00:00,Papua New Guinea,0.267504612111723,1,1,tr,EPO,Pacific Ocean
 '628c910b11',extremes,Flood,#030ba1,aidr,Yeni Güney Galler'de sel baskını 2022,2026-02-01T04:41:00+00:00,Australia,0.2674814223077838,1,1,tr,EAU,Oceania
