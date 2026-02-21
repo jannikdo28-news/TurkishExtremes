@@ -5,6 +5,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d702e03bc',extremes,Precipitation,#d60d2b,wmo,sağanak bulgaristan,2026-01-15T12:14:00+00:00,Bulgaria,0.501786187371286,2,1,tr,MED,Europe
 '5b35936697',extremes,Storm,#b3b2b1,wmo,fırtına doğu bölgesi,2026-02-05T04:27:00+00:00,North Macedonia,0.4992703569971602,3,2,tr,MED,Europe
 '785dd66d15',extremes,Snow&Ice,#d60d2b,wmo,kar bulgaristan,2026-02-01T04:41:00+00:00,Bulgaria,0.4974895955987594,3,1,tr,MED,Europe
+'2cdb221481',extremes,Precipitation,#d60d2b,wmo,sağanak burgaz pazardzhik,2026-02-21T04:18:00+00:00,Bulgaria,0.4968941971236995,0,1,tr,MED,Europe
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,şiddetli hava,2026-01-20T03:55:00+00:00,,0.4967704782124945,3,3,tr,,
 '6c138cde70',extremes,Earthquake,#870007,usgs,deprem sındırgı,2026-01-22T03:59:00+00:00,Turkey,0.4963567863578371,4,2,tr,MED,Asia
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,şiddetli yağış,2026-01-25T04:05:00+00:00,,0.4927750740970982,4,3,tr,,
@@ -120,7 +121,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c9080fa8ac',extremes,Drought,#edc291,edo,Kuzey Makedonya'da kuraklık,2026-02-05T04:28:00+00:00,North Macedonia,0.3410744151477541,1,1,tr,MED,Europe
 '914c63ded0',extremes,Earthquake,#870007,usgs,deprem güvencesine,2026-02-07T04:19:00+00:00,Turkey,0.3407042538015805,2,1,tr,MED,Asia
 'd389bc4f63',extremes,Earthquake,#870007,usgs,deprem meksika,2026-02-05T04:27:00+00:00,Mexico,0.3387375392744142,1,2,tr,SCA,North-America
-'845dd2d698',extremes,Storm,#b3b2b1,random,kasırga,2026-02-07T04:19:00+00:00,,0.33838592670581613,1,1,tr,,
+'845dd2d698',extremes,Storm,#b3b2b1,random,kasırga,2026-02-07T04:19:00+00:00,,0.3383859267058161,1,1,tr,,
 '560b05d603',extremes,Heat Wave,#c40202,random,sıcak hava dalgası,2026-01-18T03:56:00+00:00,,0.3375420458851556,1,1,tr,,
 '1452522387',extremes,Precipitation,#d60d2b,wmo,kuzey makedonya'da sağanak yağmur,2026-01-27T03:58:00+00:00,North Macedonia,0.3358715497132443,3,1,tr,MED,Europe
 'a5ff1cde4a',extremes,Drought,#edc291,random,toprak nemi,2026-01-28T03:56:00+00:00,,0.3353685267509023,1,1,tr,,
@@ -153,8 +154,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '03f33e230d',extremes,Earthquake,#870007,usgs,deprem şili,2026-02-05T04:27:00+00:00,Chile,0.3129230036575081,0,1,tr,SWS,South-America
 '85a135fac3',extremes,Earthquake,#870007,usgs,ozernovskiy depremi,2026-02-05T04:27:00+00:00,Russia,0.3127341842794927,0,1,tr,NPO,Pacific Ocean
 '3894a694d1',extremes,Flood,#030ba1,aidr,Avustralya'da ani sel,2026-02-05T04:28:00+00:00,Australia,0.3126762739219478,0,1,tr,NAU,Oceania
+'34fd30e809',extremes,Earthquake,#870007,usgs,deprem kalaması,2026-02-05T04:27:00+00:00,Chile,0.3126127943362571,0,1,tr,SWS,South-America
 '6ee9959447',extremes,Tropical Cyclone,#4f4f4f,emdat,tropik kasırga madagaskar,2026-02-20T04:28:00+00:00,Madagascar,0.3125628137009715,0,1,tr,MDG,Africa
 '8710bd49ea',extremes,Earthquake,#870007,usgs,deprem severo kuril'sk,2026-02-05T04:27:00+00:00,Russia,0.3122152887555452,0,1,tr,NPO,Pacific Ocean
+'51dfc3f3e1',extremes,Earthquake,#870007,usgs,deprem kokopo,2026-02-05T04:27:00+00:00,Papua New Guinea,0.312081541659678,0,1,tr,EPO,Pacific Ocean
 '7e7895dc7a',extremes,Earthquake,#870007,usgs,deprem tacikistan,2026-02-05T04:27:00+00:00,Tajikistan,0.3120615341736481,0,1,tr,WCA,Asia
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,deprem papua yeni gine,2026-02-05T04:27:00+00:00,Papua New Guinea,0.3118484281580209,0,1,tr,EPO,Oceania
 '3a67915e02',extremes,Earthquake,#870007,usgs,deprem peru,2026-02-05T04:27:00+00:00,Peru,0.3118124740708182,0,1,tr,NWS,South-America
@@ -170,6 +173,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '221e658bfd',extremes,Drought,#edc291,edo,kuruluk lüksemburg,2026-02-10T04:43:00+00:00,Luxembourg,0.3090229214900688,0,1,tr,WCE,Europe
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tayfun,2026-01-15T10:20:00+00:00,,0.308999316490523,1,3,tr,,
 'd3353562c0',extremes,Drought,#edc291,edo,kuruluk Cibuti,2026-02-06T04:28:00+00:00,Djibouti,0.3089537604399661,0,1,tr,NEAF,Africa
+'02f4a27a12',extremes,Earthquake,#870007,usgs,deprem mendi,2026-02-05T04:27:00+00:00,Papua New Guinea,0.30834626184998126,0,1,tr,SEA,Oceania
 '20d3210be7',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası bernardo de irigoyen y alrededores,2026-01-30T04:21:00+00:00,Argentina,0.3083090057303648,0,1,tr,SES,South-America
 '0d261f252d',extremes,Storm,#b3b2b1,random,kış fırtınası,2026-01-26T04:08:00+00:00,,0.308071468206377,0,1,tr,,
 '0f0c46c2b9',extremes,Precipitation,#d60d2b,acwe,yağış güney avustralya,2026-01-28T03:57:00+00:00,Australia,0.3079471104686876,0,1,tr,SAU,Oceania
