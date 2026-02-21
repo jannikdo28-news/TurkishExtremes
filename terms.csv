@@ -111,6 +111,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ee67546360',extremes,Precipitation,#d60d2b,wmo,yağış bulgaristan,2026-01-30T04:21:00+00:00,Bulgaria,0.3575860686506611,3,1,tr,MED,Europe
 '030aa64ddb',extremes,Drought,#edc291,edo,kuraklık Moldova,2026-01-22T04:00:00+00:00,Moldova,0.3562952959487325,1,1,tr,WCE,Europe
 '2332e761a7',extremes,Precipitation,#d60d2b,wmo,sağanak kuzeydoğu bölgesi,2026-02-01T04:41:00+00:00,North Macedonia,0.3558596679743755,2,1,tr,MED,Europe
+'845dd2d698',extremes,Storm,#b3b2b1,random,kasırga,2026-02-07T04:19:00+00:00,,0.3532774902421366,0,1,tr,,
 '40f675561f',extremes,Heat Wave,#c40202,random,en sıcak yaz,2026-01-15T10:56:00+00:00,,0.3506564445657735,1,2,tr,,
 '6110d41627',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur Üsküp bölgesi,2026-01-26T04:09:00+00:00,North Macedonia,0.3499894229919137,3,1,tr,MED,Europe
 '8220584aae',extremes,Drought,#edc291,edo,kuruluk kuzey makedonya,2026-01-17T03:44:00+00:00,North Macedonia,0.3485156073983368,1,1,tr,MED,Europe
@@ -156,12 +157,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '03f33e230d',extremes,Earthquake,#870007,usgs,deprem şili,2026-02-05T04:27:00+00:00,Chile,0.3129230036575081,0,1,tr,SWS,South-America
 '85a135fac3',extremes,Earthquake,#870007,usgs,ozernovskiy depremi,2026-02-05T04:27:00+00:00,Russia,0.3127341842794927,0,1,tr,NPO,Pacific Ocean
 '3894a694d1',extremes,Flood,#030ba1,aidr,Avustralya'da ani sel,2026-02-05T04:28:00+00:00,Australia,0.3126762739219478,0,1,tr,NAU,Oceania
+'6ee9959447',extremes,Tropical Cyclone,#4f4f4f,emdat,tropik kasırga madagaskar,2026-02-20T04:28:00+00:00,Madagascar,0.3125628137009715,0,1,tr,MDG,Africa
 '8710bd49ea',extremes,Earthquake,#870007,usgs,deprem severo kuril'sk,2026-02-05T04:27:00+00:00,Russia,0.3122152887555452,0,1,tr,NPO,Pacific Ocean
 '7e7895dc7a',extremes,Earthquake,#870007,usgs,deprem tacikistan,2026-02-05T04:27:00+00:00,Tajikistan,0.3120615341736481,0,1,tr,WCA,Asia
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,deprem papua yeni gine,2026-02-05T04:27:00+00:00,Papua New Guinea,0.3118484281580209,0,1,tr,EPO,Oceania
 '3a67915e02',extremes,Earthquake,#870007,usgs,deprem peru,2026-02-05T04:27:00+00:00,Peru,0.3118124740708182,0,1,tr,NWS,South-America
+'e873273000',extremes,Storm,#b3b2b1,emdat,fırtına malavi,2026-02-20T04:28:00+00:00,Malawi,0.31174857808531975,0,1,tr,ESAF,Africa
 'c685705bbd',extremes,Earthquake,#870007,usgs,deprem çin,2026-01-15T10:56:00+00:00,China,0.3113071656249893,1,2,tr,EAS,Asia
+'731557e0bc',extremes,Earthquake,#870007,usgs,timor leste depremi,2026-02-05T04:27:00+00:00,Timor Leste,0.31092745842085423,0,1,tr,SEA,Asia
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarktika deniz buzu,2026-01-21T03:55:00+00:00,,0.3108999208214229,1,1,tr,,
+'957a7a09df',extremes,Earthquake,#870007,usgs,deprem attu istasyonu,2026-02-05T04:27:00+00:00,Alaska,0.310868766045275,0,1,tr,NPO,Pacific Ocean
+'3c0d8a70ba',extremes,Earthquake,#870007,usgs,deprem finschhafen,2026-02-05T04:27:00+00:00,Papua New Guinea,0.31042383923479266,0,1,tr,SEA,Oceania
 '45278c4de3',extremes,Drought,#edc291,edo,Kuraklık Somali,2026-01-22T04:00:00+00:00,Somalia,0.3098307487131462,0,1,tr,NEAF,Africa
 'f2b29262f2',extremes,Drought,#edc291,edo,kuraklık Belçika,2026-02-05T04:28:00+00:00,Belgium,0.3097987497087653,0,1,tr,WCE,Europe
 '80a1b6ba6b',extremes,Drought,#edc291,edo,kuraklık belçika,2026-02-06T04:28:00+00:00,Belgium,0.3096683279573431,0,1,tr,WCE,Europe
