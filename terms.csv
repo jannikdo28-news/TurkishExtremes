@@ -83,7 +83,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,kar sulu kar,2026-02-10T04:42:00+00:00,,0.3932831277004138,2,2,tr,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,kum fırtınası,2026-02-20T04:27:00+00:00,,0.3918069572623445,1,2,tr,,
 '67973e734f',extremes,Precipitation,#d60d2b,wmo,yağış kuzey makedonya,2026-01-27T03:58:00+00:00,North Macedonia,0.3915159368442001,2,1,tr,MED,Europe
-'776fe47817',extremes,Wildfire,#d60d2b,random,orman yangını,2026-02-18T04:33:00+00:00,,0.3914759645077226,0,1,tr,,
 '54927bfe65',extremes,Flood,#030ba1,random,kıyı su baskını,2026-02-12T04:36:00+00:00,,0.3902648640536532,1,2,tr,,
 'd811d106a0',extremes,Snow&Ice,#d60d2b,wmo,kar Moldova,2026-01-30T04:21:00+00:00,Moldova,0.3891206303053126,2,1,tr,WCE,Europe
 '89426ddfd9',extremes,Fog,#d60d2b,wmo,Moldova sisi,2026-01-28T03:56:00+00:00,Moldova,0.3880538230010951,2,1,tr,WCE,Europe
@@ -105,6 +104,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ccefefc59e',extremes,Drought,#edc291,random,ani kuraklık,2026-01-15T10:20:00+00:00,,0.3680658840866849,1,2,tr,,
 '5778f30f3a',extremes,Precipitation,#d60d2b,wmo,Pelagonya bölgesi sağanak yağmur,2026-01-25T04:06:00+00:00,North Macedonia,0.3678059923106568,3,1,tr,MED,Europe
 '569caf6847',extremes,Precipitation,#d60d2b,wmo,sağanak güneybatı bölgesi,2026-01-25T04:06:00+00:00,North Macedonia,0.3672044045209978,3,1,tr,MED,Europe
+'776fe47817',extremes,Wildfire,#d60d2b,random,orman yangını,2026-02-18T04:33:00+00:00,,0.3635046448315642,1,1,tr,,
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,deprem yeni zelanda,2026-01-15T10:56:00+00:00,New Zealand,0.3626021390906192,1,2,tr,NZ,Oceania
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,kar esiyor,2026-02-07T04:19:00+00:00,,0.3619097865701492,1,1,tr,,
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,kuzey amerika kış fırtınası new york,2026-01-31T04:17:00+00:00,United States,0.3589829806913387,2,2,tr,ENA,North-America
@@ -162,12 +162,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7e7895dc7a',extremes,Earthquake,#870007,usgs,deprem tacikistan,2026-02-05T04:27:00+00:00,Tajikistan,0.3120615341736481,0,1,tr,WCA,Asia
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,deprem papua yeni gine,2026-02-05T04:27:00+00:00,Papua New Guinea,0.3118484281580209,0,1,tr,EPO,Oceania
 '3a67915e02',extremes,Earthquake,#870007,usgs,deprem peru,2026-02-05T04:27:00+00:00,Peru,0.3118124740708182,0,1,tr,NWS,South-America
-'e873273000',extremes,Storm,#b3b2b1,emdat,fırtına malavi,2026-02-20T04:28:00+00:00,Malawi,0.31174857808531975,0,1,tr,ESAF,Africa
+'e873273000',extremes,Storm,#b3b2b1,emdat,fırtına malavi,2026-02-20T04:28:00+00:00,Malawi,0.3117485780853197,0,1,tr,ESAF,Africa
 'c685705bbd',extremes,Earthquake,#870007,usgs,deprem çin,2026-01-15T10:56:00+00:00,China,0.3113071656249893,1,2,tr,EAS,Asia
-'731557e0bc',extremes,Earthquake,#870007,usgs,timor leste depremi,2026-02-05T04:27:00+00:00,Timor Leste,0.31092745842085423,0,1,tr,SEA,Asia
+'731557e0bc',extremes,Earthquake,#870007,usgs,timor leste depremi,2026-02-05T04:27:00+00:00,Timor Leste,0.3109274584208542,0,1,tr,SEA,Asia
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarktika deniz buzu,2026-01-21T03:55:00+00:00,,0.3108999208214229,1,1,tr,,
 '957a7a09df',extremes,Earthquake,#870007,usgs,deprem attu istasyonu,2026-02-05T04:27:00+00:00,Alaska,0.310868766045275,0,1,tr,NPO,Pacific Ocean
-'3c0d8a70ba',extremes,Earthquake,#870007,usgs,deprem finschhafen,2026-02-05T04:27:00+00:00,Papua New Guinea,0.31042383923479266,0,1,tr,SEA,Oceania
+'3c0d8a70ba',extremes,Earthquake,#870007,usgs,deprem finschhafen,2026-02-05T04:27:00+00:00,Papua New Guinea,0.3104238392347926,0,1,tr,SEA,Oceania
 '45278c4de3',extremes,Drought,#edc291,edo,Kuraklık Somali,2026-01-22T04:00:00+00:00,Somalia,0.3098307487131462,0,1,tr,NEAF,Africa
 'f2b29262f2',extremes,Drought,#edc291,edo,kuraklık Belçika,2026-02-05T04:28:00+00:00,Belgium,0.3097987497087653,0,1,tr,WCE,Europe
 '80a1b6ba6b',extremes,Drought,#edc291,edo,kuraklık belçika,2026-02-06T04:28:00+00:00,Belgium,0.3096683279573431,0,1,tr,WCE,Europe
