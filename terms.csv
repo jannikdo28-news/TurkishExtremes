@@ -20,7 +20,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1e73286365',extremes,Cold Wave,#a7e9fa,wmo,Bulgaristan'ın donması,2026-02-02T04:36:00+00:00,Bulgaria,0.4775154602258105,2,1,tr,MED,Europe
 '0cd7c1e7a2',extremes,Cold Wave,#a7e9fa,wmo,soğuk dalga bulgaristan,2026-02-02T04:36:00+00:00,Bulgaria,0.4749498713944293,2,1,tr,MED,Europe
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,kar fırtınası,2026-01-15T10:39:00+00:00,,0.4715484539204027,1,3,tr,,
-'908f74a83c',extremes,Snow&Ice,#d60d2b,wmo,dondurucu Bulgaristan,2026-01-21T03:56:00+00:00,Bulgaria,0.4686336983446096,2,1,tr,MED,Europe
 'f1610bf0f1',extremes,Storm,#b3b2b1,wmo,Pelagonya bölgesi fırtınası,2026-02-17T04:31:00+00:00,North Macedonia,0.4682093162859203,1,1,tr,MED,Europe
 '53a3b26e9d',extremes,Snow&Ice,#d60d2b,wmo,kuzey makedonya'nın donması,2026-02-20T04:27:00+00:00,North Macedonia,0.4679565709668122,1,1,tr,MED,Europe
 '6ab4417a9f',extremes,Storm,#b3b2b1,wmo,fırtına dalgası güneybatı bölgesi,2026-02-17T04:31:00+00:00,North Macedonia,0.4667467550340733,1,1,tr,MED,Europe
@@ -213,7 +212,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a1d6f6b899',extremes,Storm,#b3b2b1,wmo,fırtına dalgası Sierra ve Amazonia kıyılarında,2026-02-04T04:21:00+00:00,Ecuador,0.3057732112392244,0,1,tr,NWS,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,sağanak brezilya,2026-02-05T04:27:00+00:00,Brazil,0.3056709187230583,0,1,tr,SAM,South-America
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,yağmur Seyşeller,2026-02-16T04:38:00+00:00,Seychelles,0.3056363313316763,0,1,tr,EIO,Africa
-'12545c3510',extremes,Earthquake,#870007,usgs,deprem hengchun,2026-01-27T03:58:00+00:00,Taiwan,0.305636192957709,0,1,tr,EAS,Asia
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,yağmur Arjantin,2026-02-05T04:27:00+00:00,Argentina,0.3055862975867796,0,1,tr,SES,South-America
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,kar kanadası,2026-02-06T04:27:00+00:00,Canada,0.3054802177825022,0,1,tr,NEN,North-America
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası avustralya,2026-02-05T04:27:00+00:00,Australia,0.3054719283226543,0,1,tr,CAU,Oceania
@@ -260,7 +258,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '053bb10e09',extremes,Heat Wave,#c40202,random,hint yazı,2026-01-23T04:02:00+00:00,,0.2759803107403592,1,1,tr,,
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,tropikal kasırga italya,2026-01-28T03:57:00+00:00,Italy,0.2720064152251044,1,1,tr,MED,Europe
 'c660d659ce',extremes,Tropical Cyclone,#4f4f4f,eonet,tropikal siklon fytia,2026-01-31T04:16:00+00:00,,0.2709466533893596,1,1,tr,ESAF,Africa
-'eced4efa71',extremes,Tropical Cyclone,#4f4f4f,eonet,tropik kasırga horacio,2026-02-21T04:17:00+00:00,,0.27081149835470253,1,1,tr,SIO,Indian Ocean
+'eced4efa71',extremes,Tropical Cyclone,#4f4f4f,eonet,tropik kasırga horacio,2026-02-21T04:17:00+00:00,,0.2708114983547025,1,1,tr,SIO,Indian Ocean
 'c1c906585f',extremes,Tropical Cyclone,#4f4f4f,eonet,tropikal siklon 18p,2026-01-29T04:18:00+00:00,,0.2705833282606931,1,1,tr,SPO,Pacific Ocean
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,buzdağı antarktika,2026-02-19T04:31:00+00:00,,0.2700864414462257,1,1,tr,,
 'e921e2b0b7',extremes,Flood,#030ba1,aidr,Eski tropik kasırga Tiffany Güney Avustralya'dan kaynaklanan şiddetli sel 2022,2026-02-08T04:44:00+00:00,Australia,0.2689135096487057,1,1,tr,SAU,Oceania
@@ -299,22 +297,22 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3336c980ab',extremes,Earthquake,#870007,usgs,deprem saint helena,2026-01-21T03:55:00+00:00,Saint Helena,0.2664005189741036,1,1,tr,EAO,Atlantic Ocean
 '06972a2776',extremes,Flood,#030ba1,acwe,Yeni Güney Galler'de ani sel,2026-01-31T04:17:00+00:00,Australia,0.266100968065277,1,1,tr,EAU,Oceania
 'ad41fee440',extremes,Earthquake,#870007,usgs,deprem lata,2026-02-05T04:27:00+00:00,Solomon Islands,0.2660989767731193,1,1,tr,SPO,Pacific Ocean
-'03f33e230d',extremes,Earthquake,#870007,usgs,deprem şili,2026-02-05T04:27:00+00:00,Chile,0.26598455310888186,1,1,tr,SWS,South-America
+'03f33e230d',extremes,Earthquake,#870007,usgs,deprem şili,2026-02-05T04:27:00+00:00,Chile,0.2659845531088818,1,1,tr,SWS,South-America
 'a0068b2b6b',extremes,Flood,#030ba1,aidr,"Sel, yağış ve su baskını Queensland Şubat Mart 2022",2026-02-05T04:28:00+00:00,Australia,0.2658404195608672,1,1,tr,EAU,Oceania
-'85a135fac3',extremes,Earthquake,#870007,usgs,ozernovskiy depremi,2026-02-05T04:27:00+00:00,Russia,0.26582405663756875,1,1,tr,NPO,Pacific Ocean
+'85a135fac3',extremes,Earthquake,#870007,usgs,ozernovskiy depremi,2026-02-05T04:27:00+00:00,Russia,0.2658240566375687,1,1,tr,NPO,Pacific Ocean
 '3894a694d1',extremes,Flood,#030ba1,aidr,Avustralya'da ani sel,2026-02-05T04:28:00+00:00,Australia,0.2657748328336556,1,1,tr,NAU,Oceania
-'34fd30e809',extremes,Earthquake,#870007,usgs,deprem kalaması,2026-02-05T04:27:00+00:00,Chile,0.26572087518581855,1,1,tr,SWS,South-America
+'34fd30e809',extremes,Earthquake,#870007,usgs,deprem kalaması,2026-02-05T04:27:00+00:00,Chile,0.2657208751858185,1,1,tr,SWS,South-America
 'f7e4598a47',extremes,Tropical Cyclone,#4f4f4f,eonet,tropik kasırga ewetse,2026-01-21T03:55:00+00:00,,0.2656827750482364,1,1,tr,MDG,Africa
-'6ee9959447',extremes,Tropical Cyclone,#4f4f4f,emdat,tropik kasırga madagaskar,2026-02-20T04:28:00+00:00,Madagascar,0.26567839164582574,1,1,tr,MDG,Africa
+'6ee9959447',extremes,Tropical Cyclone,#4f4f4f,emdat,tropik kasırga madagaskar,2026-02-20T04:28:00+00:00,Madagascar,0.2656783916458257,1,1,tr,MDG,Africa
 '3e5f311da7',extremes,Drought,#edc291,edo,kuraklık sao tome ve principe,2026-02-05T04:28:00+00:00,Sao Tome and Principe,0.2656170667106616,1,1,tr,WAF,Africa
 '521b639732',extremes,Tropical Cyclone,#4f4f4f,aidr,oswald kasırgası queensland yeni güney galler 2013,2026-02-05T04:28:00+00:00,Australia,0.2654640637136597,1,1,tr,NAU,Oceania
-'8710bd49ea',extremes,Earthquake,#870007,usgs,deprem severo kuril'sk,2026-02-05T04:27:00+00:00,Russia,0.26538299544221344,1,1,tr,NPO,Pacific Ocean
-'51dfc3f3e1',extremes,Earthquake,#870007,usgs,deprem kokopo,2026-02-05T04:27:00+00:00,Papua New Guinea,0.26526931041072627,1,1,tr,EPO,Pacific Ocean
+'8710bd49ea',extremes,Earthquake,#870007,usgs,deprem severo kuril'sk,2026-02-05T04:27:00+00:00,Russia,0.2653829954422134,1,1,tr,NPO,Pacific Ocean
+'51dfc3f3e1',extremes,Earthquake,#870007,usgs,deprem kokopo,2026-02-05T04:27:00+00:00,Papua New Guinea,0.2652693104107262,1,1,tr,EPO,Pacific Ocean
 '7e7895dc7a',extremes,Earthquake,#870007,usgs,deprem tacikistan,2026-02-05T04:27:00+00:00,Tajikistan,0.2652523040476009,1,1,tr,WCA,Asia
 'aef4c7cec9',extremes,Earthquake,#870007,aidr,deprem christchurch yeni zelanda 2011,2026-01-29T04:19:00+00:00,New Zealand,0.2652394284303015,1,1,tr,NZ,Oceania
 'ba920c05ae',extremes,Earthquake,#870007,usgs,riverton depremi,2026-02-03T04:27:00+00:00,New Zealand,0.265083174065532,1,1,tr,NZ,Oceania
-'edcb89e9c3',extremes,Earthquake,#870007,usgs,deprem papua yeni gine,2026-02-05T04:27:00+00:00,Papua New Guinea,0.26507116393431773,1,1,tr,EPO,Oceania
-'3a67915e02',extremes,Earthquake,#870007,usgs,deprem peru,2026-02-05T04:27:00+00:00,Peru,0.26504060296019544,1,1,tr,NWS,South-America
+'edcb89e9c3',extremes,Earthquake,#870007,usgs,deprem papua yeni gine,2026-02-05T04:27:00+00:00,Papua New Guinea,0.2650711639343177,1,1,tr,EPO,Oceania
+'3a67915e02',extremes,Earthquake,#870007,usgs,deprem peru,2026-02-05T04:27:00+00:00,Peru,0.2650406029601954,1,1,tr,NWS,South-America
 'e873273000',extremes,Storm,#b3b2b1,emdat,fırtına malavi,2026-02-20T04:28:00+00:00,Malawi,0.2649862913725217,1,1,tr,ESAF,Africa
 '51b14c1443',extremes,Flood,#030ba1,aidr,sel geelong victoria 2016,2026-02-07T04:20:00+00:00,Australia,0.2645824402786346,1,1,tr,SAU,Oceania
 '1ff36d7a46',extremes,Drought,#edc291,edo,kuruluk belçika,2026-02-07T04:19:00+00:00,Belgium,0.2644435913915439,1,1,tr,WCE,Europe
@@ -344,6 +342,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,fırtına dalgalanması ekvador,2026-01-27T03:58:00+00:00,Ecuador,0.260044460634581,1,1,tr,NWS,South-America
 '2cfcf7a5d7',extremes,Storm,#b3b2b1,wmo,fırtına مملكة البحرين والمناطق المحيطة بها,2026-02-08T04:43:00+00:00,Bahrain,0.2599904299854609,1,1,tr,ARP,Asia
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,fırtına paraguay,2026-02-13T04:34:00+00:00,Paraguay,0.2598980961386601,1,1,tr,SES,South-America
+'12545c3510',extremes,Earthquake,#870007,usgs,deprem hengchun,2026-01-27T03:58:00+00:00,Taiwan,0.25979076401405266,1,1,tr,EAS,Asia
 'dbc33f3019',extremes,Snow&Ice,#d60d2b,wmo,Moldova don cumhuriyeti,2026-02-05T04:27:00+00:00,Republic of Moldova,0.2597168088211741,1,1,tr,WCE,Europe
 '46757c038c',extremes,Thunderstorm,#53785a,wmo,güney afrika'yı dolu,2026-02-05T04:27:00+00:00,South Africa,0.259708714884232,1,1,tr,WSAF,Africa
 'a828348731',extremes,Storm,#b3b2b1,wmo,fırtına kosta rika,2026-01-31T04:16:00+00:00,Costa Rica,0.2596306900455714,1,1,tr,SCA,North-America
