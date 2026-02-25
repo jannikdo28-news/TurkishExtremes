@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'4f00106436',extremes,Precipitation,#d60d2b,wmo,sağanak kuzey makedonya,2026-02-15T04:35:00+00:00,North Macedonia,0.5349568523883075,0,1,tr,MED,Europe
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,şiddetli hava,2026-01-20T03:55:00+00:00,,0.4967704782124945,3,3,tr,,
 '6c138cde70',extremes,Earthquake,#870007,usgs,deprem sındırgı,2026-01-22T03:59:00+00:00,Turkey,0.4963567863578371,4,2,tr,MED,Asia
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,şiddetli yağış,2026-01-25T04:05:00+00:00,,0.4927750740970982,4,3,tr,,
@@ -92,7 +93,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4960d34559',extremes,Precipitation,#d60d2b,wmo,yağış güneydoğu bölgesi,2026-02-05T04:27:00+00:00,North Macedonia,0.3799389176672974,2,1,tr,MED,Europe
 '0d261f252d',extremes,Storm,#b3b2b1,random,kış fırtınası,2026-01-26T04:08:00+00:00,,0.3798775496420871,1,2,tr,,
 'f685d1f47f',extremes,Drought,#edc291,edo,Kıbrıs'ta kuraklık,2026-02-05T04:28:00+00:00,Cyprus,0.3769723706685114,1,1,tr,MED,Europe
-'c37833a8e4',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur Moldova,2026-02-15T04:35:00+00:00,Moldova,0.37665337374280083,2,1,tr,WCE,Europe
+'c37833a8e4',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur Moldova,2026-02-15T04:35:00+00:00,Moldova,0.3766533737428008,2,1,tr,WCE,Europe
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,en soğuk gün,2026-01-15T10:56:00+00:00,,0.376376077578239,1,3,tr,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tropikal fırtına,2026-02-16T04:37:00+00:00,,0.3757634765011273,2,1,tr,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,sulu kar,2026-02-05T04:27:00+00:00,,0.3752038944655028,1,1,tr,,
@@ -101,6 +102,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '373c6724f3',extremes,Drought,#edc291,edo,yağmur eksikliği türkiye,2026-01-24T03:49:00+00:00,Turkey,0.3734707354007098,1,1,tr,MED,Asia
 'a4c593186d',extremes,Storm,#b3b2b1,wmo,fırtına dalgalanması Pelagonya bölgesi,2026-02-15T04:35:00+00:00,North Macedonia,0.3733746255792801,2,1,tr,MED,Europe
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,çekirge,2026-01-26T04:08:00+00:00,,0.3721650463731569,2,1,tr,,
+'3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarktika deniz buzu,2026-02-12T04:36:00+00:00,,0.36986653049991847,0,1,tr,,
 'ccefefc59e',extremes,Drought,#edc291,random,ani kuraklık,2026-01-15T10:20:00+00:00,,0.3680658840866849,1,2,tr,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,orman yangını,2026-02-18T04:33:00+00:00,,0.3635046448315642,1,1,tr,,
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,deprem yeni zelanda,2026-01-15T10:56:00+00:00,New Zealand,0.3626021390906192,1,2,tr,NZ,Oceania
@@ -129,6 +131,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d9577e33d',extremes,Volcano,#b83202,random,volkan,2026-02-06T04:27:00+00:00,,0.3347917594530162,1,2,tr,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,ıslak büyü,2026-02-05T04:27:00+00:00,,0.3341684485510119,1,1,tr,,
 '1405131905',extremes,Thunderstorm,#53785a,random,dolu,2026-01-22T03:59:00+00:00,,0.3336999180392473,1,2,tr,,
+'f90601fa23',extremes,Volcano,#b83202,random,yanardağ patlaması,2026-02-21T04:17:00+00:00,,0.33129132030731084,0,1,tr,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,hava cephesi,2026-01-15T10:56:00+00:00,,0.3298698012195951,1,2,tr,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,karaya yaklaşma,2026-02-06T04:27:00+00:00,,0.3286993216996942,1,1,tr,,
 'c948617fef',extremes,Heat Wave,#c40202,random,aşırı ısıya maruz kalma,2026-02-06T04:27:00+00:00,,0.3276369716469687,1,1,tr,,
@@ -146,6 +149,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '997a2e2157',extremes,Earthquake,#870007,usgs,deprem arjantin,2026-02-05T04:27:00+00:00,Argentina,0.3172969037754684,1,1,tr,SWS,South-America
 '357f3c8921',extremes,Drought,#edc291,edo,kuzey makedonya'da yağmur eksikliği,2026-02-06T04:28:00+00:00,North Macedonia,0.3147172687127427,1,1,tr,MED,Europe
 '8b4587c763',extremes,Storm,#b3b2b1,random,toz fırtınası,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,tr,,
+'9aceadd432',extremes,Heat Wave,#c40202,random,rekor ısı,2026-02-17T04:30:00+00:00,,0.31108637386470644,0,1,tr,,
+'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,donma,2026-02-15T04:34:00+00:00,,0.30951470130421316,0,1,tr,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tayfun,2026-01-15T10:20:00+00:00,,0.308999316490523,1,3,tr,,
 'fcf38cfed3',extremes,Drought,#edc291,edo,kuraklık kuzey makedonya,2026-02-16T04:38:00+00:00,North Macedonia,0.3072435507867364,1,1,tr,MED,Europe
 'a63efd7f21',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası tartagal ve alrededores,2026-02-17T04:31:00+00:00,Argentina,0.3060660746848582,0,1,tr,SES,South-America
@@ -325,7 +330,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4ae75fc210',extremes,Precipitation,#d60d2b,wmo,sağanak suudi arabistan,2026-02-05T04:27:00+00:00,Saudi Arabia,0.2607268949735129,1,1,tr,ARP,Asia
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,fırtına kabarması arjantin,2026-02-05T04:27:00+00:00,Argentina,0.2606998144441404,1,1,tr,SES,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,fırtına arjantin,2026-02-05T04:27:00+00:00,Argentina,0.2606118193022745,1,1,tr,SES,South-America
-'81c1847cf8',extremes,Snow&Ice,#d60d2b,wmo,frost sydney metrosu ve cape breton ilçesi,2026-02-16T04:38:00+00:00,Canada,0.26057560046731304,1,1,tr,NEN,North-America
+'81c1847cf8',extremes,Snow&Ice,#d60d2b,wmo,frost sydney metrosu ve cape breton ilçesi,2026-02-16T04:38:00+00:00,Canada,0.260575600467313,1,1,tr,NEN,North-America
 '8a654473a4',extremes,Drought,#edc291,edo,kuraklık sao tome ve principe,2026-02-12T04:37:00+00:00,Sao Tome and Principe,0.2605374501153266,1,1,tr,WAF,Africa
 '21ada6323e',extremes,Drought,#edc291,edo,yağmur eksikliği azerbaycan,2026-02-05T04:28:00+00:00,Azerbaijan,0.2605300374739157,1,1,tr,WCA,Asia
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,yağış arjantin,2026-02-05T04:27:00+00:00,Argentina,0.2604770931903215,1,1,tr,SES,South-America
