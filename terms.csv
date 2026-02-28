@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'a193b5384d',extremes,Earthquake,#870007,usgs,deprem nurhak,2026-02-27T04:25:00+00:00,Turkey,0.5898443672478125,1,2,tr,MED,Asia
 '9044bc0335',extremes,Earthquake,#870007,usgs,deprem georgetown,2026-01-21T03:55:00+00:00,Saint Helena,0.5789365242217188,3,2,tr,SAO,Atlantic Ocean
-'a193b5384d',extremes,Earthquake,#870007,usgs,deprem nurhak,2026-02-27T04:25:00+00:00,Turkey,0.5172874732327206,0,1,tr,MED,Asia
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,şiddetli hava,2026-01-20T03:55:00+00:00,,0.4967704782124945,3,3,tr,,
 '6c138cde70',extremes,Earthquake,#870007,usgs,deprem sındırgı,2026-01-22T03:59:00+00:00,Turkey,0.4963567863578371,4,2,tr,MED,Asia
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,şiddetli yağış,2026-01-25T04:05:00+00:00,,0.4927750740970982,4,3,tr,,
@@ -195,7 +195,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e44561d4c',extremes,Snow&Ice,#d60d2b,wmo,Moldova'nın buz cumhuriyeti,2026-02-18T04:34:00+00:00,Republic of Moldova,0.3050908882155386,0,1,tr,WCE,Europe
 'd61de81685',extremes,Storm,#b3b2b1,wmo,fırtına dalgası şili,2026-02-10T04:43:00+00:00,Chile,0.305087489985606,0,1,tr,SWS,South-America
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,orman yangını hindistan,2026-02-11T04:41:00+00:00,India,0.3050785001775705,0,1,tr,SAS,Asia
-'e7eb516918',extremes,Snow&Ice,#d60d2b,wmo,Moldova'nın kar cumhuriyeti,2026-02-18T04:34:00+00:00,Republic of Moldova,0.30507728076064394,0,1,tr,WCE,Europe
+'e7eb516918',extremes,Snow&Ice,#d60d2b,wmo,Moldova'nın kar cumhuriyeti,2026-02-18T04:34:00+00:00,Republic of Moldova,0.3050772807606439,0,1,tr,WCE,Europe
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,yağmur ekvador,2026-01-28T03:56:00+00:00,Ecuador,0.3050698459135328,0,1,tr,NWS,South-America
 '994fe03563',extremes,Snow Avalanche,#deddd5,wmo,çığ slovenya,2026-01-30T04:21:00+00:00,Slovenia,0.3050687672670658,0,1,tr,WCE,Europe
 '8d4343544c',extremes,Precipitation,#d60d2b,wmo,yağmur kıyısı,2026-02-17T04:31:00+00:00,Ecuador,0.30506863226274,0,1,tr,NWS,South-America
