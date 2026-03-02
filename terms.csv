@@ -1,5 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '9044bc0335',extremes,Earthquake,#870007,usgs,deprem georgetown,2026-01-21T03:55:00+00:00,Saint Helena,0.5789365242217188,3,2,tr,SAO,Atlantic Ocean
+'6c138cde70',extremes,Earthquake,#870007,usgs,deprem sındırgı,2026-02-11T04:41:00+00:00,Turkey,0.5125114010428836,1,2,tr,MED,Asia
 'a193b5384d',extremes,Earthquake,#870007,usgs,deprem nurhak,2026-02-27T04:25:00+00:00,Turkey,0.5013677271606407,2,1,tr,MED,Asia
 '12775cc05a',extremes,Drought,#edc291,wmo,kuraklık brezilya,2026-02-05T04:27:00+00:00,Brazil,0.4983473192285326,2,2,tr,SAM,South-America
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,şiddetli hava,2026-01-20T03:55:00+00:00,,0.4967704782124945,3,3,tr,,
@@ -22,11 +23,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '52af874334',extremes,Drought,#edc291,random,kuraklık,2026-01-21T03:55:00+00:00,,0.457463934114876,2,3,tr,,
 '924042ea68',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur bulgaristan,2026-01-26T04:09:00+00:00,Bulgaria,0.45542028723301,2,1,tr,MED,Europe
 '4806a05714',extremes,Earthquake,#870007,usgs,deprem türkiye,2026-01-15T10:56:00+00:00,Turkey,0.4545113630267474,1,3,tr,MED,Asia
-'6c138cde70',extremes,Earthquake,#870007,usgs,deprem sındırgı,2026-02-11T04:41:00+00:00,Turkey,0.44713091887398076,0,1,tr,MED,Asia
 '4e1d59e985',extremes,Precipitation,#d60d2b,wmo,yağmur bulgaristan,2026-02-05T04:27:00+00:00,Bulgaria,0.4446093111952544,4,1,tr,MED,Europe
 'f37139fe2d',extremes,Landslide,#572c03,random,toprak kayması,2026-02-12T04:36:00+00:00,,0.4437759659846805,1,3,tr,,
 'b520ea04bb',extremes,Snow&Ice,#d60d2b,wmo,don bulgaristan,2026-02-01T04:41:00+00:00,Bulgaria,0.442663844636967,6,2,tr,MED,Europe
-'c1eef80860',extremes,Drought,#edc291,edo,kuraklık bulgaristan,2026-02-19T04:32:00+00:00,Bulgaria,0.441811304208064,0,1,tr,MED,Europe
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,ilaç,2026-01-22T03:59:00+00:00,,0.4411743007844712,2,3,tr,,
 'f90601fa23',extremes,Volcano,#b83202,random,yanardağ patlaması,2026-02-21T04:17:00+00:00,,0.4395651956712272,3,1,tr,,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,fırtına,2026-02-23T04:36:00+00:00,,0.4350465791096044,1,3,tr,,
@@ -85,6 +84,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c37833a8e4',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur Moldova,2026-02-15T04:35:00+00:00,Moldova,0.3766533737428008,2,1,tr,WCE,Europe
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,en soğuk gün,2026-01-15T10:56:00+00:00,,0.376376077578239,1,3,tr,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tropikal fırtına,2026-02-16T04:37:00+00:00,,0.3757634765011273,2,1,tr,,
+'c1eef80860',extremes,Drought,#edc291,edo,kuraklık bulgaristan,2026-02-19T04:32:00+00:00,Bulgaria,0.3755396085768544,1,1,tr,MED,Europe
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,sulu kar,2026-02-05T04:27:00+00:00,,0.3752038944655028,1,1,tr,,
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,çığ fransa,2026-02-05T04:27:00+00:00,France,0.3745388672783483,1,2,tr,WCE,Europe
 'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2026-02-05T04:28:00+00:00,Moldova,0.3737408664247804,1,1,tr,WCE,Europe
@@ -143,7 +143,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '997a2e2157',extremes,Earthquake,#870007,usgs,deprem arjantin,2026-02-05T04:27:00+00:00,Argentina,0.3172969037754684,1,1,tr,SWS,South-America
 '357f3c8921',extremes,Drought,#edc291,edo,kuzey makedonya'da yağmur eksikliği,2026-02-06T04:28:00+00:00,North Macedonia,0.3147172687127427,1,1,tr,MED,Europe
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarktika deniz buzu,2026-02-12T04:36:00+00:00,,0.3145365659249306,1,1,tr,,
-'053bb10e09',extremes,Heat Wave,#c40202,random,hint yazı,2026-02-14T04:21:00+00:00,,0.30905525441191767,0,1,tr,,
+'053bb10e09',extremes,Heat Wave,#c40202,random,hint yazı,2026-02-14T04:21:00+00:00,,0.3090552544119176,0,1,tr,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tayfun,2026-01-15T10:20:00+00:00,,0.308999316490523,1,3,tr,,
 'fcf38cfed3',extremes,Drought,#edc291,edo,kuraklık kuzey makedonya,2026-02-16T04:38:00+00:00,North Macedonia,0.3072435507867364,1,1,tr,MED,Europe
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,yağış ekvador,2026-02-18T04:34:00+00:00,Ecuador,0.3071802862074735,0,1,tr,NWS,South-America
