@@ -53,8 +53,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '03e6df3570',extremes,Thunderstorm,#53785a,wmo,kuzeydoğu bölgesinde şiddetli hava,2026-02-15T04:35:00+00:00,North Macedonia,0.3911266247310581,2,1,tr,MED,Europe
 '43e3252826',extremes,Storm,#b3b2b1,wmo,Moldova fırtınası,2026-02-18T04:34:00+00:00,Moldova,0.3909372719012502,2,1,tr,WCE,Europe
 '22a50265cb',extremes,Precipitation,#d60d2b,wmo,yağış kırcaali haskovo smolyan,2026-02-15T04:35:00+00:00,Bulgaria,0.3899720886470204,2,1,tr,MED,Europe
+'1405131905',extremes,Thunderstorm,#53785a,random,dolu,2026-02-19T04:31:00+00:00,,0.3894246857600681,1,2,tr,,
 '39afca9687',extremes,Storm,#b3b2b1,wmo,fırtına dalgası Üsküp bölgesi,2026-02-17T04:31:00+00:00,North Macedonia,0.3882270980915467,2,1,tr,MED,Europe
-'1405131905',extremes,Thunderstorm,#53785a,random,dolu,2026-02-19T04:31:00+00:00,,0.3881310014289571,0,1,tr,,
 '265f018343',extremes,Storm,#b3b2b1,wmo,fırtına dalgası güneydoğu bölgesi,2026-02-17T04:31:00+00:00,North Macedonia,0.3876135069124581,2,1,tr,MED,Europe
 'a5ff1cde4a',extremes,Drought,#edc291,random,toprak nemi,2026-02-22T04:30:00+00:00,,0.3871467437763322,1,2,tr,,
 '4f00106436',extremes,Precipitation,#d60d2b,wmo,sağanak kuzey makedonya,2026-02-15T04:35:00+00:00,North Macedonia,0.3865063258505521,2,1,tr,MED,Europe
@@ -127,7 +127,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd5d7a11479',extremes,Drought,#edc291,edo,kuraklık kıbrıs,2026-02-13T04:34:00+00:00,Cyprus,0.3211628911991947,2,1,tr,MED,Europe
 'f685d1f47f',extremes,Drought,#edc291,edo,Kıbrıs'ta kuraklık,2026-02-05T04:28:00+00:00,Cyprus,0.3204265150682347,2,1,tr,MED,Europe
 '4b7c13d40d',extremes,Storm,#b3b2b1,wmo,fırtına dalgası polog bölgesi,2026-02-15T04:35:00+00:00,North Macedonia,0.3194232408049842,3,1,tr,MED,Europe
-'c2ae664a83',extremes,Iceberg,#d60d2b,eonet,buzdağı c18b,2026-03-06T04:21:00+00:00,,0.3184369510861849,0,1,tr,EAN,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-05T04:27:00+00:00,,0.3183242775108461,1,1,tr,,
 '924236ebf8',extremes,Earthquake,#870007,usgs,deprem yenangyaung,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.3183132814951275,1,1,tr,SAS,Asia
 '70773b5956',extremes,Earthquake,#870007,usgs,deprem alaska,2026-02-05T04:27:00+00:00,Alaska,0.318304392260812,1,1,tr,NPO,Pacific Ocean
@@ -212,6 +211,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,ıslak dönem Tazmanya,2026-03-05T04:24:00+00:00,Australia,0.2709977600450708,1,1,tr,SAU,Oceania
 'eced4efa71',extremes,Tropical Cyclone,#4f4f4f,eonet,tropik kasırga horacio,2026-02-21T04:17:00+00:00,,0.2708114983547025,1,1,tr,SIO,Indian Ocean
 '5acb09ddba',extremes,Iceberg,#d60d2b,eonet,buzdağı d32,2026-03-06T04:21:00+00:00,,0.270708566172708,1,1,tr,EAN,
+'c2ae664a83',extremes,Iceberg,#d60d2b,eonet,buzdağı c18b,2026-03-06T04:21:00+00:00,,0.27067140842325715,1,1,tr,EAN,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,buzdağı antarktika,2026-02-19T04:31:00+00:00,,0.2700864414462257,1,1,tr,,
 'e921e2b0b7',extremes,Flood,#030ba1,aidr,Eski tropik kasırga Tiffany Güney Avustralya'dan kaynaklanan şiddetli sel 2022,2026-02-08T04:44:00+00:00,Australia,0.2689135096487057,1,1,tr,SAU,Oceania
 'f314bb7747',extremes,Flood,#030ba1,aidr,avustralya'da şiddetli sel,2026-02-05T04:28:00+00:00,Australia,0.2686524423700649,1,1,tr,CAU,Oceania
