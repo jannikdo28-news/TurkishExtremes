@@ -127,7 +127,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd4757169ad',extremes,Tropical Cyclone,#4f4f4f,aidr,kasırga kasırgası yasi queensland 2011,2026-02-26T04:29:00+00:00,,0.3056764374419178,0,1,tr,NAU,Oceania
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur arjantin,2026-02-26T04:29:00+00:00,Argentina,0.3056538545389451,0,1,tr,SES,South-America
 '931978a75d',extremes,Cold Wave,#a7e9fa,wmo,soğuk dalga suudi arabistan,2026-02-28T04:07:00+00:00,Saudi Arabia,0.3055012172568431,0,1,tr,ARP,Asia
-'ebb6251556',extremes,Snow&Ice,#d60d2b,wmo,buz güney izlanda,2026-02-20T04:27:00+00:00,Iceland,0.3054947342693013,0,1,tr,GIC,Europe
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,kar kanadası,2026-02-06T04:27:00+00:00,Canada,0.3054802177825022,0,1,tr,NEN,North-America
 'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,çığ finnmarkskysten,2026-02-05T04:27:00+00:00,Norway,0.305439759661442,0,1,tr,NEU,Europe
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,fırtına dalgalanması ekvador,2026-02-17T04:31:00+00:00,Ecuador,0.3053862814232506,0,1,tr,NWS,South-America
@@ -286,6 +285,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,fırtına paraguay,2026-02-13T04:34:00+00:00,Paraguay,0.2598980961386601,1,1,tr,SES,South-America
 '5a5dd83274',extremes,Fog,#d60d2b,wmo,sis volgograd bölgesi,2026-02-17T04:31:00+00:00,Russia,0.2598952130491251,1,1,tr,ESB,Europe
 'c27e209239',extremes,Precipitation,#d60d2b,wmo,yağmur maeneo machache ya mkoa wa ruvuma.,2026-02-26T04:29:00+00:00,Tanzania,0.2598356276326179,1,1,tr,SEAF,Africa
+'ebb6251556',extremes,Snow&Ice,#d60d2b,wmo,buz güney izlanda,2026-02-20T04:27:00+00:00,Iceland,0.25982053912890607,1,1,tr,GIC,Europe
 '9fb2a0ec0f',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur maeneo machache ya mkoa wa ruvuma.,2026-02-22T04:30:00+00:00,Tanzania,0.2597983795608767,1,1,tr,SEAF,Africa
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,yağmur Seyşeller,2026-02-16T04:38:00+00:00,Seychelles,0.2597908816319248,1,1,tr,EIO,Africa
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,yağmur ekvador,2026-02-17T04:31:00+00:00,Ecuador,0.2597669132510781,1,1,tr,NWS,South-America
