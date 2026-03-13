@@ -67,6 +67,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2f048a32c8',extremes,Thunderstorm,#53785a,wmo,kuzey makedonya'yı dolu,2026-02-15T04:35:00+00:00,North Macedonia,0.3719643172122142,2,1,tr,MED,Europe
 '59b529f428',extremes,Thunderstorm,#53785a,random,dolu fırtınası,2026-03-05T04:23:00+00:00,,0.3707394271964594,1,2,tr,,
 '833a5e6eda',extremes,Storm,#b3b2b1,wmo,fırtına dalgalanması vardar bölgesi,2026-02-18T04:34:00+00:00,North Macedonia,0.3692538188378037,2,1,tr,MED,Europe
+'cb43c2bb0b',extremes,Heat Wave,#c40202,random,en sıcak yıl,2026-03-12T04:25:00+00:00,,0.3688316744496941,1,2,tr,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,en soğuk kış,2026-03-01T04:34:00+00:00,,0.3685437426397154,1,3,tr,,
 '27c5f85790',extremes,Drought,#edc291,edo,kuraklık hindisi,2026-03-08T04:24:00+00:00,Turkey,0.3685244324402943,1,1,tr,MED,Asia
 '772b48a222',extremes,Precipitation,#d60d2b,wmo,yağmur polog bölgesi,2026-02-15T04:35:00+00:00,North Macedonia,0.368470905486354,1,1,tr,MED,Europe
@@ -78,7 +79,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2cdb221481',extremes,Precipitation,#d60d2b,wmo,sağanak burgaz pazardzhik,2026-02-21T04:18:00+00:00,Bulgaria,0.3590060574218728,2,1,tr,MED,Europe
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,en soğuk gün,2026-02-17T04:30:00+00:00,,0.3583378103807203,1,3,tr,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,şiddetli hava,2026-03-04T04:20:00+00:00,,0.3575342976621451,1,2,tr,,
-'cb43c2bb0b',extremes,Heat Wave,#c40202,random,en sıcak yıl,2026-03-12T04:25:00+00:00,,0.3565808169996401,0,1,tr,,
 '9f0423d739',extremes,Drought,#edc291,random,kuruluk,2026-02-15T04:34:00+00:00,,0.3560756632184461,2,2,tr,,
 '44211c95de',extremes,Flood,#030ba1,aidr,Avustralya'da sel,2026-02-05T04:28:00+00:00,Australia,0.3556646918400447,2,2,tr,EAU,Oceania
 '0c844be7b0',extremes,Storm,#b3b2b1,wmo,fırtına dalgası doğu bölgesi,2026-02-15T04:35:00+00:00,North Macedonia,0.3529914243137411,2,1,tr,MED,Europe
@@ -180,10 +180,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83354d3f6e',extremes,Wildfire,#d60d2b,wmo,orman yangını shizong ilçesi,2026-02-19T04:32:00+00:00,China,0.3043246491035716,0,1,tr,EAS,Asia
 '042968096b',extremes,Storm,#b3b2b1,wmo,fırtına izlanda,2026-02-22T04:30:00+00:00,Iceland,0.3042702448374113,0,1,tr,GIC,Europe
 '2876c1c93a',extremes,Landslide,#572c03,wmo,toprak kayması norveç,2026-02-25T04:32:00+00:00,Norway,0.3042156647110242,0,1,tr,NEU,Europe
-'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,çığ finnmarkskysten,2026-02-25T04:32:00+00:00,Norway,0.30421396795035016,0,1,tr,NEU,Europe
+'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,çığ finnmarkskysten,2026-02-25T04:32:00+00:00,Norway,0.3042139679503501,0,1,tr,NEU,Europe
 '46757c038c',extremes,Thunderstorm,#53785a,wmo,güney afrika'yı dolu,2026-02-26T04:29:00+00:00,South Africa,0.304190431657252,0,1,tr,WSAF,Africa
 'd862ab1a40',extremes,Flood,#030ba1,wmo,Çekya sel,2026-02-22T04:30:00+00:00,Czechia,0.3041828067255885,0,1,tr,WCE,Europe
-'a138ccf5bc',extremes,Precipitation,#d60d2b,wmo,yağmur sucumbíos orellana ve makarnaza.,2026-03-03T04:27:00+00:00,Ecuador,0.30414667240881094,0,1,tr,NWS,South-America
+'a138ccf5bc',extremes,Precipitation,#d60d2b,wmo,yağmur sucumbíos orellana ve makarnaza.,2026-03-03T04:27:00+00:00,Ecuador,0.3041466724088109,0,1,tr,NWS,South-America
 '3353502ff9',extremes,Thunderstorm,#53785a,wmo,Vanuatu'nun güney adalarında fırtına.,2026-02-22T04:30:00+00:00,Vanuatu,0.3041438664822529,0,1,tr,SPO,Oceania
 '155c83286e',extremes,Precipitation,#d60d2b,wmo,yağmur coromandel yarımadası,2026-03-11T04:22:00+00:00,New Zealand,0.3041346456438358,0,1,tr,NZ,Oceania
 '9a84ac4373',extremes,Tsunami,#690191,usgs,tsunami alaska,2026-02-25T04:32:00+00:00,Alaska,0.3041295319629609,0,1,tr,NWN,North-America
