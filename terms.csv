@@ -69,7 +69,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9797aa6299',extremes,Drought,#edc291,edo,yağmur eksikliği kıbrıs,2026-02-15T04:35:00+00:00,Cyprus,0.3650310385426098,2,1,tr,MED,Europe
 'e3af58f5da',extremes,Drought,#edc291,edo,kuruluk bulgaristan,2026-02-11T04:42:00+00:00,Bulgaria,0.3649343536855345,2,1,tr,MED,Europe
 '776fe47817',extremes,Wildfire,#d60d2b,random,orman yangını,2026-02-18T04:33:00+00:00,,0.3635046448315642,1,1,tr,,
-'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,su baskını,2026-03-15T04:44:00+00:00,,0.35951123263879314,2,1,tr,,
+'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,su baskını,2026-03-15T04:44:00+00:00,,0.3595112326387931,2,1,tr,,
 '2cdb221481',extremes,Precipitation,#d60d2b,wmo,sağanak burgaz pazardzhik,2026-02-21T04:18:00+00:00,Bulgaria,0.3590060574218728,2,1,tr,MED,Europe
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,en soğuk gün,2026-02-17T04:30:00+00:00,,0.3583378103807203,1,3,tr,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,şiddetli hava,2026-03-04T04:20:00+00:00,,0.3575342976621451,1,2,tr,,
@@ -197,6 +197,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3229be0606',extremes,Snow Avalanche,#deddd5,wmo,çığ karaçay Çerkes cumhuriyeti,2026-02-26T04:29:00+00:00,Russia,0.3035118531434993,0,1,tr,ESB,Europe
 '1073537f95',extremes,Landslide,#572c03,wmo,Vestland fylke'nin kaya kayması kısımları,2026-02-26T04:29:00+00:00,Norway,0.3034710385951806,0,1,tr,NEU,Europe
 '9bd86172ae',extremes,Storm,#b3b2b1,wmo,fırtına kıyısı ve kıyısı,2026-03-13T04:25:00+00:00,Ecuador,0.303453876770356,0,1,tr,NWS,South-America
+'bf84083cec',extremes,Landslide,#572c03,wmo,heyelan norveç,2026-02-26T04:29:00+00:00,Norway,0.30342157058965086,0,1,tr,NEU,Europe
+'bf43374236',extremes,Precipitation,#d60d2b,wmo,sağanak yağış vanuatu,2026-03-04T04:20:00+00:00,Vanuatu,0.3034110147758959,0,1,tr,SPO,Oceania
+'895007d2de',extremes,Snow Avalanche,#deddd5,wmo,çığ norveç,2026-02-25T04:32:00+00:00,Norway,0.30338718447799573,0,1,tr,NEU,Europe
+'26349abe17',extremes,Tsunami,#690191,usgs,tsunami attu istasyonu,2026-03-04T04:20:00+00:00,Alaska,0.30334736072439766,0,1,tr,NPO,Pacific Ocean
+'80d50b76c6',extremes,Storm,#b3b2b1,wmo,fırtına dalgası suudi arabistan,2026-02-25T04:32:00+00:00,Saudi Arabia,0.3033300712431648,0,1,tr,ARP,Asia
+'3ea76ed422',extremes,Drought,#edc291,edo,kuraklık güney kore,2026-02-28T04:07:00+00:00,South Korea,0.3033194472539436,0,1,tr,EAS,Asia
+'95436f364d',extremes,Storm,#b3b2b1,wmo,fırtına dalgası kıyıda ve batıda Sierra,2026-02-27T04:26:00+00:00,Ecuador,0.3032511324614753,0,1,tr,NWS,South-America
+'7747997246',extremes,Fog,#d60d2b,wmo,sis rusya,2026-02-25T04:32:00+00:00,Russia,0.30323169401796535,0,1,tr,ESB,Europe
+'cda3b95773',extremes,Storm,#b3b2b1,wmo,fırtına suudi arabistan,2026-02-26T04:29:00+00:00,Saudi Arabia,0.30322342859580337,0,1,tr,ARP,Asia
+'b1846944bd',extremes,Landslide,#572c03,wmo,Vestland fylke'nin heyelan kısımları,2026-02-25T04:32:00+00:00,Norway,0.30321672216652434,0,1,tr,NEU,Europe
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,cıva düşüşleri,2026-02-13T04:33:00+00:00,,0.2998232291544918,1,1,tr,,
 'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2026-03-04T04:21:00+00:00,Moldova,0.2996122432790985,2,1,tr,WCE,Europe
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosferik nehir,2026-02-28T04:07:00+00:00,,0.2980466470453958,1,1,tr,,
@@ -207,7 +217,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,gece donu,2026-02-17T04:30:00+00:00,,0.2868793606071867,1,1,tr,,
 '030aa64ddb',extremes,Drought,#edc291,edo,kuraklık Moldova,2026-02-12T04:37:00+00:00,Moldova,0.283501097157028,1,1,tr,WCE,Europe
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,cıva damlaları,2026-03-12T04:25:00+00:00,,0.2832966439197469,1,1,tr,,
-'5b8cf400f9',extremes,Iceberg,#d60d2b,random,buzdağı buzağılama,2026-03-10T04:21:00+00:00,,0.27811084868767094,1,1,tr,,
+'5b8cf400f9',extremes,Iceberg,#d60d2b,random,buzdağı buzağılama,2026-03-10T04:21:00+00:00,,0.2781108486876709,1,1,tr,,
 'ae657332f9',extremes,Wildfire,#d60d2b,acwe,Yeni Güney Galler'de yangın yasağı,2026-03-09T04:31:00+00:00,Australia,0.2713955307260379,1,1,tr,EAU,Oceania
 'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,sıcak hava tazmanya,2026-03-05T04:24:00+00:00,Australia,0.2713560046315142,1,1,tr,SAU,Oceania
 'b0b9fae0fc',extremes,Precipitation,#d60d2b,acwe,şiddetli yağmur yeni güney galler,2026-03-09T04:31:00+00:00,Australia,0.2711999412332385,1,1,tr,EAU,Oceania
