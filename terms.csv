@@ -34,7 +34,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '62084daeb0',extremes,Earthquake,#870007,random,deprem,2026-02-27T04:25:00+00:00,,0.4074704185205486,2,3,tr,,
 'f1610bf0f1',extremes,Storm,#b3b2b1,wmo,Pelagonya bölgesi fırtınası,2026-02-17T04:31:00+00:00,North Macedonia,0.3979779188430322,2,1,tr,MED,Europe
 '53a3b26e9d',extremes,Snow&Ice,#d60d2b,wmo,kuzey makedonya'nın donması,2026-02-20T04:27:00+00:00,North Macedonia,0.3977630853217904,2,1,tr,MED,Europe
-'6ab4417a9f',extremes,Storm,#b3b2b1,wmo,fırtına dalgası güneybatı bölgesi,2026-02-17T04:31:00+00:00,North Macedonia,0.3967347417789623,2,1,tr,MED,Europe
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,sağanak,2026-03-04T04:20:00+00:00,,0.3944002968647786,1,3,tr,,
 '131d299cd1',extremes,Storm,#b3b2b1,wmo,fırtına Üsküp bölgesi,2026-02-18T04:34:00+00:00,North Macedonia,0.3941799551775403,2,1,tr,MED,Europe
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,kar sulu kar,2026-02-10T04:42:00+00:00,,0.3932831277004138,2,2,tr,,
@@ -42,7 +41,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d702e03bc',extremes,Precipitation,#d60d2b,wmo,sağanak bulgaristan,2026-02-15T04:35:00+00:00,Bulgaria,0.3925353106136511,3,1,tr,MED,Europe
 'd5d7a11479',extremes,Drought,#edc291,edo,kuraklık kıbrıs,2026-03-07T04:13:00+00:00,Cyprus,0.392447647339079,1,1,tr,MED,Europe
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,kum fırtınası,2026-02-20T04:27:00+00:00,,0.3918069572623445,1,2,tr,,
-'59b529f428',extremes,Thunderstorm,#53785a,random,dolu fırtınası,2026-03-05T04:23:00+00:00,,0.3910286031169905,2,2,tr,,
 '43e3252826',extremes,Storm,#b3b2b1,wmo,Moldova fırtınası,2026-02-18T04:34:00+00:00,Moldova,0.3909372719012502,2,1,tr,WCE,Europe
 '1405131905',extremes,Thunderstorm,#53785a,random,dolu,2026-02-19T04:31:00+00:00,,0.3894246857600681,1,2,tr,,
 '265f018343',extremes,Storm,#b3b2b1,wmo,fırtına dalgası güneydoğu bölgesi,2026-02-17T04:31:00+00:00,North Macedonia,0.3876135069124581,2,1,tr,MED,Europe
@@ -89,6 +87,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d261f252d',extremes,Storm,#b3b2b1,random,kış fırtınası,2026-03-11T04:21:00+00:00,,0.3396447104534158,1,2,tr,,
 'd389bc4f63',extremes,Earthquake,#870007,usgs,deprem meksika,2026-02-05T04:27:00+00:00,Mexico,0.3387375392744142,1,2,tr,SCA,North-America
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,çekirge,2026-02-19T04:31:00+00:00,,0.3381628021887585,1,1,tr,,
+'6ab4417a9f',extremes,Storm,#b3b2b1,wmo,fırtına dalgası güneybatı bölgesi,2026-02-17T04:31:00+00:00,North Macedonia,0.3372245305121179,3,1,tr,MED,Europe
 'c948617fef',extremes,Heat Wave,#c40202,random,aşırı ısıya maruz kalma,2026-02-26T04:28:00+00:00,,0.3370562659416374,1,1,tr,,
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,don Kanada,2026-02-07T04:19:00+00:00,Canada,0.3368137988038353,1,2,tr,NEN,North-America
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,soğuk büyü,2026-03-11T04:21:00+00:00,,0.3368049090822171,1,1,tr,,
@@ -99,6 +98,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d9577e33d',extremes,Volcano,#b83202,random,volkan,2026-02-06T04:27:00+00:00,,0.3347917594530162,1,2,tr,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,ulusal kasırga merkezi,2026-03-01T04:34:00+00:00,,0.3330760678505253,1,1,tr,,
 '30406c7856',extremes,Flood,#030ba1,cmeter,Brezilya'da sel,2026-03-07T04:13:00+00:00,Brazil,0.3329951822523067,2,1,tr,SES,South-America
+'59b529f428',extremes,Thunderstorm,#53785a,random,dolu fırtınası,2026-03-05T04:23:00+00:00,,0.33237441764944187,3,1,tr,,
 '8220584aae',extremes,Drought,#edc291,edo,kuruluk kuzey makedonya,2026-02-28T04:07:00+00:00,North Macedonia,0.3309786099102281,1,1,tr,MED,Europe
 '39afca9687',extremes,Storm,#b3b2b1,wmo,fırtına dalgası Üsküp bölgesi,2026-02-17T04:31:00+00:00,North Macedonia,0.3299930333778147,3,1,tr,MED,Europe
 '992af44277',extremes,Storm,#b3b2b1,wmo,fırtına polog bölgesi,2026-02-17T04:31:00+00:00,North Macedonia,0.3277539610093249,3,1,tr,MED,Europe
@@ -178,7 +178,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa84ab2ea0',extremes,Thunderstorm,#53785a,wmo,şiddetli hava güney afrika,2026-03-01T04:35:00+00:00,South Africa,0.3031866488672372,0,1,tr,WSAF,Africa
 'a41044fcd0',extremes,Snow Avalanche,#deddd5,wmo,çığ voss,2026-02-26T04:29:00+00:00,Norway,0.3031819740053127,0,1,tr,NEU,Europe
 '49e564d95b',extremes,Drought,#edc291,edo,kuraklık svalbard ve jan mayen adaları,2026-03-02T04:27:00+00:00,Svalbard and Jan Mayen Islands,0.3031813003143713,0,1,tr,ARO,Arctica
-'e54d4b5814',extremes,Snow Avalanche,#deddd5,wmo,çığ heiane,2026-02-26T04:29:00+00:00,Norway,0.3031090061565109,0,1,tr,NEU,Europe
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,fırtına dalgası izlanda,2026-02-27T04:26:00+00:00,Iceland,0.3029889297224113,0,1,tr,GIC,Europe
 '53fda39314',extremes,Drought,#edc291,edo,yağmur eksikliği litvanya,2026-03-04T04:21:00+00:00,Lithuania,0.3029811568342837,0,1,tr,WCE,Europe
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,orman yangını amerika birleşik devletleri,2026-02-26T04:29:00+00:00,United States,0.3029430933105637,0,1,tr,CNA,North-America
@@ -192,24 +191,23 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dbc5704393',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur malavi,2026-03-15T04:45:00+00:00,Malawi,0.3025800196311244,0,1,tr,ESAF,Africa
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,fırtına kanada,2026-03-01T04:35:00+00:00,Canada,0.3025498732299582,0,1,tr,NEN,North-America
 'f1e7b52954',extremes,Flood,#030ba1,wmo,Letonya'da ani sel,2026-02-28T04:07:00+00:00,Latvia,0.3025368911535508,0,1,tr,WCE,Europe
-'300c9d7114',extremes,Snow&Ice,#d60d2b,wmo,kuzeybatı izlanda'da kar,2026-03-10T04:22:00+00:00,Iceland,0.30248682817919986,0,1,tr,GIC,Europe
-'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,orman yangını hindistan,2026-03-04T04:20:00+00:00,India,0.30246067598760823,0,1,tr,SAS,Asia
+'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,orman yangını hindistan,2026-03-04T04:20:00+00:00,India,0.3024606759876082,0,1,tr,SAS,Asia
 'a042df04f6',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur Tayland,2026-03-12T04:26:00+00:00,Thailand,0.3024270172917733,0,1,tr,SEA,Asia
 'b1d851a406',extremes,Storm,#b3b2b1,wmo,fırtına dalgası el bayadh,2026-03-02T04:27:00+00:00,Algeria,0.3023644376620933,0,1,tr,SAH,Africa
-'6b471a0f5b',extremes,Storm,#b3b2b1,wmo,fırtına dalgası güney afrika,2026-03-01T04:35:00+00:00,South Africa,0.30236060159049816,0,1,tr,WSAF,Africa
-'eec215cb6d',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası alanı 2 – şiddetli,2026-03-04T04:20:00+00:00,Paraguay,0.30232783882249603,0,1,tr,SES,South-America
+'6b471a0f5b',extremes,Storm,#b3b2b1,wmo,fırtına dalgası güney afrika,2026-03-01T04:35:00+00:00,South Africa,0.3023606015904981,0,1,tr,WSAF,Africa
+'eec215cb6d',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası alanı 2 – şiddetli,2026-03-04T04:20:00+00:00,Paraguay,0.302327838822496,0,1,tr,SES,South-America
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,buz yeni zelanda,2026-03-01T04:35:00+00:00,New Zealand,0.3022835942248303,0,1,tr,NZ,Oceania
 '41a496b9d7',extremes,Thunderstorm,#53785a,wmo,şiddetli hava letsemeng koffiefontein,2026-03-01T04:35:00+00:00,South Africa,0.3022740520665376,0,1,tr,WSAF,Africa
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,cıva düşüşleri,2026-02-13T04:33:00+00:00,,0.2998232291544918,1,1,tr,,
 'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2026-03-04T04:21:00+00:00,Moldova,0.2996122432790985,2,1,tr,WCE,Europe
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosferik nehir,2026-02-28T04:07:00+00:00,,0.2980466470453958,1,1,tr,,
-'d587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,kasırga,2026-03-01T04:34:00+00:00,,0.2933876589116203,1,1,tr,,
 '63663feccd',extremes,Drought,#edc291,edo,yağmur eksikliği Moldova,2026-02-20T04:27:00+00:00,Moldova,0.2889127680119638,1,1,tr,WCE,Europe
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,karaya yaklaşma,2026-03-15T04:44:00+00:00,,0.2881800582833336,1,1,tr,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,buzdağı arctis,2026-02-14T04:21:00+00:00,,0.2874597063607129,1,1,tr,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,gece donu,2026-02-17T04:30:00+00:00,,0.2868793606071867,1,1,tr,,
 '030aa64ddb',extremes,Drought,#edc291,edo,kuraklık Moldova,2026-02-12T04:37:00+00:00,Moldova,0.283501097157028,1,1,tr,WCE,Europe
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,cıva damlaları,2026-03-12T04:25:00+00:00,,0.2832966439197469,1,1,tr,,
+'d587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,kasırga,2026-03-01T04:34:00+00:00,,0.28012958507487723,2,1,tr,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,buzdağı buzağılama,2026-03-10T04:21:00+00:00,,0.2781108486876709,1,1,tr,,
 'ae657332f9',extremes,Wildfire,#d60d2b,acwe,Yeni Güney Galler'de yangın yasağı,2026-03-09T04:31:00+00:00,Australia,0.2713955307260379,1,1,tr,EAU,Oceania
 'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,sıcak hava tazmanya,2026-03-05T04:24:00+00:00,Australia,0.2713560046315142,1,1,tr,SAU,Oceania
@@ -368,6 +366,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bf84083cec',extremes,Landslide,#572c03,wmo,heyelan norveç,2026-02-26T04:29:00+00:00,Norway,0.2579083350012032,1,1,tr,NEU,Europe
 'bf43374236',extremes,Precipitation,#d60d2b,wmo,sağanak yağış vanuatu,2026-03-04T04:20:00+00:00,Vanuatu,0.2578993625595115,1,1,tr,SPO,Oceania
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,çığ norveç,2026-02-25T04:32:00+00:00,Norway,0.2578791068062963,1,1,tr,NEU,Europe
+'e54d4b5814',extremes,Snow Avalanche,#deddd5,wmo,çığ heiane,2026-02-26T04:29:00+00:00,Norway,0.25764265523303426,1,1,tr,NEU,Europe
 'd865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,tropikal kasırga avustralya,2026-02-27T04:26:00+00:00,Australia,0.2575516213686201,1,1,tr,EAU,Oceania
+'300c9d7114',extremes,Snow&Ice,#d60d2b,wmo,kuzeybatı izlanda'da kar,2026-03-10T04:22:00+00:00,Iceland,0.2571138039523198,1,1,tr,GIC,Europe
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,yağmur Seyşeller,2026-02-16T04:38:00+00:00,Seychelles,0.2208222493871361,2,1,tr,EIO,Africa
 'f4865eec16',extremes,Snow&Ice,#d60d2b,wmo,buz paulatuk,2026-02-19T04:32:00+00:00,Canada,0.2203292440402434,2,1,tr,NEN,North-America
