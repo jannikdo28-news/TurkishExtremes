@@ -8,6 +8,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4806a05714',extremes,Earthquake,#870007,usgs,deprem türkiye,2026-02-26T04:28:00+00:00,Turkey,0.4721596050395913,4,3,tr,MED,Asia
 '17345117bc',extremes,Earthquake,#870007,usgs,deprem buldan,2026-03-10T04:21:00+00:00,Turkey,0.4710625543705319,2,1,tr,MED,Asia
 '6c138cde70',extremes,Earthquake,#870007,usgs,deprem sındırgı,2026-02-11T04:41:00+00:00,Turkey,0.4704844286154608,4,2,tr,MED,Asia
+'373c6724f3',extremes,Drought,#edc291,edo,yağmur eksikliği türkiye,2026-03-12T04:26:00+00:00,Turkey,0.46517829087547946,0,1,tr,MED,Asia
 '0a8e5743d9',extremes,Landslide,#572c03,random,heyelan,2026-02-17T04:30:00+00:00,,0.4583605433634873,1,3,tr,,
 '8c63bc9ca9',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur kıbrıs,2026-03-14T04:22:00+00:00,Cyprus,0.4578819707002515,2,1,tr,MED,Europe
 '45500dcb47',extremes,Precipitation,#d60d2b,random,rekor yağış,2026-02-16T04:37:00+00:00,,0.4500801772261632,2,2,tr,,
@@ -118,6 +119,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3f38823026',extremes,Earthquake,#870007,usgs,deprem ekinözü,2026-03-14T04:22:00+00:00,Turkey,0.3098075425892965,2,1,tr,MED,Asia
 'fcf38cfed3',extremes,Drought,#edc291,edo,kuraklık kuzey makedonya,2026-02-16T04:38:00+00:00,North Macedonia,0.3072435507867364,1,1,tr,MED,Europe
 '8a654473a4',extremes,Drought,#edc291,edo,kuraklık sao tome ve principe,2026-03-10T04:22:00+00:00,Sao Tome and Principe,0.3066846604213136,0,1,tr,WAF,Africa
+'f63711b763',extremes,Snow Avalanche,#deddd5,wmo,çığ sunnmøre,2026-03-19T04:35:00+00:00,Norway,0.3049235609937491,0,1,tr,NEU,Europe
 '3fa143a609',extremes,Storm,#b3b2b1,random,toz kar fırtınası,2026-03-09T04:30:00+00:00,,0.3049230671467348,1,1,tr,,
 '468d60ef3d',extremes,Snow&Ice,#d60d2b,wmo,dondurucu taloyoak gjoa cenneti,2026-02-21T04:18:00+00:00,Canada,0.3048214356763383,0,1,tr,NEN,North-America
 'f2c0c2874a',extremes,Snow&Ice,#d60d2b,wmo,paulatuk donuyor,2026-02-22T04:30:00+00:00,Canada,0.304795505263385,0,1,tr,NEN,North-America
@@ -181,6 +183,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0cdbf4ad8d',extremes,Snow&Ice,#d60d2b,wmo,buz İzlanda,2026-03-07T04:12:00+00:00,Iceland,0.3028560460190475,0,1,tr,GIC,Europe
 '8300f01a40',extremes,Storm,#b3b2b1,wmo,fırtına dalgası tindouf,2026-02-26T04:29:00+00:00,Algeria,0.3028321037453308,0,1,tr,SAH,Africa
 '7be17d2b72',extremes,Storm,#b3b2b1,wmo,kıyıdaki ve batıdaki fırtına,2026-03-01T04:35:00+00:00,Ecuador,0.3027407097453443,0,1,tr,NWS,South-America
+'98dca675e7',extremes,Precipitation,#d60d2b,wmo,yağmur malavi,2026-03-16T05:05:00+00:00,Malawi,0.3026476227642903,0,1,tr,ESAF,Africa
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,fırtına dalgası brezilya,2026-03-02T04:27:00+00:00,Brazil,0.3026260324523653,0,1,tr,SAM,South-America
 'dbc5704393',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur malavi,2026-03-15T04:45:00+00:00,Malawi,0.3025800196311244,0,1,tr,ESAF,Africa
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,fırtına kanada,2026-03-01T04:35:00+00:00,Canada,0.3025498732299582,0,1,tr,NEN,North-America
@@ -192,6 +195,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eec215cb6d',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası alanı 2 – şiddetli,2026-03-04T04:20:00+00:00,Paraguay,0.302327838822496,0,1,tr,SES,South-America
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,buz yeni zelanda,2026-03-01T04:35:00+00:00,New Zealand,0.3022835942248303,0,1,tr,NZ,Oceania
 '41a496b9d7',extremes,Thunderstorm,#53785a,wmo,şiddetli hava letsemeng koffiefontein,2026-03-01T04:35:00+00:00,South Africa,0.3022740520665376,0,1,tr,WSAF,Africa
+'dfbb2a2a1d',extremes,Drought,#edc291,edo,yağmur eksikliği uruguay,2026-02-28T04:07:00+00:00,Uruguay,0.3022365944249418,0,1,tr,SES,South-America
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,cıva düşüşleri,2026-02-13T04:33:00+00:00,,0.2998232291544918,1,1,tr,,
 'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2026-03-04T04:21:00+00:00,Moldova,0.2996122432790985,2,1,tr,WCE,Europe
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosferik nehir,2026-02-28T04:07:00+00:00,,0.2980466470453958,1,1,tr,,
