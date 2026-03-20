@@ -31,6 +31,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '924042ea68',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur bulgaristan,2026-02-21T04:18:00+00:00,Bulgaria,0.4117364851693406,2,1,tr,MED,Europe
 '69840e877f',extremes,Storm,#b3b2b1,wmo,fırtına bulgaristan,2026-02-17T04:31:00+00:00,Bulgaria,0.4116384592888061,3,1,tr,MED,Europe
 'f6ff301646',extremes,Drought,#edc291,edo,kuraklık somali,2026-02-28T04:07:00+00:00,Somalia,0.4112160300412596,1,2,tr,NEAF,Africa
+'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,siklon,2026-02-25T04:32:00+00:00,,0.40994430262180226,3,2,tr,,
 'f484ebfc83',extremes,Storm,#b3b2b1,wmo,fırtına dalgası bulgaristan,2026-02-17T04:31:00+00:00,Bulgaria,0.4077030029906925,3,1,tr,MED,Europe
 '62084daeb0',extremes,Earthquake,#870007,random,deprem,2026-02-27T04:25:00+00:00,,0.4074704185205486,2,3,tr,,
 'f1610bf0f1',extremes,Storm,#b3b2b1,wmo,Pelagonya bölgesi fırtınası,2026-02-17T04:31:00+00:00,North Macedonia,0.3979779188430322,2,1,tr,MED,Europe
@@ -40,7 +41,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '131d299cd1',extremes,Storm,#b3b2b1,wmo,fırtına Üsküp bölgesi,2026-02-18T04:34:00+00:00,North Macedonia,0.3941799551775403,2,1,tr,MED,Europe
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,kar sulu kar,2026-02-10T04:42:00+00:00,,0.3932831277004138,2,2,tr,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,çekirge,2026-02-19T04:31:00+00:00,,0.3932347307065986,2,2,tr,,
-'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,siklon,2026-02-25T04:32:00+00:00,,0.3929931913197674,2,1,tr,,
 'd5d7a11479',extremes,Drought,#edc291,edo,kuraklık kıbrıs,2026-03-07T04:13:00+00:00,Cyprus,0.392447647339079,1,1,tr,MED,Europe
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,kum fırtınası,2026-02-20T04:27:00+00:00,,0.3918069572623445,1,2,tr,,
 '43e3252826',extremes,Storm,#b3b2b1,wmo,Moldova fırtınası,2026-02-18T04:34:00+00:00,Moldova,0.3909372719012502,2,1,tr,WCE,Europe
@@ -82,7 +82,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '15a9c61e3e',extremes,Landslide,#572c03,random,heyelan,2026-03-06T04:20:00+00:00,,0.3478916478341778,1,3,tr,,
 'c9080fa8ac',extremes,Drought,#edc291,edo,Kuzey Makedonya'da kuraklık,2026-02-26T04:29:00+00:00,North Macedonia,0.3456554301322312,1,1,tr,MED,Europe
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,dolu,2026-02-21T04:17:00+00:00,,0.3451150918772716,1,2,tr,,
-'030aa64ddb',extremes,Drought,#edc291,edo,kuraklık Moldova,2026-03-10T04:22:00+00:00,Moldova,0.34422414628268155,1,1,tr,WCE,Europe
+'030aa64ddb',extremes,Drought,#edc291,edo,kuraklık Moldova,2026-03-10T04:22:00+00:00,Moldova,0.3442241462826815,1,1,tr,WCE,Europe
 '67973e734f',extremes,Precipitation,#d60d2b,wmo,yağış kuzey makedonya,2026-02-20T04:27:00+00:00,North Macedonia,0.3410550608713268,2,1,tr,MED,Europe
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,yağmur fırtınası,2026-03-16T05:04:00+00:00,,0.340918284950364,1,2,tr,,
 '0d261f252d',extremes,Storm,#b3b2b1,random,kış fırtınası,2026-03-11T04:21:00+00:00,,0.3396447104534158,1,2,tr,,
