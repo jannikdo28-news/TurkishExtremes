@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'247bcedc95',extremes,Thunderstorm,#53785a,wmo,dolu kıbrıs,2026-03-19T04:35:00+00:00,Cyprus,0.6197053829564709,0,1,tr,MED,Europe
+'247bcedc95',extremes,Thunderstorm,#53785a,wmo,dolu kıbrıs,2026-03-19T04:35:00+00:00,Cyprus,0.5771996205130003,1,1,tr,MED,Europe
 '39bab6b4e3',extremes,Drought,#edc291,edo,kuraklık türkiye,2026-03-04T04:21:00+00:00,Turkey,0.5509674112228444,2,2,tr,MED,Asia
 '7853b5dc2b',extremes,Earthquake,#870007,usgs,deprem erbaa,2026-03-14T04:22:00+00:00,Turkey,0.4947813384889175,2,1,tr,MED,Asia
 '2866b55c37',extremes,Storm,#b3b2b1,wmo,kuzey makedonya'da fırtına,2026-02-25T04:32:00+00:00,North Macedonia,0.4886066298980875,1,1,tr,MED,Europe
@@ -34,7 +34,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f6ff301646',extremes,Drought,#edc291,edo,kuraklık somali,2026-02-28T04:07:00+00:00,Somalia,0.4112160300412596,1,2,tr,NEAF,Africa
 'f484ebfc83',extremes,Storm,#b3b2b1,wmo,fırtına dalgası bulgaristan,2026-02-17T04:31:00+00:00,Bulgaria,0.4077030029906925,3,1,tr,MED,Europe
 '62084daeb0',extremes,Earthquake,#870007,random,deprem,2026-02-27T04:25:00+00:00,,0.4074704185205486,2,3,tr,,
-'030aa64ddb',extremes,Drought,#edc291,edo,kuraklık Moldova,2026-03-10T04:22:00+00:00,Moldova,0.40496958386197834,0,1,tr,WCE,Europe
+'030aa64ddb',extremes,Drought,#edc291,edo,kuraklık Moldova,2026-03-10T04:22:00+00:00,Moldova,0.4049695838619783,0,1,tr,WCE,Europe
 'f1610bf0f1',extremes,Storm,#b3b2b1,wmo,Pelagonya bölgesi fırtınası,2026-02-17T04:31:00+00:00,North Macedonia,0.3979779188430322,2,1,tr,MED,Europe
 '53a3b26e9d',extremes,Snow&Ice,#d60d2b,wmo,kuzey makedonya'nın donması,2026-02-20T04:27:00+00:00,North Macedonia,0.3977630853217904,2,1,tr,MED,Europe
 '373c6724f3',extremes,Drought,#edc291,edo,yağmur eksikliği türkiye,2026-03-12T04:26:00+00:00,Turkey,0.3954015472441575,1,1,tr,MED,Asia
