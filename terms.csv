@@ -163,11 +163,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1d851a406',extremes,Storm,#b3b2b1,wmo,fırtına dalgası el bayadh,2026-03-02T04:27:00+00:00,Algeria,0.3023644376620933,0,1,tr,SAH,Africa
 '6b471a0f5b',extremes,Storm,#b3b2b1,wmo,fırtına dalgası güney afrika,2026-03-01T04:35:00+00:00,South Africa,0.3023606015904981,0,1,tr,WSAF,Africa
 'eec215cb6d',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası alanı 2 – şiddetli,2026-03-04T04:20:00+00:00,Paraguay,0.302327838822496,0,1,tr,SES,South-America
+'9c373151bb',extremes,Storm,#b3b2b1,wmo,fırtına alanı 1 – şiddetli,2026-03-19T04:35:00+00:00,Paraguay,0.30231879123088745,0,1,tr,SES,South-America
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,buz yeni zelanda,2026-03-01T04:35:00+00:00,New Zealand,0.3022835942248303,0,1,tr,NZ,Oceania
 '41a496b9d7',extremes,Thunderstorm,#53785a,wmo,şiddetli hava letsemeng koffiefontein,2026-03-01T04:35:00+00:00,South Africa,0.3022740520665376,0,1,tr,WSAF,Africa
+'d04f754034',extremes,Thunderstorm,#53785a,wmo,fırtına güney afrika,2026-03-05T04:24:00+00:00,South Africa,0.3022376112572211,0,1,tr,WSAF,Africa
 'dfbb2a2a1d',extremes,Drought,#edc291,edo,yağmur eksikliği uruguay,2026-02-28T04:07:00+00:00,Uruguay,0.3022365944249418,0,1,tr,SES,South-America
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası rusya,2026-03-02T04:27:00+00:00,Russia,0.3022352723239532,0,1,tr,ESB,Europe
 'b5dec9d924',extremes,Storm,#b3b2b1,wmo,fırtına dalgası velebit kanal bölgesi,2026-03-14T04:22:00+00:00,Croatia,0.3020940360124279,0,1,tr,WCE,Europe
+'9ede3b1c93',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası Orange County kıyıları,2026-03-20T04:26:00+00:00,United States,0.30204592852211887,0,1,tr,CNA,North-America
+'596bcf1fdb',extremes,Storm,#b3b2b1,wmo,fırtına dalgası alanı 1 - şiddetli,2026-03-12T04:26:00+00:00,Paraguay,0.30193623839748374,0,1,tr,SES,South-America
 'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2026-03-04T04:21:00+00:00,Moldova,0.2996122432790985,2,1,tr,WCE,Europe
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosferik nehir,2026-02-28T04:07:00+00:00,,0.2980466470453958,1,1,tr,,
 '63663feccd',extremes,Drought,#edc291,edo,yağmur eksikliği Moldova,2026-02-20T04:27:00+00:00,Moldova,0.2889127680119638,1,1,tr,WCE,Europe
@@ -339,7 +343,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '46757c038c',extremes,Thunderstorm,#53785a,wmo,güney afrika'yı dolu,2026-02-26T04:29:00+00:00,South Africa,0.2585618669086642,1,1,tr,WSAF,Africa
 'd61de81685',extremes,Storm,#b3b2b1,wmo,fırtına dalgası şili,2026-03-03T04:27:00+00:00,Chile,0.2585612006716396,1,1,tr,SWS,South-America
 'd862ab1a40',extremes,Flood,#030ba1,wmo,Çekya sel,2026-02-22T04:30:00+00:00,Czechia,0.2585553857167502,1,1,tr,WCE,Europe
-'7b53ac38f5',extremes,Drought,#edc291,edo,Kuraklık Bangladeş,2026-02-27T04:26:00+00:00,Bangladesh,0.25854544743269614,1,1,tr,SAS,Asia
+'7b53ac38f5',extremes,Drought,#edc291,edo,Kuraklık Bangladeş,2026-02-27T04:26:00+00:00,Bangladesh,0.2585454474326961,1,1,tr,SAS,Asia
 '3353502ff9',extremes,Thunderstorm,#53785a,wmo,Vanuatu'nun güney adalarında fırtına.,2026-02-22T04:30:00+00:00,Vanuatu,0.2585222865099149,1,1,tr,SPO,Oceania
 '6507524436',extremes,Tropical Cyclone,#4f4f4f,wmo,tropik kasırga doğudaki çorak adalar,2026-02-25T04:32:00+00:00,United States,0.2584808386094519,1,1,tr,CNA,North-America
 'be4e178bab',extremes,Storm,#b3b2b1,wmo,fırtına dalgası uruguay,2026-02-24T04:31:00+00:00,Uruguay,0.2584675291369696,1,1,tr,SES,South-America
