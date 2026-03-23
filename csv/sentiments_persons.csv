@@ -1,94 +1,209 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Balıkesir Sındırgı,Balıkesir Sındırgı,PERSON,0.20270270270270271,0.20270270270270271,en,3.6999999999999997
+Cevdet Yılmaz,Cevdet Yılmaz,PERSON,0.1085502421307506,0.27835451977401127,en,11.800000000000002
+Volkan Demirel,Volkan Demirel,PERSON,0.10630341880341887,0.37511870845204187,en,11.699999999999996
+Özgür Özel,Özgür Özel,PERSON,0.050449550449550434,0.26839826839826836,en,9.100000000000001
+Ahmet Ercan,Ahmet Ercan,PERSON,0.21212121212121213,0.36363636363636365,en,5.5
+Balıkesir Sındırgı,Balıkesir Sındırgı,PERSON,0.16304347826086957,0.16304347826086957,en,4.6
+Recep Tayyip Erdoğan,Recep Tayyip Erdoğan,PERSON,0.06949934123847168,0.1676548089591568,en,4.6
+Orhan Şen,Orhan Şen,PERSON,-0.1222222222222222,0.35,en,4.5
+Tayfun Kahraman,Tayfun Kahraman,PERSON,0.14285714285714285,0.21428571428571427,en,4.2
+Volkan Kazak,Volkan Kazak,PERSON,0.20833333333333334,0.2785087719298246,en,3.8
+Devlet Bahçeli,Devlet Bahçeli,PERSON,0.1621621621621622,0.24324324324324326,en,3.6999999999999997
+Uğurcan Çakır,Uğurcan Çakır,PERSON,-0.17304804804804805,0.5878378378378378,en,3.6999999999999997
+Gençlerbirliği Coach,Gençlerbirliği Coach,PERSON,0.0,0.0,en,3.0999999999999996
 Storm Kristin,Storm Kristin,PERSON,0.008928571428571423,0.4196428571428572,en,2.8
-Özgür Özel,Özgür Özel,PERSON,0.0,0.0,en,2.8
+Tayyip Erdoğan,Tayyip Erdoğan,PERSON,0.4415584415584416,0.5819805194805195,en,2.8
 Mansur Yavaş,Mansur Yavaş,PERSON,-0.07589285714285715,0.22767857142857142,en,2.8
 Selen Görgüzel,Selen Görgüzel,PERSON,0.341991341991342,0.524891774891775,en,2.8
+Davut Gül,Davut Gül,PERSON,0.07272727272727272,0.29090909090909084,en,2.2
+Mehmet Nuri Ersoy,Mehmet Nuri Ersoy,PERSON,0.17543859649122806,0.3859649122807017,en,1.9000000000000001
+İlker Yağcıoğlu,İlker Yağcıoğlu,PERSON,0.2631578947368421,0.7105263157894737,en,1.9000000000000001
+Ahmet Çakar,Ahmet Çakar,PERSON,0.3355263157894736,0.6864035087719298,en,1.9000000000000001
+Hagia Sophia,Hagia Sophia,PERSON,0.2631578947368421,0.3157894736842105,en,1.9000000000000001
+Selma Konak,Selma Konak,PERSON,0.023391812865497078,0.49415204678362573,en,1.9
+Kenan Doğulu,Kenan Doğulu,PERSON,0.3684210526315789,0.31578947368421056,en,1.9
+Naki Bakır,Naki Bakır,PERSON,0.2631578947368421,0.5526315789473685,en,1.9
 Ömer Çelik,Ömer Çelik,PERSON,0.0,0.0,en,1.9
 Fatma Arat,Fatma Arat,PERSON,0.32894736842105265,0.8421052631578948,en,1.9
+Yasemin Yalçın,Yasemin Yalçın,PERSON,0.0,0.0,en,1.9
 Semeru Volcano,Semeru Volcano,PERSON,-0.2105263157894737,0.3157894736842105,en,1.9
 Gökhan Yılmaz,Gökhan Yılmaz,PERSON,0.0,0.04385964912280702,en,1.9
+Haluk Eyidoğan,Haluk Eyidoğan,PERSON,-0.006578947368421054,0.7543859649122807,en,1.9
 Beydere Headman,Beydere Headman,PERSON,0.0,0.0,en,1.9
-Ali Da,Ali Da,PERSON,0.0,0.0,en,1.9
-Serdar Dağ,Serdar Dağ,PERSON,0.4736842105263158,0.6052631578947368,en,1.9
-Hamza Aydoğdu,Hamza Aydoğdu,PERSON,0.07177033492822966,0.2631578947368421,en,1.9
-Orhan Şen,Orhan Şen,PERSON,-0.3157894736842105,0.5263157894736842,en,1.9
-Şener Üşümezsoy,Şener Üşümezsoy,PERSON,0.1049641148325359,0.4529505582137161,en,1.9
-Osman Bektaş,Osman Bektaş,PERSON,0.18161881977671454,0.6244019138755981,en,1.9
-İbrahim Hayri Barut,İbrahim Hayri Barut,PERSON,0.0,0.06578947368421052,en,1.9
-İslam Memiş,İslam Memiş,PERSON,0.0,0.0,en,1.9
-King Salman,King Salman,PERSON,0.3157894736842105,0.4210526315789474,en,1.9
-Salman bin Abdulaziz,Salman bin Abdulaziz,PERSON,-0.06578947368421052,0.32894736842105265,en,1.9
-Adil Tek,Adil Tek,PERSON,0.39473684210526316,0.7631578947368421,en,1.9
-Cevdet Yılmaz,Cevdet Yılmaz,PERSON,0.32565789473684215,0.5208333333333334,en,1.9
-Nicolai Tangen,Nicolai Tangen,PERSON,0.09210526315789473,0.14473684210526316,en,1.9
-Brad Pitt,Brad Pitt,PERSON,-0.3508771929824561,0.9649122807017544,en,1.9
-Züleyha Ortak,Züleyha Ortak,PERSON,0.4736842105263158,0.6052631578947368,en,1.9
+Ali İhsan Yavuz,Ali İhsan Yavuz,PERSON,-0.026315789473684213,0.15789473684210525,en,1.9
+Murat Kurum,Murat Kurum,PERSON,0.0,0.0,en,1.9
+Övgün Ahmet Ercan,Övgün Ahmet Ercan,PERSON,0.0,0.21052631578947373,en,1.9
 Hande Ataizi,Hande Ataizi,PERSON,0.0,0.0,en,1.9
+Meriç Kahraman,Meriç Kahraman,PERSON,0.017543859649122806,0.03508771929824561,en,1.9
+Hamza Aydoğdu,Hamza Aydoğdu,PERSON,0.07177033492822966,0.2631578947368421,en,1.9
+Züleyha Ortak,Züleyha Ortak,PERSON,0.4736842105263158,0.6052631578947368,en,1.9
+Klaus Meine,Klaus Meine,PERSON,0.0,0.0,en,1.9
+Serdar Dağ,Serdar Dağ,PERSON,0.4736842105263158,0.6052631578947368,en,1.9
+Ayatollah Ali Khamenei,Ayatollah Ali Khamenei,PERSON,0.10526315789473685,0.2631578947368421,en,1.9
+Salman bin Abdulaziz,Salman bin Abdulaziz,PERSON,-0.06578947368421052,0.32894736842105265,en,1.9
+Mikdat Kadıoğlu,Mikdat Kadıoğlu,PERSON,-0.052631578947368425,0.15789473684210525,en,1.9
+King Salman,King Salman,PERSON,0.3157894736842105,0.4210526315789474,en,1.9
+Kate Moss,Kate Moss,PERSON,0.0,0.2105263157894737,en,1.9
+Osman Bektaş,Osman Bektaş,PERSON,0.18161881977671454,0.6244019138755981,en,1.9
+Beren Saat,Beren Saat,PERSON,0.3684210526315789,0.31578947368421056,en,1.9
+Ali Da,Ali Da,PERSON,0.0,0.0,en,1.9
+Brad Pitt,Brad Pitt,PERSON,-0.3508771929824561,0.9649122807017544,en,1.9
 Tom Cruise,Tom Cruise,PERSON,-0.3508771929824561,0.9649122807017544,en,1.9
+Nicolai Tangen,Nicolai Tangen,PERSON,0.09210526315789473,0.14473684210526316,en,1.9
+Yasemin Uludağ Çetin,Yasemin Uludağ Çetin,PERSON,-0.10526315789473685,0.0,en,1.9
+İbrahim Hayri Barut,İbrahim Hayri Barut,PERSON,0.0,0.06578947368421052,en,1.9
+Hakan Kutoğlu,Hakan Kutoğlu,PERSON,0.14567669172932332,0.4887218045112782,en,1.9
+Yüksel Baysal,Yüksel Baysal,PERSON,0.08771929824561403,0.08771929824561403,en,1.9
 Merve İldeniz,Merve İldeniz,PERSON,0.3815789473684211,0.5,en,1.9
-Recep Tayyip Erdoğan,Recep Tayyip Erdoğan,PERSON,0.08931419457735247,0.2743221690590112,en,1.9
-Özgür Karaoğlu,Özgür Karaoğlu,PERSON,0.24509803921568626,0.3480392156862746,en,1.7
-Donald Trump,Donald Trump,PERSON,-0.28921568627450983,0.4558823529411764,en,1.7
-Volkan Kazak,Volkan Kazak,PERSON,0.46568627450980393,0.5637254901960784,en,1.7
-Volkan Demirel,Volkan Demirel,PERSON,0.48039215686274517,0.5490196078431373,en,1.7
-Rumen Radev,Rumen Radev,PERSON,0.0,0.0,en,1.7
+Youssef En-Nesyri,Youssef En-Nesyri,PERSON,0.0,0.0,en,1.9
+Şener Üşümezsoy,Şener Üşümezsoy,PERSON,0.1049641148325359,0.4529505582137161,en,1.9
+Oruç Özkan,Oruç Özkan,PERSON,-0.07894736842105264,0.16666666666666666,en,1.9
+Atilla Çetin,Atilla Çetin,PERSON,-0.10526315789473685,0.0,en,1.9
+Adil Tek,Adil Tek,PERSON,0.39473684210526316,0.7631578947368421,en,1.9
+İslam Memiş,İslam Memiş,PERSON,0.0,0.0,en,1.9
+Orkun Kökçü,Orkun Kökçü,PERSON,0.3419059011164275,0.43062200956937796,en,1.9
 Esra Toptaş,Esra Toptaş,PERSON,0.0,0.0,en,1.7
-Sefa Yapıcı,Sefa Yapıcı,PERSON,0.0,0.0,en,1.0
-Yalova Armutlu,Yalova Armutlu,PERSON,-0.125,0.375,en,1.0
-Işık Altınışık,Işık Altınışık,PERSON,-0.125,0.375,en,1.0
-Storm Nils,Storm Nils,PERSON,0.0,0.0,en,1.0
-Tekin Bingöl,Tekin Bingöl,PERSON,0.18333333333333335,0.5,en,1.0
-Gustavo Petro,Gustavo Petro,PERSON,0.0,0.0,en,1.0
-Erzincan Kemah,Erzincan Kemah,PERSON,0.0,0.0,en,1.0
-Cengiz Kamalı,Cengiz Kamalı,PERSON,0.050000000000000044,0.9,en,1.0
-Fatih Karaca,Fatih Karaca,PERSON,0.0,0.0,en,1.0
-Zekeriya Şahin,Zekeriya Şahin,PERSON,0.0,0.0,en,1.0
-İbrahim Yumaklı,İbrahim Yumaklı,PERSON,0.0,0.0,en,1.0
-Goalkeeper Andre Onana,Goalkeeper Andre Onana,PERSON,0.3333333333333333,0.6666666666666666,en,1.0
-Fatih Tekke,Fatih Tekke,PERSON,0.0,0.0,en,1.0
-Abdullah Özdemir,Abdullah Özdemir,PERSON,-0.08125,0.26875,en,1.0
-Mount Hasan,Mount Hasan,PERSON,0.005555555555555554,0.43888888888888883,en,1.0
-Bilecik Governorship,Bilecik Governorship,PERSON,-0.1,0.4,en,1.0
-Mesut Özarslan,Mesut Özarslan,PERSON,0.0625,0.5,en,1.0
-Yeni Foça,Yeni Foça,PERSON,0.0,0.0,en,1.0
-Buluthan AKAR,Buluthan AKAR,PERSON,0.0,0.0,en,1.0
-Şahin Şahbaz,Şahin Şahbaz,PERSON,0.05000000000000002,0.5,en,1.0
-Murat Karataş,Murat Karataş,PERSON,0.0,0.0,en,1.0
-Metin Arolat,Metin Arolat,PERSON,0.19999999999999998,0.5190476190476191,en,1.0
-İbrahim Kayaaslan,İbrahim Kayaaslan,PERSON,0.0,0.0,en,1.0
-Saime Kayaaslan,Saime Kayaaslan,PERSON,0.0,0.0,en,1.0
-Hayri Soylu,Hayri Soylu,PERSON,0.0,0.0,en,1.0
-Raşit Yıldırım,Raşit Yıldırım,PERSON,-0.10555555555555556,0.638888888888889,en,1.0
-Mehmet Yuva,Mehmet Yuva,PERSON,0.0,0.1,en,1.0
-Yasin Yıldız,Yasin Yıldız,PERSON,0.3416666666666667,0.5833333333333334,en,1.0
-Hane İslam Eserl,Hane İslam Eserl,PERSON,0.0,0.0,en,1.0
-Mahmoud al-Akra,Mahmoud al-Akra,PERSON,-0.125,0.5650000000000001,en,1.0
-Selim Bora,Selim Bora,PERSON,-0.4,0.7,en,1.0
-Deir Belah,Deir Belah,PERSON,-0.125,0.5650000000000001,en,1.0
-Deniz Ataç,Deniz Ataç,PERSON,0.7,0.6000000000000001,en,1.0
-Tayfun Kahraman,Tayfun Kahraman,PERSON,0.0,0.0,en,1.0
-Iğdır FK,Iğdır FK,PERSON,0.0,0.0,en,1.0
-Nicolas Aujula,Nicolas Aujula,PERSON,-0.5,0.5333333333333333,en,1.0
-Tommaso Della Longa,Tommaso Della Longa,PERSON,-0.04,0.1,en,1.0
-Özgür Karoğlu,Özgür Karoğlu,PERSON,0.0,0.4,en,1.0
-İbrahim Batur Barut,İbrahim Batur Barut,PERSON,0.0,0.125,en,1.0
-Hüseyin Yayman,Hüseyin Yayman,PERSON,0.0,0.0,en,1.0
-Arslan BULUT,Arslan BULUT,PERSON,0.0,0.0,en,1.0
-Ahmet Övgün Ercan,Ahmet Övgün Ercan,PERSON,0.4,1.0,en,1.0
-Fatih Çekirge,Fatih Çekirge,PERSON,-0.4,0.7,en,1.0
-Thomas Landon,Thomas Landon,PERSON,0.11666666666666665,0.3166666666666667,en,1.0
-Abdurrahman Tutdere,Abdurrahman Tutdere,PERSON,0.0,0.0,en,1.0
-Shavket Mirziyoyev,Shavket Mirziyoyev,PERSON,-0.3,0.4,en,1.0
-Ümit Özdağ,Ümit Özdağ,PERSON,0.0,0.0,en,1.0
-Ümit Hodja,Ümit Hodja,PERSON,-0.6999999999999998,0.6666666666666666,en,1.0
-USS Abraham Lincoln,USS Abraham Lincoln,PERSON,0.0,0.0,en,1.0
-Zohran Mamdani,Zohran Mamdani,PERSON,0.005681818181818177,0.4147727272727273,en,1.0
-Tayyip Erdoğan,Tayyip Erdoğan,PERSON,0.6000000000000001,0.9,en,1.0
-Şükrü Küçükşahin,Şükrü Küçükşahin,PERSON,0.6000000000000001,0.9,en,1.0
-Devlet Bahçeli,Devlet Bahçeli,PERSON,0.6000000000000001,0.9,en,1.0
-Rüveyda Asel Aslan,Rüveyda Asel Aslan,PERSON,-0.25,0.59375,en,1.0
-Ali Ebu Zur,Ali Ebu Zur,PERSON,-0.2833333333333333,0.7916666666666666,en,1.0
-Özgür Efen,Özgür Efen,PERSON,0.0,0.0,en,1.0
-Özgür Efendi,Özgür Efendi,PERSON,0.0,0.0,en,1.0
+Donald Trump,Donald Trump,PERSON,-0.28921568627450983,0.4558823529411764,en,1.7
+Rumen Radev,Rumen Radev,PERSON,0.0,0.0,en,1.7
+Fatih Çekirge,Fatih Çekirge,PERSON,-0.23529411764705885,0.4117647058823529,en,1.7
+Özgür Karaoğlu,Özgür Karaoğlu,PERSON,0.24509803921568626,0.3480392156862746,en,1.7
+Gülcan Çağlayan,Gülcan Çağlayan,PERSON,0.15625,0.65625,en,1.6
+Selçuk Geçer,Selçuk Geçer,PERSON,-0.1923076923076923,0.5,en,1.3
+Fatih Karagümrük,Fatih Karagümrük,PERSON,0.3846153846153846,0.7820512820512819,en,1.3
+Burak Çelik,Burak Çelik,PERSON,0.10489510489510488,0.42657342657342656,en,1.3
+Murat Çağlayan,Murat Çağlayan,PERSON,0.1923076923076923,0.1923076923076923,en,1.3
 Süt İni Cave,Süt İni Cave,PERSON,-0.9,1.0,en,1.0
+Halil Kağan ÖYKEN,Halil Kağan ÖYKEN,PERSON,0.4,0.7,en,1.0
+Yong Wang,Yong Wang,PERSON,-0.3,0.3,en,1.0
+Süleyman Pampal,Süleyman Pampal,PERSON,-0.2,0.7,en,1.0
+Rachid Ghezzal,Rachid Ghezzal,PERSON,0.35,0.65,en,1.0
+Gérard Depardieu,Gérard Depardieu,PERSON,0.5681818181818181,0.7272727272727273,en,1.0
+Hüseyin Öztel,Hüseyin Öztel,PERSON,-0.6,1.0,en,1.0
+Cengiz Zaim,Cengiz Zaim,PERSON,0.2,0.275,en,1.0
+Abdullah Öcalan,Abdullah Öcalan,PERSON,0.0,0.0,en,1.0
+Bomb Cyclone,Bomb Cyclone,PERSON,0.36818181818181817,0.6272727272727273,en,1.0
+Zonguldak Bülent,Zonguldak Bülent,PERSON,0.21428571428571427,0.42857142857142855,en,1.0
+Süreh Hanım,Süreh Hanım,PERSON,0.0,0.0,en,1.0
+Sergen Yalçın,Sergen Yalçın,PERSON,0.0,0.0,en,1.0
+Ethem Karadirek,Ethem Karadirek,PERSON,0.0,0.0,en,1.0
+Paul onuachu,Paul onuachu,PERSON,0.42666666666666664,0.8333333333333333,en,1.0
+Şahin Şahbaz,Şahin Şahbaz,PERSON,0.05000000000000002,0.5,en,1.0
+Ömür Demirgüneş,Ömür Demirgüneş,PERSON,0.0,0.0,en,1.0
+Sekou Koita,Sekou Koita,PERSON,-0.25,0.325,en,1.0
+Hüseyin Kır,Hüseyin Kır,PERSON,-0.1,0.1,en,1.0
+Fikret Koçbulut,Fikret Koçbulut,PERSON,-0.08333333333333331,0.75,en,1.0
+Soner Yalçın,Soner Yalçın,PERSON,0.16666666666666666,0.16666666666666666,en,1.0
+Al Ittihad,Al Ittihad,PERSON,0.0,0.0,en,1.0
+Fatih Karagümrük-Fenerbahçe,Fatih Karagümrük-Fenerbahçe,PERSON,0.0,0.0,en,1.0
+Fenerbahçe Coach,Fenerbahçe Coach,PERSON,0.0,0.0,en,1.0
+Domenico Tedesco,Domenico Tedesco,PERSON,0.0,0.0,en,1.0
+Volkan Konak,Volkan Konak,PERSON,0.044444444444444446,0.2888888888888889,en,1.0
+Tarık Biberovic,Tarık Biberovic,PERSON,0.0,0.0,en,1.0
+Arzu Çekirge,Arzu Çekirge,PERSON,-0.125,0.1875,en,1.0
+LC Waikiki,LC Waikiki,PERSON,0.26666666666666666,0.5666666666666667,en,1.0
+Eyüpspor - Trabzonspor,Eyüpspor - Trabzonspor,PERSON,0.0,1.0,en,1.0
+Eyüpspor 1-0,Eyüpspor 1-0,PERSON,0.3333333333333333,0.6666666666666666,en,1.0
+Mohammed Baqir Qalibaf,Mohammed Baqir Qalibaf,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
+Felipe Augusto,Felipe Augusto,PERSON,-0.13333333333333333,0.13333333333333333,en,1.0
+TÜMOSAN Konyaspor,TÜMOSAN Konyaspor,PERSON,-0.08333333333333334,0.8333333333333333,en,1.0
+Ekrem İmamoğlu,Ekrem İmamoğlu,PERSON,0.0,0.0,en,1.0
+Ömer Bolat,Ömer Bolat,PERSON,0.395,0.6,en,1.0
+Muşspor 1-0,Muşspor 1-0,PERSON,0.0,0.0,en,1.0
+Serhat Akbel,Serhat Akbel,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
+Alper Akarsu,Alper Akarsu,PERSON,-0.4,0.4,en,1.0
+Selçuk GEÇER,Selçuk GEÇER,PERSON,0.5,0.5,en,1.0
+İbrahim Sağlam,İbrahim Sağlam,PERSON,0.0,0.06666666666666667,en,1.0
+Sam Altman,Sam Altman,PERSON,-0.2,0.35,en,1.0
+Hashd al-Shaabi,Hashd al-Shaabi,PERSON,-0.1,0.1,en,1.0
+Tammy Jackson,Tammy Jackson,PERSON,-0.10740740740740741,0.24074074074074078,en,1.0
+Hakan Fidan,Hakan Fidan,PERSON,-0.3125,0.5125,en,1.0
+Cüneyt Ayaz,Cüneyt Ayaz,PERSON,0.0,0.0,en,1.0
+Güray Doğan,Güray Doğan,PERSON,-0.03333333333333333,0.8833333333333333,en,1.0
+Beyazıt Öztürk,Beyazıt Öztürk,PERSON,0.25,0.3333333333333333,en,1.0
+Demirdöven Dam,Demirdöven Dam,PERSON,-0.6,1.0,en,1.0
+Türkiye Card,Türkiye Card,PERSON,0.0,0.0,en,1.0
+Cemil Şahin,Cemil Şahin,PERSON,0.0,0.0,en,1.0
+Müfide İlhan,Müfide İlhan,PERSON,0.0,0.0,en,1.0
+Hürrem Elmasçı,Hürrem Elmasçı,PERSON,0.0,0.0,en,1.0
+Osman Aşkın Bak,Osman Aşkın Bak,PERSON,0.4,1.0,en,1.0
+Uğur Meleke,Uğur Meleke,PERSON,0.8,0.4,en,1.0
+Mustafa Çiftçi,Mustafa Çiftçi,PERSON,0.12878787878787878,0.2626262626262626,en,1.0
+Yasin A,Yasin A,PERSON,0.0,0.0,en,1.0
+Özgür Efen,Özgür Efen,PERSON,0.0,0.0,en,1.0
+Ali Ebu Zur,Ali Ebu Zur,PERSON,-0.2833333333333333,0.7916666666666666,en,1.0
+Rüveyda Asel Aslan,Rüveyda Asel Aslan,PERSON,-0.25,0.59375,en,1.0
+Şükrü Küçükşahin,Şükrü Küçükşahin,PERSON,0.6000000000000001,0.9,en,1.0
+Zohran Mamdani,Zohran Mamdani,PERSON,0.005681818181818177,0.4147727272727273,en,1.0
+USS Abraham Lincoln,USS Abraham Lincoln,PERSON,0.0,0.0,en,1.0
+Ümit Hodja,Ümit Hodja,PERSON,-0.6999999999999998,0.6666666666666666,en,1.0
+Ümit Özdağ,Ümit Özdağ,PERSON,0.0,0.0,en,1.0
+Shavket Mirziyoyev,Shavket Mirziyoyev,PERSON,-0.3,0.4,en,1.0
+Abdurrahman Tutdere,Abdurrahman Tutdere,PERSON,0.0,0.0,en,1.0
+Thomas Landon,Thomas Landon,PERSON,0.11666666666666665,0.3166666666666667,en,1.0
+Selim Bora,Selim Bora,PERSON,-0.4,0.7,en,1.0
+Murat Karataş,Murat Karataş,PERSON,0.0,0.0,en,1.0
+Mount Hasan,Mount Hasan,PERSON,0.005555555555555554,0.43888888888888883,en,1.0
+Buluthan AKAR,Buluthan AKAR,PERSON,0.0,0.0,en,1.0
+Işık Altınışık,Işık Altınışık,PERSON,-0.125,0.375,en,1.0
+Ali Yerlikaya,Ali Yerlikaya,PERSON,0.0,0.0,en,1.0
+Özgür Efendi,Özgür Efendi,PERSON,0.0,0.0,en,1.0
+Ahmet Övgün Ercan,Ahmet Övgün Ercan,PERSON,0.4,1.0,en,1.0
+Arslan BULUT,Arslan BULUT,PERSON,0.0,0.0,en,1.0
+Metin Arolat,Metin Arolat,PERSON,0.19999999999999998,0.5190476190476191,en,1.0
+Özgür Karoğlu,Özgür Karoğlu,PERSON,0.0,0.4,en,1.0
+Tommaso Della Longa,Tommaso Della Longa,PERSON,-0.04,0.1,en,1.0
+Nicolas Aujula,Nicolas Aujula,PERSON,-0.5,0.5333333333333333,en,1.0
+Iğdır FK,Iğdır FK,PERSON,0.0,0.0,en,1.0
+Deniz Ataç,Deniz Ataç,PERSON,0.7,0.6000000000000001,en,1.0
+Deir Belah,Deir Belah,PERSON,-0.125,0.5650000000000001,en,1.0
+Mahmoud al-Akra,Mahmoud al-Akra,PERSON,-0.125,0.5650000000000001,en,1.0
+Hane İslam Eserl,Hane İslam Eserl,PERSON,0.0,0.0,en,1.0
+Hüseyin Yayman,Hüseyin Yayman,PERSON,0.0,0.0,en,1.0
+Yasin Yıldız,Yasin Yıldız,PERSON,0.3416666666666667,0.5833333333333334,en,1.0
+Mehmet Yuva,Mehmet Yuva,PERSON,0.0,0.1,en,1.0
+Raşit Yıldırım,Raşit Yıldırım,PERSON,-0.10555555555555556,0.638888888888889,en,1.0
+Hayri Soylu,Hayri Soylu,PERSON,0.0,0.0,en,1.0
+Saime Kayaaslan,Saime Kayaaslan,PERSON,0.0,0.0,en,1.0
+İbrahim Kayaaslan,İbrahim Kayaaslan,PERSON,0.0,0.0,en,1.0
+İbrahim Batur Barut,İbrahim Batur Barut,PERSON,0.0,0.125,en,1.0
+Okan Tüysüz,Okan Tüysüz,PERSON,0.0,0.0,en,1.0
+Tekin Bingöl,Tekin Bingöl,PERSON,0.18333333333333335,0.5,en,1.0
+Sefa Yapıcı,Sefa Yapıcı,PERSON,0.0,0.0,en,1.0
+Storm Nils,Storm Nils,PERSON,0.0,0.0,en,1.0
+Fırat Aydınus,Fırat Aydınus,PERSON,0.8,0.4,en,1.0
+Güntekin Onay,Güntekin Onay,PERSON,0.8,0.4,en,1.0
+Mehmet Arslan,Mehmet Arslan,PERSON,0.8,0.4,en,1.0
+Fatih Tekke,Fatih Tekke,PERSON,0.0,0.0,en,1.0
+Goalkeeper Andre Onana,Goalkeeper Andre Onana,PERSON,0.3333333333333333,0.6666666666666666,en,1.0
+Ozan Akbaba,Ozan Akbaba,PERSON,0.05,0.5333333333333333,en,1.0
+Sinem Ünsal,Sinem Ünsal,PERSON,0.05,0.5333333333333333,en,1.0
+Yalova Armutlu,Yalova Armutlu,PERSON,-0.125,0.375,en,1.0
+Murat Bey,Murat Bey,PERSON,0.0,0.0,en,1.0
+Feke Mayor,Feke Mayor,PERSON,-0.1,0.75,en,1.0
+Cömert Özen,Cömert Özen,PERSON,-0.1,0.75,en,1.0
+Bayraktar TB3,Bayraktar TB3,PERSON,-0.6,1.0,en,1.0
+Bayraktar TB3 UCAV,Bayraktar TB3 UCAV,PERSON,0.15666666666666665,0.7966666666666666,en,1.0
+TCG ANADOLU,TCG ANADOLU,PERSON,0.15666666666666665,0.7966666666666666,en,1.0
+Turgut Tunçalp,Turgut Tunçalp,PERSON,0.12499999999999999,0.325,en,1.0
+Tülay Bakaç,Tülay Bakaç,PERSON,0.0,0.0,en,1.0
+Bilecik Governorship,Bilecik Governorship,PERSON,-0.1,0.4,en,1.0
+İnci Taneleri,İnci Taneleri,PERSON,0.44999999999999996,0.8500000000000001,en,1.0
+Cengiz Kamalı,Cengiz Kamalı,PERSON,0.050000000000000044,0.9,en,1.0
+Atakan Çankaya,Atakan Çankaya,PERSON,0.0,0.0,en,1.0
+Hasan Sözbilir,Hasan Sözbilir,PERSON,-0.058333333333333334,0.45,en,1.0
+Kemal Ergün,Kemal Ergün,PERSON,-0.2,0.0,en,1.0
+Fatih Karaca,Fatih Karaca,PERSON,0.0,0.0,en,1.0
+Erzincan Kemah,Erzincan Kemah,PERSON,0.0,0.0,en,1.0
+Arka Sokaklar,Arka Sokaklar,PERSON,0.0,0.0,en,1.0
+Zekeriya Şahin,Zekeriya Şahin,PERSON,0.0,0.0,en,1.0
+Serik Belediyespor,Serik Belediyespor,PERSON,0.0,0.0,en,1.0
+Gianni Bruno,Gianni Bruno,PERSON,0.0,0.0,en,1.0
+Yeni Foça,Yeni Foça,PERSON,0.0,0.0,en,1.0
+Osman Ateşli,Osman Ateşli,PERSON,0.1,0.6,en,1.0
+İbrahim Yumaklı,İbrahim Yumaklı,PERSON,0.0,0.0,en,1.0
+Abdullah Özdemir,Abdullah Özdemir,PERSON,-0.08125,0.26875,en,1.0
+Mesut Özarslan,Mesut Özarslan,PERSON,0.0625,0.5,en,1.0
+Gustavo Petro,Gustavo Petro,PERSON,0.0,0.0,en,1.0
+Emine Kolsuz,Emine Kolsuz,PERSON,0.0,0.0,en,1.0
+Batuhan Kolsuz,Batuhan Kolsuz,PERSON,0.0,0.0,en,1.0
+Özbelsan Sivasspor,Özbelsan Sivasspor,PERSON,0.0,0.06666666666666667,en,1.0
