@@ -3,14 +3,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2db1256b65',extremes,Storm,#b3b2b1,wmo,fırtına dalgası kuzey makedonya,2026-03-26T04:56:00+00:00,North Macedonia,0.614704600125399,0,1,tr,MED,Europe
 '39afca9687',extremes,Storm,#b3b2b1,wmo,fırtına dalgası Üsküp bölgesi,2026-03-26T04:56:00+00:00,North Macedonia,0.6139580814259792,0,1,tr,MED,Europe
 'c8dd7549e0',extremes,Storm,#b3b2b1,wmo,güneydoğu bölgesinde fırtına,2026-03-26T04:56:00+00:00,North Macedonia,0.6133562577239158,0,1,tr,MED,Europe
+'8970729e51',extremes,Snow&Ice,#d60d2b,wmo,kuzey makedonya'nın donması,2026-03-27T04:57:00+00:00,North Macedonia,0.5849005107894887,0,1,tr,MED,Europe
+'4f00106436',extremes,Precipitation,#d60d2b,wmo,sağanak kuzey makedonya,2026-03-27T04:57:00+00:00,North Macedonia,0.522791618362013,0,1,tr,MED,Europe
 '247bcedc95',extremes,Thunderstorm,#53785a,wmo,dolu kıbrıs,2026-03-19T04:35:00+00:00,Cyprus,0.4910697224360503,2,1,tr,MED,Europe
 '39bab6b4e3',extremes,Drought,#edc291,edo,kuraklık türkiye,2026-03-04T04:21:00+00:00,Turkey,0.4908009759679891,3,2,tr,MED,Asia
 '2866b55c37',extremes,Storm,#b3b2b1,wmo,kuzey makedonya'da fırtına,2026-02-25T04:32:00+00:00,North Macedonia,0.4886066298980875,1,1,tr,MED,Europe
 'ccefefc59e',extremes,Drought,#edc291,random,ani kuraklık,2026-03-22T04:32:00+00:00,,0.483295630505788,1,2,tr,,
 'bab44a9ef3',extremes,Storm,#b3b2b1,wmo,fırtına kıbrıs,2026-02-18T04:34:00+00:00,Cyprus,0.4831636169096956,2,1,tr,MED,Europe
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,kırağı,2026-02-16T04:37:00+00:00,,0.4801530501359099,1,2,tr,,
+'2332e761a7',extremes,Precipitation,#d60d2b,wmo,sağanak kuzeydoğu bölgesi,2026-03-27T04:57:00+00:00,North Macedonia,0.47335263107778996,0,1,tr,MED,Europe
 '4806a05714',extremes,Earthquake,#870007,usgs,deprem türkiye,2026-02-26T04:28:00+00:00,Turkey,0.4721596050395913,4,3,tr,MED,Asia
 '17345117bc',extremes,Earthquake,#870007,usgs,deprem buldan,2026-03-10T04:21:00+00:00,Turkey,0.4710625543705319,2,1,tr,MED,Asia
+'cf98137375',extremes,Precipitation,#d60d2b,wmo,sağanak pelagonya bölgesi,2026-03-27T04:57:00+00:00,North Macedonia,0.4697119065570807,0,1,tr,MED,Europe
 '0a8e5743d9',extremes,Landslide,#572c03,random,heyelan,2026-02-17T04:30:00+00:00,,0.4583605433634873,1,3,tr,,
 '8c63bc9ca9',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur kıbrıs,2026-03-14T04:22:00+00:00,Cyprus,0.4578819707002515,2,1,tr,MED,Europe
 '9391f481ee',extremes,Storm,#b3b2b1,random,fırtına,2026-03-06T04:20:00+00:00,,0.4576011950240092,4,3,tr,,
@@ -115,8 +119,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,fırtına dalgası yeni zelanda,2026-03-25T04:33:00+00:00,New Zealand,0.3073017129476323,0,1,tr,NZ,Oceania
 'ddcce350d3',extremes,Storm,#b3b2b1,wmo,fırtına auckland ve büyük bariyer adası,2026-03-26T04:56:00+00:00,New Zealand,0.3072846747687244,0,1,tr,NZ,Oceania
 '9883dfe0ae',extremes,Storm,#b3b2b1,wmo,fırtına dalgalanması völkermarkt,2026-03-25T04:33:00+00:00,Austria,0.3072736921832093,0,1,tr,WCE,Europe
-'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,don Çekya,2026-03-26T04:56:00+00:00,Czechia,0.30724760437654086,0,1,tr,WCE,Europe
-'0eea90a85e',extremes,Snow&Ice,#d60d2b,wmo,don oberwart,2026-03-25T04:33:00+00:00,Austria,0.30716181316063285,0,1,tr,WCE,Europe
+'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,don Çekya,2026-03-26T04:56:00+00:00,Czechia,0.3072476043765408,0,1,tr,WCE,Europe
+'0eea90a85e',extremes,Snow&Ice,#d60d2b,wmo,don oberwart,2026-03-25T04:33:00+00:00,Austria,0.3071618131606328,0,1,tr,WCE,Europe
 '3fa143a609',extremes,Storm,#b3b2b1,random,toz kar fırtınası,2026-03-09T04:30:00+00:00,,0.3049230671467348,1,1,tr,,
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,dondurucu İzlanda,2026-03-12T04:26:00+00:00,Iceland,0.304513426979815,0,1,tr,GIC,Europe
 '1f5ce6636c',extremes,Thunderstorm,#53785a,wmo,şiddetli hava botsvana,2026-03-23T04:42:00+00:00,Botswana,0.304092267143164,0,1,tr,WSAF,Africa
