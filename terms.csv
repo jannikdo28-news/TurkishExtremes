@@ -127,6 +127,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a01a4d5226',extremes,Storm,#b3b2b1,wmo,kuzey bölgesinde fırtına,2026-03-23T04:42:00+00:00,New Zealand,0.3074596024884795,0,1,tr,NZ,Oceania
 'e7e7fc0a58',extremes,Snow&Ice,#d60d2b,wmo,don bregenz,2026-03-25T04:33:00+00:00,Austria,0.3073919949138848,0,1,tr,WCE,Europe
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,fırtına dalgası yeni zelanda,2026-03-25T04:33:00+00:00,New Zealand,0.3073017129476323,0,1,tr,NZ,Oceania
+'6171ca62b4',extremes,Storm,#b3b2b1,wmo,fırtına dalgası irlanda,2026-03-25T04:33:00+00:00,Ireland,0.30728715311751964,0,1,tr,NEU,Europe
 'ddcce350d3',extremes,Storm,#b3b2b1,wmo,fırtına auckland ve büyük bariyer adası,2026-03-26T04:56:00+00:00,New Zealand,0.3072846747687244,0,1,tr,NZ,Oceania
 '9883dfe0ae',extremes,Storm,#b3b2b1,wmo,fırtına dalgalanması völkermarkt,2026-03-25T04:33:00+00:00,Austria,0.3072736921832093,0,1,tr,WCE,Europe
 'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,don Çekya,2026-03-26T04:56:00+00:00,Czechia,0.3072476043765408,0,1,tr,WCE,Europe
@@ -134,6 +135,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9443ce57dd',extremes,Snow&Ice,#d60d2b,wmo,dondurucu schwaz,2026-03-25T04:33:00+00:00,Austria,0.3071105483636682,0,1,tr,WCE,Europe
 '17a0212ee2',extremes,Storm,#b3b2b1,wmo,fırtına dalgası mistelbach,2026-03-25T04:33:00+00:00,Austria,0.3071019545980102,0,1,tr,WCE,Europe
 '92615c8656',extremes,Snow&Ice,#d60d2b,wmo,dondurucu gmunden,2026-03-25T04:33:00+00:00,Austria,0.3070853725836008,0,1,tr,WCE,Europe
+'a84fc06e39',extremes,Storm,#b3b2b1,wmo,fırtına dalgalanması reutte,2026-03-25T04:33:00+00:00,Austria,0.3070474130848392,0,1,tr,WCE,Europe
+'3f5d4b9ffe',extremes,Storm,#b3b2b1,wmo,fırtına spittal an der drau,2026-03-25T04:33:00+00:00,Austria,0.30694846495075995,0,1,tr,WCE,Europe
 '3fa143a609',extremes,Storm,#b3b2b1,random,toz kar fırtınası,2026-03-09T04:30:00+00:00,,0.3049230671467348,1,1,tr,,
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,dondurucu İzlanda,2026-03-12T04:26:00+00:00,Iceland,0.304513426979815,0,1,tr,GIC,Europe
 '1f5ce6636c',extremes,Thunderstorm,#53785a,wmo,şiddetli hava botsvana,2026-03-23T04:42:00+00:00,Botswana,0.304092267143164,0,1,tr,WSAF,Africa
