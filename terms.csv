@@ -23,7 +23,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fe6660da97',extremes,Precipitation,#d60d2b,wmo,sağanak kıbrıs,2026-04-01T05:12:00+00:00,Cyprus,0.4782761373394723,0,1,tr,MED,Europe
 '2332e761a7',extremes,Precipitation,#d60d2b,wmo,sağanak kuzeydoğu bölgesi,2026-03-27T04:57:00+00:00,North Macedonia,0.4733526310777899,0,1,tr,MED,Europe
 '4806a05714',extremes,Earthquake,#870007,usgs,deprem türkiye,2026-02-26T04:28:00+00:00,Turkey,0.4721596050395913,4,3,tr,MED,Asia
-'6ab4417a9f',extremes,Storm,#b3b2b1,wmo,fırtına dalgası güneybatı bölgesi,2026-04-04T04:30:00+00:00,North Macedonia,0.47204860917275476,0,1,tr,MED,Europe
+'6ab4417a9f',extremes,Storm,#b3b2b1,wmo,fırtına dalgası güneybatı bölgesi,2026-04-04T04:30:00+00:00,North Macedonia,0.4720486091727547,0,1,tr,MED,Europe
 '17345117bc',extremes,Earthquake,#870007,usgs,deprem buldan,2026-03-10T04:21:00+00:00,Turkey,0.4710625543705319,2,1,tr,MED,Asia
 '131d299cd1',extremes,Storm,#b3b2b1,wmo,fırtına Üsküp bölgesi,2026-04-04T04:30:00+00:00,North Macedonia,0.4701681291963635,0,1,tr,MED,Europe
 'cf98137375',extremes,Precipitation,#d60d2b,wmo,sağanak pelagonya bölgesi,2026-03-27T04:57:00+00:00,North Macedonia,0.4697119065570807,0,1,tr,MED,Europe
@@ -171,6 +171,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,kar avusturya,2026-03-25T04:33:00+00:00,Austria,0.3075731661603725,0,1,tr,WCE,Europe
 'a01a4d5226',extremes,Storm,#b3b2b1,wmo,kuzey bölgesinde fırtına,2026-03-23T04:42:00+00:00,New Zealand,0.3074596024884795,0,1,tr,NZ,Oceania
 'e7e7fc0a58',extremes,Snow&Ice,#d60d2b,wmo,don bregenz,2026-03-25T04:33:00+00:00,Austria,0.3073919949138848,0,1,tr,WCE,Europe
+'4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,fırtına dalgası wien währing,2026-03-25T04:33:00+00:00,Austria,0.30732274711499113,0,1,tr,WCE,Europe
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,fırtına dalgası yeni zelanda,2026-03-25T04:33:00+00:00,New Zealand,0.3073017129476323,0,1,tr,NZ,Oceania
 '6171ca62b4',extremes,Storm,#b3b2b1,wmo,fırtına dalgası irlanda,2026-03-25T04:33:00+00:00,Ireland,0.3072871531175196,0,1,tr,NEU,Europe
 'ddcce350d3',extremes,Storm,#b3b2b1,wmo,fırtına auckland ve büyük bariyer adası,2026-03-26T04:56:00+00:00,New Zealand,0.3072846747687244,0,1,tr,NZ,Oceania
@@ -191,8 +192,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4508d0e7cc',extremes,Drought,#edc291,acwe,düşük su seviyesi avustralya,2026-03-26T04:57:00+00:00,Australia,0.3064714702150453,0,1,tr,CAU,Oceania
 '6a3e3c9638',extremes,Storm,#b3b2b1,wmo,fırtına dalgalanması Grodno bölgesi,2026-03-26T04:56:00+00:00,Belarus,0.3064317783458752,0,1,tr,WCE,Europe
 '4093195155',extremes,Storm,#b3b2b1,wmo,fırtına dalgası hindistan,2026-04-02T04:42:00+00:00,India,0.3060850052388456,0,1,tr,SAS,Asia
+'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,kar kanadası,2026-03-18T04:36:00+00:00,Canada,0.3060357270000287,0,1,tr,NEN,North-America
+'283b154c38',extremes,Wet Spell,#d60d2b,random,ıslak büyü,2026-03-25T04:33:00+00:00,,0.3060267968518284,0,1,tr,,
 'cb68d1153d',extremes,Storm,#b3b2b1,wmo,fırtına sierra kuzey ve merkez,2026-04-01T05:12:00+00:00,Ecuador,0.3060226239895141,0,1,tr,NWS,South-America
-'2b54723d48',extremes,Precipitation,#d60d2b,wmo,sağanak Amazonía,2026-03-31T04:59:00+00:00,Ecuador,0.30586614845156623,0,1,tr,NWS,South-America
+'9131f8e093',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur sierra kuzey ve merkez,2026-03-31T04:59:00+00:00,Ecuador,0.3059620150943005,0,1,tr,NWS,South-America
+'2b54723d48',extremes,Precipitation,#d60d2b,wmo,sağanak Amazonía,2026-03-31T04:59:00+00:00,Ecuador,0.3058661484515662,0,1,tr,NWS,South-America
+'a5a19a733b',extremes,Flood,#030ba1,wmo,Etiyopya'da ani sel,2026-03-29T05:00:00+00:00,Ethiopia,0.3055273488989083,0,1,tr,NEAF,Africa
 '3fa143a609',extremes,Storm,#b3b2b1,random,toz kar fırtınası,2026-03-09T04:30:00+00:00,,0.3049230671467348,1,1,tr,,
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,dondurucu İzlanda,2026-03-12T04:26:00+00:00,Iceland,0.304513426979815,0,1,tr,GIC,Europe
 '1f5ce6636c',extremes,Thunderstorm,#53785a,wmo,şiddetli hava botsvana,2026-03-23T04:42:00+00:00,Botswana,0.304092267143164,0,1,tr,WSAF,Africa
