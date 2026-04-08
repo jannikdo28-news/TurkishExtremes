@@ -219,12 +219,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,fırtına İsrail,2026-03-31T04:59:00+00:00,Israel,0.3054667471378651,0,1,tr,MED,Asia
 'b9df18cf46',extremes,Storm,#b3b2b1,wmo,kuzey kıyısının kıyı bölgelerinde fırtına kabarması,2026-04-06T05:11:00+00:00,Jamaica,0.3054282285911406,0,1,tr,CAR,North-America
 'b7410cf0a8',extremes,Precipitation,#d60d2b,wmo,sağanak sierra kuzey ve merkez,2026-03-30T05:12:00+00:00,Ecuador,0.3054121607074903,0,1,tr,NWS,South-America
+'3f340afd02',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur Ekvador,2026-04-01T05:12:00+00:00,Ecuador,0.3053792269826932,0,1,tr,NWS,South-America
 '69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası parana ve alrededores,2026-04-03T04:43:00+00:00,Argentina,0.3053470000218471,0,1,tr,SES,South-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,yağmur ekvador,2026-04-01T05:12:00+00:00,Ecuador,0.3052032435730108,0,1,tr,NWS,South-America
 '1260f3a52f',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası moskova,2026-04-01T05:12:00+00:00,Russia,0.3051991349493278,0,1,tr,ESB,Europe
 '73b3077538',extremes,Drought,#edc291,edo,kuraklık surinam,2026-03-19T04:35:00+00:00,Suriname,0.3051298854979094,0,1,tr,NSA,South-America
-'a93ca33fc4',extremes,Storm,#b3b2b1,wmo,Kanalda ve güney sularında fırtına dalgalanması.,2026-04-06T05:11:00+00:00,Vanuatu,0.30510843227668266,0,1,tr,SPO,Oceania
+'a93ca33fc4',extremes,Storm,#b3b2b1,wmo,Kanalda ve güney sularında fırtına dalgalanması.,2026-04-06T05:11:00+00:00,Vanuatu,0.3051084322766826,0,1,tr,SPO,Oceania
+'c229b0919c',extremes,Precipitation,#d60d2b,wmo,yağmur suudi arabistan,2026-03-19T04:35:00+00:00,Saudi Arabia,0.3050046458810007,0,1,tr,ARP,Asia
 '3fa143a609',extremes,Storm,#b3b2b1,random,toz kar fırtınası,2026-03-09T04:30:00+00:00,,0.3049230671467348,1,1,tr,,
+'91c0c7bb02',extremes,Precipitation,#d60d2b,wmo,litoral ve sierra yağışları,2026-04-03T04:43:00+00:00,Ecuador,0.3049171763010511,0,1,tr,NWS,South-America
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,dondurucu İzlanda,2026-03-12T04:26:00+00:00,Iceland,0.304513426979815,0,1,tr,GIC,Europe
 '1f5ce6636c',extremes,Thunderstorm,#53785a,wmo,şiddetli hava botsvana,2026-03-23T04:42:00+00:00,Botswana,0.304092267143164,0,1,tr,WSAF,Africa
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,yağmur yeni zelanda,2026-03-05T04:24:00+00:00,New Zealand,0.3040609440158224,0,1,tr,NZ,Oceania
