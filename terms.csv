@@ -325,21 +325,31 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e8f2fdcc3a',extremes,Precipitation,#d60d2b,wmo,yağmur Tayland,2026-04-11T04:34:00+00:00,Thailand,0.3035903101001305,0,1,tr,SEA,Asia
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,sağanak tanzanya,2026-03-04T04:20:00+00:00,Tanzania,0.3035679296525882,0,1,tr,SEAF,Africa
 '1a5d7f7924',extremes,Wildfire,#d60d2b,wmo,orman yangını uttar pradesh,2026-04-03T04:43:00+00:00,India,0.3035490178801949,0,1,tr,SAS,Asia
-'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,orman yangını madhya pradesh,2026-04-03T04:43:00+00:00,India,0.30354609483284745,0,1,tr,SAS,Asia
+'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,orman yangını madhya pradesh,2026-04-03T04:43:00+00:00,India,0.3035460948328474,0,1,tr,SAS,Asia
 '2f5808d63b',extremes,Storm,#b3b2b1,wmo,fırtına dalgası birleşik krallık,2026-04-04T04:30:00+00:00,United Kingdom,0.3035419732587088,0,1,tr,NEU,Europe
 '885597e0f4',extremes,Wildfire,#d60d2b,wmo,orman yangını avustralya,2026-02-25T04:32:00+00:00,Australia,0.3035408265068612,0,1,tr,CAU,Oceania
 'c528204ef7',extremes,Wildfire,#d60d2b,wmo,orman yangını lekwa teemane bloemhof,2026-03-01T04:35:00+00:00,South Africa,0.3035406399704161,0,1,tr,WSAF,Africa
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,yağış suudi arabistan,2026-02-27T04:26:00+00:00,Saudi Arabia,0.3035158767305617,0,1,tr,ARP,Asia
 '3229be0606',extremes,Snow Avalanche,#deddd5,wmo,çığ karaçay Çerkes cumhuriyeti,2026-02-26T04:29:00+00:00,Russia,0.3035118531434993,0,1,tr,ESB,Europe
-'adacd65a27',extremes,Storm,#b3b2b1,wmo,fırtına paraguay,2026-04-12T05:12:00+00:00,Paraguay,0.30348719393362783,0,1,tr,SES,South-America
-'4849129548',extremes,Tropical Cyclone,#4f4f4f,wmo,tropikal kasırga solomon adaları,2026-04-05T05:01:00+00:00,Solomon Islands,0.30346392001538014,0,1,tr,EPO,Oceania
+'adacd65a27',extremes,Storm,#b3b2b1,wmo,fırtına paraguay,2026-04-12T05:12:00+00:00,Paraguay,0.3034871939336278,0,1,tr,SES,South-America
+'4849129548',extremes,Tropical Cyclone,#4f4f4f,wmo,tropikal kasırga solomon adaları,2026-04-05T05:01:00+00:00,Solomon Islands,0.3034639200153801,0,1,tr,EPO,Oceania
 '1ec98711db',extremes,Snow&Ice,#d60d2b,wmo,kar İzlanda,2026-03-02T04:27:00+00:00,Iceland,0.3034539284538005,0,1,tr,GIC,Europe
 '9bd86172ae',extremes,Storm,#b3b2b1,wmo,fırtına kıyısı ve kıyısı,2026-03-13T04:25:00+00:00,Ecuador,0.303453876770356,0,1,tr,NWS,South-America
 'bd5d88d4fc',extremes,Flood,#030ba1,wmo,botsvana sel,2026-03-21T04:17:00+00:00,Botswana,0.3034455128274997,0,1,tr,WSAF,Africa
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,fırtına katar,2026-03-25T04:33:00+00:00,Qatar,0.3034387689124345,0,1,tr,ARP,Asia
+'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,orman yangını uttarakhand,2026-04-03T04:43:00+00:00,India,0.30342411626243826,0,1,tr,SAS,Asia
+'97cf231a2f',extremes,Wildfire,#d60d2b,wmo,orman yangını odisha,2026-04-03T04:43:00+00:00,India,0.3034159997060623,0,1,tr,SAS,Asia
+'6e5947027b',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur waikato,2026-04-11T04:34:00+00:00,New Zealand,0.3033922672886855,0,1,tr,NZ,Oceania
+'aab7909052',extremes,Fog,#d60d2b,wmo,sis İsrail,2026-04-03T04:43:00+00:00,Israel,0.3033913470732473,0,1,tr,MED,Asia
+'5e4ea480a4',extremes,Thunderstorm,#53785a,wmo,dolu katar,2026-03-26T04:56:00+00:00,Qatar,0.3033856975802409,0,1,tr,ARP,Asia
 '80d50b76c6',extremes,Storm,#b3b2b1,wmo,fırtına dalgası suudi arabistan,2026-02-25T04:32:00+00:00,Saudi Arabia,0.3033300712431648,0,1,tr,ARP,Asia
 '3ea76ed422',extremes,Drought,#edc291,edo,kuraklık güney kore,2026-02-28T04:07:00+00:00,South Korea,0.3033194472539436,0,1,tr,EAS,Asia
 '2096f9b691',extremes,Drought,#edc291,edo,yağmur eksikliği butan,2026-03-10T04:22:00+00:00,Bhutan,0.3033168011484517,0,1,tr,TIB,Asia
+'f19783ecd9',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası honghe ilçesi,2026-04-01T05:12:00+00:00,China,0.3033167136551409,0,1,tr,EAS,Asia
+'22f763dc6a',extremes,Precipitation,#d60d2b,wmo,yağmur amazonya,2026-03-30T05:12:00+00:00,Ecuador,0.30331611753127424,0,1,tr,NWS,South-America
+'81df6f3074',extremes,Storm,#b3b2b1,wmo,taupo ve taumarunui fırtınası,2026-03-26T04:56:00+00:00,New Zealand,0.30329126866708883,0,1,tr,NZ,Oceania
+'8180415a6e',extremes,Storm,#b3b2b1,wmo,fırtına dalgası solapur,2026-04-03T04:43:00+00:00,India,0.3032790462829553,0,1,tr,SAS,Asia
+'53cc0bcc71',extremes,Tropical Cyclone,#4f4f4f,wmo,almanya kasırgası,2026-03-25T04:33:00+00:00,Germany,0.3032728775085484,0,1,tr,WCE,Europe
 '95436f364d',extremes,Storm,#b3b2b1,wmo,fırtına dalgası kıyıda ve batıda Sierra,2026-02-27T04:26:00+00:00,Ecuador,0.3032511324614753,0,1,tr,NWS,South-America
 '7747997246',extremes,Fog,#d60d2b,wmo,sis rusya,2026-02-25T04:32:00+00:00,Russia,0.3032316940179653,0,1,tr,ESB,Europe
 'cda3b95773',extremes,Storm,#b3b2b1,wmo,fırtına suudi arabistan,2026-02-26T04:29:00+00:00,Saudi Arabia,0.3032234285958033,0,1,tr,ARP,Asia
