@@ -6,20 +6,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2866b55c37',extremes,Storm,#b3b2b1,wmo,kuzey makedonya'da fırtına,2026-03-26T04:56:00+00:00,North Macedonia,0.611145266481695,0,1,tr,MED,Europe
 'f484ebfc83',extremes,Storm,#b3b2b1,wmo,fırtına dalgası bulgaristan,2026-04-07T04:59:00+00:00,Bulgaria,0.5806060960532384,1,1,tr,MED,Europe
 '69840e877f',extremes,Storm,#b3b2b1,wmo,fırtına bulgaristan,2026-04-08T05:01:00+00:00,Bulgaria,0.5757956905519552,1,1,tr,MED,Europe
-'373c6724f3',extremes,Drought,#edc291,edo,yağmur eksikliği türkiye,2026-04-01T05:12:00+00:00,Turkey,0.5506678109478974,0,1,tr,MED,Asia
-'43e3252826',extremes,Storm,#b3b2b1,wmo,Moldova fırtınası,2026-04-08T05:01:00+00:00,Moldova,0.5476609433480373,0,1,tr,WCE,Europe
 'f1842b905b',extremes,Earthquake,#870007,usgs,deprem erciş,2026-04-05T05:01:00+00:00,Turkey,0.5446950503529985,1,1,tr,WCA,Asia
 '685a1d88b5',extremes,Thunderstorm,#53785a,wmo,kuzey makedonya'da şiddetli hava,2026-03-27T04:57:00+00:00,North Macedonia,0.528034111759385,0,1,tr,MED,Europe
-'4f00106436',extremes,Precipitation,#d60d2b,wmo,sağanak kuzey makedonya,2026-03-27T04:57:00+00:00,North Macedonia,0.522791618362013,0,1,tr,MED,Europe
-'1452522387',extremes,Precipitation,#d60d2b,wmo,kuzey makedonya'da sağanak yağmur,2026-03-27T04:57:00+00:00,North Macedonia,0.5226611846952364,0,1,tr,MED,Europe
 '2db1256b65',extremes,Storm,#b3b2b1,wmo,fırtına dalgası kuzey makedonya,2026-03-26T04:56:00+00:00,North Macedonia,0.5224989101065891,1,1,tr,MED,Europe
 '39afca9687',extremes,Storm,#b3b2b1,wmo,fırtına dalgası Üsküp bölgesi,2026-03-26T04:56:00+00:00,North Macedonia,0.5218643692120823,1,1,tr,MED,Europe
-'c9080fa8ac',extremes,Drought,#edc291,edo,Kuzey Makedonya'da kuraklık,2026-04-11T04:34:00+00:00,North Macedonia,0.5214159737435689,0,1,tr,MED,Europe
-'a4c593186d',extremes,Storm,#b3b2b1,wmo,fırtına dalgası Pelagonya bölgesi,2026-04-01T05:12:00+00:00,North Macedonia,0.5197023844390272,0,1,tr,MED,Europe
 'df012197cf',extremes,Storm,#b3b2b1,wmo,fırtına vardar bölgesi,2026-03-26T04:56:00+00:00,North Macedonia,0.5130794021870236,1,1,tr,MED,Europe
-'265f018343',extremes,Storm,#b3b2b1,wmo,fırtına dalgası güneydoğu bölgesi,2026-04-08T05:01:00+00:00,North Macedonia,0.5087522935694642,0,1,tr,MED,Europe
-'4f334dd4a7',extremes,Drought,#edc291,edo,yağmur eksikliği bulgaristan,2026-04-11T04:34:00+00:00,Bulgaria,0.5029333151968488,0,1,tr,MED,Europe
-'d5d7a11479',extremes,Drought,#edc291,edo,kuraklık kıbrıs,2026-03-29T05:00:00+00:00,Cyprus,0.498068196627602,0,1,tr,MED,Europe
 '67973e734f',extremes,Precipitation,#d60d2b,wmo,yağış kuzey makedonya,2026-04-01T05:12:00+00:00,North Macedonia,0.4978595371164723,0,1,tr,MED,Europe
 '8970729e51',extremes,Snow&Ice,#d60d2b,wmo,kuzey makedonya'nın donması,2026-03-27T04:57:00+00:00,North Macedonia,0.4971654341710653,1,1,tr,MED,Europe
 'f685d1f47f',extremes,Drought,#edc291,edo,Kıbrıs'ta kuraklık,2026-04-11T04:34:00+00:00,Cyprus,0.4960999026953903,0,1,tr,MED,Europe
@@ -38,6 +29,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8220584aae',extremes,Drought,#edc291,edo,kuruluk kuzey makedonya,2026-04-12T05:12:00+00:00,North Macedonia,0.4710485478817568,0,1,tr,MED,Europe
 '131d299cd1',extremes,Storm,#b3b2b1,wmo,fırtına Üsküp bölgesi,2026-04-04T04:30:00+00:00,North Macedonia,0.4701681291963635,0,1,tr,MED,Europe
 'cf98137375',extremes,Precipitation,#d60d2b,wmo,sağanak pelagonya bölgesi,2026-03-27T04:57:00+00:00,North Macedonia,0.4697119065570807,0,1,tr,MED,Europe
+'373c6724f3',extremes,Drought,#edc291,edo,yağmur eksikliği türkiye,2026-04-01T05:12:00+00:00,Turkey,0.46806763930571277,1,1,tr,MED,Asia
+'43e3252826',extremes,Storm,#b3b2b1,wmo,Moldova fırtınası,2026-04-08T05:01:00+00:00,Moldova,0.4655118018458317,1,1,tr,WCE,Europe
 'fa9eac41c9',extremes,Storm,#b3b2b1,wmo,kuzeydoğu bölgesinde fırtına dalgası,2026-04-04T04:30:00+00:00,North Macedonia,0.4636288325802491,0,1,tr,MED,Europe
 'd89222ba6c',extremes,Precipitation,#d60d2b,wmo,yağmur güneybatı bölgesi,2026-03-27T04:57:00+00:00,North Macedonia,0.4593035023272295,0,1,tr,MED,Europe
 '8c63bc9ca9',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur kıbrıs,2026-03-14T04:22:00+00:00,Cyprus,0.4578819707002515,2,1,tr,MED,Europe
@@ -47,19 +40,26 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1690b6b5fa',extremes,Precipitation,#d60d2b,wmo,yağış doğu bölgesi,2026-04-02T04:42:00+00:00,North Macedonia,0.4530750968321451,0,1,tr,MED,Europe
 '848cffa79e',extremes,Precipitation,#d60d2b,wmo,yağış Üsküp bölgesi,2026-03-27T04:57:00+00:00,North Macedonia,0.453072706184278,0,1,tr,MED,Europe
 '772b48a222',extremes,Precipitation,#d60d2b,wmo,yağmur polog bölgesi,2026-03-27T04:57:00+00:00,North Macedonia,0.4521711069024465,0,1,tr,MED,Europe
-'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2026-03-26T04:56:00+00:00,Moldova,0.45005858792189773,0,1,tr,WCE,Europe
+'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2026-03-26T04:56:00+00:00,Moldova,0.4500585879218977,0,1,tr,WCE,Europe
+'4f00106436',extremes,Precipitation,#d60d2b,wmo,sağanak kuzey makedonya,2026-03-27T04:57:00+00:00,North Macedonia,0.44437287560771105,1,1,tr,MED,Europe
+'1452522387',extremes,Precipitation,#d60d2b,wmo,kuzey makedonya'da sağanak yağmur,2026-03-27T04:57:00+00:00,North Macedonia,0.4442620069909509,1,1,tr,MED,Europe
+'c9080fa8ac',extremes,Drought,#edc291,edo,Kuzey Makedonya'da kuraklık,2026-04-11T04:34:00+00:00,North Macedonia,0.4432035776820335,1,1,tr,MED,Europe
 'b994dcebdd',extremes,Drought,#edc291,edo,Kuraklık Bulgaristan,2026-03-11T04:22:00+00:00,Bulgaria,0.4431127837164598,0,1,tr,MED,Europe
 '126dbdb910',extremes,Drought,#edc291,edo,Moldova'nın kuraklığı,2026-04-11T04:34:00+00:00,Moldova,0.4423261425053866,0,1,tr,WCE,Europe
 '4ad9528180',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur doğu bölgesi,2026-04-01T05:12:00+00:00,North Macedonia,0.4420971332184626,0,1,tr,MED,Europe
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-02-28T04:07:00+00:00,,0.4418784268355407,1,3,tr,,
-'fbaa1c52eb',extremes,Drought,#edc291,edo,kuruluk kıbrıs,2026-03-27T04:57:00+00:00,Cyprus,0.43885458886979717,0,1,tr,MED,Europe
+'a4c593186d',extremes,Storm,#b3b2b1,wmo,fırtına dalgası Pelagonya bölgesi,2026-04-01T05:12:00+00:00,North Macedonia,0.44174702677317307,1,1,tr,MED,Europe
+'fbaa1c52eb',extremes,Drought,#edc291,edo,kuruluk kıbrıs,2026-03-27T04:57:00+00:00,Cyprus,0.4388545888697971,0,1,tr,MED,Europe
 '0be5ded7e1',extremes,Drought,#edc291,edo,kuruluk hindi,2026-04-08T05:01:00+00:00,Turkey,0.4381452905607866,0,1,tr,MED,Asia
 '949e39d877',extremes,Precipitation,#d60d2b,wmo,Pelagonya bölgesi yağmuru,2026-04-02T04:42:00+00:00,North Macedonia,0.4340450926866726,0,1,tr,MED,Europe
+'265f018343',extremes,Storm,#b3b2b1,wmo,fırtına dalgası güneydoğu bölgesi,2026-04-08T05:01:00+00:00,North Macedonia,0.4324394495340445,1,1,tr,MED,Europe
 '900c9e2470',extremes,Earthquake,#870007,usgs,deprem kaş,2026-03-07T04:12:00+00:00,Turkey,0.4308534016866511,3,2,tr,MED,Asia
 '4c40736a8b',extremes,Precipitation,#d60d2b,wmo,sağanak vardar bölgesi,2026-04-01T05:12:00+00:00,North Macedonia,0.4299056174336185,0,1,tr,MED,Europe
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,sulu kar,2026-03-21T04:17:00+00:00,,0.4298072714654463,1,2,tr,,
+'4f334dd4a7',extremes,Drought,#edc291,edo,yağmur eksikliği bulgaristan,2026-04-11T04:34:00+00:00,Bulgaria,0.4274933179173215,1,1,tr,MED,Europe
 'c1eef80860',extremes,Drought,#edc291,edo,kuraklık bulgaristan,2026-03-14T04:23:00+00:00,Bulgaria,0.4268250398614005,1,1,tr,MED,Europe
 '135f8534c2',extremes,Precipitation,#d60d2b,random,daha fazla yağış,2026-03-05T04:23:00+00:00,,0.4242742633132594,1,2,tr,,
+'d5d7a11479',extremes,Drought,#edc291,edo,kuraklık kıbrıs,2026-03-29T05:00:00+00:00,Cyprus,0.4235079821334617,1,1,tr,MED,Europe
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,fırtına avustralya,2026-03-19T04:35:00+00:00,Australia,0.418354944578776,1,2,tr,EAU,Oceania
 'e371e0a228',extremes,Precipitation,#d60d2b,wmo,sağanak polog bölgesi,2026-04-02T04:42:00+00:00,North Macedonia,0.4161474936790647,0,1,tr,MED,Europe
 'f90601fa23',extremes,Volcano,#b83202,random,yanardağ patlaması,2026-04-07T04:58:00+00:00,,0.4100075473236523,0,1,tr,,
@@ -68,7 +68,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,buzdağı arctis,2026-04-03T04:42:00+00:00,,0.3974067127635332,0,1,tr,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,kar fırtınası,2026-03-22T04:32:00+00:00,,0.396327568819987,1,3,tr,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,buzdağı buzağılama,2026-04-01T05:12:00+00:00,,0.3953603472669365,0,1,tr,,
-'cb43c2bb0b',extremes,Heat Wave,#c40202,random,en sıcak yıl,2026-04-01T05:12:00+00:00,,0.39513077751281706,0,1,tr,,
+'cb43c2bb0b',extremes,Heat Wave,#c40202,random,en sıcak yıl,2026-04-01T05:12:00+00:00,,0.395130777512817,0,1,tr,,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,sağanak,2026-03-04T04:20:00+00:00,,0.3944002968647786,1,3,tr,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,çekirgeler,2026-04-06T05:11:00+00:00,,0.3930962192895902,0,1,tr,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,buzdağı antarktika,2026-04-03T04:42:00+00:00,,0.3918777351204041,0,1,tr,,
@@ -84,7 +84,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,çekirge,2026-04-06T05:11:00+00:00,,0.3649805628813269,0,1,tr,,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-04-07T04:58:00+00:00,,0.3633584187552879,0,1,tr,,
 '560b05d603',extremes,Heat Wave,#c40202,random,sıcak hava dalgası,2026-03-17T04:30:00+00:00,,0.3618269301237006,1,2,tr,,
-'776fe47817',extremes,Wildfire,#d60d2b,random,orman yangını,2026-04-08T05:00:00+00:00,,0.36107820538149454,0,1,tr,,
+'776fe47817',extremes,Wildfire,#d60d2b,random,orman yangını,2026-04-08T05:00:00+00:00,,0.3610782053814945,0,1,tr,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,su baskını,2026-03-15T04:44:00+00:00,,0.3595112326387931,2,1,tr,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,kasırga,2026-03-14T04:22:00+00:00,,0.3568338314213271,1,1,tr,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,hint yazı,2026-03-10T04:21:00+00:00,,0.3556688433609614,1,1,tr,,
