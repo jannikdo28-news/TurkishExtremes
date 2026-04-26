@@ -45,7 +45,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '67973e734f',extremes,Precipitation,#d60d2b,wmo,yağış kuzey makedonya,2026-04-01T05:12:00+00:00,North Macedonia,0.4231806065490014,1,1,tr,MED,Europe
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,su baskını,2026-04-06T05:11:00+00:00,,0.4217562296635507,1,3,tr,,
 'f685d1f47f',extremes,Drought,#edc291,edo,Kıbrıs'ta kuraklık,2026-04-11T04:34:00+00:00,Cyprus,0.4216849172910817,1,1,tr,MED,Europe
-'15a9c61e3e',extremes,Landslide,#572c03,random,heyelan,2026-04-20T05:26:00+00:00,,0.42094637938061263,1,3,tr,,
+'15a9c61e3e',extremes,Landslide,#572c03,random,heyelan,2026-04-20T05:26:00+00:00,,0.4209463793806126,1,3,tr,,
 'c1eef80860',extremes,Drought,#edc291,edo,kuraklık bulgaristan,2026-04-04T04:30:00+00:00,Bulgaria,0.4196285933145167,1,1,tr,MED,Europe
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,fırtına avustralya,2026-03-19T04:35:00+00:00,Australia,0.418354944578776,1,2,tr,EAU,Oceania
 '59b529f428',extremes,Thunderstorm,#53785a,random,dolu fırtınası,2026-03-28T04:33:00+00:00,,0.4144570309995969,1,2,tr,,
@@ -91,7 +91,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82d648b882',extremes,Drought,#edc291,random,kuraklık,2026-04-24T05:21:00+00:00,,0.3683831203024377,0,1,tr,,
 '4c40736a8b',extremes,Precipitation,#d60d2b,wmo,sağanak vardar bölgesi,2026-04-01T05:12:00+00:00,North Macedonia,0.3654197748185757,1,1,tr,MED,Europe
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,donma,2026-04-02T04:41:00+00:00,,0.3650288814147359,1,1,tr,,
-'10f476720b',extremes,Insect Infestation,#d60d2b,random,çekirge,2026-04-06T05:11:00+00:00,,0.3649805628813269,0,1,tr,,
 '62084daeb0',extremes,Earthquake,#870007,random,deprem,2026-04-11T04:34:00+00:00,,0.3647209667581304,0,1,tr,,
 '560b05d603',extremes,Heat Wave,#c40202,random,sıcak hava dalgası,2026-03-17T04:30:00+00:00,,0.3618269301237006,1,2,tr,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,orman yangını,2026-04-08T05:00:00+00:00,,0.3610782053814945,0,1,tr,,
@@ -133,7 +132,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,orman yangını,2026-04-18T04:56:00+00:00,,0.3170833250209666,0,1,tr,,
 '792a35d4a4',extremes,Flood,#030ba1,random,çoklu sel,2026-03-24T04:31:00+00:00,,0.3170813586317949,1,1,tr,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,en soğuk gün,2026-04-07T04:58:00+00:00,,0.3137094110459205,0,1,tr,,
-'1a89155ed1',extremes,Drought,#edc291,edo,yağmur eksikliği,2026-04-22T05:13:00+00:00,Sao Tome and Principe,0.3128478544108936,0,1,tr,WAF,Africa
+'10f476720b',extremes,Insect Infestation,#d60d2b,random,çekirge,2026-04-06T05:11:00+00:00,,0.31068352344912786,1,1,tr,,
 'd59a7e48d7',extremes,Drought,#edc291,random,buharlaşma-terleme,2026-04-16T05:16:00+00:00,,0.3093673195855034,1,1,tr,,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-04-07T04:58:00+00:00,,0.3088546559419947,1,1,tr,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,soğuk dalga,2026-04-15T05:11:00+00:00,,0.3082774465873569,0,1,tr,,
@@ -243,6 +242,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0c9a570bb1',extremes,Storm,#b3b2b1,aidr,kasırga murray nehri ilçeleri victoria 2013,2026-04-09T04:58:00+00:00,Australia,0.2665491190641109,1,1,tr,SAU,Oceania
 'b6c613d063',extremes,Drought,#edc291,acwe,Queensland'de yağmur eksikliği,2026-03-28T04:34:00+00:00,Australia,0.2659522622473567,1,1,tr,CAU,Oceania
 '39670c8999',extremes,Drought,#edc291,acwe,yağmur eksikliği güney avustralya,2026-03-25T04:34:00+00:00,Australia,0.2659410697525205,1,1,tr,CAU,Oceania
+'1a89155ed1',extremes,Drought,#edc291,edo,yağmur eksikliği,2026-04-22T05:13:00+00:00,Sao Tome and Principe,0.2659206762492595,1,1,tr,WAF,Africa
 '17a0d42ea4',extremes,Tropical Cyclone,#4f4f4f,eonet,tropikal siklon maila,2026-04-05T05:01:00+00:00,,0.2655550621629816,1,1,tr,EPO,Pacific Ocean
 'db9244a045',extremes,Drought,#edc291,acwe,kuraklık Victoria,2026-03-29T05:01:00+00:00,Australia,0.2655071098227428,1,1,tr,SAU,Oceania
 '7f426032e8',extremes,Drought,#edc291,edo,kuraklık butan,2026-03-29T05:00:00+00:00,Bhutan,0.2654553638887535,1,1,tr,TIB,Asia
