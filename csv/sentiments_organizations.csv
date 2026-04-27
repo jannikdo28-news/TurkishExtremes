@@ -1,244 +1,268 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Meteorology,Meteorology,ORG,0.10823637316561859,0.44392557651991643,en,52.99999999999994
-the General Directorate of Meteorology,the General Directorate of Meteorology,ORG,0.13675013118194954,0.5796233028335307,en,43.99999999999996
-AFAD,AFAD,ORG,0.07326890876419184,0.1774483378256965,en,42.39999999999996
-AKOM,AKOM,ORG,-0.03699551569506726,0.3840620328849028,en,22.3
-The General Directorate of Meteorology,The General Directorate of Meteorology,ORG,0.04630116190809832,0.5218441641852045,en,17.300000000000004
-Muğla,Muğla,ORG,0.030357142857142857,0.33074473975636753,en,17.200000000000003
-MGM,MGM,ORG,0.0853288317962231,0.4153674425413555,en,13.800000000000002
-CHP,CHP,ORG,0.06887958532695372,0.3234981392876129,en,11.400000000000004
-The Ministry of Internal Affairs,The Ministry of Internal Affairs,ORG,-0.05176388888888888,0.2427916666666666,en,10.000000000000002
+Meteorology,Meteorology,ORG,0.117194248135061,0.46345210051040475,en,56.59999999999994
+the General Directorate of Meteorology,the General Directorate of Meteorology,ORG,0.14474370658581207,0.5746307420649531,en,49.39999999999995
+AFAD,AFAD,ORG,0.0667718919318067,0.17907909432429708,en,46.899999999999956
+AKOM,AKOM,ORG,-0.0508298755186722,0.3968706777316736,en,24.099999999999998
+The General Directorate of Meteorology,The General Directorate of Meteorology,ORG,0.03265467171717173,0.5102493686868688,en,20.0
+Muğla,Muğla,ORG,0.02436716791979951,0.3672180451127819,en,19.0
+The Ministry of Internal Affairs,The Ministry of Internal Affairs,ORG,-0.019344315245478035,0.2980910852713178,en,17.200000000000003
+MGM,MGM,ORG,0.09711142032570604,0.4205490276918848,en,14.700000000000003
+the Ministry of Internal Affairs,the Ministry of Internal Affairs,ORG,0.018965517241379307,0.12452107279693482,en,14.500000000000004
+CHP,CHP,ORG,0.06436289120715347,0.30228514654744154,en,12.200000000000005
+- Anadolu Agency,- Anadolu Agency,ORG,0.0,0.0,en,12.200000000000003
+Education,Education,ORG,-0.04900793650793652,0.35654761904761906,en,10.5
+Erzurum,Erzurum,ORG,0.11531986531986534,0.42466329966329963,en,9.900000000000002
 AK Party,AK Party,ORG,-0.03380102040816326,0.05803571428571428,en,9.8
-Education,Education,ORG,-0.042811355311355326,0.37019230769230765,en,9.100000000000001
-the Ministry of Internal Affairs,the Ministry of Internal Affairs,ORG,0.02747252747252747,0.09951159951159949,en,9.100000000000001
-Erzurum,Erzurum,ORG,0.12685185185185188,0.4671296296296296,en,9.000000000000002
-General Directorate of Meteorology,General Directorate of Meteorology,ORG,0.0515873015873016,0.5188492063492063,en,8.4
-- Anadolu Agency,- Anadolu Agency,ORG,0.0,0.0,en,7.700000000000001
+General Directorate of Meteorology,General Directorate of Meteorology,ORG,0.07616487455197134,0.5439068100358423,en,9.3
 Galatasaray,Galatasaray,ORG,0.05841503267973857,0.604779411764706,en,6.800000000000001
 the Disaster and Emergency Management,the Disaster and Emergency Management,ORG,-0.0018601190476190482,0.15773809523809523,en,6.4
 EU,EU,ORG,0.12598112270243417,0.37394436164927963,en,6.1
+Bursa,Bursa,ORG,-0.05416666666666667,0.29583333333333334,en,6.0
 Erdoğan,Erdoğan,ORG,0.04464285714285714,0.059523809523809514,en,5.6000000000000005
 NATO,NATO,ORG,0.20121212121212118,0.24772727272727274,en,5.5
-Eastern,Eastern,ORG,0.007020202020202023,0.3114141414141414,en,5.5
 Kandilli Observatory,Kandilli Observatory,ORG,-0.003246753246753248,0.17835497835497835,en,5.5
-Kandilli,Kandilli,ORG,0.4347826086956522,0.5869565217391305,en,4.6
+Hakkari,Hakkari,ORG,0.04621212121212121,0.2856060606060606,en,5.5
+Şırnak,Şırnak,ORG,-0.07121212121212123,0.3136363636363636,en,5.5
+Eastern,Eastern,ORG,0.007020202020202023,0.3114141414141414,en,5.5
+Trump,Trump,ORG,0.039215686274509796,0.11029411764705883,en,5.1
 Kanal D's,Kanal D's,ORG,0.23089591567852438,0.46047430830039526,en,4.6
-Bursa,Bursa,ORG,-0.029761904761904767,0.30357142857142866,en,4.199999999999999
+Kandilli,Kandilli,ORG,0.4347826086956522,0.5869565217391305,en,4.6
 the European Union,the European Union,ORG,0.1154166666666667,0.25000000000000006,en,3.9999999999999996
 Trendyol Super League,Trendyol Super League,ORG,0.32894736842105265,0.7456140350877193,en,3.8
 the Super League,the Super League,ORG,0.4412280701754387,0.6820175438596493,en,3.7999999999999994
-Boğaziçi University Kandilli Observatory and Earthquake Research Institute,Boğaziçi University Kandilli Observatory and Earthquake Research Institute,ORG,-0.003217503217503219,0.27734877734877733,en,3.6999999999999997
 General Directorate of Meteorology MGM,General Directorate of Meteorology MGM,ORG,0.06756756756756759,0.4744744744744745,en,3.6999999999999997
 Siirt,Siirt,ORG,0.12121943371943374,0.44980694980694985,en,3.6999999999999997
-Trump,Trump,ORG,0.05405405405405404,0.15202702702702703,en,3.6999999999999997
 NASA,NASA,ORG,0.18085585585585587,0.34684684684684686,en,3.6999999999999997
+Mersin,Mersin,ORG,-0.0777027027027027,0.11824324324324326,en,3.6999999999999997
 Cold,Cold,ORG,-0.3783783783783784,0.7837837837837838,en,3.6999999999999997
+Boğaziçi University Kandilli Observatory and Earthquake Research Institute,Boğaziçi University Kandilli Observatory and Earthquake Research Institute,ORG,-0.003217503217503219,0.27734877734877733,en,3.6999999999999997
 Trabzonspor,Trabzonspor,ORG,0.29174603174603175,0.6015873015873014,en,3.5
-Şırnak,Şırnak,ORG,-0.05357142857142858,0.32142857142857145,en,2.8
-Mersin,Mersin,ORG,-0.10267857142857142,0.15625,en,2.8
-Shower,Shower,ORG,0.0,0.0,en,2.8
-Manisa,Manisa,ORG,-0.058035714285714295,0.5133928571428572,en,2.8
-Mersin's Mut,Mersin's Mut,ORG,-0.1607142857142857,0.3125,en,2.8
-BioShock,BioShock,ORG,0.19182900432900435,0.42018398268398277,en,2.8
-PKK,PKK,ORG,-0.10714285714285716,0.5357142857142857,en,2.8
-MHP,MHP,ORG,0.0,0.0,en,2.8
-Hakkari,Hakkari,ORG,-0.05208333333333333,0.09672619047619048,en,2.8
 Pentagon,Pentagon,ORG,-0.035714285714285705,0.11904761904761905,en,2.8
 Istanbul Metropolitan Municipality Disaster Coordination Center,Istanbul Metropolitan Municipality Disaster Coordination Center,ORG,-0.1130952380952381,0.29464285714285715,en,2.8
+PKK,PKK,ORG,-0.10714285714285716,0.5357142857142857,en,2.8
+MHP,MHP,ORG,0.0,0.0,en,2.8
+Manisa,Manisa,ORG,-0.058035714285714295,0.5133928571428572,en,2.8
+Shower,Shower,ORG,0.0,0.0,en,2.8
+Samsun,Samsun,ORG,-0.08482142857142858,0.1205357142857143,en,2.8
+Şanlıurfa,Şanlıurfa,ORG,-0.017857142857142863,0.37500000000000006,en,2.8
+Mersin's Mut,Mersin's Mut,ORG,-0.1607142857142857,0.3125,en,2.8
+Time,Time,ORG,0.0,0.0,en,2.8
+BioShock,BioShock,ORG,0.19182900432900435,0.42018398268398277,en,2.8
 the Trendyol Super League,the Trendyol Super League,ORG,0.08513374485596707,0.6797839506172838,en,2.7
-Özel,Özel,ORG,0.0,0.0,en,2.6
 Cemre,Cemre,ORG,0.0,0.0,en,2.6
+Özel,Özel,ORG,0.0,0.0,en,2.6
 Beşiktaş,Beşiktaş,ORG,0.6992929292929295,0.6272727272727274,en,2.4999999999999996
 Iğdır,Iğdır,ORG,0.0,0.0,en,2.4
-Şarkışla,Şarkışla,ORG,-0.631578947368421,0.5263157894736842,en,1.9
-CIA,CIA,ORG,-0.19537480063795853,0.27272727272727276,en,1.9
-Bahçeli,Bahçeli,ORG,0.2631578947368421,0.052631578947368425,en,1.9
-Keçiören,Keçiören,ORG,0.06578947368421052,0.2631578947368421,en,1.9
+Scorpions,Scorpions,ORG,0.5827067669172933,0.2819548872180451,en,1.9
+Sarıkamış,Sarıkamış,ORG,0.4210526315789474,0.34210526315789475,en,1.9
+Robert College,Robert College,ORG,-0.12280701754385966,0.16666666666666669,en,1.9
 Juventus,Juventus,ORG,0.368421052631579,0.12280701754385966,en,1.9
-Şanlıurfa,Şanlıurfa,ORG,-0.13157894736842105,0.2105263157894737,en,1.9
-NBA,NBA,ORG,-0.13815789473684212,0.09868421052631579,en,1.9
-Yellow,Yellow,ORG,0.0,0.0,en,1.9
+Fed,Fed,ORG,0.01644736842105263,0.23026315789473686,en,1.9
+Thrace,Thrace,ORG,-0.021929824561403508,0.026315789473684213,en,1.9
 YEDAŞ,YEDAŞ,ORG,0.0,0.0,en,1.9
-Erdogan,Erdogan,ORG,0.07177033492822966,0.0,en,1.9
-ITU,ITU,ORG,-0.052631578947368425,0.15789473684210525,en,1.9
-Hadise,Hadise,ORG,0.0,0.0,en,1.9
-the Çanakkale Wars Institute,the Çanakkale Wars Institute,ORG,0.0,0.2105263157894737,en,1.9
-Kandilli Observatory and Earthquake Research Institute,Kandilli Observatory and Earthquake Research Institute,ORG,0.0,0.0,en,1.9
-Time,Time,ORG,0.0,0.0,en,1.9
-the US Department of Defense,the US Department of Defense,ORG,-0.18421052631578946,0.0,en,1.9
-the Çanakkale Front,the Çanakkale Front,ORG,0.0,0.2105263157894737,en,1.9
 Department of Climate Science and Meteorology Engineering,Department of Climate Science and Meteorology Engineering,ORG,-0.052631578947368425,0.15789473684210525,en,1.9
+the Central Bank,the Central Bank,ORG,0.0,0.27631578947368424,en,1.9
+Darülaceze,Darülaceze,ORG,0.0,0.34210526315789475,en,1.9
+Hadise,Hadise,ORG,0.0,0.0,en,1.9
+NBA,NBA,ORG,-0.13815789473684212,0.09868421052631579,en,1.9
+Bahçeli,Bahçeli,ORG,0.2631578947368421,0.052631578947368425,en,1.9
+the Çanakkale Wars Institute,the Çanakkale Wars Institute,ORG,0.0,0.2105263157894737,en,1.9
+El Niño,El Niño,ORG,0.2646198830409357,0.29239766081871343,en,1.9
+Internal Affairs,Internal Affairs,ORG,0.0,0.0,en,1.9
+Erzincan,Erzincan,ORG,-0.19138755980861247,0.2631578947368421,en,1.9
 MMO,MMO,ORG,0.0,0.0,en,1.9
+Şarkışla,Şarkışla,ORG,-0.631578947368421,0.5263157894736842,en,1.9
 Trendyol 1st League,Trendyol 1st League,ORG,0.0,0.03508771929824561,en,1.9
 Hatay,Hatay,ORG,0.19595864661654136,0.3477443609022556,en,1.9
-Scorpions,Scorpions,ORG,0.5827067669172933,0.2819548872180451,en,1.9
-Robert College,Robert College,ORG,-0.12280701754385966,0.16666666666666669,en,1.9
-Erzincan,Erzincan,ORG,-0.19138755980861247,0.2631578947368421,en,1.9
-Sarıkamış,Sarıkamış,ORG,0.4210526315789474,0.34210526315789475,en,1.9
-El Niño,El Niño,ORG,0.2646198830409357,0.29239766081871343,en,1.9
-TUIK,TUIK,ORG,-0.06578947368421052,0.0,en,1.9
-Darülaceze,Darülaceze,ORG,0.0,0.34210526315789475,en,1.9
-Internal Affairs,Internal Affairs,ORG,0.0,0.0,en,1.9
-National Team,National Team,ORG,0.5508771929824562,0.15789473684210525,en,1.9
+Keçiören,Keçiören,ORG,0.06578947368421052,0.2631578947368421,en,1.9
 Parliament,Parliament,ORG,0.0,0.0,en,1.9
+IMM,IMM,ORG,-0.04276315789473684,0.5263157894736842,en,1.9
 the Minister of Environment,the Minister of Environment,ORG,0.0,0.0,en,1.9
-the Central Bank,the Central Bank,ORG,0.0,0.27631578947368424,en,1.9
-Thrace,Thrace,ORG,-0.021929824561403508,0.026315789473684213,en,1.9
+Erdogan,Erdogan,ORG,0.07177033492822966,0.0,en,1.9
 ITO,ITO,ORG,0.0,0.0,en,1.9
+ITU,ITU,ORG,-0.052631578947368425,0.15789473684210525,en,1.9
+Istanbul Metropolitan Municipality,Istanbul Metropolitan Municipality,ORG,-0.05701754385964913,0.2412280701754386,en,1.9
+CIA,CIA,ORG,-0.19537480063795853,0.27272727272727276,en,1.9
+the US Department of Defense,the US Department of Defense,ORG,-0.18421052631578946,0.0,en,1.9
+Kandilli Observatory and Earthquake Research Institute,Kandilli Observatory and Earthquake Research Institute,ORG,0.0,0.0,en,1.9
+the Çanakkale Front,the Çanakkale Front,ORG,0.0,0.2105263157894737,en,1.9
+National Team,National Team,ORG,0.5508771929824562,0.15789473684210525,en,1.9
+Yellow,Yellow,ORG,0.0,0.0,en,1.9
+Ministry,Ministry,ORG,0.0,0.0,en,1.9
+OYAK,OYAK,ORG,0.061403508771929835,0.2807017543859649,en,1.9
 GASKİ,GASKİ,ORG,0.0,0.0,en,1.9
-Fed,Fed,ORG,0.01644736842105263,0.23026315789473686,en,1.9
+Kastamonu,Kastamonu,ORG,-0.4078947368421053,0.5263157894736842,en,1.9
+Coastal Aegean,Coastal Aegean,ORG,-0.052631578947368425,0.2105263157894737,en,1.9
+TUIK,TUIK,ORG,-0.06578947368421052,0.0,en,1.9
+Volkswagen,Volkswagen,ORG,0.0,0.0,en,1.8
 Cemres,Cemres,ORG,0.0,0.0,en,1.8
-the Constitutional Court,the Constitutional Court,ORG,0.29411764705882354,0.0,en,1.7
-the Turkish Grand National Assembly,the Turkish Grand National Assembly,ORG,0.5882352941176471,0.5882352941176471,en,1.7
 Natura Dünyası Gençlerbirliği,Natura Dünyası Gençlerbirliği,ORG,-0.09803921568627452,0.49019607843137253,en,1.7
-Donut Lab,Donut Lab,ORG,0.0,0.07352941176470588,en,1.7
-KANGAL CIVIL COURT OF FIRST,KANGAL CIVIL COURT OF FIRST,ORG,0.29411764705882354,0.19607843137254902,en,1.7
+the Turkish Grand National Assembly,the Turkish Grand National Assembly,ORG,0.5882352941176471,0.5882352941176471,en,1.7
+El Nino,El Nino,ORG,0.12745098039215688,0.30882352941176466,en,1.7
 Kocaelispor,Kocaelispor,ORG,0.18627450980392157,0.0,en,1.7
-Hürriyet,Hürriyet,ORG,0.46153846153846156,0.0,en,1.3
+KANGAL CIVIL COURT OF FIRST,KANGAL CIVIL COURT OF FIRST,ORG,0.29411764705882354,0.19607843137254902,en,1.7
+the Constitutional Court,the Constitutional Court,ORG,0.29411764705882354,0.0,en,1.7
+Donut Lab,Donut Lab,ORG,0.0,0.07352941176470588,en,1.7
 European Union,European Union,ORG,0.038461538461538464,0.0,en,1.3
-Süleymanpaşa Municipality,Süleymanpaşa Municipality,ORG,0.1884920634920635,0.26223544973544977,en,1.2
+Hürriyet,Hürriyet,ORG,0.46153846153846156,0.0,en,1.3
 Samsung,Samsung,ORG,0.0,0.0,en,1.2
-Internal,Internal,ORG,0.12878787878787878,0.0,en,1.0
-Hôtel de Chambon,Hôtel de Chambon,ORG,0.5681818181818181,0.0,en,1.0
-Tangen,Tangen,ORG,0.5,0.0,en,1.0
-Norwegian Wealth Fund,Norwegian Wealth Fund,ORG,0.175,0.0,en,1.0
-Istanbul Technical University,Istanbul Technical University,ORG,-0.1,0.0,en,1.0
-the Norwegian Wealth Fund,the Norwegian Wealth Fund,ORG,0.0,0.0,en,1.0
-'Museum of Innocence','Museum of Innocence',ORG,0.0,0.0,en,1.0
-Tunçalp,Tunçalp,ORG,0.5,0.0,en,1.0
-Faculty of Aeronautics and Astronautics,Faculty of Aeronautics and Astronautics,ORG,-0.1,0.0,en,1.0
-Öztel,Öztel,ORG,0.1,0.0,en,1.0
-The New York Times,The New York Times,ORG,0.13636363636363635,0.0,en,1.0
-ORDU,ORDU,ORG,-0.2,0.0,en,1.0
-METEOROLOGY,METEOROLOGY,ORG,0.0,0.0,en,1.0
-Malatya,Malatya,ORG,0.0,0.0,en,1.0
-The Ministry of National Defense,The Ministry of National Defense,ORG,0.5,0.0,en,1.0
-Youth and Sports,Youth and Sports,ORG,0.4,0.0,en,1.0
-First Iftar,First Iftar,ORG,0.12878787878787878,0.0,en,1.0
-The Black and Whites,The Black and Whites,ORG,-0.002222222222222218,0.0,en,1.0
-HÜRJET,HÜRJET,ORG,0.0,0.0,en,1.0
-My New Home,My New Home,ORG,0.12878787878787878,0.0,en,1.0
+Süleymanpaşa Municipality,Süleymanpaşa Municipality,ORG,0.1884920634920635,0.26223544973544977,en,1.2
 Niğde,Niğde,ORG,0.10000000000000002,0.0,en,1.0
-Discoveries,Discoveries,ORG,-0.5,0.0,en,1.0
-Cabinet,Cabinet,ORG,0.06818181818181818,0.0,en,1.0
-LADWP,LADWP,ORG,-0.5,0.0,en,1.0
-GNAT Group Meeting,GNAT Group Meeting,ORG,0.0,0.0,en,1.0
-The European Mediterranean Seismological Center,The European Mediterranean Seismological Center,ORG,-0.05,0.0,en,1.0
-the Scientific Board,the Scientific Board,ORG,0.0,0.0,en,1.0
-EMSC,EMSC,ORG,-0.05,0.0,en,1.0
-Kalashnikov,Kalashnikov,ORG,-0.5,0.0,en,1.0
-MSB,MSB,ORG,0.5,0.0,en,1.0
-Netflix,Netflix,ORG,-0.08787878787878789,0.0,en,1.0
-Lufthansa,Lufthansa,ORG,-0.1125,0.0,en,1.0
-Lago,Lago,ORG,-0.3666666666666667,0.0,en,1.0
-Çetin,Çetin,ORG,0.0,0.0,en,1.0
-Casperlar,Casperlar,ORG,0.0,0.0,en,1.0
-The US Secret Service,The US Secret Service,ORG,-0.3666666666666667,0.0,en,1.0
-BEUN,BEUN,ORG,0.21428571428571427,0.0,en,1.0
-Leeds University,Leeds University,ORG,0.21428571428571427,0.0,en,1.0
-Muslera,Muslera,ORG,0.4375,0.0,en,1.0
-UEFA,UEFA,ORG,-0.1,0.0,en,1.0
-the UEFA Champions League,the UEFA Champions League,ORG,-0.1,0.0,en,1.0
-Gaziantep Football Club,Gaziantep Football Club,ORG,0.3333333333333333,0.0,en,1.0
-The Cabinet Meeting,The Cabinet Meeting,ORG,0.0,0.0,en,1.0
-Derya,Derya,ORG,0.0,0.0,en,1.0
-Veliaht,Veliaht,ORG,0.34545454545454546,0.0,en,1.0
-the Cabinet Meeting,the Cabinet Meeting,ORG,0.4,0.0,en,1.0
-EMAK,EMAK,ORG,0.0,0.0,en,1.0
-CES,CES,ORG,0.0,0.0,en,1.0
-the Mayan Civilization,the Mayan Civilization,ORG,0.0,0.0,en,1.0
-Izmir Ege University,Izmir Ege University,ORG,0.4,0.0,en,1.0
+the Scientific Committee,the Scientific Committee,ORG,0.0,0.0,en,1.0
+Namık Kemal University,Namık Kemal University,ORG,-0.04166666666666666,0.0,en,1.0
+The Black and Whites,The Black and Whites,ORG,-0.002222222222222218,0.0,en,1.0
+Goldman Sachs,Goldman Sachs,ORG,0.0,0.0,en,1.0
+Google Play Store,Google Play Store,ORG,0.0,0.0,en,1.0
+S26 Plus,S26 Plus,ORG,-0.5,0.0,en,1.0
 the Spanish National Team,the Spanish National Team,ORG,-0.002222222222222218,0.0,en,1.0
-Assoc,Assoc,ORG,0.0,0.0,en,1.0
+"Bingöl University Energy, Environment and Natural Disaster Application and Research Center","Bingöl University Energy, Environment and Natural Disaster Application and Research Center",ORG,0.0,0.0,en,1.0
+Discoveries,Discoveries,ORG,-0.5,0.0,en,1.0
+New Era in Play Store,New Era in Play Store,ORG,0.17045454545454544,0.0,en,1.0
+Öztel,Öztel,ORG,0.1,0.0,en,1.0
+Uludağ,Uludağ,ORG,0.0,0.0,en,1.0
+ORDU,ORDU,ORG,-0.2,0.0,en,1.0
+the Scientific Board,the Scientific Board,ORG,0.0,0.0,en,1.0
+Samsung Galaxy S26,Samsung Galaxy S26,ORG,-0.125,0.0,en,1.0
 Cyprus Ballad,Cyprus Ballad,ORG,0.0,0.0,en,1.0
+General Directorate of Meteorology Weather Forecast,General Directorate of Meteorology Weather Forecast,ORG,0.09318181818181819,0.0,en,1.0
+ANZ,ANZ,ORG,0.0,0.0,en,1.0
+EES,EES,ORG,0.13636363636363635,0.0,en,1.0
+Breaking Point,Breaking Point,ORG,0.0,0.0,en,1.0
+The 400-bed Training and Research Hospital,The 400-bed Training and Research Hospital,ORG,0.30714285714285716,0.0,en,1.0
+Icardi,Icardi,ORG,-0.15625,0.0,en,1.0
+Faculty of Aeronautics and Astronautics,Faculty of Aeronautics and Astronautics,ORG,-0.1,0.0,en,1.0
+BME,BME,ORG,0.3,0.0,en,1.0
+KGF,KGF,ORG,0.06818181818181818,0.0,en,1.0
+Ayaz,Ayaz,ORG,0.0,0.0,en,1.0
+National Men's Basketball Team,National Men's Basketball Team,ORG,-0.05,0.0,en,1.0
+Hôtel de Chambon,Hôtel de Chambon,ORG,0.5681818181818181,0.0,en,1.0
+GNAT Group Meeting,GNAT Group Meeting,ORG,0.0,0.0,en,1.0
+Istanbul Technical University,Istanbul Technical University,ORG,-0.1,0.0,en,1.0
+Kalashnikov,Kalashnikov,ORG,-0.5,0.0,en,1.0
+BEUN,BEUN,ORG,0.21428571428571427,0.0,en,1.0
+Casperlar,Casperlar,ORG,0.0,0.0,en,1.0
+the Eastern Black Sea,the Eastern Black Sea,ORG,-0.10416666666666666,0.0,en,1.0
+Çetin,Çetin,ORG,0.0,0.0,en,1.0
+Lufthansa,Lufthansa,ORG,-0.1125,0.0,en,1.0
+Netflix,Netflix,ORG,-0.08787878787878789,0.0,en,1.0
+CATL,CATL,ORG,0.13636363636363635,0.0,en,1.0
+EMSC,EMSC,ORG,-0.05,0.0,en,1.0
+Ministry of Internal Affairs,Ministry of Internal Affairs,ORG,0.0,0.0,en,1.0
+The European Mediterranean Seismological Center,The European Mediterranean Seismological Center,ORG,-0.05,0.0,en,1.0
+CES,CES,ORG,0.0,0.0,en,1.0
+Lago,Lago,ORG,-0.3666666666666667,0.0,en,1.0
+The US Secret Service,The US Secret Service,ORG,-0.3666666666666667,0.0,en,1.0
+Feed Exhibition,Feed Exhibition,ORG,0.0,0.0,en,1.0
+Gaziantep Football Club,Gaziantep Football Club,ORG,0.3333333333333333,0.0,en,1.0
+the Turkish Feed Manufacturers Association,the Turkish Feed Manufacturers Association,ORG,0.0,0.0,en,1.0
+Leeds University,Leeds University,ORG,0.21428571428571427,0.0,en,1.0
+The US Treasury Department,The US Treasury Department,ORG,0.0,0.0,en,1.0
+HÜRJET,HÜRJET,ORG,0.0,0.0,en,1.0
+"the ""Office Air""","the ""Office Air""",ORG,-0.4,0.0,en,1.0
+Sedat Altumdaş,Sedat Altumdaş,ORG,0.0,0.0,en,1.0
+YÜKSEL AYTUĞ / Selling,YÜKSEL AYTUĞ / Selling,ORG,0.0,0.0,en,1.0
+the Mayan Civilization,the Mayan Civilization,ORG,0.0,0.0,en,1.0
+Cabinet,Cabinet,ORG,0.06818181818181818,0.0,en,1.0
+the Cabinet Meeting,the Cabinet Meeting,ORG,0.4,0.0,en,1.0
+Finike,Finike,ORG,0.0,0.0,en,1.0
+Veliaht,Veliaht,ORG,0.34545454545454546,0.0,en,1.0
+"The ""Office Air Theory""","The ""Office Air Theory""",ORG,0.03333333333333333,0.0,en,1.0
+MRI,MRI,ORG,0.5,0.0,en,1.0
+Rize,Rize,ORG,0.42,0.0,en,1.0
+Derya,Derya,ORG,0.0,0.0,en,1.0
+The Cabinet Meeting,The Cabinet Meeting,ORG,0.0,0.0,en,1.0
+the Sicilian Autonomous Regional Government,the Sicilian Autonomous Regional Government,ORG,0.1,0.0,en,1.0
+the UEFA Champions League,the UEFA Champions League,ORG,-0.1,0.0,en,1.0
+UEFA,UEFA,ORG,-0.1,0.0,en,1.0
+Muslera,Muslera,ORG,0.4375,0.0,en,1.0
+Gaziantep Provincial Agriculture and Forestry,Gaziantep Provincial Agriculture and Forestry,ORG,0.0,0.0,en,1.0
+Hürriyet Super App,Hürriyet Super App,ORG,0.29166666666666663,0.0,en,1.0
+Iranian Revolutionary Guards,Iranian Revolutionary Guards,ORG,-0.2,0.0,en,1.0
+The General Directorate of METEOROLOGY,The General Directorate of METEOROLOGY,ORG,0.02500000000000001,0.0,en,1.0
+Bursa Governorship,Bursa Governorship,ORG,0.4333333333333333,0.0,en,1.0
+the Night of Power,the Night of Power,ORG,0.2261904761904762,0.0,en,1.0
+Eyüpspor,Eyüpspor,ORG,0.3333333333333333,0.0,en,1.0
+ERHAN AFYONCU /,ERHAN AFYONCU /,ORG,0.0,0.0,en,1.0
+Türkiye,Türkiye,ORG,-0.2318181818181818,0.0,en,1.0
+Generation Z,Generation Z,ORG,-0.17500000000000002,0.0,en,1.0
+AJet,AJet,ORG,0.0,0.0,en,1.0
+Yeni Şırnak Road,Yeni Şırnak Road,ORG,-0.2,0.0,en,1.0
+Yağcıoğlu,Yağcıoğlu,ORG,0.0,0.0,en,1.0
+Stuart Hill,Stuart Hill,ORG,0.1,0.0,en,1.0
+Sabiha Gökçen,Sabiha Gökçen,ORG,0.0,0.0,en,1.0
+kelle paca soup,kelle paca soup,ORG,0.2,0.0,en,1.0
+Izmir Ege University,Izmir Ege University,ORG,0.4,0.0,en,1.0
+Ramadan Feast,Ramadan Feast,ORG,0.3,0.0,en,1.0
+Ali Umut Usta,Ali Umut Usta,ORG,0.07083333333333333,0.0,en,1.0
+Productile,Productile,ORG,0.0,0.0,en,1.0
+Kocaelispor Technical,Kocaelispor Technical,ORG,0.0,0.0,en,1.0
+the International Court of Justice,the International Court of Justice,ORG,0.0,0.0,en,1.0
 ICJ,ICJ,ORG,0.0,0.0,en,1.0
+Tekke,Tekke,ORG,0.41666666666666663,0.0,en,1.0
 Our Turkish National Football Team,Our Turkish National Football Team,ORG,0.0,0.0,en,1.0
+Iron Dome,Iron Dome,ORG,0.0,0.0,en,1.0
+Everest Publications,Everest Publications,ORG,0.0,0.0,en,1.0
+PTWC,PTWC,ORG,0.016666666666666666,0.0,en,1.0
+the Pacific Tsunami Warning Center,the Pacific Tsunami Warning Center,ORG,0.016666666666666666,0.0,en,1.0
+giants,giants,ORG,0.0,0.0,en,1.0
 the World Women's Curling Championship,the World Women's Curling Championship,ORG,1.0,0.0,en,1.0
 Women's Curling National Team,Women's Curling National Team,ORG,0.0,0.0,en,1.0
+Coca-Cola,Coca-Cola,ORG,0.0,0.0,en,1.0
+Walmart,Walmart,ORG,0.0,0.0,en,1.0
+the National Team's,the National Team's,ORG,0.16666666666666666,0.0,en,1.0
 Manisa FK,Manisa FK,ORG,0.0,0.0,en,1.0
 Sivassspor,Sivassspor,ORG,0.0,0.0,en,1.0
 the Kabatepe-Gökçeada,the Kabatepe-Gökçeada,ORG,-0.125,0.0,en,1.0
 the Ministry of Internal Affairs and Meteorology,the Ministry of Internal Affairs and Meteorology,ORG,0.0,0.0,en,1.0
-Tekke,Tekke,ORG,0.41666666666666663,0.0,en,1.0
-the International Court of Justice,the International Court of Justice,ORG,0.0,0.0,en,1.0
-ERHAN AFYONCU /,ERHAN AFYONCU /,ORG,0.0,0.0,en,1.0
-Kocaelispor Technical,Kocaelispor Technical,ORG,0.0,0.0,en,1.0
-Bursa Governorship,Bursa Governorship,ORG,0.4333333333333333,0.0,en,1.0
-the Night of Power,the Night of Power,ORG,0.2261904761904762,0.0,en,1.0
-Eyüpspor,Eyüpspor,ORG,0.3333333333333333,0.0,en,1.0
-Türkiye,Türkiye,ORG,-0.2318181818181818,0.0,en,1.0
-Generation Z,Generation Z,ORG,-0.17500000000000002,0.0,en,1.0
-The General Directorate of METEOROLOGY,The General Directorate of METEOROLOGY,ORG,0.02500000000000001,0.0,en,1.0
-Stuart Hill,Stuart Hill,ORG,0.1,0.0,en,1.0
-the National Team's,the National Team's,ORG,0.16666666666666666,0.0,en,1.0
-kelle paca soup,kelle paca soup,ORG,0.2,0.0,en,1.0
-Breaking Point,Breaking Point,ORG,0.0,0.0,en,1.0
-Google Play Store,Google Play Store,ORG,0.0,0.0,en,1.0
-"The ""Office Air Theory""","The ""Office Air Theory""",ORG,0.03333333333333333,0.0,en,1.0
-"the ""Office Air""","the ""Office Air""",ORG,-0.4,0.0,en,1.0
-Finike,Finike,ORG,0.0,0.0,en,1.0
-Uludağ,Uludağ,ORG,0.0,0.0,en,1.0
-EES,EES,ORG,0.13636363636363635,0.0,en,1.0
-BME,BME,ORG,0.3,0.0,en,1.0
-The 400-bed Training and Research Hospital,The 400-bed Training and Research Hospital,ORG,0.30714285714285716,0.0,en,1.0
-General Directorate of Meteorology Weather Forecast,General Directorate of Meteorology Weather Forecast,ORG,0.09318181818181819,0.0,en,1.0
-New Era in Play Store,New Era in Play Store,ORG,0.17045454545454544,0.0,en,1.0
-The Israeli Parliament's,The Israeli Parliament's,ORG,0.275,0.0,en,1.0
-Atatürk Dam,Atatürk Dam,ORG,-0.125,0.0,en,1.0
-"Diyarbakır, Batman, Siirt","Diyarbakır, Batman, Siirt",ORG,-0.08125,0.0,en,1.0
-Devrim Erbil,Devrim Erbil,ORG,0.0,0.0,en,1.0
+Aslan,Aslan,ORG,0.0,0.0,en,1.0
+Fenerbahçe,Fenerbahçe,ORG,0.5,0.0,en,1.0
+Ziraat Turkish Cup Group A,Ziraat Turkish Cup Group A,ORG,0.2,0.0,en,1.0
 Telekom,Telekom,ORG,0.0,0.0,en,1.0
-Coastal Aegean,Coastal Aegean,ORG,0.0,0.0,en,1.0
-FIFA,FIFA,ORG,0.17222222222222222,0.0,en,1.0
-the Crescent-Star,the Crescent-Star,ORG,0.041666666666666664,0.0,en,1.0
-AKP,AKP,ORG,0.0,0.0,en,1.0
-Ali Umut Usta,Ali Umut Usta,ORG,0.07083333333333333,0.0,en,1.0
-Ramadan Feast,Ramadan Feast,ORG,0.3,0.0,en,1.0
-Yağcıoğlu,Yağcıoğlu,ORG,0.0,0.0,en,1.0
-Iranian Revolutionary Guards,Iranian Revolutionary Guards,ORG,-0.2,0.0,en,1.0
+AKUT,AKUT,ORG,0.0,0.0,en,1.0
+GEOMAR,GEOMAR,ORG,0.0,0.0,en,1.0
+the Mass Housing Administration,the Mass Housing Administration,ORG,0.03333333333333333,0.0,en,1.0
+Koçak,Koçak,ORG,0.3,0.0,en,1.0
+Beyaz,Beyaz,ORG,0.17045454545454544,0.0,en,1.0
 Tilly Norwood,Tilly Norwood,ORG,-0.04090909090909091,0.0,en,1.0
 Sarıçam Municipality Robotic Coding Team,Sarıçam Municipality Robotic Coding Team,ORG,0.19166666666666665,0.0,en,1.0
-TCG Anadolu,TCG Anadolu,ORG,0.0,0.0,en,1.0
+Assoc,Assoc,ORG,0.0,0.0,en,1.0
+TUNÇ DEMİRTAŞ / Narrative Front,TUNÇ DEMİRTAŞ / Narrative Front,ORG,0.0,0.0,en,1.0
+Devrim Erbil,Devrim Erbil,ORG,0.0,0.0,en,1.0
 Chamber of Environmental Engineers Antalya Branch Board,Chamber of Environmental Engineers Antalya Branch Board,ORG,0.0,0.0,en,1.0
+"Diyarbakır, Batman, Siirt","Diyarbakır, Batman, Siirt",ORG,-0.08125,0.0,en,1.0
 Agriculture -8.8%,Agriculture -8.8%,ORG,0.0,0.0,en,1.0
 Fidan,Fidan,ORG,0.0,0.0,en,1.0
+Atatürk Dam,Atatürk Dam,ORG,-0.125,0.0,en,1.0
 the ISTANBUL Children's Foundation,the ISTANBUL Children's Foundation,ORG,0.16,0.0,en,1.0
-Ziraat Turkish Cup Group A,Ziraat Turkish Cup Group A,ORG,0.2,0.0,en,1.0
-YÜKSEL AYTUĞ / Selling,YÜKSEL AYTUĞ / Selling,ORG,0.0,0.0,en,1.0
-Fenerbahçe,Fenerbahçe,ORG,0.5,0.0,en,1.0
-Gaziantep Provincial Agriculture and Forestry,Gaziantep Provincial Agriculture and Forestry,ORG,0.0,0.0,en,1.0
-the Scientific Committee,the Scientific Committee,ORG,0.0,0.0,en,1.0
-Samsun,Samsun,ORG,0.0,0.0,en,1.0
-Samsung Galaxy S26,Samsung Galaxy S26,ORG,-0.125,0.0,en,1.0
-S26 Plus,S26 Plus,ORG,-0.5,0.0,en,1.0
-National Men's Basketball Team,National Men's Basketball Team,ORG,-0.05,0.0,en,1.0
-Ayaz,Ayaz,ORG,0.0,0.0,en,1.0
-KGF,KGF,ORG,0.06818181818181818,0.0,en,1.0
-Beyaz,Beyaz,ORG,0.17045454545454544,0.0,en,1.0
-Koçak,Koçak,ORG,0.3,0.0,en,1.0
-the Mass Housing Administration,the Mass Housing Administration,ORG,0.03333333333333333,0.0,en,1.0
-GEOMAR,GEOMAR,ORG,0.0,0.0,en,1.0
-TUNÇ DEMİRTAŞ / Narrative Front,TUNÇ DEMİRTAŞ / Narrative Front,ORG,0.0,0.0,en,1.0
+Akbel,Akbel,ORG,0.5,0.0,en,1.0
+Istanbul University Faculty of Science Physics Department,Istanbul University Faculty of Science Physics Department,ORG,0.8,0.0,en,1.0
+FIFA,FIFA,ORG,0.17222222222222222,0.0,en,1.0
+Buldan,Buldan,ORG,0.0,0.0,en,1.0
+the Büyük Menderes River,the Büyük Menderes River,ORG,0.0,0.0,en,1.0
+the Istanbul Governorship,the Istanbul Governorship,ORG,0.0,0.0,en,1.0
 Tarhana soup,Tarhana soup,ORG,0.08,0.0,en,1.0
 Sivas Cumhuriyet University Faculty of Engineering,Sivas Cumhuriyet University Faculty of Engineering,ORG,0.0,0.0,en,1.0
+The Israeli Parliament's,The Israeli Parliament's,ORG,0.275,0.0,en,1.0
 Sivas Cumhuriyet University Faculty of,Sivas Cumhuriyet University Faculty of,ORG,-0.08333333333333331,0.0,en,1.0
 Ercan,Ercan,ORG,0.16666666666666666,0.0,en,1.0
 the International Energy Agency,the International Energy Agency,ORG,0.175,0.0,en,1.0
 COP31 Türkiye,COP31 Türkiye,ORG,0.175,0.0,en,1.0
 Super El Niño,Super El Niño,ORG,0.3833333333333333,0.0,en,1.0
-El Nino,El Nino,ORG,0.0,0.0,en,1.0
-Istanbul Metropolitan Municipality,Istanbul Metropolitan Municipality,ORG,0.0,0.0,en,1.0
+AKP,AKP,ORG,0.0,0.0,en,1.0
+the Crescent-Star,the Crescent-Star,ORG,0.041666666666666664,0.0,en,1.0
 Galatasaray-Liverpool,Galatasaray-Liverpool,ORG,0.0,0.0,en,1.0
 Samandağ,Samandağ,ORG,-0.5,0.0,en,1.0
 YENİÇAĞ,YENİÇAĞ,ORG,0.0,0.0,en,1.0
-Buldan,Buldan,ORG,0.0,0.0,en,1.0
-Istanbul University Faculty of Science Physics Department,Istanbul University Faculty of Science Physics Department,ORG,0.8,0.0,en,1.0
-Akbel,Akbel,ORG,0.5,0.0,en,1.0
-AKUT,AKUT,ORG,0.0,0.0,en,1.0
-the Ministry of National Defense,the Ministry of National Defense,ORG,0.0,0.0,en,1.0
-New Era,New Era,ORG,0.17045454545454544,0.0,en,1.0
-House,House,ORG,0.0,0.0,en,1.0
-Terror-Free Türkiye Commission',Terror-Free Türkiye Commission',ORG,0.0,0.0,en,1.0
+EMAK,EMAK,ORG,0.0,0.0,en,1.0
+Enez,Enez,ORG,0.0,0.0,en,1.0
+Tangen,Tangen,ORG,0.5,0.0,en,1.0
+Norwegian Wealth Fund,Norwegian Wealth Fund,ORG,0.175,0.0,en,1.0
+Capitol Building,Capitol Building,ORG,0.0625,0.0,en,1.0
+Congress,Congress,ORG,0.0,0.0,en,1.0
+the American Basketball League,the American Basketball League,ORG,-0.0625,0.0,en,1.0
+The National Weather Service,The National Weather Service,ORG,-0.4,0.0,en,1.0
+Orion,Orion,ORG,0.0,0.0,en,1.0
+Forensic Medicine,Forensic Medicine,ORG,-0.125,0.0,en,1.0
 the Al-Aqsa Martyrs' Memorial,the Al-Aqsa Martyrs' Memorial,ORG,-0.2833333333333333,0.0,en,1.0
 Sındırgı,Sındırgı,ORG,-0.3125,0.0,en,1.0
 Nature,Nature,ORG,0.0,0.0,en,1.0
@@ -252,43 +276,43 @@ the People's Alliance,the People's Alliance,ORG,0.0,0.0,en,1.0
 Rondo Energy,Rondo Energy,ORG,0.1,0.0,en,1.0
 Euro,Euro,ORG,0.0,0.0,en,1.0
 Kayaaslan,Kayaaslan,ORG,-0.1,0.0,en,1.0
-nest,nest,ORG,0.0,0.0,en,1.0
-the National Palaces Administration of the Presidency of,the National Palaces Administration of the Presidency of,ORG,0.3416666666666667,0.0,en,1.0
-the National Palaces Administration,the National Palaces Administration,ORG,0.0,0.0,en,1.0
-Muğla Water and Sewerage Administration,Muğla Water and Sewerage Administration,ORG,0.05000000000000002,0.0,en,1.0
-Forensic Medicine,Forensic Medicine,ORG,-0.125,0.0,en,1.0
-Orion,Orion,ORG,0.0,0.0,en,1.0
-The National Weather Service,The National Weather Service,ORG,-0.4,0.0,en,1.0
-SDF,SDF,ORG,-0.8,0.0,en,1.0
+FlightAware,FlightAware,ORG,0.5,0.0,en,1.0
+Snowstorm,Snowstorm,ORG,-0.3,0.0,en,1.0
+The US Navy's,The US Navy's,ORG,0.0,0.0,en,1.0
 Kandilli Observatory and Earthquake Research Institute and Disaster and Emergency Management,Kandilli Observatory and Earthquake Research Institute and Disaster and Emergency Management,ORG,0.0,0.0,en,1.0
+IMM) Disaster Affairs and Risk Management Department,IMM) Disaster Affairs and Risk Management Department,ORG,0.0,0.0,en,1.0
+Party,Party,ORG,0.0,0.0,en,1.0
+Christ,Christ,ORG,0.005555555555555554,0.0,en,1.0
+the Gallipoli Wars Institute,the Gallipoli Wars Institute,ORG,0.0,0.0,en,1.0
+Tarzan,Tarzan,ORG,-0.125,0.0,en,1.0
+Islamized,Islamized,ORG,0.11666666666666665,0.0,en,1.0
+Tutdere,Tutdere,ORG,0.0,0.0,en,1.0
+Beyoğlu Atlas Cinema,Beyoğlu Atlas Cinema,ORG,-0.16666666666666666,0.0,en,1.0
 the Organization of Turkic States,the Organization of Turkic States,ORG,0.3333333333333333,0.0,en,1.0
+CENTCOM,CENTCOM,ORG,0.0,0.0,en,1.0
 Monte Real,Monte Real,ORG,-0.07291666666666669,0.0,en,1.0
 TAYFUN,TAYFUN,ORG,0.05909090909090909,0.0,en,1.0
 Victory Party,Victory Party,ORG,0.0,0.0,en,1.0
 the Italian Civil Protection Agency,the Italian Civil Protection Agency,ORG,-0.056249999999999994,0.0,en,1.0
 The General Directorate of Meteorology of the Ministry of Environment,The General Directorate of Meteorology of the Ministry of Environment,ORG,0.05000000000000002,0.0,en,1.0
+SDF,SDF,ORG,-0.8,0.0,en,1.0
 SDG,SDG,ORG,0.3125,0.0,en,1.0
-the American Basketball League,the American Basketball League,ORG,-0.0625,0.0,en,1.0
 Aksu,Aksu,ORG,0.8,0.0,en,1.0
-CENTCOM,CENTCOM,ORG,0.0,0.0,en,1.0
-The US Navy's,The US Navy's,ORG,0.0,0.0,en,1.0
-Snowstorm,Snowstorm,ORG,-0.3,0.0,en,1.0
-FlightAware,FlightAware,ORG,0.5,0.0,en,1.0
-Capitol Building,Capitol Building,ORG,0.0625,0.0,en,1.0
-Congress,Congress,ORG,0.0,0.0,en,1.0
-the University of Hawaii,the University of Hawaii,ORG,-0.0625,0.0,en,1.0
-the National Taiwan University,the National Taiwan University,ORG,-0.0625,0.0,en,1.0
-Tunceli,Tunceli,ORG,0.0,0.0,en,1.0
-the Kashiwazaki-Kariwa Power Plant,the Kashiwazaki-Kariwa Power Plant,ORG,0.0,0.0,en,1.0
+nest,nest,ORG,0.0,0.0,en,1.0
+the National Palaces Administration of the Presidency of,the National Palaces Administration of the Presidency of,ORG,0.3416666666666667,0.0,en,1.0
+the National Palaces Administration,the National Palaces Administration,ORG,0.0,0.0,en,1.0
+Istanbul University,Istanbul University,ORG,0.14625,0.0,en,1.0
+ASKİ,ASKİ,ORG,0.0,0.0,en,1.0
+Gaziantep Water and Sewerage Administration,Gaziantep Water and Sewerage Administration,ORG,0.0,0.0,en,1.0
 TSMC,TSMC,ORG,0.0,0.0,en,1.0
 Cide-Bartın highway,Cide-Bartın highway,ORG,-0.1416666666666667,0.0,en,1.0
 Bartın-Cide,Bartın-Cide,ORG,-0.1,0.0,en,1.0
 Icelandic,Icelandic,ORG,-0.6,0.0,en,1.0
 SWOT,SWOT,ORG,0.2525,0.0,en,1.0
 Sapanca Municipality,Sapanca Municipality,ORG,0.11818181818181818,0.0,en,1.0
-Istanbul University,Istanbul University,ORG,0.14625,0.0,en,1.0
+the Kashiwazaki-Kariwa Power Plant,the Kashiwazaki-Kariwa Power Plant,ORG,0.0,0.0,en,1.0
+Coastal,Coastal,ORG,-0.08333333333333333,0.0,en,1.0
 IFRC,IFRC,ORG,-0.04,0.0,en,1.0
-ASKİ,ASKİ,ORG,0.0,0.0,en,1.0
 Red Crescent Societies,Red Crescent Societies,ORG,-0.04,0.0,en,1.0
 International Federation of Red Cross,International Federation of Red Cross,ORG,-0.04,0.0,en,1.0
 Red Cross,Red Cross,ORG,-0.19999999999999998,0.0,en,1.0
@@ -296,70 +320,86 @@ Eskişehir Osmangazi University Faculty of Architecture-Engineering Department o
 Eskişehir Osmangazi University,Eskişehir Osmangazi University,ORG,0.0,0.0,en,1.0
 "Batman, Mardin","Batman, Mardin",ORG,0.027083333333333345,0.0,en,1.0
 Bingöl,Bingöl,ORG,0.1277777777777778,0.0,en,1.0
-Gaziantep Water and Sewerage Administration,Gaziantep Water and Sewerage Administration,ORG,0.0,0.0,en,1.0
 Turkish Statistical Institute,Turkish Statistical Institute,ORG,0.0,0.0,en,1.0
+Obruk,Obruk,ORG,0.1,0.0,en,1.0
+Muğla Water and Sewerage Administration,Muğla Water and Sewerage Administration,ORG,0.05000000000000002,0.0,en,1.0
+7-year-old,7-year-old,ORG,-0.75,0.0,en,1.0
+the University of Hawaii,the University of Hawaii,ORG,-0.0625,0.0,en,1.0
+the National Taiwan University,the National Taiwan University,ORG,-0.0625,0.0,en,1.0
+Tunceli,Tunceli,ORG,0.0,0.0,en,1.0
 Bussed,Bussed,ORG,-0.1,0.0,en,1.0
-DSI,DSI,ORG,0.0,0.0,en,1.0
 the European Side,the European Side,ORG,0.009999999999999998,0.0,en,1.0
 Working Journalists' Day,Working Journalists' Day,ORG,0.0,0.0,en,1.0
 Tayfun Sports Club,Tayfun Sports Club,ORG,0.0,0.0,en,1.0
 MGSB,MGSB,ORG,0.0,0.0,en,1.0
-7-year-old,7-year-old,ORG,-0.75,0.0,en,1.0
 Real Racing,Real Racing,ORG,-0.058333333333333334,0.0,en,1.0
+Kızılırmak-Kesikköprü Transmission Line,Kızılırmak-Kesikköprü Transmission Line,ORG,-0.21250000000000002,0.0,en,1.0
 Medium Term Program,Medium Term Program,ORG,0.20208333333333334,0.0,en,1.0
+DSI,DSI,ORG,0.0,0.0,en,1.0
 the Tripartite Initiative,the Tripartite Initiative,ORG,-0.09090909090909091,0.0,en,1.0
-Coastal,Coastal,ORG,-0.08333333333333333,0.0,en,1.0
 the Board of Directors of TEMA Foundation,the Board of Directors of TEMA Foundation,ORG,0.7,0.0,en,1.0
 TEMA Foundation,TEMA Foundation,ORG,0.7,0.0,en,1.0
 Interior,Interior,ORG,0.0,0.0,en,1.0
 ABB,ABB,ORG,0.4,0.0,en,1.0
 Ankara Metropolitan Municipality,Ankara Metropolitan Municipality,ORG,-0.21250000000000002,0.0,en,1.0
-Kızılırmak-Kesikköprü Transmission Line,Kızılırmak-Kesikköprü Transmission Line,ORG,-0.21250000000000002,0.0,en,1.0
-Obruk,Obruk,ORG,0.1,0.0,en,1.0
-Beyoğlu Atlas Cinema,Beyoğlu Atlas Cinema,ORG,-0.16666666666666666,0.0,en,1.0
-Tutdere,Tutdere,ORG,0.0,0.0,en,1.0
-Islamized,Islamized,ORG,0.11666666666666665,0.0,en,1.0
-the AK Party Group Meeting,the AK Party Group Meeting,ORG,-0.2,0.0,en,1.0
+TEKİRDAĞ,TEKİRDAĞ,ORG,0.07314814814814814,0.0,en,1.0
+Boğaziçi University Kandilli Observatory Earthquake Research Institute,Boğaziçi University Kandilli Observatory Earthquake Research Institute,ORG,0.0,0.0,en,1.0
+Bitlis,Bitlis,ORG,-0.14166666666666666,0.0,en,1.0
+Beylikdüzü,Beylikdüzü,ORG,-0.125,0.0,en,1.0
+the Football Council,the Football Council,ORG,0.8,0.0,en,1.0
+Football Council,Football Council,ORG,0.0,0.0,en,1.0
+Bilecik,Bilecik,ORG,0.0,0.0,en,1.0
+Konya Provincial Directorate of Agriculture and Forestry,Konya Provincial Directorate of Agriculture and Forestry,ORG,0.4666666666666666,0.0,en,1.0
+Konya Agricultural Organization,Konya Agricultural Organization,ORG,0.0,0.0,en,1.0
+Regional Directorate of Meteorology,Regional Directorate of Meteorology,ORG,0.0,0.0,en,1.0
+HÜRRİYET,HÜRRİYET,ORG,0.0,0.0,en,1.0
+Beylikdüzü Adnan Kahveci District,Beylikdüzü Adnan Kahveci District,ORG,0.15416666666666665,0.0,en,1.0
+Gökçeada-Kabatepe,Gökçeada-Kabatepe,ORG,-0.125,0.0,en,1.0
+Artificial Intelligence,Artificial Intelligence,ORG,-0.75,0.0,en,1.0
+the Women's National Team,the Women's National Team,ORG,0.13333333333333333,0.0,en,1.0
+Dilber,Dilber,ORG,0.14999999999999997,0.0,en,1.0
+Pearl Grains,Pearl Grains,ORG,-0.4,0.0,en,1.0
+the Customs Union,the Customs Union,ORG,0.0,0.0,en,1.0
 Istanbul Chamber of Commerce,Istanbul Chamber of Commerce,ORG,0.0,0.0,en,1.0
 Isparta provinces,Isparta provinces,ORG,-0.26,0.0,en,1.0
 3D Printer Technology,3D Printer Technology,ORG,0.17045454545454544,0.0,en,1.0
-Gezi,Gezi,ORG,0.0,0.0,en,1.0
-SİVAS SPECIAL PROVINCIAL ADMINISTRATION,SİVAS SPECIAL PROVINCIAL ADMINISTRATION,ORG,-0.22142857142857145,0.0,en,1.0
-Court,Court,ORG,-0.22142857142857145,0.0,en,1.0
-Cerrahpaşa Hospital,Cerrahpaşa Hospital,ORG,0.6,0.0,en,1.0
-The Royal Council's,The Royal Council's,ORG,0.0,0.0,en,1.0
-Pearl Grains,Pearl Grains,ORG,-0.4,0.0,en,1.0
-Petro,Petro,ORG,-0.125,0.0,en,1.0
-Bad Bunny,Bad Bunny,ORG,0.17777777777777784,0.0,en,1.0
-The El Prix Winter Test,The El Prix Winter Test,ORG,0.0,0.0,en,1.0
-IMM,IMM,ORG,-0.08125,0.0,en,1.0
-Bektaş,Bektaş,ORG,0.16666666666666666,0.0,en,1.0
-Koita,Koita,ORG,0.0,0.0,en,1.0
-Canaries,Canaries,ORG,0.0,0.0,en,1.0
-the Customs Union,the Customs Union,ORG,0.0,0.0,en,1.0
-Dilber,Dilber,ORG,0.14999999999999997,0.0,en,1.0
-Anadolu Agency,Anadolu Agency,ORG,0.1,0.0,en,1.0
-Bilecik,Bilecik,ORG,0.0,0.0,en,1.0
-Milano-Cortina,Milano-Cortina,ORG,-0.125,0.0,en,1.0
-HSBC,HSBC,ORG,0.0,0.0,en,1.0
-ByteDance,ByteDance,ORG,-0.09090909090909091,0.0,en,1.0
-Artificial Intelligence,Artificial Intelligence,ORG,-0.75,0.0,en,1.0
+New Era,New Era,ORG,0.17045454545454544,0.0,en,1.0
 quantum,quantum,ORG,0.0,0.0,en,1.0
-the Football Council,the Football Council,ORG,0.8,0.0,en,1.0
-Football Council,Football Council,ORG,0.0,0.0,en,1.0
-Konya Provincial Directorate of Agriculture and Forestry,Konya Provincial Directorate of Agriculture and Forestry,ORG,0.4666666666666666,0.0,en,1.0
-the Women's National Team,the Women's National Team,ORG,0.13333333333333333,0.0,en,1.0
-Konya Agricultural Organization,Konya Agricultural Organization,ORG,0.0,0.0,en,1.0
-Regional Directorate of Meteorology,Regional Directorate of Meteorology,ORG,0.0,0.0,en,1.0
-Enez,Enez,ORG,0.0,0.0,en,1.0
-HÜRRİYET,HÜRRİYET,ORG,0.0,0.0,en,1.0
-Beylikdüzü Adnan Kahveci District,Beylikdüzü Adnan Kahveci District,ORG,0.15416666666666665,0.0,en,1.0
-Beylikdüzü,Beylikdüzü,ORG,-0.125,0.0,en,1.0
-Gökçeada-Kabatepe,Gökçeada-Kabatepe,ORG,-0.125,0.0,en,1.0
-the Project for the Improvement of the Agricultural Sector in,the Project for the Improvement of the Agricultural Sector in,ORG,0.0,0.0,en,1.0
-Haber7.com,Haber7.com,ORG,0.1,0.0,en,1.0
-Tarzan,Tarzan,ORG,-0.125,0.0,en,1.0
-İnönü University Hospital,İnönü University Hospital,ORG,0.0,0.0,en,1.0
+ByteDance,ByteDance,ORG,-0.09090909090909091,0.0,en,1.0
+SİVAS SPECIAL PROVINCIAL ADMINISTRATION,SİVAS SPECIAL PROVINCIAL ADMINISTRATION,ORG,-0.22142857142857145,0.0,en,1.0
+The New York Times,The New York Times,ORG,0.13636363636363635,0.0,en,1.0
+the Norwegian Wealth Fund,the Norwegian Wealth Fund,ORG,0.0,0.0,en,1.0
+'Museum of Innocence','Museum of Innocence',ORG,0.0,0.0,en,1.0
+METEOROLOGY,METEOROLOGY,ORG,0.0,0.0,en,1.0
+Malatya,Malatya,ORG,0.0,0.0,en,1.0
+Youth and Sports,Youth and Sports,ORG,0.4,0.0,en,1.0
+First Iftar,First Iftar,ORG,0.12878787878787878,0.0,en,1.0
+My New Home,My New Home,ORG,0.12878787878787878,0.0,en,1.0
+Internal,Internal,ORG,0.12878787878787878,0.0,en,1.0
+Tunçalp,Tunçalp,ORG,0.5,0.0,en,1.0
+HSBC,HSBC,ORG,0.0,0.0,en,1.0
+LADWP,LADWP,ORG,-0.5,0.0,en,1.0
+MSB,MSB,ORG,0.5,0.0,en,1.0
+The Ministry of National Defense,The Ministry of National Defense,ORG,0.5,0.0,en,1.0
+the Ministry of National Defense,the Ministry of National Defense,ORG,0.0,0.0,en,1.0
+TCG Anadolu,TCG Anadolu,ORG,0.0,0.0,en,1.0
+House,House,ORG,0.0,0.0,en,1.0
+Terror-Free Türkiye Commission',Terror-Free Türkiye Commission',ORG,0.0,0.0,en,1.0
+Milano-Cortina,Milano-Cortina,ORG,-0.125,0.0,en,1.0
+Gezi,Gezi,ORG,0.0,0.0,en,1.0
+Court,Court,ORG,-0.22142857142857145,0.0,en,1.0
+the Marmara Disaster Risk Reduction Department,the Marmara Disaster Risk Reduction Department,ORG,0.0,0.0,en,1.0
+the Egyptian Ministry of Defense,the Egyptian Ministry of Defense,ORG,0.225,0.0,en,1.0
+Izmir Dokuz Eylül University,Izmir Dokuz Eylül University,ORG,-0.058333333333333334,0.0,en,1.0
+Batman,Batman,ORG,0.0,0.0,en,1.0
+Isparta,Isparta,ORG,-0.08452380952380953,0.0,en,1.0
+Kocaeli University Faculty of Medicine,Kocaeli University Faculty of Medicine,ORG,0.225,0.0,en,1.0
+AFAD Marmara Disaster Risk Reduction Department,AFAD Marmara Disaster Risk Reduction Department,ORG,0.0,0.0,en,1.0
+Ziraat Turkish Cup Group C,Ziraat Turkish Cup Group C,ORG,0.31666666666666665,0.0,en,1.0
+Grand National Assembly,Grand National Assembly,ORG,0.18333333333333335,0.0,en,1.0
+The General Assembly,The General Assembly,ORG,0.18333333333333335,0.0,en,1.0
+TOLGA,TOLGA,ORG,0.0,0.0,en,1.0
+Selçuk-Aydın highway,Selçuk-Aydın highway,ORG,-0.1416666666666667,0.0,en,1.0
 Şerif,Şerif,ORG,0.0,0.0,en,1.0
 the Academy of Sciences,the Academy of Sciences,ORG,0.0,0.0,en,1.0
 the first party,the first party,ORG,0.25,0.0,en,1.0
@@ -367,33 +407,27 @@ Private,Private,ORG,0.0,0.0,en,1.0
 Gestaş,Gestaş,ORG,-0.125,0.0,en,1.0
 HATAYClick,HATAYClick,ORG,0.5,0.0,en,1.0
 YAVUZ DONAT / Live,YAVUZ DONAT / Live,ORG,0.11818181818181818,0.0,en,1.0
-the Marmara Disaster Risk Reduction Department,the Marmara Disaster Risk Reduction Department,ORG,0.0,0.0,en,1.0
-the Egyptian Ministry of Defense,the Egyptian Ministry of Defense,ORG,0.225,0.0,en,1.0
-Bitlis,Bitlis,ORG,-0.14166666666666666,0.0,en,1.0
-Boğaziçi University Kandilli Observatory Earthquake Research Institute,Boğaziçi University Kandilli Observatory Earthquake Research Institute,ORG,0.0,0.0,en,1.0
-TEKİRDAĞ,TEKİRDAĞ,ORG,0.07314814814814814,0.0,en,1.0
-IMM) Disaster Affairs and Risk Management Department,IMM) Disaster Affairs and Risk Management Department,ORG,0.0,0.0,en,1.0
-Party,Party,ORG,0.0,0.0,en,1.0
-Christ,Christ,ORG,0.005555555555555554,0.0,en,1.0
-the Gallipoli Wars Institute,the Gallipoli Wars Institute,ORG,0.0,0.0,en,1.0
-TOLGA,TOLGA,ORG,0.0,0.0,en,1.0
-The General Assembly,The General Assembly,ORG,0.18333333333333335,0.0,en,1.0
-AA,AA,ORG,0.0,0.0,en,1.0
+İnönü University Hospital,İnönü University Hospital,ORG,0.0,0.0,en,1.0
+DAUM,DAUM,ORG,-0.058333333333333334,0.0,en,1.0
 Marmaris Municipality Cleaning Works,Marmaris Municipality Cleaning Works,ORG,0.0,0.0,en,1.0
+Cerrahpaşa Hospital,Cerrahpaşa Hospital,ORG,0.6,0.0,en,1.0
+the Project for the Improvement of the Agricultural Sector in,the Project for the Improvement of the Agricultural Sector in,ORG,0.0,0.0,en,1.0
+the AK Party Group Meeting,the AK Party Group Meeting,ORG,-0.2,0.0,en,1.0
+The Royal Council's,The Royal Council's,ORG,0.0,0.0,en,1.0
+Petro,Petro,ORG,-0.125,0.0,en,1.0
+Bad Bunny,Bad Bunny,ORG,0.17777777777777784,0.0,en,1.0
+The El Prix Winter Test,The El Prix Winter Test,ORG,0.0,0.0,en,1.0
+Bektaş,Bektaş,ORG,0.16666666666666666,0.0,en,1.0
+Koita,Koita,ORG,0.0,0.0,en,1.0
+Canaries,Canaries,ORG,0.0,0.0,en,1.0
+Anadolu Agency,Anadolu Agency,ORG,0.1,0.0,en,1.0
+the State Theater,the State Theater,ORG,0.2125,0.0,en,1.0
+Haber7.com,Haber7.com,ORG,0.1,0.0,en,1.0
+AA,AA,ORG,0.0,0.0,en,1.0
 Digital,Digital,ORG,0.0,0.0,en,1.0
 Eastern Anatolia,Eastern Anatolia,ORG,-0.075,0.0,en,1.0
 SPI,SPI,ORG,0.0,0.0,en,1.0
 "ITU Faculty of Aeronautics and Astronautics,","ITU Faculty of Aeronautics and Astronautics,",ORG,0.0,0.0,en,1.0
 the Anti-Zionism Congress,the Anti-Zionism Congress,ORG,0.0,0.0,en,1.0
 Hatay Archeology Museum,Hatay Archeology Museum,ORG,0.0,0.0,en,1.0
-the State Theater,the State Theater,ORG,0.2125,0.0,en,1.0
-Selçuk-Aydın highway,Selçuk-Aydın highway,ORG,-0.1416666666666667,0.0,en,1.0
-Grand National Assembly,Grand National Assembly,ORG,0.18333333333333335,0.0,en,1.0
-DAUM,DAUM,ORG,-0.058333333333333334,0.0,en,1.0
-Izmir Dokuz Eylül University,Izmir Dokuz Eylül University,ORG,-0.058333333333333334,0.0,en,1.0
-Batman,Batman,ORG,0.0,0.0,en,1.0
-Isparta,Isparta,ORG,-0.08452380952380953,0.0,en,1.0
-Kocaeli University Faculty of Medicine,Kocaeli University Faculty of Medicine,ORG,0.225,0.0,en,1.0
-AFAD Marmara Disaster Risk Reduction Department,AFAD Marmara Disaster Risk Reduction Department,ORG,0.0,0.0,en,1.0
-Ziraat Turkish Cup Group C,Ziraat Turkish Cup Group C,ORG,0.31666666666666665,0.0,en,1.0
-Rize,Rize,ORG,0.42,0.0,en,1.0
+TÜRKİYEM,TÜRKİYEM,ORG,0.0,0.0,en,1.0

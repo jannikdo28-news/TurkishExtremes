@@ -1,519 +1,487 @@
 ,phrase,label,sentiment,subjectivity,language,count
-today,today,DATE,,,en,61.79999999999993
-Izmir,Izmir,NORP,-0.48152006172839507,3.39795524691358,en,38.99999999999997
-tomorrow,tomorrow,DATE,,,en,30.49999999999999
-3,3,CARDINAL,,,en,25.799999999999994
-2025,2025,DATE,,,en,22.899999999999995
+today,today,DATE,,,en,65.39999999999993
+Izmir,Izmir,NORP,-0.48152006172839507,3.39795524691358,en,39.89999999999997
+tomorrow,tomorrow,DATE,,,en,37.69999999999998
+3,3,CARDINAL,,,en,30.799999999999986
+one,one,CARDINAL,,,en,28.59999999999999
+7,7,CARDINAL,,,en,27.099999999999987
+2025,2025,DATE,,,en,23.799999999999994
 first,first,ORDINAL,,,en,22.199999999999996
+winter,winter,DATE,,,en,22.0
 5.1,5.1,CARDINAL,,,en,21.699999999999996
-one,one,CARDINAL,,,en,21.5
-winter,winter,DATE,,,en,21.1
+2,2,CARDINAL,,,en,21.5
 5,5,CARDINAL,,,en,20.499999999999996
+Turkish,Turkish,NORP,,,en,19.5
 4,4,CARDINAL,,,en,18.8
-Turkish,Turkish,NORP,,,en,18.6
-2,2,CARDINAL,,,en,17.900000000000006
-7,7,CARDINAL,,,en,17.200000000000003
+6,6,CARDINAL,,,en,17.5
+1,1,CARDINAL,,,en,16.7
 February 6,February 6,DATE,,,en,16.300000000000004
 the day,the day,DATE,,,en,16.1
-1,1,CARDINAL,,,en,14.899999999999999
+Last minute,Last minute,TIME,,,en,16.000000000000004
 11,11,CARDINAL,,,en,14.6
-Last minute,Last minute,TIME,,,en,13.300000000000002
-2026,2026,DATE,,,en,12.500000000000002
+2026,2026,DATE,,,en,14.300000000000002
+20,20,CARDINAL,,,en,13.900000000000004
+the weekend,the weekend,DATE,,,en,13.500000000000002
+7.4,7.4,CARDINAL,,,en,12.700000000000003
+April,April,DATE,,,en,12.600000000000003
 yesterday,yesterday,DATE,,,en,12.400000000000002
 8,8,CARDINAL,,,en,11.900000000000002
 4.5,4.5,CARDINAL,,,en,11.800000000000002
-April,April,DATE,,,en,11.700000000000003
-30,30,CARDINAL,,,en,10.900000000000002
+One,One,CARDINAL,,,en,11.800000000000002
+30,30,CARDINAL,,,en,11.800000000000002
+Thursday,Thursday,DATE,,,en,11.500000000000002
 the evening hours,the evening hours,TIME,,,en,10.8
 the morning hours,the morning hours,TIME,,,en,10.000000000000002
-Thursday,Thursday,DATE,,,en,9.700000000000001
-20,20,CARDINAL,,,en,9.400000000000002
+4.1,4.1,CARDINAL,,,en,10.000000000000002
+Winter,Winter,DATE,,,en,9.700000000000001
+9,9,CARDINAL,,,en,9.6
+Central Anatolia,Central Anatolia,NORP,0.0010120867919033068,0.30299985437600113,en,9.100000000000001
 49,49,CARDINAL,,,en,9.100000000000001
-4.1,4.1,CARDINAL,,,en,9.100000000000001
-Central Anatolia,Central Anatolia,NORP,0.0011031746031746044,0.3302698412698412,en,9.100000000000001
-the weekend,the weekend,DATE,,,en,9.0
 10,10,CARDINAL,,,en,8.8
-6,6,CARDINAL,,,en,8.5
-9,9,CARDINAL,,,en,8.200000000000001
-Winter,Winter,DATE,,,en,8.0
-Two,Two,CARDINAL,,,en,7.300000000000001
-this year,this year,DATE,,,en,7.300000000000001
-29,29,CARDINAL,,,en,7.300000000000001
+second,second,ORDINAL,,,en,8.5
+two,two,CARDINAL,,,en,8.5
+Two,Two,CARDINAL,,,en,8.200000000000001
+this year,this year,DATE,,,en,8.200000000000001
+31,31,CARDINAL,,,en,8.200000000000001
+3 days,3 days,DATE,,,en,8.100000000000001
+night,night,TIME,,,en,8.100000000000001
+millions,millions,CARDINAL,,,en,8.0
 7.1,7.1,CARDINAL,,,en,7.300000000000001
-night,night,TIME,,,en,7.200000000000001
+5 degrees,5 degrees,QUANTITY,,,en,7.300000000000001
+29,29,CARDINAL,,,en,7.300000000000001
+54,54,CARDINAL,,,en,7.300000000000001
+19,19,CARDINAL,,,en,7.300000000000001
+the week,the week,DATE,,,en,7.300000000000001
 39,39,DATE,,,en,7.000000000000001
+three,three,CARDINAL,,,en,6.900000000000001
 thousands,thousands,CARDINAL,,,en,6.6000000000000005
-the week,the week,DATE,,,en,6.4
+16,16,CARDINAL,,,en,6.500000000000001
 6.2,6.2,CARDINAL,,,en,6.4
-90 percent,90 percent,PERCENT,,,en,6.4
-19,19,CARDINAL,,,en,6.4
-31,31,CARDINAL,,,en,6.4
 Meteorology,Meteorology,PRODUCT,,,en,6.4
+90 percent,90 percent,PERCENT,,,en,6.4
 6.1,6.1,CARDINAL,,,en,6.4
-One,One,CARDINAL,,,en,6.4
+TODAY,TODAY,DATE,,,en,6.300000000000001
 European,European,NORP,,,en,6.300000000000001
-second,second,ORDINAL,,,en,6.3
-millions,millions,CARDINAL,,,en,6.2
-three,three,CARDINAL,,,en,6.000000000000001
+1 day,1 day,DATE,,,en,6.2
+Iranian,Iranian,NORP,,,en,6.199999999999999
 Today,Today,DATE,,,en,5.8
-two,two,CARDINAL,,,en,5.8
-Atatürk Dam,Atatürk Dam,FAC,,,en,5.5
-10 degrees,10 degrees,QUANTITY,,,en,5.5
-4.9,4.9,CARDINAL,,,en,5.5
-noon,noon,TIME,,,en,5.5
-54,54,CARDINAL,,,en,5.5
-15,15,CARDINAL,,,en,5.5
 5.5,5.5,CARDINAL,,,en,5.5
+4 degrees,4 degrees,QUANTITY,,,en,5.5
+4.9,4.9,CARDINAL,,,en,5.5
+13,13,CARDINAL,,,en,5.5
+10 degrees,10 degrees,QUANTITY,,,en,5.5
+15,15,CARDINAL,,,en,5.5
+Tekirdağ,Tekirdağ,NORP,0.42847222222222225,2.3048611111111112,en,5.5
+18,18,CARDINAL,,,en,5.5
+Atatürk Dam,Atatürk Dam,FAC,,,en,5.5
+the first half,the first half,DATE,,,en,5.5
+noon,noon,TIME,,,en,5.5
 last year,last year,DATE,,,en,5.5
-1 day,1 day,DATE,,,en,5.5
-Iranian,Iranian,NORP,,,en,5.499999999999999
 6 degrees,6 degrees,QUANTITY,,,en,5.4
+26,26,CARDINAL,,,en,5.4
 days,days,DATE,,,en,5.3
+Friday,Friday,DATE,,,en,5.1
 3 years,3 years,DATE,,,en,5.1
 Successive,Successive,CARDINAL,,,en,4.8999999999999995
 years,years,DATE,,,en,4.8
+this week,this week,DATE,,,en,4.7
 Israeli,Israeli,NORP,,,en,4.699999999999999
-the new week,the new week,DATE,,,en,4.6
+7.8,7.8,CARDINAL,,,en,4.6
 third,third,ORDINAL,,,en,4.6
-4 degrees,4 degrees,QUANTITY,,,en,4.6
-5 degrees,5 degrees,QUANTITY,,,en,4.6
 Monday,Monday,DATE,,,en,4.6
-Tekirdağ,Tekirdağ,NORP,0.4701388888888889,1.546527777777778,en,4.6
-13,13,CARDINAL,,,en,4.6
-the first half,the first half,DATE,,,en,4.6
-3 days,3 days,DATE,,,en,4.5
+4.2,4.2,CARDINAL,,,en,4.6
+hundreds,hundreds,CARDINAL,,,en,4.6
+a day,a day,DATE,,,en,4.6
+the new week,the new week,DATE,,,en,4.6
+42,42,CARDINAL,,,en,4.6
+Wednesday,Wednesday,DATE,,,en,4.5
 recent years,recent years,DATE,,,en,4.5
-TODAY,TODAY,DATE,,,en,4.5
 the evening,the evening,TIME,,,en,4.5
-Sunday,Sunday,DATE,,,en,4.4
+February,February,DATE,,,en,4.5
 14,14,CARDINAL,,,en,4.4
+Sunday,Sunday,DATE,,,en,4.4
+one day,one day,DATE,,,en,4.3
 this evening,this evening,TIME,,,en,4.0
-16,16,CARDINAL,,,en,3.8
-Western,Western,NORP,,,en,3.6999999999999997
-February,February,DATE,,,en,3.6999999999999997
-18,18,CARDINAL,,,en,3.6999999999999997
-more than 554 thousand,more than 554 thousand,CARDINAL,,,en,3.6999999999999997
-22,22,CARDINAL,,,en,3.6999999999999997
-10 centimeters,10 centimeters,QUANTITY,,,en,3.6999999999999997
-Daily,Daily,DATE,,,en,3.6999999999999997
-23,23,CARDINAL,,,en,3.6999999999999997
-the year,the year,DATE,,,en,3.6999999999999997
-151,151,CARDINAL,,,en,3.6999999999999997
 morning,morning,TIME,,,en,3.6999999999999997
+24,24,CARDINAL,,,en,3.6999999999999997
+Daily,Daily,DATE,,,en,3.6999999999999997
+Western,Western,NORP,,,en,3.6999999999999997
+half,half,CARDINAL,,,en,3.6999999999999997
+7.6,7.6,CARDINAL,,,en,3.6999999999999997
 2023,2023,DATE,,,en,3.6999999999999997
+7.5,7.5,CARDINAL,,,en,3.6999999999999997
+more than 554 thousand,more than 554 thousand,CARDINAL,,,en,3.6999999999999997
+3 meters,3 meters,QUANTITY,,,en,3.6999999999999997
+10 centimeters,10 centimeters,QUANTITY,,,en,3.6999999999999997
 3rd,3rd,ORDINAL,,,en,3.6999999999999997
-hundreds,hundreds,CARDINAL,,,en,3.6999999999999997
-26,26,CARDINAL,,,en,3.6
-Tuesday,Tuesday,DATE,,,en,3.6
+23,23,CARDINAL,,,en,3.6999999999999997
+151,151,CARDINAL,,,en,3.6999999999999997
+April 2,April 2,DATE,,,en,3.6999999999999997
+2019,2019,DATE,,,en,3.6999999999999997
+7.3,7.3,CARDINAL,,,en,3.6999999999999997
+22,22,CARDINAL,,,en,3.6999999999999997
+the year,the year,DATE,,,en,3.6999999999999997
 Ramadan,Ramadan,DATE,,,en,3.6
+Tuesday,Tuesday,DATE,,,en,3.6
+square meter,square meter,QUANTITY,,,en,3.6
 recent days,recent days,DATE,,,en,3.5999999999999996
-one day,one day,DATE,,,en,3.5999999999999996
-Wednesday,Wednesday,DATE,,,en,3.5999999999999996
+Chinese,Chinese,NORP,,,en,3.5999999999999996
 Eid,Eid,WORK_OF_ART,,,en,3.5
-this week,this week,DATE,,,en,2.9
-34,34,CARDINAL,,,en,2.8
-more than 5 thousand,more than 5 thousand,CARDINAL,,,en,2.8
-70 km per hour,70 km per hour,QUANTITY,,,en,2.8
-Palestinian,Palestinian,NORP,,,en,2.8
-4.4,4.4,CARDINAL,,,en,2.8
-the 90s,the 90s,DATE,,,en,2.8
-Eastern,Eastern,NORP,,,en,2.8
-last night,last night,TIME,,,en,2.8
-21,21,CARDINAL,,,en,2.8
-6.5,6.5,CARDINAL,,,en,2.8
-4.2,4.2,CARDINAL,,,en,2.8
-the coming days,the coming days,DATE,,,en,2.8
-Millions,Millions,CARDINAL,,,en,2.8
-hours,hours,TIME,,,en,2.8
-more than 40 million,more than 40 million,CARDINAL,,,en,2.8
-80 kilometers per hour,80 kilometers per hour,QUANTITY,,,en,2.8
-12,12,CARDINAL,,,en,2.8
-40 million,40 million,CARDINAL,,,en,2.8
-Saturday,Saturday,DATE,,,en,2.8
-hundreds of thousands,hundreds of thousands,CARDINAL,,,en,2.8
-half,half,CARDINAL,,,en,2.8
-seconds,seconds,TIME,,,en,2.8
-Chinese,Chinese,NORP,,,en,2.8
-Tens of thousands,Tens of thousands,CARDINAL,,,en,2.8
-"February 6, 2023","February 6, 2023",DATE,,,en,2.8
-24,24,CARDINAL,,,en,2.8
+17,17,CARDINAL,,,en,3.3
 the night,the night,TIME,,,en,2.8
-04.17,04.17,CARDINAL,,,en,2.8
-annual,annual,DATE,,,en,2.8
-50th,50th,ORDINAL,,,en,2.8
-more than 30,more than 30,CARDINAL,,,en,2.8
-the beginning of the week,the beginning of the week,DATE,,,en,2.8
-1st,1st,ORDINAL,,,en,2.8
+12,12,CARDINAL,,,en,2.8
+last night,last night,TIME,,,en,2.8
 the morning,the morning,TIME,,,en,2.8
-"Monday, December 29","Monday, December 29",DATE,,,en,2.8
-Anatolian,Anatolian,NORP,,,en,2.8
+80 kilometers per hour,80 kilometers per hour,QUANTITY,,,en,2.8
 Saudi Arabian,Saudi Arabian,NORP,,,en,2.8
+hours,hours,TIME,,,en,2.8
+the coming days,the coming days,DATE,,,en,2.8
+70 km per hour,70 km per hour,QUANTITY,,,en,2.8
+50th,50th,ORDINAL,,,en,2.8
+Eastern,Eastern,NORP,,,en,2.8
+21,21,CARDINAL,,,en,2.8
+4.4,4.4,CARDINAL,,,en,2.8
+34,34,CARDINAL,,,en,2.8
+04.17,04.17,CARDINAL,,,en,2.8
+Saturday,Saturday,DATE,,,en,2.8
+daily,daily,DATE,,,en,2.8
+more than 30,more than 30,CARDINAL,,,en,2.8
+40 million,40 million,CARDINAL,,,en,2.8
+6.5,6.5,CARDINAL,,,en,2.8
+the last 50 years,the last 50 years,DATE,,,en,2.8
 15 years,15 years,DATE,,,en,2.8
+Anatolian,Anatolian,NORP,,,en,2.8
+"Monday, December 29","Monday, December 29",DATE,,,en,2.8
+April 3,April 3,DATE,,,en,2.8
+Tens of thousands,Tens of thousands,CARDINAL,,,en,2.8
+the beginning of the week,the beginning of the week,DATE,,,en,2.8
+"February 6, 2023","February 6, 2023",DATE,,,en,2.8
+tonight,tonight,TIME,,,en,2.8
 the holiday,the holiday,DATE,,,en,2.8
+2004,2004,DATE,,,en,2.8
+annual,annual,DATE,,,en,2.8
+36,36,CARDINAL,,,en,2.8
+1st,1st,ORDINAL,,,en,2.8
+seconds,seconds,TIME,,,en,2.8
+hundreds of thousands,hundreds of thousands,CARDINAL,,,en,2.8
+more than 5 thousand,more than 5 thousand,CARDINAL,,,en,2.8
+Palestinian,Palestinian,NORP,,,en,2.8
+the 90s,the 90s,DATE,,,en,2.8
+more than 40 million,more than 40 million,CARDINAL,,,en,2.8
+Millions,Millions,CARDINAL,,,en,2.8
 2-4 degrees,2-4 degrees,QUANTITY,,,en,2.7
-square meter,square meter,QUANTITY,,,en,2.7
-80 percent,80 percent,PERCENT,,,en,2.7
 the winter season,the winter season,DATE,,,en,2.7
-Colombian,Colombian,NORP,,,en,2.6
+80 percent,80 percent,PERCENT,,,en,2.7
 February 18,February 18,DATE,,,en,2.6
+five,five,CARDINAL,,,en,2.6
 Seasonal,Seasonal,DATE,,,en,2.6
+Colombian,Colombian,NORP,,,en,2.6
 This year,This year,DATE,,,en,2.5
-Thousands,Thousands,CARDINAL,,,en,2.4
-the 26th week,the 26th week,DATE,,,en,2.4
 Romanian,Romanian,NORP,,,en,2.4
+the 26th week,the 26th week,DATE,,,en,2.4
+Türkiye,Türkiye,NORP,0.009687836383207743,0.01480086114101183,en,2.4
 the 27th week,the 27th week,DATE,,,en,2.4
+Thousands,Thousands,CARDINAL,,,en,2.4
 2011,2011,DATE,,,en,2.2
+2 thousand,2 thousand,CARDINAL,,,en,2.2
 A day,A day,DATE,,,en,2.2
-a day,a day,DATE,,,en,2.1
-Nearly 30 thousand,Nearly 30 thousand,CARDINAL,,,en,1.9
-the 1st anniversary,the 1st anniversary,DATE,,,en,1.9
-03.35,03.35,CARDINAL,,,en,1.9
-1000 meters,1000 meters,QUANTITY,,,en,1.9
-00.24,00.24,CARDINAL,,,en,1.9
 6 months,6 months,DATE,,,en,1.9
-2.3 billion,2.3 billion,CARDINAL,,,en,1.9
-evening,evening,TIME,,,en,1.9
-the February 6 earthquakes,the February 6 earthquakes,EVENT,,,en,1.9
-the second half,the second half,DATE,,,en,1.9
-90 kilometers,90 kilometers,QUANTITY,,,en,1.9
-3 meters,3 meters,QUANTITY,,,en,1.9
-Siberian,Siberian,NORP,,,en,1.9
-80 years,80 years,DATE,,,en,1.9
-09.41,09.41,CARDINAL,,,en,1.9
-30 thousand,30 thousand,CARDINAL,,,en,1.9
-17,17,CARDINAL,,,en,1.9
-the last 24 hours,the last 24 hours,TIME,,,en,1.9
-270 billion dollars,270 billion dollars,MONEY,,,en,1.9
-Milan Fashion Week,Milan Fashion Week,EVENT,,,en,1.9
-10 seconds,10 seconds,TIME,,,en,1.9
-February 12,February 12,DATE,,,en,1.9
-20 degrees,20 degrees,QUANTITY,,,en,1.9
-"June 24, 2026","June 24, 2026",DATE,,,en,1.9
-4.0,4.0,CARDINAL,,,en,1.9
-5.8,5.8,CARDINAL,,,en,1.9
-455 thousand,455 thousand,CARDINAL,,,en,1.9
+the middle of the week,the middle of the week,DATE,,,en,1.9
 Canadian,Canadian,NORP,,,en,1.9
-Last year,Last year,DATE,,,en,1.9
-50 degrees,50 degrees,QUANTITY,,,en,1.9
-Three years,Three years,DATE,,,en,1.9
-1 year,1 year,DATE,,,en,1.9
-20th,20th,ORDINAL,,,en,1.9
-a year,a year,DATE,,,en,1.9
-21 thousand,21 thousand,CARDINAL,,,en,1.9
-more than 19 thousand,more than 19 thousand,CARDINAL,,,en,1.9
-more than 1 million,more than 1 million,CARDINAL,,,en,1.9
-At least 26,At least 26,CARDINAL,,,en,1.9
-46,46,CARDINAL,,,en,1.9
-this date,this date,DATE,,,en,1.9
-200 thousand,200 thousand,CARDINAL,,,en,1.9
-2019,2019,DATE,,,en,1.9
-more than 10 thousand,more than 10 thousand,CARDINAL,,,en,1.9
-Asian,Asian,NORP,,,en,1.9
-South American,South American,NORP,,,en,1.9
-40 days,40 days,DATE,,,en,1.9
-60,60,CARDINAL,,,en,1.9
-08.35,08.35,CARDINAL,,,en,1.9
-the end of the week,the end of the week,DATE,,,en,1.9
-more than 800 thousand,more than 800 thousand,CARDINAL,,,en,1.9
-10 thousand liras,10 thousand liras,MONEY,,,en,1.9
-February 10,February 10,DATE,,,en,1.9
-up to 100 kilometers,up to 100 kilometers,QUANTITY,,,en,1.9
-one morning,one morning,TIME,,,en,1.9
-the century,the century,DATE,,,en,1.9
-Aegean,Aegean,NORP,-0.0005541346973572038,0.02540494458653029,en,1.9
-00.38,00.38,CARDINAL,,,en,1.9
-50.5 degrees,50.5 degrees,QUANTITY,,,en,1.9
-British,British,NORP,,,en,1.9
-18.11,18.11,CARDINAL,,,en,1.9
-Spanish,Spanish,NORP,,,en,1.9
+375,375,CARDINAL,,,en,1.9
+97 kilograms,97 kilograms,QUANTITY,,,en,1.9
 7 degrees,7 degrees,QUANTITY,,,en,1.9
-Van's,Van's,FAC,,,en,1.9
-last summer,last summer,DATE,,,en,1.9
-4.7,4.7,CARDINAL,,,en,1.9
-48.1 percent,48.1 percent,PERCENT,,,en,1.9
-36,36,CARDINAL,,,en,1.9
-daily,daily,DATE,,,en,1.9
-the last 50 years,the last 50 years,DATE,,,en,1.9
-48,48,CARDINAL,,,en,1.9
-The year 2025,The year 2025,DATE,,,en,1.9
-Friday,Friday,DATE,,,en,1.9
-many years,many years,DATE,,,en,1.9
-Batman,Batman,WORK_OF_ART,-0.4166666666666667,0.8596491228070176,en,1.9
-Munich Airport,Munich Airport,FAC,,,en,1.9
-500,500,CARDINAL,,,en,1.9
-27,27,CARDINAL,,,en,1.9
-"Wednesday, March 18","Wednesday, March 18",DATE,,,en,1.9
-the end of 2027,the end of 2027,DATE,,,en,1.9
-At least 4,At least 4,CARDINAL,,,en,1.9
-The year,The year,DATE,,,en,1.9
-centuries,centuries,DATE,,,en,1.9
-2024,2024,DATE,,,en,1.9
-93,93,CARDINAL,,,en,1.9
+the second half,the second half,DATE,,,en,1.9
+Nearly 30 thousand,Nearly 30 thousand,CARDINAL,,,en,1.9
+50 degrees,50 degrees,QUANTITY,,,en,1.9
+Sabiha Gökçen Airport,Sabiha Gökçen Airport,FAC,,,en,1.9
+more than 19 thousand,more than 19 thousand,CARDINAL,,,en,1.9
+30 thousand,30 thousand,CARDINAL,,,en,1.9
+more than 1 million,more than 1 million,CARDINAL,,,en,1.9
+60 kilometers,60 kilometers,QUANTITY,,,en,1.9
+the February 6 earthquakes,the February 6 earthquakes,EVENT,,,en,1.9
+5.8,5.8,CARDINAL,,,en,1.9
+Arab,Arab,NORP,,,en,1.9
+the last week of February,the last week of February,DATE,,,en,1.9
+27 thousand acres,27 thousand acres,QUANTITY,,,en,1.9
 4 days,4 days,DATE,,,en,1.9
-2028,2028,DATE,,,en,1.9
 mid-April,mid-April,DATE,,,en,1.9
-"Saturday, December 27","Saturday, December 27",DATE,,,en,1.9
+7.7,7.7,CARDINAL,,,en,1.9
 44,44,CARDINAL,,,en,1.9
 30 centimeters,30 centimeters,QUANTITY,,,en,1.9
-the last week of February,the last week of February,DATE,,,en,1.9
-38,38,CARDINAL,,,en,1.9
-42,42,CARDINAL,,,en,1.9
-70 years,70 years,DATE,,,en,1.9
-60 kilometers,60 kilometers,QUANTITY,,,en,1.9
-the middle of the week,the middle of the week,DATE,,,en,1.9
+93,93,CARDINAL,,,en,1.9
+evening,evening,TIME,,,en,1.9
+45,45,CARDINAL,,,en,1.9
+Thai,Thai,NORP,,,en,1.9
 Lake Van,Lake Van,FAC,,,en,1.9
-3 degrees,3 degrees,QUANTITY,,,en,1.9
+90 kilometers,90 kilometers,QUANTITY,,,en,1.9
+2050,2050,DATE,,,en,1.9
+the end of the week,the end of the week,DATE,,,en,1.9
+Last year,Last year,DATE,,,en,1.9
+50.5 degrees,50.5 degrees,QUANTITY,,,en,1.9
+5 days,5 days,DATE,,,en,1.9
 Palandöken Ski Center,Palandöken Ski Center,FAC,,,en,1.9
+Aegean,Aegean,NORP,-0.0004868913857677904,0.022322097378277176,en,1.9
 the last 20-30 years,the last 20-30 years,DATE,,,en,1.9
+60,60,CARDINAL,,,en,1.9
+Munich Airport,Munich Airport,FAC,,,en,1.9
 More than 5 thousand,More than 5 thousand,CARDINAL,,,en,1.9
-mid-March,mid-March,DATE,,,en,1.9
-6.4,6.4,CARDINAL,,,en,1.9
-march,march,DATE,,,en,1.9
-a week,a week,DATE,,,en,1.9
-their working hours,their working hours,TIME,,,en,1.9
-Serbian,Serbian,NORP,,,en,1.9
-day,day,DATE,,,en,1.9
-100,100,CARDINAL,,,en,1.9
-200,200,CARDINAL,,,en,1.9
-235 thousand,235 thousand,CARDINAL,,,en,1.9
-43,43,CARDINAL,,,en,1.9
-125,125,CARDINAL,,,en,1.9
-33,33,CARDINAL,,,en,1.9
+At least 26,At least 26,CARDINAL,,,en,1.9
 more than 100 million,more than 100 million,CARDINAL,,,en,1.9
-the New Year,the New Year,EVENT,,,en,1.8
-year,year,DATE,,,en,1.8
-8 degrees,8 degrees,QUANTITY,,,en,1.8
-only a few days,only a few days,DATE,,,en,1.8
-at least 4,at least 4,CARDINAL,,,en,1.8
-53 years,53 years,DATE,,,en,1.8
-February 27,February 27,DATE,,,en,1.8
-190 kilograms,190 kilograms,QUANTITY,,,en,1.8
+27,27,CARDINAL,,,en,1.9
+270 billion dollars,270 billion dollars,MONEY,,,en,1.9
+500,500,CARDINAL,,,en,1.9
+10 thousand liras,10 thousand liras,MONEY,,,en,1.9
+South American,South American,NORP,,,en,1.9
+one morning,one morning,TIME,,,en,1.9
+up to 100 kilometers,up to 100 kilometers,QUANTITY,,,en,1.9
+"June 24, 2026","June 24, 2026",DATE,,,en,1.9
+Serbian,Serbian,NORP,,,en,1.9
+two days,two days,DATE,,,en,1.9
+24 hours,24 hours,TIME,,,en,1.9
+Milan Fashion Week,Milan Fashion Week,EVENT,,,en,1.9
+the last 24 hours,the last 24 hours,TIME,,,en,1.9
+"Wednesday, March 18","Wednesday, March 18",DATE,,,en,1.9
+a week,a week,DATE,,,en,1.9
+the 1st anniversary,the 1st anniversary,DATE,,,en,1.9
+Asian,Asian,NORP,,,en,1.9
+200,200,CARDINAL,,,en,1.9
+40 days,40 days,DATE,,,en,1.9
+a year,a year,DATE,,,en,1.9
+2.3 billion,2.3 billion,CARDINAL,,,en,1.9
+46,46,CARDINAL,,,en,1.9
+7 years,7 years,DATE,,,en,1.9
+At least 4,At least 4,CARDINAL,,,en,1.9
+200 thousand,200 thousand,CARDINAL,,,en,1.9
+February 12,February 12,DATE,,,en,1.9
+2 days,2 days,DATE,,,en,1.9
+1 year,1 year,DATE,,,en,1.9
+mid-March,mid-March,DATE,,,en,1.9
+Three years,Three years,DATE,,,en,1.9
+their working hours,their working hours,TIME,,,en,1.9
+this date,this date,DATE,,,en,1.9
+the century,the century,DATE,,,en,1.9
+125,125,CARDINAL,,,en,1.9
+march,march,DATE,,,en,1.9
+20th,20th,ORDINAL,,,en,1.9
+80 years,80 years,DATE,,,en,1.9
+this morning,this morning,TIME,,,en,1.9
+Batman,Batman,WORK_OF_ART,-0.4166666666666667,0.8596491228070176,en,1.9
+2028,2028,DATE,,,en,1.9
+09.41,09.41,CARDINAL,,,en,1.9
+4.0,4.0,CARDINAL,,,en,1.9
+10 seconds,10 seconds,TIME,,,en,1.9
+February 10,February 10,DATE,,,en,1.9
+25 percent,25 percent,PERCENT,,,en,1.9
+21 thousand,21 thousand,CARDINAL,,,en,1.9
+08.35,08.35,CARDINAL,,,en,1.9
+00.38,00.38,CARDINAL,,,en,1.9
+1000 meters,1000 meters,QUANTITY,,,en,1.9
+03.35,03.35,CARDINAL,,,en,1.9
+20 degrees,20 degrees,QUANTITY,,,en,1.9
+more than 10 thousand,more than 10 thousand,CARDINAL,,,en,1.9
+last summer,last summer,DATE,,,en,1.9
+48.1 percent,48.1 percent,PERCENT,,,en,1.9
+6.4,6.4,CARDINAL,,,en,1.9
+First,First,ORDINAL,,,en,1.9
+Spanish,Spanish,NORP,,,en,1.9
+48,48,CARDINAL,,,en,1.9
+many years,many years,DATE,,,en,1.9
+the end of 2027,the end of 2027,DATE,,,en,1.9
+centuries,centuries,DATE,,,en,1.9
+455 thousand,455 thousand,CARDINAL,,,en,1.9
+100,100,CARDINAL,,,en,1.9
+43,43,CARDINAL,,,en,1.9
+33,33,CARDINAL,,,en,1.9
+British,British,NORP,,,en,1.9
+day,day,DATE,,,en,1.9
+235 thousand,235 thousand,CARDINAL,,,en,1.9
+18.11,18.11,CARDINAL,,,en,1.9
+Siberian,Siberian,NORP,,,en,1.9
+4.7,4.7,CARDINAL,,,en,1.9
+00.24,00.24,CARDINAL,,,en,1.9
+The year,The year,DATE,,,en,1.9
+38,38,CARDINAL,,,en,1.9
+Van's,Van's,FAC,,,en,1.9
+3 degrees,3 degrees,QUANTITY,,,en,1.9
+The year 2025,The year 2025,DATE,,,en,1.9
+"Saturday, December 27","Saturday, December 27",DATE,,,en,1.9
+more than 800 thousand,more than 800 thousand,CARDINAL,,,en,1.9
+70 years,70 years,DATE,,,en,1.9
+2024,2024,DATE,,,en,1.9
 weekly,weekly,DATE,,,en,1.8
-"Friday, February 27","Friday, February 27",DATE,,,en,1.8
-the same day,the same day,DATE,,,en,1.8
+March,March,DATE,,,en,1.8
+53 years,53 years,DATE,,,en,1.8
+190 kilograms,190 kilograms,QUANTITY,,,en,1.8
+20 percent,20 percent,PERCENT,,,en,1.8
+8 degrees,8 degrees,QUANTITY,,,en,1.8
+February 2026,February 2026,DATE,,,en,1.8
+50 years later,50 years later,DATE,,,en,1.8
+10 years,10 years,DATE,,,en,1.8
+at least 4,at least 4,CARDINAL,,,en,1.8
 the night hours,the night hours,TIME,,,en,1.8
+Iran War,Iran War,EVENT,,,en,1.8
+year,year,DATE,,,en,1.8
+the same day,the same day,DATE,,,en,1.8
+the New Year,the New Year,EVENT,,,en,1.8
+"Friday, February 27","Friday, February 27",DATE,,,en,1.8
+January,January,DATE,,,en,1.8
+February 27,February 27,DATE,,,en,1.8
 1.47 degrees,1.47 degrees,QUANTITY,,,en,1.8
-February 14,February 14,DATE,,,en,1.7
-Greek,Greek,NORP,,,en,1.7
-the last minute,the last minute,TIME,,,en,1.7
-the 3rd week,the 3rd week,DATE,,,en,1.7
-Bulgarian,Bulgarian,NORP,,,en,1.7
+only a few days,only a few days,DATE,,,en,1.8
 146,146,CARDINAL,,,en,1.7
-Santorini,Santorini,NORP,0.0,0.4,en,1.7
 4th,4th,ORDINAL,,,en,1.7
 11s,11s,CARDINAL,,,en,1.7
+Bulgarian,Bulgarian,NORP,,,en,1.7
+Santorini,Santorini,NORP,0.0,0.4,en,1.7
 "February 27, 2026","February 27, 2026",DATE,,,en,1.7
+February 14,February 14,DATE,,,en,1.7
+the 3rd week,the 3rd week,DATE,,,en,1.7
+the last minute,the last minute,TIME,,,en,1.7
+6 days,6 days,DATE,,,en,1.7
+Greek,Greek,NORP,,,en,1.7
 Hagia Sophia Mosque,Hagia Sophia Mosque,FAC,,,en,1.6
-Hungarian,Hungarian,NORP,,,en,1.3
-the end of January,the end of January,DATE,,,en,1.3
-2 thousand,2 thousand,CARDINAL,,,en,1.3
-the first 100 hours,the first 100 hours,TIME,,,en,1.3
 52,52,DATE,,,en,1.3
+the end of January,the end of January,DATE,,,en,1.3
+the first 100 hours,the first 100 hours,TIME,,,en,1.3
+40,40,CARDINAL,,,en,1.3
+Hungarian,Hungarian,NORP,,,en,1.3
 7 years ago,7 years ago,DATE,,,en,1.3
+Blue Mosque,Blue Mosque,FAC,,,en,1.3
+April 18,April 18,DATE,,,en,1.3
 the European Championship,the European Championship,EVENT,,,en,1.3
 Sultanahmet Mosque,Sultanahmet Mosque,FAC,,,en,1.3
-April 18,April 18,DATE,,,en,1.3
-40,40,CARDINAL,,,en,1.3
-Blue Mosque,Blue Mosque,FAC,,,en,1.3
+Galaxy S26,Galaxy S26,PRODUCT,,,en,1.2
 more than 11 thousand,more than 11 thousand,CARDINAL,,,en,1.2
 January 23,January 23,DATE,,,en,1.2
-Galaxy S26,Galaxy S26,PRODUCT,,,en,1.2
-cold days,cold days,DATE,,,en,1.0
-The Crown,The Crown,WORK_OF_ART,,,en,1.0
-7 thousand,7 thousand,CARDINAL,,,en,1.0
-1.5 trillion dollar,1.5 trillion dollar,MONEY,,,en,1.0
-"the ""Doomsday Warehouse""","the ""Doomsday Warehouse""",WORK_OF_ART,,,en,1.0
-the last two months,the last two months,DATE,,,en,1.0
-'Museum of Innocence','Museum of Innocence',WORK_OF_ART,,,en,1.0
-next season,next season,DATE,,,en,1.0
-This week,This week,DATE,,,en,1.0
-16 March 2026,16 March 2026,DATE,,,en,1.0
-between 23 February,between 23 February,DATE,,,en,1.0
-January,January,DATE,,,en,1.0
-60 centimeters,60 centimeters,QUANTITY,,,en,1.0
-"February 24, 2004","February 24, 2004",DATE,,,en,1.0
-Six,Six,CARDINAL,,,en,1.0
-İzmir,İzmir,NORP,0.0,0.0,en,1.0
-"approximately 1,200 years ago","approximately 1,200 years ago",DATE,,,en,1.0
-110 centimeters,110 centimeters,QUANTITY,,,en,1.0
-2004,2004,DATE,,,en,1.0
-400 billion dollars,400 billion dollars,MONEY,,,en,1.0
-47,47,DATE,,,en,1.0
-600 thousand,600 thousand,CARDINAL,,,en,1.0
-400 billion dollar,400 billion dollar,MONEY,,,en,1.0
-"Saturday, February 28","Saturday, February 28",DATE,,,en,1.0
-fashion week,fashion week,DATE,,,en,1.0
-06.43,06.43,CARDINAL,,,en,1.0
-50 percent,50 percent,PERCENT,,,en,1.0
-4-6 degrees,4-6 degrees,QUANTITY,,,en,1.0
-Yedisu Fault,Yedisu Fault,WORK_OF_ART,,,en,1.0
-this morning,this morning,TIME,,,en,1.0
-"Sunday, February 22, 2026","Sunday, February 22, 2026",DATE,,,en,1.0
-Oscar,Oscar,WORK_OF_ART,,,en,1.0
-ten,ten,CARDINAL,,,en,1.0
-the end of the winter season,the end of the winter season,DATE,,,en,1.0
-February 22-26,February 22-26,DATE,,,en,1.0
-162.5 mm,162.5 mm,QUANTITY,,,en,1.0
-thousands of acres,thousands of acres,QUANTITY,,,en,1.0
-more than 1.3 million,more than 1.3 million,CARDINAL,,,en,1.0
-Netflix,Netflix,WORK_OF_ART,,,en,1.0
-27 million Euros,27 million Euros,MONEY,,,en,1.0
-8 thousand hours,8 thousand hours,TIME,,,en,1.0
-Years later,Years later,DATE,,,en,1.0
-62 kilometers,62 kilometers,QUANTITY,,,en,1.0
-145 km,145 km,QUANTITY,,,en,1.0
-Atatürk Park,Atatürk Park,FAC,,,en,1.0
-86,86,CARDINAL,,,en,1.0
-"1,800 square meter","1,800 square meter",QUANTITY,,,en,1.0
-11 years,11 years,DATE,,,en,1.0
-the 1950s,the 1950s,DATE,,,en,1.0
-61,61,DATE,,,en,1.0
-summer days,summer days,DATE,,,en,1.0
-February 23,February 23,DATE,,,en,1.0
-UNICEF Child Rights Defender,UNICEF Child Rights Defender,LAW,,,en,1.0
-82 million,82 million,CARDINAL,,,en,1.0
-"Nearly 9,000","Nearly 9,000",CARDINAL,,,en,1.0
-300 meters,300 meters,QUANTITY,,,en,1.0
-February 26,February 26,DATE,,,en,1.0
-26 February,26 February,DATE,,,en,1.0
-2012,2012,DATE,,,en,1.0
-approximately 9 thousand,approximately 9 thousand,CARDINAL,,,en,1.0
-under 5 years old,under 5 years old,DATE,,,en,1.0
-last 16,last 16,DATE,,,en,1.0
-10 thousand,10 thousand,CARDINAL,,,en,1.0
-50 million Euros,50 million Euros,MONEY,,,en,1.0
-approximately 6.5 million,approximately 6.5 million,CARDINAL,,,en,1.0
-6.5 million,6.5 million,CARDINAL,,,en,1.0
-late at night,late at night,TIME,,,en,1.0
-summer,summer,DATE,,,en,1.0
-approximately 20 hours,approximately 20 hours,TIME,,,en,1.0
-Algerian,Algerian,NORP,,,en,1.0
-4 hours,4 hours,TIME,,,en,1.0
-Days of Ash,Days of Ash,WORK_OF_ART,,,en,1.0
-4 hours',4 hours',TIME,,,en,1.0
-"Sunday, February 22","Sunday, February 22",DATE,,,en,1.0
-up to 70 percent,up to 70 percent,PERCENT,,,en,1.0
-Balkans,Balkans,NORP,0.0,0.0,en,1.0
-2 thousand meters,2 thousand meters,QUANTITY,,,en,1.0
-Around 3.5,Around 3.5,CARDINAL,,,en,1.0
-60 percent,60 percent,PERCENT,,,en,1.0
-the beginning of the winter months,the beginning of the winter months,DATE,,,en,1.0
-3.7%,3.7%,PERCENT,,,en,1.0
-summer evening,summer evening,TIME,,,en,1.0
-U2,U2,CARDINAL,,,en,1.0
-winter of the year',winter of the year',DATE,,,en,1.0
-"February 18, 2026","February 18, 2026",DATE,,,en,1.0
-Approximately 300 meters,Approximately 300 meters,QUANTITY,,,en,1.0
-the next 10 years,the next 10 years,DATE,,,en,1.0
-below 5 degrees,below 5 degrees,QUANTITY,,,en,1.0
-two-year,two-year,DATE,,,en,1.0
-more than 300 billion dollars,more than 300 billion dollars,MONEY,,,en,1.0
-Irish,Irish,NORP,,,en,1.0
-Mayan,Mayan,NORP,,,en,1.0
-poles,poles,NORP,,,en,1.0
-the 23rd week,the 23rd week,DATE,,,en,1.0
-Mar-a,Mar-a,DATE,,,en,1.0
-50 million,50 million,CARDINAL,,,en,1.0
-"Kahramanmaraş, Mersin","Kahramanmaraş, Mersin",LAW,,,en,1.0
-approximately 300 meters,approximately 300 meters,QUANTITY,,,en,1.0
-the first three quarters,the first three quarters,DATE,,,en,1.0
+minus 47 degrees,minus 47 degrees,QUANTITY,,,en,1.0
+eight-year-old,eight-year-old,DATE,,,en,1.0
+3.6,3.6,CARDINAL,,,en,1.0
 G1,G1,PRODUCT,,,en,1.0
-82,82,CARDINAL,,,en,1.0
-those hours,those hours,TIME,,,en,1.0
-Baghdad Embassy,Baghdad Embassy,FAC,,,en,1.0
-One morning,One morning,TIME,,,en,1.0
-20 years,20 years,DATE,,,en,1.0
-10 thousand dollar,10 thousand dollar,MONEY,,,en,1.0
-approximately 10 meters,approximately 10 meters,QUANTITY,,,en,1.0
-March,March,DATE,,,en,1.0
-912,912,CARDINAL,,,en,1.0
-60 km per hour,60 km per hour,QUANTITY,,,en,1.0
-March 18,March 18,DATE,,,en,1.0
-4 thousand 986 dollars,4 thousand 986 dollars,MONEY,,,en,1.0
-World Cup European Qualifiers,World Cup European Qualifiers,EVENT,,,en,1.0
-the first two days,the first two days,DATE,,,en,1.0
-the Night of Power,the Night of Power,WORK_OF_ART,,,en,1.0
-a thousand months,a thousand months,DATE,,,en,1.0
-18-19 March,18-19 March,DATE,,,en,1.0
-Alanyaspor,Alanyaspor,NORP,,,en,1.0
-148 weeks,148 weeks,DATE,,,en,1.0
-72,72,CARDINAL,,,en,1.0
-At least 16,At least 16,CARDINAL,,,en,1.0
-at least 16,at least 16,CARDINAL,,,en,1.0
-Iraqi,Iraqi,NORP,,,en,1.0
-the holidays,the holidays,DATE,,,en,1.0
-Mazıdağı,Mazıdağı,NORP,,,en,1.0
-8th,8th,ORDINAL,,,en,1.0
-the summer months,the summer months,DATE,,,en,1.0
-March 13,March 13,DATE,,,en,1.0
-M6.4,M6.4,FAC,,,en,1.0
-M7.0,M7.0,CARDINAL,,,en,1.0
+"January 29, 2026","January 29, 2026",DATE,,,en,1.0
+130 thousand,130 thousand,CARDINAL,,,en,1.0
+3.9,3.9,CARDINAL,,,en,1.0
+Kemalpaşa,Kemalpaşa,NORP,,,en,1.0
+Kemalpaşa Street,Kemalpaşa Street,FAC,,,en,1.0
+"October 15, 2025","October 15, 2025",DATE,,,en,1.0
+approximately 5 meters,approximately 5 meters,QUANTITY,,,en,1.0
+30 years ago,30 years ago,DATE,,,en,1.0
+March 14,March 14,DATE,,,en,1.0
+1999,1999,DATE,,,en,1.0
+5 thousand,5 thousand,CARDINAL,,,en,1.0
+more than 12 thousand,more than 12 thousand,CARDINAL,,,en,1.0
+A Friendship Beyond Fault Lines,A Friendship Beyond Fault Lines,WORK_OF_ART,,,en,1.0
+500 meters,500 meters,QUANTITY,,,en,1.0
+Tuesdays,Tuesdays,DATE,,,en,1.0
+120 dollars,120 dollars,MONEY,,,en,1.0
+8.8%,8.8%,PERCENT,,,en,1.0
+noon onwards,noon onwards,TIME,,,en,1.0
+One year,One year,DATE,,,en,1.0
+one year,one year,DATE,,,en,1.0
+15 centimeters,15 centimeters,QUANTITY,,,en,1.0
+previous years',previous years',DATE,,,en,1.0
+15-20 centimeters,15-20 centimeters,QUANTITY,,,en,1.0
+6th day,6th day,DATE,,,en,1.0
+Erzincan Ergan Mountain Ski Center,Erzincan Ergan Mountain Ski Center,FAC,,,en,1.0
+New Year's,New Year's,EVENT,,,en,1.0
+minus 20,minus 20,CARDINAL,,,en,1.0
+20 degrees below zero,20 degrees below zero,QUANTITY,,,en,1.0
+Istanbulites,Istanbulites,NORP,,,en,1.0
+1 million,1 million,CARDINAL,,,en,1.0
+about 1 hour,about 1 hour,TIME,,,en,1.0
+the age of 17,the age of 17,DATE,,,en,1.0
+Ergan Mountain Ski Resort,Ergan Mountain Ski Resort,FAC,,,en,1.0
+380,380,CARDINAL,,,en,1.0
+10th day,10th day,DATE,,,en,1.0
+6 years old,6 years old,DATE,,,en,1.0
+262,262,CARDINAL,,,en,1.0
 the last week,the last week,DATE,,,en,1.0
 03.55,03.55,CARDINAL,,,en,1.0
+an hour,an hour,TIME,,,en,1.0
 Anatolia,Anatolia,NORP,-0.10810810810810813,0.1891891891891892,en,1.0
 the spring months,the spring months,DATE,,,en,1.0
 Leftists Speak to Silence,Leftists Speak to Silence,WORK_OF_ART,,,en,1.0
-Iran War,Iran War,EVENT,,,en,1.0
+More than 10 thousand,More than 10 thousand,CARDINAL,,,en,1.0
 Moroccan,Moroccan,NORP,,,en,1.0
 March 15,March 15,DATE,,,en,1.0
+2 years,2 years,DATE,,,en,1.0
 eleven,eleven,DATE,,,en,1.0
+53 thousand,53 thousand,CARDINAL,,,en,1.0
+at least 18,at least 18,CARDINAL,,,en,1.0
 the 18th minute,the 18th minute,TIME,,,en,1.0
 2.5 months,2.5 months,DATE,,,en,1.0
+Bâton de pluies,Bâton de pluies,WORK_OF_ART,,,en,1.0
 14 days,14 days,DATE,,,en,1.0
 33 years,33 years,DATE,,,en,1.0
-The day of Eve,The day of Eve,DATE,,,en,1.0
-Approximately 100 million,Approximately 100 million,CARDINAL,,,en,1.0
-97 kilometers per hour,97 kilometers per hour,QUANTITY,,,en,1.0
-the first day,the first day,DATE,,,en,1.0
-40 centimeters,40 centimeters,QUANTITY,,,en,1.0
-Austrian,Austrian,NORP,,,en,1.0
-April 4,April 4,DATE,,,en,1.0
-Five,Five,CARDINAL,,,en,1.0
-the Atatürk Dam,the Atatürk Dam,FAC,,,en,1.0
-over 90 percent,over 90 percent,PERCENT,,,en,1.0
-Erzurum,Erzurum,FAC,0.2142857142857143,0.28571428571428575,en,1.0
-about 15 minutes,about 15 minutes,TIME,,,en,1.0
-32,32,CARDINAL,,,en,1.0
-the middle of spring,the middle of spring,DATE,,,en,1.0
-'Winter,'Winter,DATE,,,en,1.0
-"October 12, 2025","October 12, 2025",DATE,,,en,1.0
-150 centimeters,150 centimeters,QUANTITY,,,en,1.0
-as 150 centimeters,as 150 centimeters,QUANTITY,,,en,1.0
-spring,spring,DATE,,,en,1.0
-April 30,April 30,DATE,,,en,1.0
-2025-2026,2025-2026,DATE,,,en,1.0
-winter season,winter season,DATE,,,en,1.0
-111,111,CARDINAL,,,en,1.0
-a few hours,a few hours,TIME,,,en,1.0
-5 meters,5 meters,QUANTITY,,,en,1.0
-this year',this year',DATE,,,en,1.0
-120,120,CARDINAL,,,en,1.0
-the 32nd week,the 32nd week,DATE,,,en,1.0
-"Thursday, April 2, 2026","Thursday, April 2, 2026",DATE,,,en,1.0
-5th,5th,ORDINAL,,,en,1.0
-the last 6,the last 6,DATE,,,en,1.0
-27 years,27 years,DATE,,,en,1.0
-"Monday, March 23","Monday, March 23",DATE,,,en,1.0
-Hakkari center,Hakkari center,FAC,,,en,1.0
-fifth,fifth,ORDINAL,,,en,1.0
-the World Championship,the World Championship,EVENT,,,en,1.0
-the Eid al-Fitr,the Eid al-Fitr,EVENT,,,en,1.0
-5W-40,5W-40,CARDINAL,,,en,1.0
-27 MARCH,27 MARCH,DATE,,,en,1.0
-March 27,March 27,DATE,,,en,1.0
-the 2026 FIFA World Cup European Qualifiers,the 2026 FIFA World Cup European Qualifiers,EVENT,,,en,1.0
-Ottoman,Ottoman,NORP,,,en,1.0
-"Sunday, March 29","Sunday, March 29",DATE,,,en,1.0
-the last few days,the last few days,DATE,,,en,1.0
-the harshest winter season of recent years,the harshest winter season of recent years,DATE,,,en,1.0
-the spring,the spring,DATE,,,en,1.0
-April 2,April 2,DATE,,,en,1.0
-the World Cup,the World Cup,EVENT,,,en,1.0
-Türkiye,Türkiye,NORP,0.0,0.0,en,1.0
-97th,97th,ORDINAL,,,en,1.0
+M7.0,M7.0,CARDINAL,,,en,1.0
+M6.4,M6.4,FAC,,,en,1.0
+13 hours,13 hours,TIME,,,en,1.0
+Eastern Anatolia,Eastern Anatolia,NORP,-0.00289351851851852,0.010416666666666673,en,1.0
+the 2nd League,the 2nd League,FAC,,,en,1.0
+March 4,March 4,DATE,,,en,1.0
+10 days,10 days,DATE,,,en,1.0
+190 million,190 million,CARDINAL,,,en,1.0
+119 dollars,119 dollars,MONEY,,,en,1.0
+nearly 10 thousand,nearly 10 thousand,CARDINAL,,,en,1.0
+the 25th week,the 25th week,DATE,,,en,1.0
+Hours,Hours,TIME,,,en,1.0
+Last Minute,Last Minute,TIME,,,en,1.0
+more than one,more than one,CARDINAL,,,en,1.0
+09.21,09.21,CARDINAL,,,en,1.0
+7.5 km,7.5 km,QUANTITY,,,en,1.0
 pro-Turkish,pro-Turkish,NORP,,,en,1.0
-The year 2026,The year 2026,DATE,,,en,1.0
-Approximately 10,Approximately 10,CARDINAL,,,en,1.0
+97th,97th,ORDINAL,,,en,1.0
+50-90 km,50-90 km,QUANTITY,,,en,1.0
+the summer months,the summer months,DATE,,,en,1.0
+March 13,March 13,DATE,,,en,1.0
+Türkiye:,Türkiye:,WORK_OF_ART,,,en,1.0
+0 in the evening and night hours,0 in the evening and night hours,TIME,,,en,1.0
+the new calendar year,the new calendar year,DATE,,,en,1.0
+Covid,Covid,NORP,,,en,1.0
+This week,This week,DATE,,,en,1.0
+ten,ten,CARDINAL,,,en,1.0
+Oscar,Oscar,WORK_OF_ART,,,en,1.0
+The Winter Olympics,The Winter Olympics,EVENT,,,en,1.0
+fashion week,fashion week,DATE,,,en,1.0
+"Saturday, February 28","Saturday, February 28",DATE,,,en,1.0
+400 billion dollar,400 billion dollar,MONEY,,,en,1.0
+400 billion dollars,400 billion dollars,MONEY,,,en,1.0
+110 centimeters,110 centimeters,QUANTITY,,,en,1.0
+162.5 mm,162.5 mm,QUANTITY,,,en,1.0
+"February 24, 2004","February 24, 2004",DATE,,,en,1.0
+60 centimeters,60 centimeters,QUANTITY,,,en,1.0
+600,600,CARDINAL,,,en,1.0
+recent months,recent months,DATE,,,en,1.0
+82,82,CARDINAL,,,en,1.0
+World Cup European Qualifiers,World Cup European Qualifiers,EVENT,,,en,1.0
+0 degrees,0 degrees,QUANTITY,,,en,1.0
+last-minute,last-minute,TIME,,,en,1.0
+9 thousand,9 thousand,CARDINAL,,,en,1.0
+800 thousand,800 thousand,CARDINAL,,,en,1.0
+This month,This month,DATE,,,en,1.0
+Brazilian,Brazilian,NORP,,,en,1.0
+the AK Party,the AK Party,FAC,,,en,1.0
+more than 300 billion dollars,more than 300 billion dollars,MONEY,,,en,1.0
+the next 10 years,the next 10 years,DATE,,,en,1.0
+Artemis,Artemis,PRODUCT,,,en,1.0
+3.7%,3.7%,PERCENT,,,en,1.0
+the first three quarters,the first three quarters,DATE,,,en,1.0
+Around 3.5,Around 3.5,CARDINAL,,,en,1.0
+Balkans,Balkans,NORP,0.0,0.0,en,1.0
+4 hours',4 hours',TIME,,,en,1.0
+Elazığ,Elazığ,WORK_OF_ART,0.0,0.0,en,1.0
+4 hours,4 hours,TIME,,,en,1.0
+the end of the winter season,the end of the winter season,DATE,,,en,1.0
+cold days,cold days,DATE,,,en,1.0
+USS Abraham Lincoln,USS Abraham Lincoln,PRODUCT,,,en,1.0
+10 thousand 100,10 thousand 100,CARDINAL,,,en,1.0
+7 thousand,7 thousand,CARDINAL,,,en,1.0
+"the ""Doomsday Warehouse""","the ""Doomsday Warehouse""",WORK_OF_ART,,,en,1.0
+next season,next season,DATE,,,en,1.0
+Samsung Galaxy S26,Samsung Galaxy S26,PRODUCT,,,en,1.0
+March 1,March 1,DATE,,,en,1.0
+the morning and night hours,the morning and night hours,TIME,,,en,1.0
+days later,days later,DATE,,,en,1.0
 Alsancak Port,Alsancak Port,FAC,,,en,1.0
 the last quarter of the year,the last quarter of the year,DATE,,,en,1.0
 over 4 percent,over 4 percent,PERCENT,,,en,1.0
@@ -522,25 +490,20 @@ the Berlin Film Festival,the Berlin Film Festival,EVENT,,,en,1.0
 four years,four years,DATE,,,en,1.0
 eight years,eight years,DATE,,,en,1.0
 Shiite,Shiite,NORP,,,en,1.0
-days later,days later,DATE,,,en,1.0
 six,six,CARDINAL,,,en,1.0
+More than 1 million,More than 1 million,CARDINAL,,,en,1.0
+January 2,January 2,DATE,,,en,1.0
 332 days,332 days,DATE,,,en,1.0
 240 days,240 days,DATE,,,en,1.0
 the Vietnam War,the Vietnam War,EVENT,,,en,1.0
 the quarter,the quarter,DATE,,,en,1.0
+The day of Eve,The day of Eve,DATE,,,en,1.0
 6 thousand liras,6 thousand liras,MONEY,,,en,1.0
 every month,every month,DATE,,,en,1.0
-This month,This month,DATE,,,en,1.0
-March 4,March 4,DATE,,,en,1.0
+Approximately 10,Approximately 10,CARDINAL,,,en,1.0
 165 kilograms,165 kilograms,QUANTITY,,,en,1.0
+The year 2026,The year 2026,DATE,,,en,1.0
 120 thousand tons,120 thousand tons,QUANTITY,,,en,1.0
-120 dollars,120 dollars,MONEY,,,en,1.0
-19 degrees,19 degrees,QUANTITY,,,en,1.0
-0 degrees,0 degrees,QUANTITY,,,en,1.0
-last-minute,last-minute,TIME,,,en,1.0
-Samsung Galaxy S26,Samsung Galaxy S26,PRODUCT,,,en,1.0
-March 1,March 1,DATE,,,en,1.0
-the morning and night hours,the morning and night hours,TIME,,,en,1.0
 7 consecutive months,7 consecutive months,DATE,,,en,1.0
 gram,gram,CARDINAL,,,en,1.0
 8 thousand,8 thousand,CARDINAL,,,en,1.0
@@ -550,296 +513,501 @@ Antalyaspor,Antalyaspor,NORP,,,en,1.0
 The Perfect Storm of the Global Economy,The Perfect Storm of the Global Economy,WORK_OF_ART,,,en,1.0
 more than 500,more than 500,CARDINAL,,,en,1.0
 201,201,CARDINAL,,,en,1.0
+500 thousand,500 thousand,CARDINAL,,,en,1.0
 14 percent,14 percent,PERCENT,,,en,1.0
 annually,annually,DATE,,,en,1.0
 Two seasons,Two seasons,DATE,,,en,1.0
+6 to 8,6 to 8,CARDINAL,,,en,1.0
 two seasons,two seasons,DATE,,,en,1.0
 "1,900 meters","1,900 meters",QUANTITY,,,en,1.0
-Türkiye:,Türkiye:,WORK_OF_ART,,,en,1.0
-8.8%,8.8%,PERCENT,,,en,1.0
-7.5 km,7.5 km,QUANTITY,,,en,1.0
-Kemalpaşa Street,Kemalpaşa Street,FAC,,,en,1.0
-approximately 5 meters,approximately 5 meters,QUANTITY,,,en,1.0
-30 years ago,30 years ago,DATE,,,en,1.0
-March 14,March 14,DATE,,,en,1.0
-1999,1999,DATE,,,en,1.0
-5 thousand,5 thousand,CARDINAL,,,en,1.0
-380,380,CARDINAL,,,en,1.0
-the age of 17,the age of 17,DATE,,,en,1.0
-6 years old,6 years old,DATE,,,en,1.0
-2 years,2 years,DATE,,,en,1.0
-the 2nd League,the 2nd League,FAC,,,en,1.0
-10th day,10th day,DATE,,,en,1.0
-10 days,10 days,DATE,,,en,1.0
-25 percent,25 percent,PERCENT,,,en,1.0
-119 dollars,119 dollars,MONEY,,,en,1.0
-the 25th week,the 25th week,DATE,,,en,1.0
-Hours,Hours,TIME,,,en,1.0
-Last Minute,Last Minute,TIME,,,en,1.0
-more than one,more than one,CARDINAL,,,en,1.0
-09.21,09.21,CARDINAL,,,en,1.0
-"October 15, 2025","October 15, 2025",DATE,,,en,1.0
-Kemalpaşa,Kemalpaşa,NORP,,,en,1.0
-One year,One year,DATE,,,en,1.0
-130 thousand,130 thousand,CARDINAL,,,en,1.0
-one year,one year,DATE,,,en,1.0
-15 centimeters,15 centimeters,QUANTITY,,,en,1.0
-previous years',previous years',DATE,,,en,1.0
-15-20 centimeters,15-20 centimeters,QUANTITY,,,en,1.0
-Tuesdays,Tuesdays,DATE,,,en,1.0
-6th day,6th day,DATE,,,en,1.0
-minus 20,minus 20,CARDINAL,,,en,1.0
-20 degrees below zero,20 degrees below zero,QUANTITY,,,en,1.0
-Istanbulites,Istanbulites,NORP,,,en,1.0
-1 million,1 million,CARDINAL,,,en,1.0
-A Friendship Beyond Fault Lines,A Friendship Beyond Fault Lines,WORK_OF_ART,,,en,1.0
-Ergan Mountain Ski Resort,Ergan Mountain Ski Resort,FAC,,,en,1.0
-Erzincan Ergan Mountain Ski Center,Erzincan Ergan Mountain Ski Center,FAC,,,en,1.0
-500 meters,500 meters,QUANTITY,,,en,1.0
-3.9,3.9,CARDINAL,,,en,1.0
-3.6,3.6,CARDINAL,,,en,1.0
-minus 47 degrees,minus 47 degrees,QUANTITY,,,en,1.0
-06.10,06.10,CARDINAL,,,en,1.0
-eight-year-old,eight-year-old,DATE,,,en,1.0
-last Tuesday,last Tuesday,DATE,,,en,1.0
-the last 3 months,the last 3 months,DATE,,,en,1.0
-Judicial Package,Judicial Package,EVENT,,,en,1.0
-Tekman,Tekman,NORP,,,en,1.0
-More than a thousand,More than a thousand,CARDINAL,,,en,1.0
-more than 1000,more than 1000,CARDINAL,,,en,1.0
--45 degrees,-45 degrees,QUANTITY,,,en,1.0
-First,First,ORDINAL,,,en,1.0
-the 2026 Türkiye Culture Road Festival,the 2026 Türkiye Culture Road Festival,EVENT,,,en,1.0
-the Türkiye Culture Road Festival Project Evaluation Board,the Türkiye Culture Road Festival Project Evaluation Board,EVENT,,,en,1.0
-Aks,Aks,LANGUAGE,,,en,1.0
-every day,every day,DATE,,,en,1.0
-Yesterday,Yesterday,DATE,,,en,1.0
-"Monday, January 26, 2026","Monday, January 26, 2026",DATE,,,en,1.0
-48 hours,48 hours,TIME,,,en,1.0
-2014,2014,DATE,,,en,1.0
-Artemis,Artemis,PRODUCT,,,en,1.0
-10 thousand 100,10 thousand 100,CARDINAL,,,en,1.0
-800 thousand,800 thousand,CARDINAL,,,en,1.0
-9 thousand,9 thousand,CARDINAL,,,en,1.0
-600,600,CARDINAL,,,en,1.0
-500 thousand,500 thousand,CARDINAL,,,en,1.0
-190 million,190 million,CARDINAL,,,en,1.0
-"January 23, 2026","January 23, 2026",DATE,,,en,1.0
-"Friday, January 23","Friday, January 23",DATE,,,en,1.0
-2003,2003,DATE,,,en,1.0
-20 million tons,20 million tons,QUANTITY,,,en,1.0
-years ago,years ago,DATE,,,en,1.0
-a few years ago,a few years ago,DATE,,,en,1.0
-180 Million,180 Million,CARDINAL,,,en,1.0
-Americans,Americans,NORP,,,en,1.0
-328,328,CARDINAL,,,en,1.0
-180 million,180 million,CARDINAL,,,en,1.0
-"Thursday, January 22","Thursday, January 22",DATE,,,en,1.0
-Islamic,Islamic,NORP,,,en,1.0
-Muslims,Muslims,NORP,,,en,1.0
-this holy month,this holy month,DATE,,,en,1.0
-23.11,23.11,CARDINAL,,,en,1.0
-23.28,23.28,CARDINAL,,,en,1.0
-80 kg,80 kg,QUANTITY,,,en,1.0
-five-hundred-year-old,five-hundred-year-old,CARDINAL,,,en,1.0
-every seven years,every seven years,DATE,,,en,1.0
-minus 30.9 degrees,minus 30.9 degrees,QUANTITY,,,en,1.0
-minus 27.4 degrees,minus 27.4 degrees,QUANTITY,,,en,1.0
-15th,15th,CARDINAL,,,en,1.0
-714.9 million tons,714.9 million tons,QUANTITY,,,en,1.0
-nearly 10 thousand,nearly 10 thousand,CARDINAL,,,en,1.0
-More than 10 thousand,More than 10 thousand,CARDINAL,,,en,1.0
-More than 800 thousand,More than 800 thousand,CARDINAL,,,en,1.0
-"9,600","9,600",CARDINAL,,,en,1.0
-Millions of liras,Millions of liras,MONEY,,,en,1.0
-Approximately 100,Approximately 100,CARDINAL,,,en,1.0
-Approximately 20,Approximately 20,CARDINAL,,,en,1.0
-Syrian,Syrian,NORP,,,en,1.0
-more than 3,more than 3,CARDINAL,,,en,1.0
-4 to 6 degrees,4 to 6 degrees,QUANTITY,,,en,1.0
-Sicilian,Sicilian,NORP,,,en,1.0
-280 cm,280 cm,QUANTITY,,,en,1.0
-seven-day,seven-day,DATE,,,en,1.0
-the beginning of spring,the beginning of spring,DATE,,,en,1.0
-more than 570 thousand,more than 570 thousand,CARDINAL,,,en,1.0
-77,77,CARDINAL,,,en,1.0
-143,143,CARDINAL,,,en,1.0
-"January 29, 2026","January 29, 2026",DATE,,,en,1.0
-F-16s,F-16s,QUANTITY,,,en,1.0
-At least 5,At least 5,CARDINAL,,,en,1.0
-the Presidential Complex,the Presidential Complex,FAC,,,en,1.0
-Halkapınar Pump Station,Halkapınar Pump Station,FAC,,,en,1.0
-January 30,January 30,DATE,,,en,1.0
-Weekly,Weekly,DATE,,,en,1.0
-"Tuesday, January 27","Tuesday, January 27",DATE,,,en,1.0
-105 - 115 billion dollars,105 - 115 billion dollars,MONEY,,,en,1.0
-at least 18,at least 18,CARDINAL,,,en,1.0
-"approximately 500,000","approximately 500,000",CARDINAL,,,en,1.0
-03.47,03.47,CARDINAL,,,en,1.0
-approximately 213 million,approximately 213 million,CARDINAL,,,en,1.0
-More than ten thousand,More than ten thousand,CARDINAL,,,en,1.0
-nearly a million,nearly a million,CARDINAL,,,en,1.0
-Hundreds of thousands,Hundreds of thousands,CARDINAL,,,en,1.0
-approximately 920 thousand,approximately 920 thousand,CARDINAL,,,en,1.0
+19 degrees,19 degrees,QUANTITY,,,en,1.0
 At least 18,At least 18,CARDINAL,,,en,1.0
-50-90 km,50-90 km,QUANTITY,,,en,1.0
-more than 200 million,more than 200 million,CARDINAL,,,en,1.0
-noon onwards,noon onwards,TIME,,,en,1.0
-6 to 8,6 to 8,CARDINAL,,,en,1.0
-More than 1 million,More than 1 million,CARDINAL,,,en,1.0
-USS Abraham Lincoln,USS Abraham Lincoln,PRODUCT,,,en,1.0
-More than 17 thousand,More than 17 thousand,CARDINAL,,,en,1.0
-90,90,CARDINAL,,,en,1.0
-60 kilometers per hour,60 kilometers per hour,QUANTITY,,,en,1.0
-Wednesday morning,Wednesday morning,TIME,,,en,1.0
-German,German,NORP,,,en,1.0
-the last 20 years,the last 20 years,DATE,,,en,1.0
-the previous evening,the previous evening,TIME,,,en,1.0
-Palestinians,Palestinians,NORP,,,en,1.0
-700,700,CARDINAL,,,en,1.0
-nearly 700,nearly 700,CARDINAL,,,en,1.0
-7.0,7.0,CARDINAL,,,en,1.0
-"December 29, 2025","December 29, 2025",DATE,,,en,1.0
-the last days of the year,the last days of the year,DATE,,,en,1.0
-30.3,30.3,CARDINAL,,,en,1.0
+Mazıdağı,Mazıdağı,NORP,,,en,1.0
 25 degrees below zero,25 degrees below zero,QUANTITY,,,en,1.0
-Bâton de pluies,Bâton de pluies,WORK_OF_ART,,,en,1.0
-53 thousand,53 thousand,CARDINAL,,,en,1.0
-262,262,CARDINAL,,,en,1.0
-an hour,an hour,TIME,,,en,1.0
-13 hours,13 hours,TIME,,,en,1.0
-tonight,tonight,TIME,,,en,1.0
-Eastern Anatolia,Eastern Anatolia,NORP,-0.003192848020434229,0.011494252873563223,en,1.0
-more than 12 thousand,more than 12 thousand,CARDINAL,,,en,1.0
-about 1 hour,about 1 hour,TIME,,,en,1.0
-New Year's,New Year's,EVENT,,,en,1.0
-the new calendar year,the new calendar year,DATE,,,en,1.0
-0 in the evening and night hours,0 in the evening and night hours,TIME,,,en,1.0
-New Year's Eve,New Year's Eve,EVENT,,,en,1.0
-"Monday, December 29th","Monday, December 29th",DATE,,,en,1.0
-the last 70 years,the last 70 years,DATE,,,en,1.0
-1-day,1-day,CARDINAL,,,en,1.0
-billions of pesos,billions of pesos,MONEY,,,en,1.0
-Catholic,Catholic,NORP,,,en,1.0
-the first working day of the week,the first working day of the week,DATE,,,en,1.0
-"today, December 2, 2025","today, December 2, 2025",DATE,,,en,1.0
-30 percent,30 percent,PERCENT,,,en,1.0
-250 thousand,250 thousand,CARDINAL,,,en,1.0
-more than 250 thousand,more than 250 thousand,CARDINAL,,,en,1.0
 5-day,5-day,TIME,,,en,1.0
+412.1 million lira,412.1 million lira,MONEY,,,en,1.0
+197,197,CARDINAL,,,en,1.0
+Russian,Russian,NORP,,,en,1.0
+More than 800 thousand,More than 800 thousand,CARDINAL,,,en,1.0
+32,32,CARDINAL,,,en,1.0
+the middle of spring,the middle of spring,DATE,,,en,1.0
+'Winter,'Winter,DATE,,,en,1.0
 "Monday, December 15","Monday, December 15",DATE,,,en,1.0
+more than 250 thousand,more than 250 thousand,CARDINAL,,,en,1.0
 the middle of winter,the middle of winter,DATE,,,en,1.0
-Nearly 15 years,Nearly 15 years,DATE,,,en,1.0
-every year,every year,DATE,,,en,1.0
-nearly 15 years,nearly 15 years,DATE,,,en,1.0
+"approximately 500,000","approximately 500,000",CARDINAL,,,en,1.0
+250 thousand,250 thousand,CARDINAL,,,en,1.0
+22%,22%,PERCENT,,,en,1.0
+22 percent,22 percent,PERCENT,,,en,1.0
+34 percent,34 percent,PERCENT,,,en,1.0
+"October 12, 2025","October 12, 2025",DATE,,,en,1.0
+9 minutes,9 minutes,TIME,,,en,1.0
+recent weeks,recent weeks,DATE,,,en,1.0
+412 million liras,412 million liras,MONEY,,,en,1.0
+about 15 minutes,about 15 minutes,TIME,,,en,1.0
+​​150 kilometers,​​150 kilometers,QUANTITY,,,en,1.0
+this year',this year',DATE,,,en,1.0
+"Thursday, April 2, 2026","Thursday, April 2, 2026",DATE,,,en,1.0
+120,120,CARDINAL,,,en,1.0
+half a century,half a century,DATE,,,en,1.0
+Austrian,Austrian,NORP,,,en,1.0
 8.8,8.8,CARDINAL,,,en,1.0
+"Friday, April 3","Friday, April 3",DATE,,,en,1.0
+|,|,DATE,,,en,1.0
+up to 3 million lira,up to 3 million lira,MONEY,,,en,1.0
+April 4,April 4,DATE,,,en,1.0
+Nearly 15 years,Nearly 15 years,DATE,,,en,1.0
+Five,Five,CARDINAL,,,en,1.0
+approximately 213 million,approximately 213 million,CARDINAL,,,en,1.0
+03.47,03.47,CARDINAL,,,en,1.0
+nearly 15 years,nearly 15 years,DATE,,,en,1.0
+every year,every year,DATE,,,en,1.0
+the Atatürk Dam,the Atatürk Dam,FAC,,,en,1.0
+over 90 percent,over 90 percent,PERCENT,,,en,1.0
+Erzurum,Erzurum,FAC,0.16216216216216217,0.21621621621621626,en,1.0
+the first 9 minutes,the first 9 minutes,TIME,,,en,1.0
+four,four,CARDINAL,,,en,1.0
+Approximately 100 million,Approximately 100 million,CARDINAL,,,en,1.0
+approximately 25 to 30,approximately 25 to 30,CARDINAL,,,en,1.0
+September-October,September-October,DATE,,,en,1.0
+66 years,66 years,DATE,,,en,1.0
+The 2026 winter season,The 2026 winter season,DATE,,,en,1.0
+December 2025,December 2025,DATE,,,en,1.0
+the same period last year,the same period last year,DATE,,,en,1.0
+10 kilometers,10 kilometers,QUANTITY,,,en,1.0
+this day,this day,DATE,,,en,1.0
+Half,Half,CARDINAL,,,en,1.0
+Catholic,Catholic,NORP,,,en,1.0
+the Super El Nino,the Super El Nino,EVENT,,,en,1.0
+the next week,the next week,DATE,,,en,1.0
+3-5 degrees,3-5 degrees,QUANTITY,,,en,1.0
+April 23,April 23,DATE,,,en,1.0
+"April 23, 2026","April 23, 2026",DATE,,,en,1.0
+billions of pesos,billions of pesos,MONEY,,,en,1.0
+16th,16th,ORDINAL,,,en,1.0
+International Feed Congress,International Feed Congress,EVENT,,,en,1.0
+April 22,April 22,DATE,,,en,1.0
+the end of July,the end of July,DATE,,,en,1.0
+the summer and autumn of 2026,the summer and autumn of 2026,DATE,,,en,1.0
+Between 01 May,Between 01 May,DATE,,,en,1.0
+the Keban Dam Lake,the Keban Dam Lake,FAC,,,en,1.0
+31 October 2026,31 October 2026,DATE,,,en,1.0
+150 centimeters,150 centimeters,QUANTITY,,,en,1.0
+as 150 centimeters,as 150 centimeters,QUANTITY,,,en,1.0
+spring,spring,DATE,,,en,1.0
+April 30,April 30,DATE,,,en,1.0
+30 percent,30 percent,PERCENT,,,en,1.0
+2025-2026,2025-2026,DATE,,,en,1.0
+winter season,winter season,DATE,,,en,1.0
+4 kilometers,4 kilometers,QUANTITY,,,en,1.0
+the afternoon,the afternoon,TIME,,,en,1.0
+150 meters,150 meters,QUANTITY,,,en,1.0
+35th,35th,ORDINAL,,,en,1.0
+"today, December 2, 2025","today, December 2, 2025",DATE,,,en,1.0
+111,111,CARDINAL,,,en,1.0
+the first working day of the week,the first working day of the week,DATE,,,en,1.0
+a few hours,a few hours,TIME,,,en,1.0
+6 am,6 am,TIME,,,en,1.0
+5 meters,5 meters,QUANTITY,,,en,1.0
+the World Cup,the World Cup,EVENT,,,en,1.0
+06.48,06.48,CARDINAL,,,en,1.0
 4 meters,4 meters,QUANTITY,,,en,1.0
+the first day,the first day,DATE,,,en,1.0
+a thousand months,a thousand months,DATE,,,en,1.0
+18-19 March,18-19 March,DATE,,,en,1.0
+Alanyaspor,Alanyaspor,NORP,,,en,1.0
+148 weeks,148 weeks,DATE,,,en,1.0
+72,72,CARDINAL,,,en,1.0
+At least 16,At least 16,CARDINAL,,,en,1.0
+at least 16,at least 16,CARDINAL,,,en,1.0
+97 kilometers per hour,97 kilometers per hour,QUANTITY,,,en,1.0
+40 centimeters,40 centimeters,QUANTITY,,,en,1.0
+the first two days,the first two days,DATE,,,en,1.0
+the 32nd week,the 32nd week,DATE,,,en,1.0
+5th,5th,ORDINAL,,,en,1.0
+the last 6,the last 6,DATE,,,en,1.0
+27 years,27 years,DATE,,,en,1.0
+"Monday, March 23","Monday, March 23",DATE,,,en,1.0
+Hakkari center,Hakkari center,FAC,,,en,1.0
+fifth,fifth,ORDINAL,,,en,1.0
+the World Championship,the World Championship,EVENT,,,en,1.0
+the Night of Power,the Night of Power,WORK_OF_ART,,,en,1.0
+nearly 700,nearly 700,CARDINAL,,,en,1.0
 9 percent,9 percent,PERCENT,,,en,1.0
-30.9 percent,30.9 percent,PERCENT,,,en,1.0
+10 thousand dollar,10 thousand dollar,MONEY,,,en,1.0
+8th,8th,ORDINAL,,,en,1.0
+"Kahramanmaraş, Mersin","Kahramanmaraş, Mersin",LAW,,,en,1.0
+30.3,30.3,CARDINAL,,,en,1.0
+the holidays,the holidays,DATE,,,en,1.0
+Iraqi,Iraqi,NORP,,,en,1.0
+Baghdad Embassy,Baghdad Embassy,FAC,,,en,1.0
+One morning,One morning,TIME,,,en,1.0
+20 years,20 years,DATE,,,en,1.0
+approximately 10 meters,approximately 10 meters,QUANTITY,,,en,1.0
+7.0,7.0,CARDINAL,,,en,1.0
+approximately 920 thousand,approximately 920 thousand,CARDINAL,,,en,1.0
+912,912,CARDINAL,,,en,1.0
+60 km per hour,60 km per hour,QUANTITY,,,en,1.0
+March 18,March 18,DATE,,,en,1.0
+the last days of the year,the last days of the year,DATE,,,en,1.0
+"December 29, 2025","December 29, 2025",DATE,,,en,1.0
+those hours,those hours,TIME,,,en,1.0
+4 thousand 986 dollars,4 thousand 986 dollars,MONEY,,,en,1.0
+the Eid al-Fitr,the Eid al-Fitr,EVENT,,,en,1.0
+the Iran war,the Iran war,EVENT,,,en,1.0
+700,700,CARDINAL,,,en,1.0
+97.8 kilograms,97.8 kilograms,QUANTITY,,,en,1.0
+"Sunday, March 29","Sunday, March 29",DATE,,,en,1.0
+Three,Three,CARDINAL,,,en,1.0
+Hundreds of thousands,Hundreds of thousands,CARDINAL,,,en,1.0
+nearly a million,nearly a million,CARDINAL,,,en,1.0
+between March 31,between March 31,DATE,,,en,1.0
+More than ten thousand,More than ten thousand,CARDINAL,,,en,1.0
 0.9 percent,0.9 percent,PERCENT,,,en,1.0
+3-day,3-day,CARDINAL,,,en,1.0
+30.9 percent,30.9 percent,PERCENT,,,en,1.0
+5W-40,5W-40,CARDINAL,,,en,1.0
+March 29,March 29,DATE,,,en,1.0
+6 thousand,6 thousand,CARDINAL,,,en,1.0
+903,903,CARDINAL,,,en,1.0
+505,505,CARDINAL,,,en,1.0
+the last few days,the last few days,DATE,,,en,1.0
+the harshest winter season of recent years,the harshest winter season of recent years,DATE,,,en,1.0
+the spring,the spring,DATE,,,en,1.0
+Japanese,Japanese,NORP,,,en,1.0
+Pegasus,Pegasus,PRODUCT,,,en,1.0
+Istanbul Airport,Istanbul Airport,FAC,,,en,1.0
 12 miles,12 miles,QUANTITY,,,en,1.0
-January 2,January 2,DATE,,,en,1.0
-recent months,recent months,DATE,,,en,1.0
-Covid,Covid,NORP,,,en,1.0
-The Winter Olympics,The Winter Olympics,EVENT,,,en,1.0
-last year's,last year's,DATE,,,en,1.0
-"Thursday, January 15, 2026","Thursday, January 15, 2026",DATE,,,en,1.0
-South Korean,South Korean,NORP,,,en,1.0
-this summer,this summer,DATE,,,en,1.0
-the summer of 2026,the summer of 2026,DATE,,,en,1.0
-1.67,1.67,CARDINAL,,,en,1.0
-midnight,midnight,TIME,,,en,1.0
-Edirne Palace,Edirne Palace,FAC,,,en,1.0
-the Edirne Palace,the Edirne Palace,FAC,,,en,1.0
-Snowy days,Snowy days,DATE,,,en,1.0
-week,week,DATE,,,en,1.0
-"January 1, 2026","January 1, 2026",DATE,,,en,1.0
-21st,21st,ORDINAL,,,en,1.0
-nearly 20 years ago,nearly 20 years ago,DATE,,,en,1.0
-Approximately 2 hectares,Approximately 2 hectares,QUANTITY,,,en,1.0
-January 20,January 20,DATE,,,en,1.0
+Ottoman,Ottoman,NORP,,,en,1.0
+New Year's Eve,New Year's Eve,EVENT,,,en,1.0
+March 24,March 24,DATE,,,en,1.0
+as 229.5 kilometers,as 229.5 kilometers,QUANTITY,,,en,1.0
+the past few days,the past few days,DATE,,,en,1.0
+Palestinians,Palestinians,NORP,,,en,1.0
+2 million years,2 million years,DATE,,,en,1.0
+every 8 thousand years,every 8 thousand years,DATE,,,en,1.0
+"Monday, December 29th","Monday, December 29th",DATE,,,en,1.0
+1-day,1-day,CARDINAL,,,en,1.0
+1 percent,1 percent,PERCENT,,,en,1.0
+Yüksekova-Van highway,Yüksekova-Van highway,FAC,,,en,1.0
+Iron Dome,Iron Dome,FAC,,,en,1.0
+3.2,3.2,CARDINAL,,,en,1.0
+27 MARCH,27 MARCH,DATE,,,en,1.0
+March 27,March 27,DATE,,,en,1.0
+the 2026 FIFA World Cup European Qualifiers,the 2026 FIFA World Cup European Qualifiers,EVENT,,,en,1.0
+African,African,NORP,,,en,1.0
+poles,poles,NORP,,,en,1.0
+300 meters,300 meters,QUANTITY,,,en,1.0
+approximately 300 meters,approximately 300 meters,QUANTITY,,,en,1.0
+Winter Olympics,Winter Olympics,EVENT,,,en,1.0
+11 billion lira,11 billion lira,MONEY,,,en,1.0
+10 February,10 February,DATE,,,en,1.0
+Americans,Americans,NORP,,,en,1.0
+Aks,Aks,LANGUAGE,,,en,1.0
+six minutes,six minutes,TIME,,,en,1.0
+"February 10, 2026","February 10, 2026",DATE,,,en,1.0
+the 2026 Winter Olympics,the 2026 Winter Olympics,EVENT,,,en,1.0
+Mongolian,Mongolian,NORP,,,en,1.0
+180 Million,180 Million,CARDINAL,,,en,1.0
+the year 2025,the year 2025,DATE,,,en,1.0
+more than 120 thousand,more than 120 thousand,CARDINAL,,,en,1.0
+a few years ago,a few years ago,DATE,,,en,1.0
+years ago,years ago,DATE,,,en,1.0
+4 to 6 degrees,4 to 6 degrees,QUANTITY,,,en,1.0
+every day,every day,DATE,,,en,1.0
+German,German,NORP,,,en,1.0
+the Super Bowl,the Super Bowl,EVENT,,,en,1.0
+the Super Bowl 60,the Super Bowl 60,EVENT,,,en,1.0
+11 billion liras,11 billion liras,MONEY,,,en,1.0
+"the ""Shots of the Year","the ""Shots of the Year",WORK_OF_ART,,,en,1.0
+just 10 years ago,just 10 years ago,DATE,,,en,1.0
+Islamist,Islamist,NORP,,,en,1.0
+328,328,CARDINAL,,,en,1.0
+280 cm,280 cm,QUANTITY,,,en,1.0
+Sicilian,Sicilian,NORP,,,en,1.0
+Indian,Indian,NORP,,,en,1.0
+the 24th week,the 24th week,DATE,,,en,1.0
+250,250,CARDINAL,,,en,1.0
+80-100 lira,80-100 lira,MONEY,,,en,1.0
+250 lira,250 lira,MONEY,,,en,1.0
+Taksim Mosque,Taksim Mosque,FAC,,,en,1.0
+'Shots of the Year','Shots of the Year',WORK_OF_ART,,,en,1.0
+the Rami Library,the Rami Library,FAC,,,en,1.0
+"November 8, 2025","November 8, 2025",DATE,,,en,1.0
+more than 200,more than 200,CARDINAL,,,en,1.0
+56 years,56 years,DATE,,,en,1.0
+6 percent,6 percent,PERCENT,,,en,1.0
+only 2 thousand,only 2 thousand,CARDINAL,,,en,1.0
+32 thousand,32 thousand,CARDINAL,,,en,1.0
+Standard Precipitation Index,Standard Precipitation Index,EVENT,,,en,1.0
+American,American,NORP,,,en,1.0
+2003,2003,DATE,,,en,1.0
+"Rising from the Ashes Again, Look at the Power of My Turkey","Rising from the Ashes Again, Look at the Power of My Turkey",WORK_OF_ART,,,en,1.0
+100 km,100 km,QUANTITY,,,en,1.0
+"today, Friday, February 13","today, Friday, February 13",DATE,,,en,1.0
+"Friday, February 13","Friday, February 13",DATE,,,en,1.0
+Aydıncık,Aydıncık,NORP,,,en,1.0
 "Tuesday, January 20, 2026","Tuesday, January 20, 2026",DATE,,,en,1.0
-the end of the month,the end of the month,DATE,,,en,1.0
-a century ago,a century ago,DATE,,,en,1.0
-the third hottest year,the third hottest year,DATE,,,en,1.0
-296 kilometers,296 kilometers,QUANTITY,,,en,1.0
-53,53,CARDINAL,,,en,1.0
-minus 10 degrees,minus 10 degrees,QUANTITY,,,en,1.0
-Elazığ,Elazığ,WORK_OF_ART,0.0,0.0,en,1.0
-Brazilian,Brazilian,NORP,,,en,1.0
-the AK Party,the AK Party,FAC,,,en,1.0
-Hundreds,Hundreds,CARDINAL,,,en,1.0
-five,five,CARDINAL,,,en,1.0
-The driest year,The driest year,DATE,,,en,1.0
-the driest year,the driest year,DATE,,,en,1.0
-63,63,CARDINAL,,,en,1.0
-60-90 km,60-90 km,QUANTITY,,,en,1.0
-two weeks ago,two weeks ago,DATE,,,en,1.0
-only a week old,only a week old,DATE,,,en,1.0
-these days,these days,DATE,,,en,1.0
-"January 10, 2026","January 10, 2026",DATE,,,en,1.0
-the night into day,the night into day,TIME,,,en,1.0
-January 10,January 10,DATE,,,en,1.0
-"Monday, January 12","Monday, January 12",DATE,,,en,1.0
-68 days,68 days,DATE,,,en,1.0
-Ukrainian,Ukrainian,NORP,,,en,1.0
-Storm Girl,Storm Girl,WORK_OF_ART,,,en,1.0
-Tens of kilograms,Tens of kilograms,QUANTITY,,,en,1.0
-11th,11th,ORDINAL,,,en,1.0
-the Kozan-Kayseri highway,the Kozan-Kayseri highway,FAC,,,en,1.0
-74.4 kilograms,74.4 kilograms,QUANTITY,,,en,1.0
-24 hours,24 hours,TIME,,,en,1.0
-the 22nd week,the 22nd week,DATE,,,en,1.0
-05.36,05.36,CARDINAL,,,en,1.0
-Those days,Those days,DATE,,,en,1.0
-last minute,last minute,TIME,,,en,1.0
-25 degrees,25 degrees,QUANTITY,,,en,1.0
-February 15,February 15,DATE,,,en,1.0
-as of the evening hours,as of the evening hours,TIME,,,en,1.0
-Hundreds of acres,Hundreds of acres,QUANTITY,,,en,1.0
-Hundreds of millions of liras,Hundreds of millions of liras,MONEY,,,en,1.0
-February 1,February 1,DATE,,,en,1.0
-week-long,week-long,DATE,,,en,1.0
-11 degrees,11 degrees,QUANTITY,,,en,1.0
-February 16-20,February 16-20,DATE,,,en,1.0
-winter months,winter months,DATE,,,en,1.0
-up to 80 kilometers per hour,up to 80 kilometers per hour,QUANTITY,,,en,1.0
-Ordu,Ordu,NORP,0.15476190476190477,0.2619047619047619,en,1.0
-Valentine's Day:,Valentine's Day:,EVENT,,,en,1.0
-the first 44 days of the year,the first 44 days of the year,DATE,,,en,1.0
-two days,two days,DATE,,,en,1.0
-December 31,December 31,DATE,,,en,1.0
+90 km per hour,90 km per hour,QUANTITY,,,en,1.0
+January 20,January 20,DATE,,,en,1.0
+Approximately 100,Approximately 100,CARDINAL,,,en,1.0
+75,75,CARDINAL,,,en,1.0
+the weekend of February 14-15,the weekend of February 14-15,DATE,,,en,1.0
+"Friday, February 13th","Friday, February 13th",DATE,,,en,1.0
+the third day,the third day,DATE,,,en,1.0
+Approximately 2 hectares,Approximately 2 hectares,QUANTITY,,,en,1.0
+nearly 20 years ago,nearly 20 years ago,DATE,,,en,1.0
+"February 14, 2026","February 14, 2026",DATE,,,en,1.0
+Millions of liras,Millions of liras,MONEY,,,en,1.0
 "Saturday, February 14th","Saturday, February 14th",DATE,,,en,1.0
+21st,21st,ORDINAL,,,en,1.0
+the Kozan-Kayseri highway,the Kozan-Kayseri highway,FAC,,,en,1.0
+February 13,February 13,DATE,,,en,1.0
+Approximately 20,Approximately 20,CARDINAL,,,en,1.0
+more than 3,more than 3,CARDINAL,,,en,1.0
+Yesterday,Yesterday,DATE,,,en,1.0
+30-60 km/h,30-60 km/h,QUANTITY,,,en,1.0
+three hottest years,three hottest years,DATE,,,en,1.0
+the La Niña,the La Niña,FAC,,,en,1.0
+the last 20 years,the last 20 years,DATE,,,en,1.0
+Syrian,Syrian,NORP,,,en,1.0
+the last 70 years,the last 70 years,DATE,,,en,1.0
+the last 3 months,the last 3 months,DATE,,,en,1.0
+December 31,December 31,DATE,,,en,1.0
 5 percent,5 percent,PERCENT,,,en,1.0
+the end of the month,the end of the month,DATE,,,en,1.0
 2026/25,2026/25,CARDINAL,,,en,1.0
 2026/59,2026/59,CARDINAL,,,en,1.0
 Prayer for rain,Prayer for rain,WORK_OF_ART,,,en,1.0
 80 km,80 km,QUANTITY,,,en,1.0
 100 kilograms,100 kilograms,QUANTITY,,,en,1.0
 "Thursday, February 12","Thursday, February 12",DATE,,,en,1.0
+a century ago,a century ago,DATE,,,en,1.0
 Bozdoğan,Bozdoğan,NORP,,,en,1.0
-"Friday, February 13th","Friday, February 13th",DATE,,,en,1.0
-February 13,February 13,DATE,,,en,1.0
-"today, Friday, February 13","today, Friday, February 13",DATE,,,en,1.0
-"Friday, February 13","Friday, February 13",DATE,,,en,1.0
-Aydıncık,Aydıncık,NORP,,,en,1.0
-90 km per hour,90 km per hour,QUANTITY,,,en,1.0
-75,75,CARDINAL,,,en,1.0
-100 km,100 km,QUANTITY,,,en,1.0
-the weekend of February 14-15,the weekend of February 14-15,DATE,,,en,1.0
-the third day,the third day,DATE,,,en,1.0
-"February 14, 2026","February 14, 2026",DATE,,,en,1.0
+fourth,fourth,ORDINAL,,,en,1.0
+Mass Opening Ceremony of Completed Investments,Mass Opening Ceremony of Completed Investments,EVENT,,,en,1.0
+the first 44 days of the year,the first 44 days of the year,DATE,,,en,1.0
+77,77,CARDINAL,,,en,1.0
+the winter months,the winter months,DATE,,,en,1.0
+Beyaz,Beyaz,FAC,,,en,1.0
+50,50,CARDINAL,,,en,1.0
+Tekman,Tekman,NORP,,,en,1.0
+"February 3, 2026","February 3, 2026",DATE,,,en,1.0
+Hakkari,Hakkari,NORP,-0.07456140350877193,0.2280701754385965,en,1.0
+42 percent,42 percent,PERCENT,,,en,1.0
+"Friday, January 23","Friday, January 23",DATE,,,en,1.0
+Semeru Volcano,Semeru Volcano,FAC,,,en,1.0
+"January 23, 2026","January 23, 2026",DATE,,,en,1.0
+3 hours,3 hours,TIME,,,en,1.0
+approximately 800 meters,approximately 800 meters,QUANTITY,,,en,1.0
+20 million tons,20 million tons,QUANTITY,,,en,1.0
+714.9 million tons,714.9 million tons,QUANTITY,,,en,1.0
+15th,15th,CARDINAL,,,en,1.0
+minus 27.4 degrees,minus 27.4 degrees,QUANTITY,,,en,1.0
+More than 3 thousand,More than 3 thousand,CARDINAL,,,en,1.0
+more than 570 thousand,more than 570 thousand,CARDINAL,,,en,1.0
+February 2,February 2,DATE,,,en,1.0
+afternoon,afternoon,TIME,,,en,1.0
+February 5,February 5,DATE,,,en,1.0
+-45 degrees,-45 degrees,QUANTITY,,,en,1.0
+At least 5,At least 5,CARDINAL,,,en,1.0
+the Presidential Complex,the Presidential Complex,FAC,,,en,1.0
+the 2026 Türkiye Culture Road Festival,the 2026 Türkiye Culture Road Festival,EVENT,,,en,1.0
+Halkapınar Pump Station,Halkapınar Pump Station,FAC,,,en,1.0
+January 30,January 30,DATE,,,en,1.0
+the Türkiye Culture Road Festival Project Evaluation Board,the Türkiye Culture Road Festival Project Evaluation Board,EVENT,,,en,1.0
+Storm Girl,Storm Girl,WORK_OF_ART,,,en,1.0
+the previous evening,the previous evening,TIME,,,en,1.0
+143,143,CARDINAL,,,en,1.0
+More than a thousand,More than a thousand,CARDINAL,,,en,1.0
+Tens of kilograms,Tens of kilograms,QUANTITY,,,en,1.0
+Earthquake Martyrs Digital Album,Earthquake Martyrs Digital Album,WORK_OF_ART,,,en,1.0
+500 billion dollar,500 billion dollar,MONEY,,,en,1.0
+more than 1000,more than 1000,CARDINAL,,,en,1.0
+7 thousand years,7 thousand years,DATE,,,en,1.0
+thousands of years,thousands of years,DATE,,,en,1.0
+eight,eight,CARDINAL,,,en,1.0
+Syrians,Syrians,NORP,,,en,1.0
+February 5th,February 5th,DATE,,,en,1.0
+minus 30.9 degrees,minus 30.9 degrees,QUANTITY,,,en,1.0
+180 million,180 million,CARDINAL,,,en,1.0
+2 years ago,2 years ago,DATE,,,en,1.0
+the beginning of spring,the beginning of spring,DATE,,,en,1.0
+that night,that night,TIME,,,en,1.0
+this holy month,this holy month,DATE,,,en,1.0
+Kahramanmaraş,Kahramanmaraş,NORP,0.0037453183520599247,0.007490636704119849,en,1.0
+25 minutes,25 minutes,TIME,,,en,1.0
+about 25 minutes,about 25 minutes,TIME,,,en,1.0
+seven-day,seven-day,DATE,,,en,1.0
+zero,zero,CARDINAL,,,en,1.0
+Muslims,Muslims,NORP,,,en,1.0
+approximately 53 thousand,approximately 53 thousand,CARDINAL,,,en,1.0
+Selçuk-Aydın highway,Selçuk-Aydın highway,FAC,,,en,1.0
+Islamic,Islamic,NORP,,,en,1.0
+14.16,14.16,CARDINAL,,,en,1.0
+4.52 km,4.52 km,QUANTITY,,,en,1.0
+"Thursday, January 22","Thursday, January 22",DATE,,,en,1.0
+Lithuanian,Lithuanian,NORP,,,en,1.0
+80 kilograms,80 kilograms,QUANTITY,,,en,1.0
+minutes,minutes,TIME,,,en,1.0
+23.11,23.11,CARDINAL,,,en,1.0
+tens of thousands,tens of thousands,CARDINAL,,,en,1.0
+86 million,86 million,CARDINAL,,,en,1.0
+the Turkish Grand National Assembly,the Turkish Grand National Assembly,EVENT,,,en,1.0
+March 31,March 31,DATE,,,en,1.0
+47 years,47 years,DATE,,,en,1.0
+23 years,23 years,DATE,,,en,1.0
+"Today, tomorrow","Today, tomorrow",DATE,,,en,1.0
+79.4 billion,79.4 billion,MONEY,,,en,1.0
+Kernek Karagözlüler Mosque,Kernek Karagözlüler Mosque,FAC,,,en,1.0
+260 million dollars,260 million dollars,MONEY,,,en,1.0
+130 million dollar,130 million dollar,MONEY,,,en,1.0
+every seven years,every seven years,DATE,,,en,1.0
+the third year,the third year,DATE,,,en,1.0
+five-hundred-year-old,five-hundred-year-old,CARDINAL,,,en,1.0
+80 kg,80 kg,QUANTITY,,,en,1.0
+Third,Third,ORDINAL,,,en,1.0
+240 years,240 years,DATE,,,en,1.0
+Three years ago,Three years ago,DATE,,,en,1.0
+23.28,23.28,CARDINAL,,,en,1.0
+Elbistan,Elbistan,NORP,,,en,1.0
+just nine hours,just nine hours,TIME,,,en,1.0
+"January 1, 2026","January 1, 2026",DATE,,,en,1.0
+74.4 kilograms,74.4 kilograms,QUANTITY,,,en,1.0
+Approximately 300 meters,Approximately 300 meters,QUANTITY,,,en,1.0
+only a week old,only a week old,DATE,,,en,1.0
+Mar-a,Mar-a,DATE,,,en,1.0
+the night into day,the night into day,TIME,,,en,1.0
+Algerian,Algerian,NORP,,,en,1.0
+62 kilometers,62 kilometers,QUANTITY,,,en,1.0
+"January 10, 2026","January 10, 2026",DATE,,,en,1.0
+Atatürk Park,Atatürk Park,FAC,,,en,1.0
+these days,these days,DATE,,,en,1.0
+Wednesday morning,Wednesday morning,TIME,,,en,1.0
+61,61,DATE,,,en,1.0
+January 10,January 10,DATE,,,en,1.0
+summer days,summer days,DATE,,,en,1.0
+UNICEF Child Rights Defender,UNICEF Child Rights Defender,LAW,,,en,1.0
+60 kilometers per hour,60 kilometers per hour,QUANTITY,,,en,1.0
+82 million,82 million,CARDINAL,,,en,1.0
+"Nearly 9,000","Nearly 9,000",CARDINAL,,,en,1.0
+approximately 9 thousand,approximately 9 thousand,CARDINAL,,,en,1.0
+last 16,last 16,DATE,,,en,1.0
+90,90,CARDINAL,,,en,1.0
+the 23rd week,the 23rd week,DATE,,,en,1.0
+Irish,Irish,NORP,,,en,1.0
+10 thousand,10 thousand,CARDINAL,,,en,1.0
+'Museum of Innocence','Museum of Innocence',WORK_OF_ART,,,en,1.0
+Yedisu Fault,Yedisu Fault,WORK_OF_ART,,,en,1.0
+53,53,CARDINAL,,,en,1.0
+"Sunday, February 22, 2026","Sunday, February 22, 2026",DATE,,,en,1.0
+February 22-26,February 22-26,DATE,,,en,1.0
+two weeks ago,two weeks ago,DATE,,,en,1.0
+Ukrainian,Ukrainian,NORP,,,en,1.0
+68 days,68 days,DATE,,,en,1.0
+1.5 trillion dollar,1.5 trillion dollar,MONEY,,,en,1.0
+Netflix,Netflix,WORK_OF_ART,,,en,1.0
+"February 18, 2026","February 18, 2026",DATE,,,en,1.0
+8 thousand hours,8 thousand hours,TIME,,,en,1.0
+"Sunday, February 22","Sunday, February 22",DATE,,,en,1.0
+"Monday, January 12","Monday, January 12",DATE,,,en,1.0
+up to 70 percent,up to 70 percent,PERCENT,,,en,1.0
+2 thousand meters,2 thousand meters,QUANTITY,,,en,1.0
+60 percent,60 percent,PERCENT,,,en,1.0
+U2,U2,CARDINAL,,,en,1.0
+Days of Ash,Days of Ash,WORK_OF_ART,,,en,1.0
+60-90 km,60-90 km,QUANTITY,,,en,1.0
+86,86,CARDINAL,,,en,1.0
+06.43,06.43,CARDINAL,,,en,1.0
+26 February,26 February,DATE,,,en,1.0
+50 million Euros,50 million Euros,MONEY,,,en,1.0
+27 million Euros,27 million Euros,MONEY,,,en,1.0
+More than 17 thousand,More than 17 thousand,CARDINAL,,,en,1.0
+summer,summer,DATE,,,en,1.0
+late at night,late at night,TIME,,,en,1.0
+6.5 million,6.5 million,CARDINAL,,,en,1.0
+approximately 6.5 million,approximately 6.5 million,CARDINAL,,,en,1.0
+under 5 years old,under 5 years old,DATE,,,en,1.0
+February 26,February 26,DATE,,,en,1.0
+"1,800 square meter","1,800 square meter",QUANTITY,,,en,1.0
+The driest year,The driest year,DATE,,,en,1.0
+Years later,Years later,DATE,,,en,1.0
+Hundreds,Hundreds,CARDINAL,,,en,1.0
+February 23,February 23,DATE,,,en,1.0
+the 1950s,the 1950s,DATE,,,en,1.0
+11 years,11 years,DATE,,,en,1.0
+2014,2014,DATE,,,en,1.0
+F-16s,F-16s,QUANTITY,,,en,1.0
+2012,2012,DATE,,,en,1.0
+50 million,50 million,CARDINAL,,,en,1.0
+145 km,145 km,QUANTITY,,,en,1.0
+600 thousand,600 thousand,CARDINAL,,,en,1.0
+minus 10 degrees,minus 10 degrees,QUANTITY,,,en,1.0
+approximately 20 hours,approximately 20 hours,TIME,,,en,1.0
+63,63,CARDINAL,,,en,1.0
+below 5 degrees,below 5 degrees,QUANTITY,,,en,1.0
+winter of the year',winter of the year',DATE,,,en,1.0
+the last two months,the last two months,DATE,,,en,1.0
+50 percent,50 percent,PERCENT,,,en,1.0
+the driest year,the driest year,DATE,,,en,1.0
+"9,600","9,600",CARDINAL,,,en,1.0
+two-year,two-year,DATE,,,en,1.0
+"approximately 1,200 years ago","approximately 1,200 years ago",DATE,,,en,1.0
+thousands of acres,thousands of acres,QUANTITY,,,en,1.0
+more than 1.3 million,more than 1.3 million,CARDINAL,,,en,1.0
+between 23 February,between 23 February,DATE,,,en,1.0
+16 March 2026,16 March 2026,DATE,,,en,1.0
+The Crown,The Crown,WORK_OF_ART,,,en,1.0
+the beginning of the winter months,the beginning of the winter months,DATE,,,en,1.0
+summer evening,summer evening,TIME,,,en,1.0
+4-6 degrees,4-6 degrees,QUANTITY,,,en,1.0
+296 kilometers,296 kilometers,QUANTITY,,,en,1.0
+"Monday, January 26, 2026","Monday, January 26, 2026",DATE,,,en,1.0
+48 hours,48 hours,TIME,,,en,1.0
 "the ""Arch of Love","the ""Arch of Love",WORK_OF_ART,,,en,1.0
 the night of Valentine's Day,the night of Valentine's Day,TIME,,,en,1.0
 80 km/h,80 km/h,QUANTITY,,,en,1.0
 up to 80 km/h,up to 80 km/h,QUANTITY,,,en,1.0
-Gülcan,Gülcan,NORP,,,en,1.0
-Çorlu Atatürk Airport,Çorlu Atatürk Airport,FAC,,,en,1.0
-15 billion,15 billion,CARDINAL,,,en,1.0
-2026-2030,2026-2030,DATE,,,en,1.0
-15 Billion TL,15 Billion TL,QUANTITY,,,en,1.0
-1825 meters,1825 meters,QUANTITY,,,en,1.0
-the Akseki-Seydişehir highway,the Akseki-Seydişehir highway,FAC,,,en,1.0
+five years,five years,DATE,,,en,1.0
+2031,2031,DATE,,,en,1.0
+February 16,February 16,DATE,,,en,1.0
+February 17,February 17,DATE,,,en,1.0
+20 thousand acres,20 thousand acres,QUANTITY,,,en,1.0
+"Tuesday, January 27","Tuesday, January 27",DATE,,,en,1.0
+20 thousand,20 thousand,CARDINAL,,,en,1.0
+Edirne Palace,Edirne Palace,FAC,,,en,1.0
+the end of February,the end of February,DATE,,,en,1.0
+23 degrees,23 degrees,QUANTITY,,,en,1.0
+last weekend,last weekend,DATE,,,en,1.0
+12°,12°,QUANTITY,,,en,1.0
+midnight,midnight,TIME,,,en,1.0
+4°,4°,PERCENT,,,en,1.0
+Valentine's Day:,Valentine's Day:,EVENT,,,en,1.0
+Ordu,Ordu,NORP,0.15476190476190477,0.2619047619047619,en,1.0
+the summer of 2026,the summer of 2026,DATE,,,en,1.0
+week,week,DATE,,,en,1.0
+the 22nd week,the 22nd week,DATE,,,en,1.0
+05.36,05.36,CARDINAL,,,en,1.0
+Weekly,Weekly,DATE,,,en,1.0
+Those days,Those days,DATE,,,en,1.0
+last minute,last minute,TIME,,,en,1.0
+25 degrees,25 degrees,QUANTITY,,,en,1.0
+February 15,February 15,DATE,,,en,1.0
+as of the evening hours,as of the evening hours,TIME,,,en,1.0
+Hundreds of acres,Hundreds of acres,QUANTITY,,,en,1.0
+up to 80 kilometers per hour,up to 80 kilometers per hour,QUANTITY,,,en,1.0
+Hundreds of millions of liras,Hundreds of millions of liras,MONEY,,,en,1.0
+Snowy days,Snowy days,DATE,,,en,1.0
+February 1,February 1,DATE,,,en,1.0
+week-long,week-long,DATE,,,en,1.0
+11 degrees,11 degrees,QUANTITY,,,en,1.0
+February 16-20,February 16-20,DATE,,,en,1.0
+winter months,winter months,DATE,,,en,1.0
+the Edirne Palace,the Edirne Palace,FAC,,,en,1.0
+1.67,1.67,CARDINAL,,,en,1.0
+episode last night,episode last night,TIME,,,en,1.0
+47,47,DATE,,,en,1.0
+7571,7571,DATE,,,en,1.0
 Winter Olympic Games,Winter Olympic Games,EVENT,,,en,1.0
 At least 3,At least 3,CARDINAL,,,en,1.0
 Courmayeur,Courmayeur,FAC,,,en,1.0
@@ -848,121 +1016,36 @@ Courmayeur,Courmayeur,FAC,,,en,1.0
 70 kilometers,70 kilometers,QUANTITY,,,en,1.0
 January 1st,January 1st,DATE,,,en,1.0
 35,35,DATE,,,en,1.0
-7571,7571,DATE,,,en,1.0
 Certain Laws,Certain Laws,LAW,,,en,1.0
+1825 meters,1825 meters,QUANTITY,,,en,1.0
 the Decree Law,the Decree Law,LAW,,,en,1.0
 631,631,CARDINAL,,,en,1.0
-7 years,7 years,DATE,,,en,1.0
-69,69,CARDINAL,,,en,1.0
-millions of liras,millions of liras,MONEY,,,en,1.0
-last weekend,last weekend,DATE,,,en,1.0
-five years,five years,DATE,,,en,1.0
-2031,2031,DATE,,,en,1.0
-February 16,February 16,DATE,,,en,1.0
-February 17,February 17,DATE,,,en,1.0
-20 thousand acres,20 thousand acres,QUANTITY,,,en,1.0
-20 thousand,20 thousand,CARDINAL,,,en,1.0
-the end of February,the end of February,DATE,,,en,1.0
-23 degrees,23 degrees,QUANTITY,,,en,1.0
-12°,12°,QUANTITY,,,en,1.0
-More than 30,More than 30,CARDINAL,,,en,1.0
-4°,4°,PERCENT,,,en,1.0
-episode last night,episode last night,TIME,,,en,1.0
+11th,11th,ORDINAL,,,en,1.0
+Judicial Package,Judicial Package,EVENT,,,en,1.0
+06.10,06.10,CARDINAL,,,en,1.0
+last Tuesday,last Tuesday,DATE,,,en,1.0
+Six,Six,CARDINAL,,,en,1.0
+İzmir,İzmir,NORP,0.0,0.0,en,1.0
+the Akseki-Seydişehir highway,the Akseki-Seydişehir highway,FAC,,,en,1.0
+15 Billion TL,15 Billion TL,QUANTITY,,,en,1.0
 51st,51st,ORDINAL,,,en,1.0
+last year's,last year's,DATE,,,en,1.0
 the end of the century,the end of the century,DATE,,,en,1.0
+this summer,this summer,DATE,,,en,1.0
 85 centimeters,85 centimeters,QUANTITY,,,en,1.0
 80-85 centimeters,80-85 centimeters,QUANTITY,,,en,1.0
+South Korean,South Korean,NORP,,,en,1.0
 Bursa Sea Buses,Bursa Sea Buses,FAC,,,en,1.0
 "Wednesday, February 18, 2026","Wednesday, February 18, 2026",DATE,,,en,1.0
-20 percent,20 percent,PERCENT,,,en,1.0
-2 days,2 days,DATE,,,en,1.0
-Earthquake Martyrs Digital Album,Earthquake Martyrs Digital Album,WORK_OF_ART,,,en,1.0
-47 years,47 years,DATE,,,en,1.0
-"Today, tomorrow","Today, tomorrow",DATE,,,en,1.0
-50 years later,50 years later,DATE,,,en,1.0
-79.4 billion,79.4 billion,MONEY,,,en,1.0
-Kernek Karagözlüler Mosque,Kernek Karagözlüler Mosque,FAC,,,en,1.0
-260 million dollars,260 million dollars,MONEY,,,en,1.0
-130 million dollar,130 million dollar,MONEY,,,en,1.0
-the Turkish Grand National Assembly,the Turkish Grand National Assembly,EVENT,,,en,1.0
-Third,Third,ORDINAL,,,en,1.0
-240 years,240 years,DATE,,,en,1.0
-Three years ago,Three years ago,DATE,,,en,1.0
-Elbistan,Elbistan,NORP,,,en,1.0
-just nine hours,just nine hours,TIME,,,en,1.0
-the third year,the third year,DATE,,,en,1.0
-tens of thousands,tens of thousands,CARDINAL,,,en,1.0
-approximately 53 thousand,approximately 53 thousand,CARDINAL,,,en,1.0
-that night,that night,TIME,,,en,1.0
-Kahramanmaraş,Kahramanmaraş,NORP,0.004694835680751174,0.009389671361502348,en,1.0
-25 minutes,25 minutes,TIME,,,en,1.0
-about 25 minutes,about 25 minutes,TIME,,,en,1.0
-23 years,23 years,DATE,,,en,1.0
-March 31,March 31,DATE,,,en,1.0
-the La Niña,the La Niña,FAC,,,en,1.0
-86 million,86 million,CARDINAL,,,en,1.0
-500 billion dollar,500 billion dollar,MONEY,,,en,1.0
-7 thousand years,7 thousand years,DATE,,,en,1.0
-thousands of years,thousands of years,DATE,,,en,1.0
-eight,eight,CARDINAL,,,en,1.0
-Syrians,Syrians,NORP,,,en,1.0
-afternoon,afternoon,TIME,,,en,1.0
-February 2,February 2,DATE,,,en,1.0
-the winter months,the winter months,DATE,,,en,1.0
-Beyaz,Beyaz,FAC,,,en,1.0
-50,50,CARDINAL,,,en,1.0
-"February 3, 2026","February 3, 2026",DATE,,,en,1.0
-Hakkari,Hakkari,NORP,,,en,1.0
-42 percent,42 percent,PERCENT,,,en,1.0
-Semeru Volcano,Semeru Volcano,FAC,,,en,1.0
-3 hours,3 hours,TIME,,,en,1.0
-approximately 800 meters,approximately 800 meters,QUANTITY,,,en,1.0
-More than 3 thousand,More than 3 thousand,CARDINAL,,,en,1.0
-February 5th,February 5th,DATE,,,en,1.0
-February 5,February 5,DATE,,,en,1.0
-February 2026,February 2026,DATE,,,en,1.0
-zero,zero,CARDINAL,,,en,1.0
-2 years ago,2 years ago,DATE,,,en,1.0
-Selçuk-Aydın highway,Selçuk-Aydın highway,FAC,,,en,1.0
-Standard Precipitation Index,Standard Precipitation Index,EVENT,,,en,1.0
-'Shots of the Year','Shots of the Year',WORK_OF_ART,,,en,1.0
-"the ""Shots of the Year","the ""Shots of the Year",WORK_OF_ART,,,en,1.0
-the year 2025,the year 2025,DATE,,,en,1.0
-11 billion liras,11 billion liras,MONEY,,,en,1.0
-11 billion lira,11 billion lira,MONEY,,,en,1.0
-10 February,10 February,DATE,,,en,1.0
-six minutes,six minutes,TIME,,,en,1.0
-"February 10, 2026","February 10, 2026",DATE,,,en,1.0
-the 2026 Winter Olympics,the 2026 Winter Olympics,EVENT,,,en,1.0
-Mongolian,Mongolian,NORP,,,en,1.0
-Winter Olympics,Winter Olympics,EVENT,,,en,1.0
-more than 120 thousand,more than 120 thousand,CARDINAL,,,en,1.0
-the Super Bowl,the Super Bowl,EVENT,,,en,1.0
-the Super Bowl 60,the Super Bowl 60,EVENT,,,en,1.0
-American,American,NORP,,,en,1.0
-just 10 years ago,just 10 years ago,DATE,,,en,1.0
-30-60 km/h,30-60 km/h,QUANTITY,,,en,1.0
-three hottest years,three hottest years,DATE,,,en,1.0
-32 thousand,32 thousand,CARDINAL,,,en,1.0
-only 2 thousand,only 2 thousand,CARDINAL,,,en,1.0
-6 percent,6 percent,PERCENT,,,en,1.0
-Indian,Indian,NORP,,,en,1.0
-14.16,14.16,CARDINAL,,,en,1.0
-4.52 km,4.52 km,QUANTITY,,,en,1.0
-Lithuanian,Lithuanian,NORP,,,en,1.0
-80 kilograms,80 kilograms,QUANTITY,,,en,1.0
-minutes,minutes,TIME,,,en,1.0
-Mass Opening Ceremony of Completed Investments,Mass Opening Ceremony of Completed Investments,EVENT,,,en,1.0
-"Rising from the Ashes Again, Look at the Power of My Turkey","Rising from the Ashes Again, Look at the Power of My Turkey",WORK_OF_ART,,,en,1.0
-fourth,fourth,ORDINAL,,,en,1.0
-the 24th week,the 24th week,DATE,,,en,1.0
-56 years,56 years,DATE,,,en,1.0
-250,250,CARDINAL,,,en,1.0
-80-100 lira,80-100 lira,MONEY,,,en,1.0
-250 lira,250 lira,MONEY,,,en,1.0
-Islamist,Islamist,NORP,,,en,1.0
-Taksim Mosque,Taksim Mosque,FAC,,,en,1.0
-the Rami Library,the Rami Library,FAC,,,en,1.0
-"November 8, 2025","November 8, 2025",DATE,,,en,1.0
-more than 200,more than 200,CARDINAL,,,en,1.0
-this day,this day,DATE,,,en,1.0
+"Thursday, January 15, 2026","Thursday, January 15, 2026",DATE,,,en,1.0
+the third hottest year,the third hottest year,DATE,,,en,1.0
+2026-2030,2026-2030,DATE,,,en,1.0
+More than 30,More than 30,CARDINAL,,,en,1.0
+105 - 115 billion dollars,105 - 115 billion dollars,MONEY,,,en,1.0
+millions of liras,millions of liras,MONEY,,,en,1.0
+69,69,CARDINAL,,,en,1.0
+more than 200 million,more than 200 million,CARDINAL,,,en,1.0
+Gülcan,Gülcan,NORP,,,en,1.0
+Çorlu Atatürk Airport,Çorlu Atatürk Airport,FAC,,,en,1.0
+15 billion,15 billion,CARDINAL,,,en,1.0
+Mayan,Mayan,NORP,,,en,1.0
