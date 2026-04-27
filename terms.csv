@@ -77,7 +77,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d9577e33d',extremes,Volcano,#b83202,random,volkan,2026-03-18T04:35:00+00:00,,0.3901641737062509,1,3,tr,,
 '0c844be7b0',extremes,Storm,#b3b2b1,wmo,fırtına dalgası doğu bölgesi,2026-04-08T05:01:00+00:00,North Macedonia,0.3874885662892722,1,1,tr,MED,Europe
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,kar fırtınası,2026-04-22T05:13:00+00:00,,0.3868607052843602,1,2,tr,,
-'f37139fe2d',extremes,Landslide,#572c03,random,toprak kayması,2026-03-29T04:59:00+00:00,,0.38564890164124443,1,3,tr,,
+'f37139fe2d',extremes,Landslide,#572c03,random,toprak kayması,2026-03-29T04:59:00+00:00,,0.3856489016412444,1,3,tr,,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,sağanak,2026-04-13T05:27:00+00:00,,0.3855443489501551,0,1,tr,,
 '848cffa79e',extremes,Precipitation,#d60d2b,wmo,yağış Üsküp bölgesi,2026-03-27T04:57:00+00:00,North Macedonia,0.3851118002566362,1,1,tr,MED,Europe
 '772b48a222',extremes,Precipitation,#d60d2b,wmo,yağmur polog bölgesi,2026-03-27T04:57:00+00:00,North Macedonia,0.3843454408670795,1,1,tr,MED,Europe
@@ -125,11 +125,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '845dd2d698',extremes,Storm,#b3b2b1,random,kasırga,2026-03-31T04:59:00+00:00,,0.3211439890830261,0,1,tr,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,heyelan,2026-04-12T05:11:00+00:00,,0.3204786149208289,0,1,tr,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,kasırga,2026-04-11T04:34:00+00:00,,0.3199672519219394,0,1,tr,,
-'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,ilaç,2026-03-28T04:33:00+00:00,,0.3195279864174729,0,1,tr,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,orman yangını,2026-04-18T04:56:00+00:00,,0.3170833250209666,0,1,tr,,
 '792a35d4a4',extremes,Flood,#030ba1,random,çoklu sel,2026-03-24T04:31:00+00:00,,0.3170813586317949,1,1,tr,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,en soğuk yıl,2026-04-06T05:11:00+00:00,,0.3162532665588641,1,1,tr,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,en soğuk gün,2026-04-07T04:58:00+00:00,,0.3137094110459205,0,1,tr,,
+'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,ilaç,2026-03-28T04:33:00+00:00,,0.31291776481848826,1,2,tr,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,çekirge,2026-04-06T05:11:00+00:00,,0.3106835234491278,1,1,tr,,
 'd59a7e48d7',extremes,Drought,#edc291,random,buharlaşma-terleme,2026-04-16T05:16:00+00:00,,0.3093673195855034,1,1,tr,,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-04-07T04:58:00+00:00,,0.3088546559419947,1,1,tr,,
@@ -139,7 +139,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur yeni zelanda,2026-04-06T05:11:00+00:00,New Zealand,0.3048631512422621,0,1,tr,NZ,Oceania
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,don,2026-03-27T04:56:00+00:00,,0.3048577872373129,0,1,tr,,
 '919b5ab130',extremes,Earthquake,#870007,usgs,deprem yap,2026-04-10T05:12:00+00:00,Federated States,0.3040244027510582,0,1,tr,NPO,Pacific Ocean
-'1c644a9153',extremes,Tropical Cyclone,#4f4f4f,wmo,tayfun solomon adaları,2026-04-10T05:13:00+00:00,Solomon Islands,0.3039253635911395,0,1,tr,EPO,Oceania
 '5295642073',extremes,Flood,#030ba1,wmo,Rusya'da sel,2026-03-30T05:12:00+00:00,Russia,0.3039169689649052,0,1,tr,ESB,Europe
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,sağanak yeni zelanda,2026-04-03T04:43:00+00:00,New Zealand,0.3039164199964267,0,1,tr,NZ,Oceania
 '1c54e04594',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur mila,2026-04-03T04:43:00+00:00,Algeria,0.3038902522334195,0,1,tr,SAH,Africa
@@ -406,3 +405,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,dondurucu doğu fiyortları,2026-04-13T05:28:00+00:00,Iceland,0.2584114017324415,1,1,tr,GIC,Europe
 'f986239716',extremes,Wildfire,#d60d2b,wmo,orman yangını gujarat,2026-04-03T04:43:00+00:00,India,0.258407667659866,1,1,tr,SAS,Asia
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,fırtına dalgası jamaika,2026-03-30T05:12:00+00:00,Jamaica,0.2583542609544118,1,1,tr,CAR,North-America
+'1c644a9153',extremes,Tropical Cyclone,#4f4f4f,wmo,tayfun solomon adaları,2026-04-10T05:13:00+00:00,Solomon Islands,0.25833655905246855,1,1,tr,EPO,Oceania
