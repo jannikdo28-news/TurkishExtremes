@@ -50,7 +50,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '15a9c61e3e',extremes,Landslide,#572c03,random,heyelan,2026-04-20T05:26:00+00:00,,0.4209463793806126,1,3,tr,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,orman yangını,2026-04-08T05:00:00+00:00,,0.4206165945742703,1,2,tr,,
 'c1eef80860',extremes,Drought,#edc291,edo,kuraklık bulgaristan,2026-04-04T04:30:00+00:00,Bulgaria,0.4196285933145167,1,1,tr,MED,Europe
-'62084daeb0',extremes,Earthquake,#870007,random,deprem,2026-04-11T04:34:00+00:00,,0.41951633128986543,1,3,tr,,
+'62084daeb0',extremes,Earthquake,#870007,random,deprem,2026-04-11T04:34:00+00:00,,0.4195163312898654,1,3,tr,,
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,fırtına avustralya,2026-03-19T04:35:00+00:00,Australia,0.418354944578776,1,2,tr,EAU,Oceania
 '59b529f428',extremes,Thunderstorm,#53785a,random,dolu fırtınası,2026-03-28T04:33:00+00:00,,0.4144570309995969,1,2,tr,,
 '54927bfe65',extremes,Flood,#030ba1,random,kıyı su baskını,2026-03-27T04:56:00+00:00,,0.4113076676419128,1,2,tr,,
@@ -71,6 +71,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8220584aae',extremes,Drought,#edc291,edo,kuruluk kuzey makedonya,2026-04-12T05:12:00+00:00,North Macedonia,0.4003912656994933,1,1,tr,MED,Europe
 '131d299cd1',extremes,Storm,#b3b2b1,wmo,fırtına Üsküp bölgesi,2026-04-04T04:30:00+00:00,North Macedonia,0.399642909816909,1,1,tr,MED,Europe
 'cf98137375',extremes,Precipitation,#d60d2b,wmo,sağanak pelagonya bölgesi,2026-03-27T04:57:00+00:00,North Macedonia,0.3992551205735186,1,1,tr,MED,Europe
+'283b154c38',extremes,Wet Spell,#d60d2b,random,ıslak büyü,2026-04-17T05:15:00+00:00,,0.3987360670765234,0,1,tr,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,kar fırtınası,2026-03-22T04:32:00+00:00,,0.396327568819987,1,3,tr,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,soğuk ani,2026-04-01T05:12:00+00:00,,0.3954554441730384,1,2,tr,,
 'fa9eac41c9',extremes,Storm,#b3b2b1,wmo,kuzeydoğu bölgesinde fırtına dalgası,2026-04-04T04:30:00+00:00,North Macedonia,0.3940845076932117,1,1,tr,MED,Europe
@@ -87,7 +88,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-04-10T05:12:00+00:00,,0.3796678711911354,1,3,tr,,
 '4ad9528180',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur doğu bölgesi,2026-04-01T05:12:00+00:00,North Macedonia,0.3762326082356932,1,1,tr,MED,Europe
 '126dbdb910',extremes,Drought,#edc291,edo,Moldova'nın kuraklığı,2026-04-11T04:34:00+00:00,Moldova,0.3759772211295786,1,1,tr,WCE,Europe
-'a4c593186d',extremes,Storm,#b3b2b1,wmo,fırtına dalgası Pelagonya bölgesi,2026-04-01T05:12:00+00:00,North Macedonia,0.37548497275719706,2,1,tr,MED,Europe
+'a4c593186d',extremes,Storm,#b3b2b1,wmo,fırtına dalgası Pelagonya bölgesi,2026-04-01T05:12:00+00:00,North Macedonia,0.375484972757197,2,1,tr,MED,Europe
 'fbaa1c52eb',extremes,Drought,#edc291,edo,kuruluk kıbrıs,2026-03-27T04:57:00+00:00,Cyprus,0.3730264005393275,1,1,tr,MED,Europe
 '0be5ded7e1',extremes,Drought,#edc291,edo,kuruluk hindi,2026-04-08T05:01:00+00:00,Turkey,0.3724234969766686,1,1,tr,MED,Asia
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,yağış suudi arabistan,2026-04-08T05:01:00+00:00,Saudi Arabia,0.3720808369573875,1,2,tr,ARP,Asia
