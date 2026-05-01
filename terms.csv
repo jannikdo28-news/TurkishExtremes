@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'4806a05714',extremes,Earthquake,#870007,usgs,deprem türkiye,2026-04-09T04:57:00+00:00,Turkey,0.6315018515037194,1,2,tr,WCA,Asia
+'4806a05714',extremes,Earthquake,#870007,usgs,deprem türkiye,2026-04-09T04:57:00+00:00,Turkey,0.5871835642327069,2,3,tr,WCA,Asia
 '69840e877f',extremes,Storm,#b3b2b1,wmo,fırtına bulgaristan,2026-04-08T05:01:00+00:00,Bulgaria,0.5757956905519552,1,1,tr,MED,Europe
 'c8dd7549e0',extremes,Storm,#b3b2b1,wmo,güneydoğu bölgesinde fırtına,2026-03-26T04:56:00+00:00,North Macedonia,0.5709049367055291,2,1,tr,MED,Europe
 'ee67546360',extremes,Precipitation,#d60d2b,wmo,yağış bulgaristan,2026-04-30T05:46:00+00:00,Bulgaria,0.5692581032112701,1,1,tr,MED,Europe
@@ -379,7 +379,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2f5808d63b',extremes,Storm,#b3b2b1,wmo,fırtına dalgası birleşik krallık,2026-04-04T04:30:00+00:00,United Kingdom,0.2580106772699024,1,1,tr,NEU,Europe
 '6e5947027b',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur waikato,2026-04-11T04:34:00+00:00,New Zealand,0.2578834271953826,1,1,tr,NZ,Oceania
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,sağanak kanada,2026-04-22T05:13:00+00:00,Canada,0.2578193847747747,1,1,tr,NEN,North-America
-'151e85aca0',extremes,Precipitation,#d60d2b,wmo,yağış otago kaynak suları,2026-04-16T05:17:00+00:00,New Zealand,0.25777958947649865,1,1,tr,NZ,Oceania
+'151e85aca0',extremes,Precipitation,#d60d2b,wmo,yağış otago kaynak suları,2026-04-16T05:17:00+00:00,New Zealand,0.2577795894764986,1,1,tr,NZ,Oceania
 '12f98a50ad',extremes,Snow Avalanche,#deddd5,wmo,çığ hardanger,2026-04-10T05:13:00+00:00,Norway,0.2575636613354758,1,1,tr,NEU,Europe
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,tayfun amerika birleşik devletleri,2026-04-12T05:12:00+00:00,United States,0.2574037132904648,1,1,tr,CNA,North-America
 '0a84ababc1',extremes,Snow&Ice,#d60d2b,wmo,buz nakina aroland pagwa,2026-04-08T05:01:00+00:00,Canada,0.257317666895948,1,1,tr,NEN,North-America
