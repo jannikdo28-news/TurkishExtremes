@@ -2,20 +2,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4806a05714',extremes,Earthquake,#870007,usgs,deprem türkiye,2026-04-09T04:57:00+00:00,Turkey,0.5871835642327069,2,3,tr,WCA,Asia
 '69840e877f',extremes,Storm,#b3b2b1,wmo,fırtına bulgaristan,2026-04-08T05:01:00+00:00,Bulgaria,0.5757956905519552,1,1,tr,MED,Europe
 'c8dd7549e0',extremes,Storm,#b3b2b1,wmo,güneydoğu bölgesinde fırtına,2026-03-26T04:56:00+00:00,North Macedonia,0.5709049367055291,2,1,tr,MED,Europe
-'ee67546360',extremes,Precipitation,#d60d2b,wmo,yağış bulgaristan,2026-04-30T05:46:00+00:00,Bulgaria,0.5692581032112701,1,1,tr,MED,Europe
 'ea363a8d9a',extremes,Snow&Ice,#d60d2b,wmo,buz bulgaristan,2026-04-23T05:16:00+00:00,Bulgaria,0.5632869692639569,2,2,tr,MED,Europe
 '00ae724501',extremes,Snow&Ice,#d60d2b,wmo,buz kuzey makedonya,2026-03-27T04:57:00+00:00,North Macedonia,0.5630686448069343,2,2,tr,MED,Europe
 '23ed4f617b',extremes,Precipitation,#d60d2b,wmo,yağmur güneydoğu bölgesi,2026-03-27T04:57:00+00:00,North Macedonia,0.5570739683901499,1,2,tr,MED,Europe
-'bddeae448c',extremes,Snow&Ice,#d60d2b,wmo,don Moldova,2026-04-30T05:46:00+00:00,Moldova,0.5423307583519306,0,1,tr,WCE,Europe
-'1d702e03bc',extremes,Precipitation,#d60d2b,wmo,sağanak bulgaristan,2026-04-30T05:46:00+00:00,Bulgaria,0.5288968445778803,1,1,tr,MED,Europe
-'2db1256b65',extremes,Storm,#b3b2b1,wmo,fırtına dalgası kuzey makedonya,2026-03-26T04:56:00+00:00,North Macedonia,0.5224989101065891,1,1,tr,MED,Europe
 '39afca9687',extremes,Storm,#b3b2b1,wmo,fırtına dalgası Üsküp bölgesi,2026-03-26T04:56:00+00:00,North Macedonia,0.5218643692120823,1,1,tr,MED,Europe
 '2866b55c37',extremes,Storm,#b3b2b1,wmo,kuzey makedonya'da fırtına,2026-03-26T04:56:00+00:00,North Macedonia,0.5194734765094408,1,1,tr,MED,Europe
-'bf5b6432f0',extremes,Precipitation,#d60d2b,wmo,güneydoğu bölgesinde sağanak yağmur,2026-04-30T05:46:00+00:00,North Macedonia,0.518602881024564,0,1,tr,MED,Europe
 'df012197cf',extremes,Storm,#b3b2b1,wmo,fırtına vardar bölgesi,2026-03-26T04:56:00+00:00,North Macedonia,0.5130794021870236,1,1,tr,MED,Europe
 '8970729e51',extremes,Snow&Ice,#d60d2b,wmo,kuzey makedonya'nın donması,2026-03-27T04:57:00+00:00,North Macedonia,0.4971654341710653,1,1,tr,MED,Europe
 'f484ebfc83',extremes,Storm,#b3b2b1,wmo,fırtına dalgası bulgaristan,2026-04-07T04:59:00+00:00,Bulgaria,0.4935151816452526,2,1,tr,MED,Europe
 '0c330023f6',extremes,Earthquake,#870007,usgs,deprem finike,2026-04-15T05:11:00+00:00,Turkey,0.4862870299108313,2,1,tr,MED,Asia
+'ee67546360',extremes,Precipitation,#d60d2b,wmo,yağış bulgaristan,2026-04-30T05:46:00+00:00,Bulgaria,0.4838693877295796,2,1,tr,MED,Europe
 'ccefefc59e',extremes,Drought,#edc291,random,ani kuraklık,2026-03-22T04:32:00+00:00,,0.483295630505788,1,2,tr,,
 '454d379110',extremes,Thunderstorm,#53785a,wmo,fırtına kıbrıs,2026-03-25T04:33:00+00:00,Cyprus,0.4828753596179505,1,1,tr,MED,Europe
 'da1ae5191e',extremes,Storm,#b3b2b1,random,fırtına dalgası,2026-04-05T05:00:00+00:00,,0.4801596939303587,1,2,tr,,
@@ -27,13 +23,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '43e3252826',extremes,Storm,#b3b2b1,wmo,Moldova fırtınası,2026-04-08T05:01:00+00:00,Moldova,0.4655118018458317,1,1,tr,WCE,Europe
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,sağanak,2026-04-13T05:27:00+00:00,,0.4644856034258136,1,3,tr,,
 'f1842b905b',extremes,Earthquake,#870007,usgs,deprem erciş,2026-04-05T05:01:00+00:00,Turkey,0.4629907928000487,2,1,tr,WCA,Asia
+'bddeae448c',extremes,Snow&Ice,#d60d2b,wmo,don Moldova,2026-04-30T05:46:00+00:00,Moldova,0.46098114459914097,1,1,tr,WCE,Europe
 '053bb10e09',extremes,Heat Wave,#c40202,random,hint yazı,2026-04-01T05:12:00+00:00,,0.457438217254229,1,2,tr,,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,fırtına,2026-04-18T04:56:00+00:00,,0.4511666227368015,1,3,tr,,
+'1d702e03bc',extremes,Precipitation,#d60d2b,wmo,sağanak bulgaristan,2026-04-30T05:46:00+00:00,Bulgaria,0.44956231789119827,2,1,tr,MED,Europe
 '4dc8bdbf14',extremes,Flood,#030ba1,random,nehir taşması,2026-04-20T05:26:00+00:00,,0.448908591008949,1,2,tr,,
 '685a1d88b5',extremes,Thunderstorm,#53785a,wmo,kuzey makedonya'da şiddetli hava,2026-03-27T04:57:00+00:00,North Macedonia,0.4488289949954772,1,1,tr,MED,Europe
 '1452522387',extremes,Precipitation,#d60d2b,wmo,kuzey makedonya'da sağanak yağmur,2026-03-27T04:57:00+00:00,North Macedonia,0.4442620069909509,1,1,tr,MED,Europe
 'c9080fa8ac',extremes,Drought,#edc291,edo,Kuzey Makedonya'da kuraklık,2026-04-11T04:34:00+00:00,North Macedonia,0.4432035776820335,1,1,tr,MED,Europe
 'eb3988622d',extremes,Earthquake,#870007,usgs,deprem simavı,2026-04-15T05:11:00+00:00,Turkey,0.4410205956459463,1,1,tr,MED,Asia
+'bf5b6432f0',extremes,Precipitation,#d60d2b,wmo,güneydoğu bölgesinde sağanak yağmur,2026-04-30T05:46:00+00:00,North Macedonia,0.4409624638708794,1,1,tr,MED,Europe
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,en soğuk kış,2026-04-13T05:27:00+00:00,,0.4400291195512071,1,2,tr,,
 'c948617fef',extremes,Heat Wave,#c40202,random,aşırı ısıya maruz kalma,2026-04-12T05:11:00+00:00,,0.4394469306985388,1,2,tr,,
 '39bab6b4e3',extremes,Drought,#edc291,edo,kuraklık türkiye,2026-04-17T05:16:00+00:00,Turkey,0.4368258327887915,1,1,tr,MED,Asia
@@ -98,7 +97,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fbaa1c52eb',extremes,Drought,#edc291,edo,kuruluk kıbrıs,2026-03-27T04:57:00+00:00,Cyprus,0.3730264005393275,1,1,tr,MED,Europe
 '0be5ded7e1',extremes,Drought,#edc291,edo,kuruluk hindi,2026-04-08T05:01:00+00:00,Turkey,0.3724234969766686,1,1,tr,MED,Asia
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,yağış suudi arabistan,2026-04-08T05:01:00+00:00,Saudi Arabia,0.3720808369573875,1,2,tr,ARP,Asia
-'4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,gece donu,2026-04-30T05:45:00+00:00,,0.36966396715977573,0,1,tr,,
+'4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,gece donu,2026-04-30T05:45:00+00:00,,0.3696639671597757,0,1,tr,,
 '949e39d877',extremes,Precipitation,#d60d2b,wmo,Pelagonya bölgesi yağmuru,2026-04-02T04:42:00+00:00,North Macedonia,0.3689383287836716,1,1,tr,MED,Europe
 '4c40736a8b',extremes,Precipitation,#d60d2b,wmo,sağanak vardar bölgesi,2026-04-01T05:12:00+00:00,North Macedonia,0.3654197748185757,1,1,tr,MED,Europe
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,donma,2026-04-02T04:41:00+00:00,,0.3650288814147359,1,1,tr,,
