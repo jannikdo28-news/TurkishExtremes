@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'785dd66d15',extremes,Snow&Ice,#d60d2b,wmo,kar bulgaristan,2026-05-04T05:50:00+00:00,Bulgaria,0.6510475442286879,0,1,tr,MED,Europe
+'785dd66d15',extremes,Snow&Ice,#d60d2b,wmo,kar bulgaristan,2026-05-04T05:50:00+00:00,Bulgaria,0.5674319066852938,1,2,tr,MED,Europe
 '00ae724501',extremes,Snow&Ice,#d60d2b,wmo,buz kuzey makedonya,2026-03-27T04:57:00+00:00,North Macedonia,0.5630686448069343,2,2,tr,MED,Europe
 '23ed4f617b',extremes,Precipitation,#d60d2b,wmo,yağmur güneydoğu bölgesi,2026-03-27T04:57:00+00:00,North Macedonia,0.5570739683901499,1,2,tr,MED,Europe
 '4806a05714',extremes,Earthquake,#870007,usgs,deprem türkiye,2026-04-09T04:57:00+00:00,Turkey,0.5540584445978008,3,3,tr,WCA,Asia
@@ -102,7 +102,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tayfun,2026-05-03T05:43:00+00:00,,0.348054293133598,2,2,tr,,
 '2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,sağanak güney afrika,2026-04-03T04:43:00+00:00,South Africa,0.3454908211656139,1,2,tr,WSAF,Africa
 '95a9bcfa10',extremes,Precipitation,#d60d2b,wmo,güneybatı bölgesinde sağanak yağmur,2026-04-02T04:42:00+00:00,North Macedonia,0.343638525250802,1,1,tr,MED,Europe
-'8447ef896b',extremes,Snow&Ice,#d60d2b,random,kar sulu kar,2026-05-06T05:43:00+00:00,,0.34284935869956057,0,1,tr,,
+'8447ef896b',extremes,Snow&Ice,#d60d2b,random,kar sulu kar,2026-05-06T05:43:00+00:00,,0.3428493586995605,0,1,tr,,
 '9797aa6299',extremes,Drought,#edc291,edo,yağmur eksikliği kıbrıs,2026-04-03T04:43:00+00:00,Cyprus,0.3423719578408204,1,1,tr,MED,Europe
 '283b154c38',extremes,Wet Spell,#d60d2b,random,ıslak büyü,2026-04-17T05:15:00+00:00,,0.3389256570150449,1,1,tr,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,en düşük minimum sıcaklık,2026-04-23T05:16:00+00:00,,0.3385755480740421,1,1,tr,,
@@ -120,13 +120,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,soğuğu kaydedin,2026-04-07T04:58:00+00:00,,0.3280897327937368,1,1,tr,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,en soğuk gün,2026-04-07T04:58:00+00:00,,0.3207034043890324,1,2,tr,,
 '0fa8bbc8c4',extremes,Wildfire,#d60d2b,emdat,orman yangını kil ilçeleri florida,2026-05-05T05:29:00+00:00,United States,0.3198870690928678,0,1,tr,WNA,North-America
-'9cb0438918',extremes,Storm,#b3b2b1,emdat,Minnesota fırtınası,2026-05-05T05:29:00+00:00,United States,0.31975809819536355,0,1,tr,WNA,North-America
+'9cb0438918',extremes,Storm,#b3b2b1,emdat,Minnesota fırtınası,2026-05-05T05:29:00+00:00,United States,0.3197580981953635,0,1,tr,WNA,North-America
 '96285201b2',extremes,Storm,#b3b2b1,emdat,fırtına lao cai,2026-05-05T05:29:00+00:00,Vietnam,0.3196522804315967,0,1,tr,SEA,Asia
 '8182ed2818',extremes,Precipitation,#d60d2b,acwe,yağış tazmanya,2026-05-04T05:50:00+00:00,Australia,0.319444101092315,0,1,tr,SAU,Oceania
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,sıcak hava dalgası güney avustralya,2026-05-04T05:50:00+00:00,Australia,0.3194433136307953,0,1,tr,CAU,Oceania
 'd0ad361cd5',extremes,Precipitation,#d60d2b,acwe,yağışlı dönem victoria,2026-05-04T05:50:00+00:00,Australia,0.3194344958015842,0,1,tr,SAU,Oceania
 '9d59b1d751',extremes,Flood,#030ba1,acwe,Güney Avustralya'da ani sel,2026-05-04T05:50:00+00:00,Australia,0.3194273971750887,0,1,tr,CAU,Oceania
-'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,sıcak hava Avustralya,2026-05-04T05:50:00+00:00,Australia,0.31925916326850523,0,1,tr,CAU,Oceania
+'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,sıcak hava Avustralya,2026-05-04T05:50:00+00:00,Australia,0.3192591632685052,0,1,tr,CAU,Oceania
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,en soğuk yıl,2026-04-06T05:11:00+00:00,,0.3162532665588641,1,1,tr,,
 'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2026-04-18T04:57:00+00:00,Moldova,0.3161805884702471,1,1,tr,WCE,Europe
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarktika deniz buzu,2026-05-04T05:49:00+00:00,,0.3144136829627095,1,1,tr,,
