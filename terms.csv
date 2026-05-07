@@ -99,7 +99,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tayfun,2026-05-03T05:43:00+00:00,,0.348054293133598,2,2,tr,,
 '2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,sağanak güney afrika,2026-04-03T04:43:00+00:00,South Africa,0.3454908211656139,1,2,tr,WSAF,Africa
 '95a9bcfa10',extremes,Precipitation,#d60d2b,wmo,güneybatı bölgesinde sağanak yağmur,2026-04-02T04:42:00+00:00,North Macedonia,0.343638525250802,1,1,tr,MED,Europe
-'8447ef896b',extremes,Snow&Ice,#d60d2b,random,kar sulu kar,2026-05-06T05:43:00+00:00,,0.3428493586995605,0,1,tr,,
 '9797aa6299',extremes,Drought,#edc291,edo,yağmur eksikliği kıbrıs,2026-04-03T04:43:00+00:00,Cyprus,0.3423719578408204,1,1,tr,MED,Europe
 '283b154c38',extremes,Wet Spell,#d60d2b,random,ıslak büyü,2026-04-17T05:15:00+00:00,,0.3389256570150449,1,1,tr,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,en düşük minimum sıcaklık,2026-04-23T05:16:00+00:00,,0.3385755480740421,1,1,tr,,
@@ -199,6 +198,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a8e5743d9',extremes,Landslide,#572c03,random,heyelan,2026-04-12T05:11:00+00:00,,0.3000853104099772,1,2,tr,,
 '357f3c8921',extremes,Drought,#edc291,edo,kuzey makedonya'da yağmur eksikliği,2026-04-24T05:22:00+00:00,North Macedonia,0.2956224632152052,1,1,tr,MED,Europe
 'a5ff1cde4a',extremes,Drought,#edc291,random,toprak nemi,2026-04-13T05:27:00+00:00,,0.2939074586589659,1,1,tr,,
+'8447ef896b',extremes,Snow&Ice,#d60d2b,random,kar sulu kar,2026-05-06T05:43:00+00:00,,0.29262207489462644,1,1,tr,,
 'a652c78afc',extremes,Drought,#edc291,random,mega kuraklık,2026-04-09T04:57:00+00:00,,0.2897089760322336,1,1,tr,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-04-21T05:14:00+00:00,,0.2836157536377933,1,1,tr,,
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,kar Arjantin,2026-04-11T04:34:00+00:00,Argentina,0.2821935545245887,1,2,tr,SES,South-America
@@ -337,7 +337,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9865ee96b6',extremes,Thunderstorm,#53785a,wmo,dolu ortası ve geçiş,2026-04-08T05:01:00+00:00,Ghana,0.2574322348779444,1,1,tr,WAF,Africa
 '5a5dd83274',extremes,Fog,#d60d2b,wmo,sis volgograd bölgesi,2026-04-08T05:01:00+00:00,Russia,0.2574096448590164,1,1,tr,ESB,Europe
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,tayfun amerika birleşik devletleri,2026-04-12T05:12:00+00:00,United States,0.2574037132904648,1,1,tr,CNA,North-America
-'9bfe6adaf5',extremes,Snow Avalanche,#deddd5,wmo,çığ çeçen cumhuriyeti,2026-04-10T05:13:00+00:00,Russia,0.25737584381757395,1,1,tr,ESB,Europe
+'9bfe6adaf5',extremes,Snow Avalanche,#deddd5,wmo,çığ çeçen cumhuriyeti,2026-04-10T05:13:00+00:00,Russia,0.2573758438175739,1,1,tr,ESB,Europe
 'd709206c08',extremes,Storm,#b3b2b1,wmo,fırtına kaydı. 15 kordillera,2026-04-13T05:28:00+00:00,Chile,0.2573321602208302,1,1,tr,SWS,South-America
 '0a84ababc1',extremes,Snow&Ice,#d60d2b,wmo,buz nakina aroland pagwa,2026-04-08T05:01:00+00:00,Canada,0.257317666895948,1,1,tr,NEN,North-America
 '1f5ce6636c',extremes,Thunderstorm,#53785a,wmo,şiddetli hava botsvana,2026-04-16T05:17:00+00:00,Botswana,0.2573136580992956,1,1,tr,WSAF,Africa
