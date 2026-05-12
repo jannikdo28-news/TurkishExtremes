@@ -1,7 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tropikal fırtına,2026-04-06T05:11:00+00:00,,0.516976318259623,2,2,tr,,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,fırtına,2026-04-18T04:56:00+00:00,,0.5066258175080994,2,3,tr,,
+'1d9891ffbb',extremes,Thunderstorm,#53785a,wmo,şiddetli hava bulgaristan,2026-05-12T05:52:00+00:00,Bulgaria,0.5016475920340282,0,1,tr,MED,Europe
+'0be5ded7e1',extremes,Drought,#edc291,edo,kuruluk hindi,2026-04-29T05:40:00+00:00,Turkey,0.5008029721769928,0,1,tr,MED,Asia
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,kar yağışı,2026-04-19T05:16:00+00:00,,0.498269791951414,3,3,tr,,
+'27c5f85790',extremes,Drought,#edc291,edo,kuraklık hindisi,2026-05-07T05:46:00+00:00,Turkey,0.4942456761142293,0,1,tr,MED,Asia
 'f484ebfc83',extremes,Storm,#b3b2b1,wmo,fırtına dalgası bulgaristan,2026-04-07T04:59:00+00:00,Bulgaria,0.4935151816452526,2,1,tr,MED,Europe
 '69840e877f',extremes,Storm,#b3b2b1,wmo,fırtına bulgaristan,2026-04-08T05:01:00+00:00,Bulgaria,0.4894263369691619,2,1,tr,MED,Europe
 '785dd66d15',extremes,Snow&Ice,#d60d2b,wmo,kar bulgaristan,2026-05-04T05:50:00+00:00,Bulgaria,0.4872677056824996,2,2,tr,MED,Europe
@@ -31,10 +34,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,şiddetli yağmur,2026-03-26T04:56:00+00:00,,0.4095598255530074,1,3,tr,,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,fırtına dalgası,2026-04-05T05:00:00+00:00,,0.4084357698408049,2,2,tr,,
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,çığ fransa,2026-04-08T05:01:00+00:00,France,0.4080120695255683,1,2,tr,WCE,Europe
+'9cfb4578c4',extremes,Thunderstorm,#53785a,wmo,fırtına Moldova,2026-05-12T05:52:00+00:00,Moldova,0.4075095812262409,0,1,tr,WCE,Europe
 '62084daeb0',extremes,Earthquake,#870007,random,deprem,2026-04-11T04:34:00+00:00,,0.4027260348114732,3,3,tr,,
 '4b7c13d40d',extremes,Storm,#b3b2b1,wmo,fırtına dalgası polog bölgesi,2026-04-08T05:01:00+00:00,North Macedonia,0.4010436089020461,1,1,tr,MED,Europe
 '2eb242efc8',extremes,Snow&Ice,#d60d2b,wmo,Moldova'nın donması,2026-04-29T05:40:00+00:00,Moldova,0.4005644026384791,2,1,tr,WCE,Europe
 '8220584aae',extremes,Drought,#edc291,edo,kuruluk kuzey makedonya,2026-04-12T05:12:00+00:00,North Macedonia,0.4003912656994933,1,1,tr,MED,Europe
+'538eadceb4',extremes,Heat Wave,#c40202,random,ılıman kış,2026-05-12T05:52:00+00:00,,0.39385451240968244,0,1,tr,,
 'bddeae448c',extremes,Snow&Ice,#d60d2b,wmo,don Moldova,2026-04-30T05:46:00+00:00,Moldova,0.3918339729092697,2,1,tr,WCE,Europe
 '82d648b882',extremes,Drought,#edc291,random,kuraklık,2026-04-24T05:21:00+00:00,,0.3908035099843447,1,3,tr,,
 'c8dd7549e0',extremes,Storm,#b3b2b1,wmo,güneydoğu bölgesinde fırtına,2026-04-30T05:46:00+00:00,North Macedonia,0.3896788129301711,2,1,tr,MED,Europe
@@ -58,6 +63,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,yağış suudi arabistan,2026-04-08T05:01:00+00:00,Saudi Arabia,0.3720808369573875,1,2,tr,ARP,Asia
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,en sıcak yıl,2026-04-22T05:13:00+00:00,,0.3677611255888395,1,2,tr,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,sıcaklık düşüyor,2026-04-18T04:56:00+00:00,,0.3653827340482491,2,1,tr,,
+'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,soğuk ani,2026-04-27T05:39:00+00:00,,0.3649331318212676,0,1,tr,,
 'bd9355fd65',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur polog bölgesi,2026-04-30T05:46:00+00:00,North Macedonia,0.3633928105340019,2,1,tr,MED,Europe
 '4f334dd4a7',extremes,Drought,#edc291,edo,yağmur eksikliği bulgaristan,2026-04-11T04:34:00+00:00,Bulgaria,0.3633693202297232,2,1,tr,MED,Europe
 'cda3b95773',extremes,Storm,#b3b2b1,wmo,fırtına suudi arabistan,2026-04-07T04:59:00+00:00,Saudi Arabia,0.3605701742319008,1,2,tr,ARP,Asia
@@ -83,6 +89,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e3af58f5da',extremes,Drought,#edc291,edo,kuruluk bulgaristan,2026-04-17T05:16:00+00:00,Bulgaria,0.3308549442738308,1,1,tr,MED,Europe
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,siklon,2026-05-03T05:43:00+00:00,,0.32935032236413,1,1,tr,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,soğuğu kaydedin,2026-04-07T04:58:00+00:00,,0.3280897327937368,1,1,tr,,
+'4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,çekirgeler,2026-04-27T05:39:00+00:00,,0.3264585973878632,0,1,tr,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,hint yazı,2026-05-03T05:43:00+00:00,,0.3258361493248519,1,1,tr,,
 '52af874334',extremes,Drought,#edc291,random,kuraklık,2026-05-07T05:46:00+00:00,,0.324198161854298,1,2,tr,,
 'c1eef80860',extremes,Drought,#edc291,edo,kuraklık bulgaristan,2026-04-29T05:40:00+00:00,Bulgaria,0.3231372244533474,3,1,tr,MED,Europe
@@ -90,12 +97,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,en soğuk gün,2026-04-07T04:58:00+00:00,,0.3207034043890324,1,2,tr,,
 'eb3988622d',extremes,Earthquake,#870007,usgs,deprem simavı,2026-04-15T05:11:00+00:00,Turkey,0.3186373803541961,3,1,tr,MED,Asia
 'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2026-04-18T04:57:00+00:00,Moldova,0.3161805884702471,1,1,tr,WCE,Europe
+'ec9681f6d8',extremes,Flood,#030ba1,aidr,Tazmanya'da sel haziran temmuz 2016,2026-05-12T05:53:00+00:00,Australia,0.3149581712228077,0,1,tr,SAU,Oceania
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarktika deniz buzu,2026-05-04T05:49:00+00:00,,0.3144136829627095,1,1,tr,,
+'7a2481f0b1',extremes,Flood,#030ba1,aidr,Avustralya'da nehir taşması,2026-05-01T05:55:00+00:00,Australia,0.3143482050589688,0,1,tr,SAU,Oceania
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,gece donu,2026-04-30T05:45:00+00:00,,0.3142143720858093,1,1,tr,,
 '4d9577e33d',extremes,Volcano,#b83202,random,volkan,2026-04-28T05:44:00+00:00,,0.3141668735360113,0,1,tr,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,kar fırtınası,2026-05-06T05:43:00+00:00,,0.3135193035600587,0,1,tr,,
 '44211c95de',extremes,Flood,#030ba1,wmo,Avustralya'da sel,2026-04-26T05:25:00+00:00,Australia,0.3129511824043872,0,1,tr,CAU,Oceania
 'ec51ecb5d3',extremes,Flood,#030ba1,acwe,Tazmanya'da ani sel,2026-05-05T05:29:00+00:00,Australia,0.3123754045642738,0,1,tr,SAU,Oceania
+'1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-04-28T05:44:00+00:00,,0.31205476021259104,0,1,tr,,
 'acd0e1409b',extremes,Flood,#030ba1,acwe,Yeni Güney Galler'de su baskını,2026-05-05T05:29:00+00:00,Australia,0.3117812345544722,0,1,tr,EAU,Oceania
 'f6774fb5b2',extremes,Drought,#edc291,acwe,yağmur eksikliği Victoria,2026-05-04T05:50:00+00:00,Australia,0.3114947567363839,0,1,tr,SAU,Oceania
 'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,fırtına dolu fırtınası sydney yeni güney galler 2015,2026-05-11T06:14:00+00:00,,0.3114548914980729,0,1,tr,EAU,Oceania
@@ -209,7 +219,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02f56319a7',extremes,Flood,#030ba1,aidr,Avustralya'da sel,2026-04-26T05:26:00+00:00,Australia,0.2670548723015175,1,1,tr,EAU,Oceania
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,yağışlı hava Tazmanya,2026-04-29T05:41:00+00:00,Australia,0.2667580811462497,1,1,tr,SAU,Oceania
 '0c9a570bb1',extremes,Storm,#b3b2b1,aidr,kasırga murray nehri ilçeleri victoria 2013,2026-04-09T04:58:00+00:00,Australia,0.2665491190641109,1,1,tr,SAU,Oceania
-'42f9f7020d',extremes,Heat Wave,#c40202,acwe,sıcak hava yeni güney galler,2026-05-06T05:43:00+00:00,Australia,0.26647126270951005,1,1,tr,EAU,Oceania
+'42f9f7020d',extremes,Heat Wave,#c40202,acwe,sıcak hava yeni güney galler,2026-05-06T05:43:00+00:00,Australia,0.26647126270951,1,1,tr,EAU,Oceania
 'f314bb7747',extremes,Flood,#030ba1,aidr,avustralya'da şiddetli sel,2026-04-29T05:40:00+00:00,Australia,0.2659566978677291,1,1,tr,EAU,Oceania
 '1a89155ed1',extremes,Drought,#edc291,edo,yağmur eksikliği,2026-04-22T05:13:00+00:00,Sao Tome and Principe,0.2659206762492595,1,1,tr,WAF,Africa
 '92035e2c20',extremes,Drought,#edc291,edo,kuraklık madagaskar,2026-04-17T05:16:00+00:00,Madagascar,0.2652124238294306,1,1,tr,MDG,Africa
