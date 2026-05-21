@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'0b84faeebb',extremes,Earthquake,#870007,usgs,deprem sincik,2026-05-20T06:32:00+00:00,Turkey,0.6279798582406348,0,1,tr,MED,Asia
 '84febdd06c',extremes,Thunderstorm,#53785a,random,fırtına,2026-04-18T04:56:00+00:00,,0.5719483712455209,3,3,tr,,
+'0b84faeebb',extremes,Earthquake,#870007,usgs,deprem sincik,2026-05-20T06:32:00+00:00,Turkey,0.5337828795045396,1,1,tr,MED,Asia
 '5b35936697',extremes,Storm,#b3b2b1,wmo,fırtına doğu bölgesi,2026-05-16T05:40:00+00:00,North Macedonia,0.5015608890449278,1,2,tr,MED,Europe
 '6977541e84',extremes,Drought,#edc291,edo,kuraklık madagaskar,2026-04-30T05:46:00+00:00,Madagascar,0.4998506864954679,2,2,tr,MDG,Africa
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,kar yağışı,2026-04-19T05:16:00+00:00,,0.498269791951414,3,3,tr,,
@@ -87,7 +87,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '373c6724f3',extremes,Drought,#edc291,edo,yağmur eksikliği türkiye,2026-04-21T05:15:00+00:00,Turkey,0.3496594995869084,2,1,tr,MED,Asia
 '4d9577e33d',extremes,Volcano,#b83202,random,volkan,2026-04-28T05:44:00+00:00,,0.3492672547783368,1,3,tr,,
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,fırtına güney afrika,2026-04-16T05:17:00+00:00,South Africa,0.3490362108996134,2,2,tr,WSAF,Africa
-'845dd2d698',extremes,Storm,#b3b2b1,random,kasırga,2026-05-19T06:33:00+00:00,,0.34901308604545944,0,1,tr,,
+'845dd2d698',extremes,Storm,#b3b2b1,random,kasırga,2026-05-19T06:33:00+00:00,,0.3490130860454594,0,1,tr,,
 'f90601fa23',extremes,Volcano,#b83202,random,yanardağ patlaması,2026-04-27T05:39:00+00:00,,0.3486564302251044,1,1,tr,,
 '560b05d603',extremes,Heat Wave,#c40202,random,sıcak hava dalgası,2026-05-01T05:54:00+00:00,,0.3482016915356352,3,1,tr,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tayfun,2026-05-03T05:43:00+00:00,,0.348054293133598,2,2,tr,,
@@ -122,14 +122,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,gece donu,2026-04-30T05:45:00+00:00,,0.3142143720858093,1,1,tr,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,soğuk ani,2026-04-27T05:39:00+00:00,,0.3124433870480774,1,1,tr,,
 '3e4b341619',extremes,Storm,#b3b2b1,random,fırtına,2026-05-20T06:32:00+00:00,,0.312194272952203,0,1,tr,,
-'628c73fc75',extremes,Drought,#edc291,edo,kuraklık polonya,2026-05-05T05:29:00+00:00,Poland,0.3095758387952307,0,1,tr,WCE,Europe
 'd59a7e48d7',extremes,Drought,#edc291,random,buharlaşma-terleme,2026-04-16T05:16:00+00:00,,0.3093673195855034,1,1,tr,,
+'ffe6caf686',extremes,Snow&Ice,#d60d2b,wmo,kar rusya,2026-04-27T05:40:00+00:00,Russia,0.308839987619251,1,2,tr,ESB,Europe
 '55c39b351d',extremes,Storm,#b3b2b1,random,toz şeytanı,2026-04-16T05:16:00+00:00,,0.3052415758614332,1,1,tr,,
-'84a92d2d97',extremes,Precipitation,#d60d2b,wmo,sağanak Tayland,2026-05-11T06:14:00+00:00,Thailand,0.3044396673904312,0,1,tr,SEA,Asia
-'8e0946a5f2',extremes,Drought,#edc291,edo,yağmur eksikliği Estonya,2026-04-19T05:16:00+00:00,Estonia,0.3044027302706069,0,1,tr,NEU,Europe
-'a4cf1e9346',extremes,Storm,#b3b2b1,wmo,fırtına dalgası katar,2026-05-19T06:33:00+00:00,Qatar,0.3042966038870954,0,1,tr,ARP,Asia
-'f1101350a4',extremes,Storm,#b3b2b1,wmo,fırtına şili,2026-05-04T05:50:00+00:00,Chile,0.3040789055037917,0,1,tr,SWS,South-America
-'ffe6caf686',extremes,Snow&Ice,#d60d2b,wmo,kar rusya,2026-04-27T05:40:00+00:00,Russia,0.3040306143114183,0,1,tr,ESB,Europe
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,fırtına paraguay,2026-05-11T06:14:00+00:00,Paraguay,0.3040289110279048,0,1,tr,SES,South-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,fırtına brezilya,2026-05-02T05:24:00+00:00,Brazil,0.3039558838015082,0,1,tr,SAM,South-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,fırtına kabarması arjantin,2026-04-26T05:25:00+00:00,Argentina,0.3039425926068768,0,1,tr,SES,South-America
@@ -188,7 +183,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7ef3a20daf',extremes,Storm,#b3b2b1,wmo,fırtına dalgası galápagos,2026-04-17T05:16:00+00:00,Ecuador,0.3028155901980441,0,1,tr,NWS,South-America
 '734861543c',extremes,Storm,#b3b2b1,wmo,fırtına dalgası Amazonica bölgesi,2026-05-02T05:24:00+00:00,Ecuador,0.3027885753536578,0,1,tr,NWS,South-America
 '464c05f22e',extremes,Precipitation,#d60d2b,wmo,Cape Town'un yağmur şehri Cape Town şehri,2026-05-13T06:03:00+00:00,South Africa,0.3027856247284159,0,1,tr,WSAF,Africa
-'8f8c4d17cb',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası etiyopya,2026-05-14T06:02:00+00:00,Ethiopia,0.30277923659471534,0,1,tr,NEAF,Africa
+'8f8c4d17cb',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası etiyopya,2026-05-14T06:02:00+00:00,Ethiopia,0.3027792365947153,0,1,tr,NEAF,Africa
 '1c38b19449',extremes,Storm,#b3b2b1,random,toz çanakları,2026-04-18T04:56:00+00:00,,0.3027701500395653,1,1,tr,,
 '39dd0129b1',extremes,Snow&Ice,#d60d2b,wmo,kar sırbistan,2026-04-30T05:46:00+00:00,Serbia,0.3027661305352522,0,1,tr,MED,Europe
 '1c2c5da544',extremes,Storm,#b3b2b1,wmo,fırtına dalgası 02 03,2026-04-14T05:11:00+00:00,Chile,0.302534521771102,0,1,tr,SWS,South-America
@@ -255,6 +250,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3894a694d1',extremes,Flood,#030ba1,aidr,Avustralya'da ani sel,2026-05-08T05:16:00+00:00,Australia,0.2640733320389841,1,1,tr,SAU,Oceania
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,Hobart'ta ani sel Tazmanya 2018'de sel,2026-04-18T04:57:00+00:00,Australia,0.2634059264716479,1,1,tr,SAU,Oceania
 'bebba26d24',extremes,Unknown,#d60d2b,cmeter,bilinmiyor Amerika Birleşik Devletleri,2026-04-19T05:17:00+00:00,United States,0.2631910316921617,1,1,tr,ENA,North-America
+'628c73fc75',extremes,Drought,#edc291,edo,kuraklık polonya,2026-05-05T05:29:00+00:00,Poland,0.2631394629759461,1,1,tr,WCE,Europe
 '3296e9a239',extremes,Flood,#030ba1,aidr,sağanak yağmur avustralya,2026-05-17T06:01:00+00:00,Australia,0.2630703685335558,1,1,tr,SAU,Oceania
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,yağış güney afrika,2026-05-05T05:29:00+00:00,South Africa,0.2625643222387933,1,1,tr,WSAF,Africa
 '04f990069a',extremes,Drought,#edc291,edo,yağmur eksikliği beyaz rusya,2026-04-22T05:13:00+00:00,Belarus,0.2625282928740678,1,1,tr,WCE,Europe
@@ -324,8 +320,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e188f4e183',extremes,Storm,#b3b2b1,wmo,fırtına tanzanya,2026-05-20T06:33:00+00:00,Tanzania,0.2588399501843786,1,1,tr,SEAF,Africa
 '9ceba27bb5',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası brezilya,2026-04-20T05:27:00+00:00,Brazil,0.2588079654516149,1,1,tr,SAM,South-America
 'efe90d3d29',extremes,Snow&Ice,#d60d2b,wmo,frost gatineau,2026-05-08T05:16:00+00:00,Canada,0.2587816229661466,1,1,tr,NEN,North-America
+'84a92d2d97',extremes,Precipitation,#d60d2b,wmo,sağanak Tayland,2026-05-11T06:14:00+00:00,Thailand,0.25877371728186654,1,1,tr,SEA,Asia
 '957c870453',extremes,Drought,#edc291,edo,İzlanda'daki kuruluk,2026-04-21T05:15:00+00:00,Iceland,0.2587624363692073,1,1,tr,GIC,Europe
+'8e0946a5f2',extremes,Drought,#edc291,edo,yağmur eksikliği Estonya,2026-04-19T05:16:00+00:00,Estonia,0.25874232073001585,1,1,tr,NEU,Europe
+'a4cf1e9346',extremes,Storm,#b3b2b1,wmo,fırtına dalgası katar,2026-05-19T06:33:00+00:00,Qatar,0.2586521133040311,1,1,tr,ARP,Asia
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,yağmur kanada,2026-04-23T05:16:00+00:00,Canada,0.2586242328692029,1,1,tr,NEN,North-America
+'f1101350a4',extremes,Storm,#b3b2b1,wmo,fırtına şili,2026-05-04T05:50:00+00:00,Chile,0.2584670696782229,1,1,tr,SWS,South-America
 '9a93354f3b',extremes,Drought,#edc291,edo,kuraklık angola,2026-04-27T05:40:00+00:00,Angola,0.2584509680324666,1,1,tr,WSAF,Africa
 '500172fc71',extremes,Snow&Ice,#d60d2b,wmo,dondurucu Rusya,2026-04-26T05:25:00+00:00,Russia,0.2583232765062631,1,1,tr,ESB,Europe
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,fırtına güney afrika,2026-05-05T05:29:00+00:00,South Africa,0.2582529033958187,1,1,tr,WSAF,Africa
