@@ -11,7 +11,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '908f74a83c',extremes,Snow&Ice,#d60d2b,wmo,dondurucu Bulgaristan,2026-05-03T05:44:00+00:00,Bulgaria,0.4817026464525052,2,1,tr,MED,Europe
 'ea363a8d9a',extremes,Snow&Ice,#d60d2b,wmo,buz bulgaristan,2026-04-23T05:16:00+00:00,Bulgaria,0.4790939538743634,3,2,tr,MED,Europe
 '69840e877f',extremes,Storm,#b3b2b1,wmo,fırtına bulgaristan,2026-04-29T05:40:00+00:00,Bulgaria,0.4773134795103473,2,1,tr,MED,Europe
-'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,sıcaklık düşüyor,2026-05-08T05:16:00+00:00,,0.47072768457555025,1,2,tr,,
+'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,sıcaklık düşüyor,2026-05-08T05:16:00+00:00,,0.4707276845755502,1,2,tr,,
 '4960d34559',extremes,Precipitation,#d60d2b,wmo,yağış güneydoğu bölgesi,2026-05-16T05:40:00+00:00,North Macedonia,0.4702816547544537,1,2,tr,MED,Europe
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,sağanak,2026-04-13T05:27:00+00:00,,0.4644856034258136,1,3,tr,,
 'f484ebfc83',extremes,Storm,#b3b2b1,wmo,fırtına dalgası bulgaristan,2026-05-13T06:03:00+00:00,Bulgaria,0.4589395261109288,2,1,tr,MED,Europe
@@ -117,6 +117,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,kar paketi,2026-05-10T05:51:00+00:00,,0.3218492372786962,1,2,tr,,
 '126dbdb910',extremes,Drought,#edc291,edo,Moldova'nın kuraklığı,2026-05-01T05:54:00+00:00,Moldova,0.3207712774728741,1,1,tr,WCE,Europe
 'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2026-04-18T04:57:00+00:00,Moldova,0.3161805884702471,1,1,tr,WCE,Europe
+'ab5d1234a0',extremes,Flood,#030ba1,aidr,Hobart'ta ani sel Tazmanya 2018'de sel,2026-05-09T05:36:00+00:00,Australia,0.3151399933770028,0,1,tr,SAU,Oceania
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarktika deniz buzu,2026-05-04T05:49:00+00:00,,0.3144136829627095,1,1,tr,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,gece donu,2026-04-30T05:45:00+00:00,,0.3142143720858093,1,1,tr,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,soğuk ani,2026-04-27T05:39:00+00:00,,0.3124433870480774,1,1,tr,,
@@ -191,6 +192,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,yağmur Seyşeller,2026-05-07T05:46:00+00:00,Seychelles,0.3027467965295796,0,1,tr,EIO,Africa
 '922fde2aea',extremes,Drought,#edc291,edo,kuru dönem benin,2026-05-16T05:40:00+00:00,Benin,0.3027088688917165,0,1,tr,WAF,Africa
 '7fb436f320',extremes,Storm,#b3b2b1,wmo,fırtına m_table bay table bay,2026-05-11T06:14:00+00:00,South Africa,0.302688391968243,0,1,tr,WSAF,Africa
+'0b2fd57376',extremes,Earthquake,#870007,usgs,deprem tayvan,2026-05-05T05:28:00+00:00,Taiwan,0.3025161209893601,0,1,tr,EAS,Asia
 'a95a8736e1',extremes,Thunderstorm,#53785a,wmo,dolu ürdün,2026-04-17T05:16:00+00:00,Jordan,0.3024978678352998,0,1,tr,MED,Asia
 'bd584a5aeb',extremes,Storm,#b3b2b1,wmo,fırtına lesedi lesedi heidelberg,2026-04-28T05:45:00+00:00,South Africa,0.3023310011522763,0,1,tr,WSAF,Africa
 '3e4b341619',extremes,Storm,#b3b2b1,random,fırtına,2026-05-20T06:32:00+00:00,,0.3021361188275543,1,2,tr,,
