@@ -41,10 +41,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '39dd0129b1',extremes,Snow&Ice,#d60d2b,wmo,kar sırbistan,2026-04-30T05:46:00+00:00,Serbia,0.4076512409549643,1,2,tr,MED,Europe
 '569caf6847',extremes,Precipitation,#d60d2b,wmo,sağanak güneybatı bölgesi,2026-05-16T05:40:00+00:00,North Macedonia,0.4064345239892626,1,1,tr,MED,Europe
 '69840e877f',extremes,Storm,#b3b2b1,wmo,fırtına bulgaristan,2026-04-29T05:40:00+00:00,Bulgaria,0.4057164575837952,3,1,tr,MED,Europe
+'40f675561f',extremes,Heat Wave,#c40202,random,en sıcak yaz,2026-05-22T06:31:00+00:00,,0.40519968073707924,1,2,tr,,
 '67973e734f',extremes,Precipitation,#d60d2b,wmo,yağış kuzey makedonya,2026-05-19T06:33:00+00:00,North Macedonia,0.4035128619104731,1,1,tr,MED,Europe
 'c9080fa8ac',extremes,Drought,#edc291,edo,Kuzey Makedonya'da kuraklık,2026-05-01T05:54:00+00:00,North Macedonia,0.403345703660818,1,1,tr,MED,Europe
 '2eb242efc8',extremes,Snow&Ice,#d60d2b,wmo,Moldova'nın donması,2026-04-29T05:40:00+00:00,Moldova,0.4005644026384791,2,1,tr,WCE,Europe
-'40f675561f',extremes,Heat Wave,#c40202,random,en sıcak yaz,2026-05-22T06:31:00+00:00,,0.3989403773377403,0,1,tr,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,rekor yağış,2026-04-25T05:00:00+00:00,,0.3986357443927179,4,2,tr,,
 'bddeae448c',extremes,Snow&Ice,#d60d2b,wmo,don Moldova,2026-04-30T05:46:00+00:00,Moldova,0.3918339729092697,2,1,tr,WCE,Europe
 '59b529f428',extremes,Thunderstorm,#53785a,random,dolu fırtınası,2026-05-07T05:46:00+00:00,,0.3917198782545736,2,1,tr,,
@@ -92,7 +92,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '560b05d603',extremes,Heat Wave,#c40202,random,sıcak hava dalgası,2026-05-01T05:54:00+00:00,,0.3482016915356352,3,1,tr,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tayfun,2026-05-03T05:43:00+00:00,,0.348054293133598,2,2,tr,,
 '9cfb4578c4',extremes,Thunderstorm,#53785a,wmo,fırtına Moldova,2026-05-12T05:52:00+00:00,Moldova,0.3463831440423048,1,1,tr,WCE,Europe
-'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2026-05-10T05:51:00+00:00,Moldova,0.34580341282318994,0,1,tr,WCE,Europe
+'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2026-05-10T05:51:00+00:00,Moldova,0.3458034128231899,0,1,tr,WCE,Europe
 '65d103c340',extremes,Precipitation,#d60d2b,wmo,yağmur kuzey makedonya,2026-04-30T05:46:00+00:00,North Macedonia,0.3436854128392406,3,1,tr,MED,Europe
 '129e7069b9',extremes,Thunderstorm,#53785a,wmo,güneydoğu bölgesini dolu,2026-05-16T05:40:00+00:00,North Macedonia,0.3434481561604726,1,1,tr,MED,Europe
 '776fe47817',extremes,Wildfire,#d60d2b,random,orman yangını,2026-05-18T06:38:00+00:00,,0.3427762366539204,1,2,tr,,
