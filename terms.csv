@@ -53,6 +53,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,şiddetli yağmur,2026-05-05T05:28:00+00:00,,0.385771652524549,1,2,tr,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,şiddetli yağış,2026-04-28T05:44:00+00:00,,0.3848814003413921,1,3,tr,,
 'da768d7770',extremes,Thunderstorm,#53785a,wmo,şiddetli hava güneybatı bölgesi,2026-05-16T05:40:00+00:00,North Macedonia,0.3847631997310332,1,1,tr,MED,Europe
+'ea87be5bd8',extremes,Heat Wave,#c40202,random,kavurucu sıcaklık,2026-05-25T06:52:00+00:00,,0.38450297140405865,1,2,tr,,
 'b994dcebdd',extremes,Drought,#edc291,edo,Kuraklık Bulgaristan,2026-04-22T05:13:00+00:00,Bulgaria,0.3808974181072621,2,1,tr,MED,Europe
 '7c29d4f368',extremes,Thunderstorm,#53785a,wmo,dolu Moldova,2026-05-22T06:32:00+00:00,Moldova,0.3805473847433015,2,1,tr,WCE,Europe
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,orman yangını,2026-04-18T04:56:00+00:00,,0.3798139984106787,1,3,tr,,
@@ -102,7 +103,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c229b0919c',extremes,Precipitation,#d60d2b,wmo,yağmur suudi arabistan,2026-04-28T05:45:00+00:00,Saudi Arabia,0.3364462712542659,1,2,tr,ARP,Asia
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,bomba kasırgası,2026-04-23T05:16:00+00:00,,0.3356541328167986,1,1,tr,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,ılıman kış,2026-05-12T05:52:00+00:00,,0.33477633554823,1,1,tr,,
-'ea87be5bd8',extremes,Heat Wave,#c40202,random,kavurucu sıcaklık,2026-05-25T06:52:00+00:00,,0.3341799134165396,0,1,tr,,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,fırtına dalgası,2026-05-05T05:28:00+00:00,,0.3331726981286963,1,1,tr,,
 '82d648b882',extremes,Drought,#edc291,random,kuraklık,2026-04-24T05:21:00+00:00,,0.332183478486693,2,2,tr,,
 'c8dd7549e0',extremes,Storm,#b3b2b1,wmo,güneydoğu bölgesinde fırtına,2026-04-30T05:46:00+00:00,North Macedonia,0.3313770059906454,3,1,tr,MED,Europe
