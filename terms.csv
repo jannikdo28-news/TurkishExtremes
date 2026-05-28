@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'bab44a9ef3',extremes,Storm,#b3b2b1,wmo,fırtına kıbrıs,2026-05-28T06:38:00+00:00,Cyprus,0.6494363283031674,0,1,tr,MED,Europe
 '4960d34559',extremes,Precipitation,#d60d2b,wmo,yağış güneydoğu bölgesi,2026-05-16T05:40:00+00:00,North Macedonia,0.6177060383100927,3,2,tr,MED,Europe
+'bab44a9ef3',extremes,Storm,#b3b2b1,wmo,fırtına kıbrıs,2026-05-28T06:38:00+00:00,Cyprus,0.5520208790576923,1,1,tr,MED,Europe
 '69840e877f',extremes,Storm,#b3b2b1,wmo,fırtına bulgaristan,2026-05-20T06:33:00+00:00,Bulgaria,0.5344289385737363,1,1,tr,MED,Europe
 '4806a05714',extremes,Earthquake,#870007,usgs,deprem türkiye,2026-05-21T06:34:00+00:00,Turkey,0.5024595544264455,1,2,tr,MED,Asia
 '84febdd06c',extremes,Thunderstorm,#53785a,random,fırtına,2026-04-18T04:56:00+00:00,,0.5005771389067071,5,3,tr,,
@@ -91,7 +91,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,fırtına paraguay,2026-05-11T06:14:00+00:00,Paraguay,0.3472884159676611,2,1,tr,SES,South-America
 '39dd0129b1',extremes,Snow&Ice,#d60d2b,wmo,kar sırbistan,2026-04-30T05:46:00+00:00,Serbia,0.3465035998117196,2,1,tr,MED,Europe
 '9cfb4578c4',extremes,Thunderstorm,#53785a,wmo,fırtına Moldova,2026-05-12T05:52:00+00:00,Moldova,0.3463831440423048,1,1,tr,WCE,Europe
-'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,en düşük minimum sıcaklık,2026-05-14T06:02:00+00:00,,0.3446482389124924,0,1,tr,,
 '40f675561f',extremes,Heat Wave,#c40202,random,en sıcak yaz,2026-05-22T06:31:00+00:00,,0.3444200736265173,2,1,tr,,
 '65d103c340',extremes,Precipitation,#d60d2b,wmo,yağmur kuzey makedonya,2026-04-30T05:46:00+00:00,North Macedonia,0.3436854128392406,3,1,tr,MED,Europe
 '129e7069b9',extremes,Thunderstorm,#53785a,wmo,güneydoğu bölgesini dolu,2026-05-16T05:40:00+00:00,North Macedonia,0.3434481561604726,1,1,tr,MED,Europe
@@ -119,7 +118,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c1eef80860',extremes,Drought,#edc291,edo,kuraklık bulgaristan,2026-04-29T05:40:00+00:00,Bulgaria,0.3231372244533474,3,1,tr,MED,Europe
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,kar paketi,2026-05-10T05:51:00+00:00,,0.3218492372786962,1,2,tr,,
 '126dbdb910',extremes,Drought,#edc291,edo,Moldova'nın kuraklığı,2026-05-01T05:54:00+00:00,Moldova,0.3207712774728741,1,1,tr,WCE,Europe
-'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,soğuk hava batı avustralya,2026-05-28T06:38:00+00:00,Australia,0.3190270171634262,0,1,tr,CAU,Oceania
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,avrupa sıcak hava dalgası paris,2026-05-28T06:38:00+00:00,France,0.3188743911320906,0,1,tr,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarktika deniz buzu,2026-05-04T05:49:00+00:00,,0.3144136829627095,1,1,tr,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,gece donu,2026-04-30T05:45:00+00:00,,0.3142143720858093,1,1,tr,,
@@ -135,7 +133,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ece67f5a6',extremes,Thunderstorm,#53785a,wmo,dolu على بعض مناطق جنوب غرب LİBİYA,2026-05-27T06:46:00+00:00,Libya,0.3055644709328755,0,1,tr,SAH,Africa
 '2fb9bcabc4',extremes,Drought,#edc291,edo,kuruluk estonya,2026-05-17T06:01:00+00:00,Estonia,0.3053107229079144,0,1,tr,NEU,Europe
 '907a393546',extremes,Precipitation,#d60d2b,wmo,sağanak naujaat,2026-05-24T06:22:00+00:00,Canada,0.3051208638353802,0,1,tr,NEN,North-America
-'9e020e244e',extremes,Drought,#edc291,edo,kuruluk polonya,2026-05-23T05:53:00+00:00,Poland,0.30423082234426757,0,1,tr,WCE,Europe
+'9e020e244e',extremes,Drought,#edc291,edo,kuruluk polonya,2026-05-23T05:53:00+00:00,Poland,0.3042308223442675,0,1,tr,WCE,Europe
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,fırtına bahreyn,2026-05-17T06:01:00+00:00,Bahrain,0.3041728208060811,0,1,tr,ARP,Asia
 'e6e3ef6e92',extremes,Storm,#b3b2b1,wmo,fırtına dalgası Nijerya,2026-05-24T06:22:00+00:00,Nigeria,0.3041476296640066,0,1,tr,WAF,Africa
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,fırtına kabarması arjantin,2026-04-26T05:25:00+00:00,Argentina,0.3039425926068768,0,1,tr,SES,South-America
@@ -200,6 +198,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c948617fef',extremes,Heat Wave,#c40202,random,aşırı ısıya maruz kalma,2026-05-02T05:23:00+00:00,,0.2967901627557531,1,1,tr,,
 '357f3c8921',extremes,Drought,#edc291,edo,kuzey makedonya'da yağmur eksikliği,2026-04-24T05:22:00+00:00,North Macedonia,0.2956224632152052,1,1,tr,MED,Europe
 'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2026-05-10T05:51:00+00:00,Moldova,0.2939329008997114,1,1,tr,WCE,Europe
+'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,en düşük minimum sıcaklık,2026-05-14T06:02:00+00:00,,0.29295100307561855,1,1,tr,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,ilaç,2026-05-18T06:38:00+00:00,,0.2928987644634948,2,2,tr,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,buz parçası,2026-05-07T05:46:00+00:00,,0.2926671829449904,1,1,tr,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,kar sulu kar,2026-05-06T05:43:00+00:00,,0.2926220748946264,1,1,tr,,
@@ -226,6 +225,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,yağışlı dönem yeni güney galler,2026-05-04T05:50:00+00:00,Australia,0.2715066060127571,1,1,tr,EAU,Oceania
 'f8039d6ad1',extremes,Cold Wave,#a7e9fa,acwe,batı avustralya'nın soğuk havası,2026-05-27T06:46:00+00:00,Australia,0.2714206394356628,1,1,tr,CAU,Oceania
 'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,sıcak hava Avustralya,2026-05-04T05:50:00+00:00,Australia,0.2713702887782294,1,1,tr,CAU,Oceania
+'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,soğuk hava batı avustralya,2026-05-28T06:38:00+00:00,Australia,0.27132297958891227,1,1,tr,CAU,Oceania
 '2595e5c49a',extremes,Flood,#030ba1,acwe,Avustralya'da yüksek su seviyesi,2026-05-04T05:50:00+00:00,Australia,0.2712012609768909,1,1,tr,CAU,Oceania
 '248cc444aa',extremes,Heat Wave,#c40202,acwe,ılıman kış batı avustralya,2026-05-04T05:50:00+00:00,Australia,0.2711431259064057,1,1,tr,CAU,Oceania
 '3dc98006fe',extremes,Drought,#edc291,acwe,yağmur eksikliği batı avustralya,2026-05-27T06:46:00+00:00,Australia,0.2709251977492804,1,1,tr,CAU,Oceania
