@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'924042ea68',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur bulgaristan,2026-06-02T07:08:00+00:00,Bulgaria,0.6072915994172936,0,1,tr,MED,Europe
 '4960d34559',extremes,Precipitation,#d60d2b,wmo,yağış güneydoğu bölgesi,2026-05-16T05:40:00+00:00,North Macedonia,0.507042751429042,5,1,tr,MED,Europe
 '4806a05714',extremes,Earthquake,#870007,usgs,deprem türkiye,2026-05-21T06:34:00+00:00,Turkey,0.5024595544264455,1,2,tr,MED,Asia
 '6977541e84',extremes,Drought,#edc291,edo,kuraklık madagaskar,2026-04-30T05:46:00+00:00,Madagascar,0.4998506864954679,2,2,tr,MDG,Africa
@@ -29,6 +30,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3b5fd3f9c6',extremes,Thunderstorm,#53785a,wmo,şiddetli hava kıbrıs,2026-05-03T05:44:00+00:00,Cyprus,0.4090033894190536,3,1,tr,MED,Europe
 '454d379110',extremes,Thunderstorm,#53785a,wmo,fırtına kıbrıs,2026-05-23T05:53:00+00:00,Cyprus,0.4006446169142815,3,1,tr,MED,Europe
 '2eb242efc8',extremes,Snow&Ice,#d60d2b,wmo,Moldova'nın donması,2026-04-29T05:40:00+00:00,Moldova,0.4005644026384791,2,1,tr,WCE,Europe
+'f90601fa23',extremes,Volcano,#b83202,random,yanardağ patlaması,2026-05-17T06:01:00+00:00,,0.3995213075890998,0,1,tr,,
 'bab44a9ef3',extremes,Storm,#b3b2b1,wmo,fırtına kıbrıs,2026-05-28T06:38:00+00:00,Cyprus,0.3988350851191826,3,1,tr,MED,Europe
 '0be5ded7e1',extremes,Drought,#edc291,edo,kuruluk hindi,2026-05-24T06:22:00+00:00,Turkey,0.3987952913179786,1,1,tr,MED,Asia
 '39bab6b4e3',extremes,Drought,#edc291,edo,kuraklık türkiye,2026-05-09T05:36:00+00:00,Turkey,0.3977646974768134,1,1,tr,MED,Asia
@@ -109,6 +111,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df012197cf',extremes,Storm,#b3b2b1,wmo,fırtına vardar bölgesi,2026-05-16T05:40:00+00:00,North Macedonia,0.3133919161288405,3,1,tr,MED,Europe
 '8220584aae',extremes,Drought,#edc291,edo,kuruluk kuzey makedonya,2026-05-11T06:14:00+00:00,North Macedonia,0.312351246153654,2,1,tr,MED,Europe
 '45500dcb47',extremes,Precipitation,#d60d2b,random,rekor yağış,2026-05-16T05:40:00+00:00,,0.3099297579346499,1,1,tr,,
+'815e4bf638',extremes,Drought,#edc291,edo,yağmur eksikliği macaristan,2026-05-15T06:09:00+00:00,Hungary,0.3081268644254411,0,1,tr,WCE,Europe
+'d79f0cf217',extremes,Drought,#edc291,edo,kuraklık slovakya,2026-05-22T06:32:00+00:00,Slovakia,0.30790523192435304,0,1,tr,WCE,Europe
 'fbaa1c52eb',extremes,Drought,#edc291,edo,kuruluk kıbrıs,2026-05-13T06:03:00+00:00,Cyprus,0.3072314153607559,2,1,tr,MED,Europe
 '265f018343',extremes,Storm,#b3b2b1,wmo,fırtına dalgası güneydoğu bölgesi,2026-05-17T06:01:00+00:00,North Macedonia,0.3061342786170515,3,1,tr,MED,Europe
 '59b5340b69',extremes,Precipitation,#d60d2b,random,hava cephesi,2026-05-13T06:02:00+00:00,,0.3052556246831516,2,2,tr,,
