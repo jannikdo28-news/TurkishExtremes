@@ -76,7 +76,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,cıva damlaları,2026-05-23T05:52:00+00:00,,0.3306971229449499,1,1,tr,,
 '54927bfe65',extremes,Flood,#030ba1,random,kıyı su baskını,2026-05-13T06:02:00+00:00,,0.3301380575817603,1,1,tr,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,siklon,2026-05-03T05:43:00+00:00,,0.32935032236413,1,1,tr,,
-'b1d56de062',extremes,Snow&Ice,#d60d2b,random,kırağı,2026-05-21T06:34:00+00:00,,0.3279358641712122,1,1,tr,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,kasırga,2026-05-19T06:33:00+00:00,,0.3274111981386404,1,1,tr,,
 'da768d7770',extremes,Thunderstorm,#53785a,wmo,şiddetli hava güneybatı bölgesi,2026-05-16T05:40:00+00:00,North Macedonia,0.3270487197713781,2,1,tr,MED,Europe
 '595acbcf9f',extremes,Heat Wave,#c40202,random,en sıcak gün,2026-05-17T06:01:00+00:00,,0.3269803493508503,1,2,tr,,
@@ -110,7 +109,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa9eac41c9',extremes,Storm,#b3b2b1,wmo,kuzeydoğu bölgesinde fırtına dalgası,2026-05-13T06:03:00+00:00,North Macedonia,0.3051782814096836,3,1,tr,MED,Europe
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,fırtına dalgası alanı 1 - şiddetli,2026-05-02T05:24:00+00:00,Paraguay,0.3036621508677689,0,1,tr,SES,South-America
 'd8a981c851',extremes,Earthquake,#870007,usgs,deprem lorengau,2026-05-02T05:23:00+00:00,Papua New Guinea,0.3035960980887154,0,1,tr,EPO,Pacific Ocean
-'02711610b5',extremes,Storm,#b3b2b1,wmo,fırtına arjantin,2026-05-16T05:40:00+00:00,Argentina,0.3035810106561183,0,1,tr,SES,South-America
 '12775cc05a',extremes,Drought,#edc291,edo,kuraklık brezilya,2026-05-02T05:24:00+00:00,Brazil,0.3035786442371033,0,1,tr,SAM,South-America
 '6c5632b883',extremes,Snow Avalanche,#deddd5,wmo,İnguşetya cumhuriyeti çığı,2026-04-28T05:45:00+00:00,Russia,0.3035207227984158,0,1,tr,ESB,Europe
 '862c45323e',extremes,Storm,#b3b2b1,wmo,fırtına dalgası bölgesi ada isabela,2026-05-09T05:36:00+00:00,Ecuador,0.3035090987832574,0,1,tr,NWS,South-America
@@ -180,6 +178,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '030aa64ddb',extremes,Drought,#edc291,edo,kuraklık Moldova,2026-05-17T06:01:00+00:00,Moldova,0.2823346915952232,1,1,tr,WCE,Europe
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,buzdağı antarktika,2026-05-14T06:02:00+00:00,,0.2813672705833258,1,1,tr,,
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,kar brezilya,2026-04-29T05:40:00+00:00,Brazil,0.2802922297067822,1,2,tr,SAM,South-America
+'b1d56de062',extremes,Snow&Ice,#d60d2b,random,kırağı,2026-05-21T06:34:00+00:00,,0.27874548454553033,2,1,tr,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,çekirgeler,2026-05-17T06:01:00+00:00,,0.2747340101528158,1,1,tr,,
 '9f0423d739',extremes,Drought,#edc291,random,kuruluk,2026-05-10T05:51:00+00:00,,0.2720024331863026,1,1,tr,,
 '11dee0d421',extremes,Tropical Cyclone,#4f4f4f,emdat,tropikal siklon guam,2026-05-05T05:29:00+00:00,Guam,0.2719962326191802,1,1,tr,NPO,Oceania
@@ -299,6 +298,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e6e3ef6e92',extremes,Storm,#b3b2b1,wmo,fırtına dalgası Nijerya,2026-05-24T06:22:00+00:00,Nigeria,0.2585254852144056,1,1,tr,WAF,Africa
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,fırtına brezilya,2026-05-02T05:24:00+00:00,Brazil,0.2585125162312819,1,1,tr,SAM,South-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,fırtına kabarması arjantin,2026-05-16T05:40:00+00:00,Argentina,0.2583791748670861,1,1,tr,SES,South-America
+'02711610b5',extremes,Storm,#b3b2b1,wmo,fırtına arjantin,2026-05-16T05:40:00+00:00,Argentina,0.25834388905770056,1,1,tr,SES,South-America
 '87ba69f7f2',extremes,Storm,#b3b2b1,wmo,fırtına dalgası maldivler,2026-05-02T05:24:00+00:00,Maldives,0.2583279936608006,1,1,tr,EIO,Indian Ocean
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,fırtına güney afrika,2026-05-05T05:29:00+00:00,South Africa,0.2582529033958187,1,1,tr,WSAF,Africa
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,vanuatu fırtınası,2026-05-10T05:51:00+00:00,Vanuatu,0.2582312556999355,1,1,tr,SPO,Oceania
