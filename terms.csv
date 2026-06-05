@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'4960d34559',extremes,Precipitation,#d60d2b,wmo,yağış güneydoğu bölgesi,2026-05-16T05:40:00+00:00,North Macedonia,0.507042751429042,5,1,tr,MED,Europe
 '4806a05714',extremes,Earthquake,#870007,usgs,deprem türkiye,2026-05-21T06:34:00+00:00,Turkey,0.5024595544264455,1,2,tr,MED,Asia
 '6977541e84',extremes,Drought,#edc291,edo,kuraklık madagaskar,2026-04-30T05:46:00+00:00,Madagascar,0.4998506864954679,2,2,tr,MDG,Africa
 'e5d53220ee',extremes,Earthquake,#870007,usgs,deprem saimbeyli,2026-05-26T06:31:00+00:00,Turkey,0.4927826377604505,2,1,tr,MED,Asia
@@ -17,6 +16,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,şiddetli yağış,2026-04-28T05:44:00+00:00,,0.4502820134720015,2,3,tr,,
 '924042ea68',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur bulgaristan,2026-06-02T07:08:00+00:00,Bulgaria,0.4387681805789946,2,1,tr,MED,Europe
 '6c36be0d8f',extremes,Storm,#b3b2b1,wmo,fırtına dalgası vidin montana vratsa blagoevgrad,2026-05-28T06:38:00+00:00,Bulgaria,0.4336089025789773,2,1,tr,MED,Europe
+'4960d34559',extremes,Precipitation,#d60d2b,wmo,yağış güneydoğu bölgesi,2026-05-16T05:40:00+00:00,North Macedonia,0.4317364137146857,6,1,tr,MED,Europe
 '0c844be7b0',extremes,Storm,#b3b2b1,wmo,fırtına dalgası doğu bölgesi,2026-06-04T07:06:00+00:00,North Macedonia,0.4307503226183361,1,1,tr,MED,Europe
 'f37139fe2d',extremes,Landslide,#572c03,random,toprak kayması,2026-05-30T06:01:00+00:00,,0.4290396574798242,1,2,tr,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,hint yazı,2026-05-03T05:43:00+00:00,,0.4272607569261241,2,2,tr,,
@@ -181,7 +181,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '030aa64ddb',extremes,Drought,#edc291,edo,kuraklık Moldova,2026-05-17T06:01:00+00:00,Moldova,0.2823346915952232,1,1,tr,WCE,Europe
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,buzdağı antarktika,2026-05-14T06:02:00+00:00,,0.2813672705833258,1,1,tr,,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,cıva damlaları,2026-05-23T05:52:00+00:00,,0.2810925545032074,2,1,tr,,
-'54927bfe65',extremes,Flood,#030ba1,random,kıyı su baskını,2026-05-13T06:02:00+00:00,,0.28091737894449625,2,1,tr,,
+'54927bfe65',extremes,Flood,#030ba1,random,kıyı su baskını,2026-05-13T06:02:00+00:00,,0.2809173789444962,2,1,tr,,
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,kar brezilya,2026-04-29T05:40:00+00:00,Brazil,0.2802922297067822,1,2,tr,SAM,South-America
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,kırağı,2026-05-21T06:34:00+00:00,,0.2787454845455303,2,1,tr,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,çekirgeler,2026-05-17T06:01:00+00:00,,0.2747340101528158,1,1,tr,,
