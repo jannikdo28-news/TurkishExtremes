@@ -89,16 +89,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,soğuk büyü,2026-06-04T07:06:00+00:00,,0.3108156595454028,1,1,tr,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,rekor yağış,2026-05-16T05:40:00+00:00,,0.3099297579346499,1,1,tr,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,soğuk ani,2026-05-21T06:34:00+00:00,,0.3086114188283823,2,1,tr,,
+'495243907b',extremes,Precipitation,#d60d2b,wmo,majeure partie du pays yağış.,2026-06-08T07:13:00+00:00,Mali,0.3081219063704075,0,1,tr,SAH,Africa
 '63663feccd',extremes,Drought,#edc291,edo,yağmur eksikliği Moldova,2026-05-22T06:32:00+00:00,Moldova,0.3073131134641664,2,1,tr,WCE,Europe
 'fbaa1c52eb',extremes,Drought,#edc291,edo,kuruluk kıbrıs,2026-05-13T06:03:00+00:00,Cyprus,0.3072314153607559,2,1,tr,MED,Europe
 'c9080fa8ac',extremes,Drought,#edc291,edo,Kuzey Makedonya'da kuraklık,2026-05-21T06:35:00+00:00,North Macedonia,0.3069564013927817,1,1,tr,MED,Europe
 '4e5e4292b1',extremes,Thunderstorm,#53785a,wmo,dolu libya,2026-06-01T07:30:00+00:00,Libya,0.3068673203138273,0,1,tr,SAH,Africa
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,çığ norveç,2026-05-20T06:33:00+00:00,Norway,0.3067755264441464,0,1,tr,NEU,Europe
+'afc393e166',extremes,Precipitation,#d60d2b,wmo,yağış güney afrika,2026-06-02T07:08:00+00:00,South Africa,0.30674905412379927,0,1,tr,WSAF,Africa
 '9b59bee21e',extremes,Drought,#edc291,edo,kuraklık polonya,2026-05-22T06:32:00+00:00,Poland,0.3066279559490994,0,1,tr,WCE,Europe
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,yağış arjantin,2026-05-28T06:38:00+00:00,Argentina,0.3065747644878346,0,1,tr,SES,South-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,sağanak Arjantin,2026-05-28T06:38:00+00:00,Argentina,0.3065329735748745,0,1,tr,SES,South-America
 '265f018343',extremes,Storm,#b3b2b1,wmo,fırtına dalgası güneydoğu bölgesi,2026-05-17T06:01:00+00:00,North Macedonia,0.3061342786170515,3,1,tr,MED,Europe
 'fe07b8547c',extremes,Drought,#edc291,edo,kuraklık çekya,2026-06-04T07:06:00+00:00,Czechia,0.306021903621799,0,1,tr,WCE,Europe
+'9fdc419684',extremes,Drought,#edc291,edo,Kuraklık Çekya,2026-05-30T06:01:00+00:00,Czechia,0.30564883822313665,0,1,tr,WCE,Europe
+'3a81ba6638',extremes,Landslide,#572c03,aidr,Somersby Yeni Güney Galler'de toprak kayması,2026-06-06T06:08:00+00:00,Australia,0.3056046342432353,0,1,tr,EAU,Oceania
 '7cfed20fae',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur Auckland ve büyük bariyer adası,2026-06-01T07:30:00+00:00,New Zealand,0.3053934830767825,0,1,tr,NZ,Oceania
 'd709dd70e2',extremes,Thunderstorm,#53785a,wmo,fırtına güneybatı bölgesi,2026-06-04T07:06:00+00:00,North Macedonia,0.3053914133576123,2,1,tr,MED,Europe
 '0006615477',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur kanada,2026-05-28T06:38:00+00:00,Canada,0.3053568485195942,0,1,tr,NEN,North-America
@@ -304,5 +308,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,orman yangını hindistan,2026-05-15T06:09:00+00:00,India,0.2567930850791286,1,1,tr,SAS,Asia
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası belçika,2026-05-26T06:31:00+00:00,Belgium,0.2567399532704603,1,1,tr,WCE,Europe
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosferik nehir,2026-05-09T05:35:00+00:00,,0.2336658555654076,2,1,tr,,
-'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,soğuk hava batı avustralya,2026-05-28T06:38:00+00:00,Australia,0.23077454765057537,2,1,tr,CAU,Oceania
+'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,soğuk hava batı avustralya,2026-05-28T06:38:00+00:00,Australia,0.2307745476505753,2,1,tr,CAU,Oceania
 'e8573dc87f',extremes,Snow&Ice,#d60d2b,wmo,puvirnituq inukjuak'ın donması,2026-05-17T06:01:00+00:00,Canada,0.2203532336403187,2,1,tr,NEN,North-America
