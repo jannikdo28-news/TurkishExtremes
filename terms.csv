@@ -180,11 +180,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,fırtına güney afrika,2026-06-03T07:23:00+00:00,South Africa,0.3011639531079541,0,1,tr,WSAF,Africa
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,kar kanadası,2026-06-13T06:38:00+00:00,Canada,0.3011625950309901,0,1,tr,NEN,North-America
 '95694d19cf',extremes,Earthquake,#870007,usgs,deprem yemen,2026-06-01T07:30:00+00:00,Yemen,0.3011575322060412,0,1,tr,NEAF,Africa
+'ed5655acf2',extremes,Flood,#030ba1,wmo,Sel Güney Avustralya Warburton,2026-05-29T06:38:00+00:00,Australia,0.30114203585170324,0,1,tr,CAU,Oceania
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,kar Arjantin,2026-05-25T06:53:00+00:00,Argentina,0.3011411991825682,0,1,tr,SES,South-America
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,fırtına dalgası kanada,2026-05-31T06:40:00+00:00,Canada,0.3011146116517371,0,1,tr,NEN,North-America
 'e058bc3eb7',extremes,Drought,#edc291,edo,kuraklık sri lanka,2026-05-26T06:31:00+00:00,Sri Lanka,0.3011122555880161,0,1,tr,BOB,Asia
 '0ebdc15703',extremes,Earthquake,#870007,usgs,deprem kahaluu keauhou,2026-06-03T07:22:00+00:00,Hawaii,0.3010736733373217,0,1,tr,NPO,Pacific Ocean
 '2433af70de',extremes,Storm,#b3b2b1,wmo,fırtına dalgası belize,2026-06-12T07:05:00+00:00,Belize,0.3010572736878001,0,1,tr,SCA,North-America
+'501b14a5de',extremes,Precipitation,#d60d2b,wmo,Amazonica yağış bölgesi,2026-06-14T07:07:00+00:00,Ecuador,0.3010525913298929,0,1,tr,NWS,South-America
+'04915d4188',extremes,Precipitation,#d60d2b,wmo,sağanak makao,2026-06-08T07:13:00+00:00,Macao,0.30104692197892935,0,1,tr,EAS,Asia
+'1d7d327aa2',extremes,Storm,#b3b2b1,wmo,fırtına dalgası taranaki ve whanganui,2026-06-01T07:30:00+00:00,New Zealand,0.30103012523396555,0,1,tr,NZ,Oceania
+'c40c3d7ce2',extremes,Flood,#030ba1,wmo,İsveç'te sel,2026-06-12T07:05:00+00:00,Sweden,0.30102694613942077,0,1,tr,NEU,Europe
+'68a565abbc',extremes,Storm,#b3b2b1,wmo,fırtına dalgası yeni zelanda,2026-06-08T07:13:00+00:00,New Zealand,0.3010229603531492,0,1,tr,NZ,Oceania
+'c6ce45829e',extremes,Storm,#b3b2b1,wmo,fırtına dalgası brezilya,2026-06-06T06:08:00+00:00,Brazil,0.30100441991907084,0,1,tr,SAM,South-America
+'7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,buz İzlanda,2026-05-29T06:38:00+00:00,Iceland,0.30099618491023017,0,1,tr,GIC,Europe
+'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,soğuk dalga brezilya,2026-06-06T06:08:00+00:00,Brazil,0.3009408922386101,0,1,tr,SAM,South-America
+'d0a1e0bc8b',extremes,Storm,#b3b2b1,wmo,fırtına kabarması kuveyt,2026-06-12T07:05:00+00:00,Kuwait,0.30090877200967,0,1,tr,ARP,Asia
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarktika deniz buzu,2026-05-30T06:01:00+00:00,,0.3002273249417252,1,1,tr,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,buzul gölü salgını,2026-06-04T07:06:00+00:00,,0.2978186499413199,1,1,tr,,
 '1405131905',extremes,Thunderstorm,#53785a,random,dolu,2026-06-03T07:22:00+00:00,,0.2969146926529162,1,2,tr,,
