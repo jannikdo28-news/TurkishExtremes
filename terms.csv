@@ -1,5 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'deaa4b70a0',extremes,Storm,#b3b2b1,random,kum fırtınası,2026-06-09T06:32:00+00:00,,0.48129579021828134,2,2,tr,,
+'fcba098edb',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası kuzey makedonya,2026-06-20T06:47:00+00:00,North Macedonia,0.5989951411880199,0,1,tr,MED,Europe
+'afad3750e1',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası Üsküp bölgesi,2026-06-20T06:47:00+00:00,North Macedonia,0.5865842845577517,0,1,tr,MED,Europe
+'c76cb9fc29',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası güneybatı bölgesi,2026-06-21T07:16:00+00:00,North Macedonia,0.580045635262327,0,1,tr,MED,Europe
+'833a5e6eda',extremes,Storm,#b3b2b1,wmo,fırtına dalgalanması vardar bölgesi,2026-06-12T07:05:00+00:00,North Macedonia,0.5479066990011301,0,1,tr,MED,Europe
+'deaa4b70a0',extremes,Storm,#b3b2b1,random,kum fırtınası,2026-06-09T06:32:00+00:00,,0.4812957902182813,2,2,tr,,
 '1ee92f48be',extremes,Precipitation,#d60d2b,wmo,yağmur doğu bölgesi,2026-05-16T05:40:00+00:00,North Macedonia,0.4797037398338823,2,2,tr,MED,Europe
 '053bb10e09',extremes,Heat Wave,#c40202,random,hint yazı,2026-06-18T07:16:00+00:00,,0.4774106268910097,2,2,tr,,
 '1d702e03bc',extremes,Precipitation,#d60d2b,wmo,sağanak bulgaristan,2026-05-23T05:53:00+00:00,Bulgaria,0.4718606631180165,2,1,tr,MED,Europe
@@ -66,7 +70,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0be5ded7e1',extremes,Drought,#edc291,edo,kuruluk hindi,2026-05-24T06:22:00+00:00,Turkey,0.3389759976202818,2,1,tr,MED,Asia
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,donma,2026-06-11T07:14:00+00:00,,0.338588271943661,1,1,tr,,
 '2f048a32c8',extremes,Thunderstorm,#53785a,wmo,kuzey makedonya'yı dolu,2026-06-04T07:06:00+00:00,North Macedonia,0.3383460648001553,2,1,tr,MED,Europe
-'357f3c8921',extremes,Drought,#edc291,edo,kuzey makedonya'da yağmur eksikliği,2026-06-09T06:33:00+00:00,North Macedonia,0.33323095775311706,2,1,tr,MED,Europe
+'357f3c8921',extremes,Drought,#edc291,edo,kuzey makedonya'da yağmur eksikliği,2026-06-09T06:33:00+00:00,North Macedonia,0.333230957753117,2,1,tr,MED,Europe
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,en soğuk yıl,2026-06-07T06:48:00+00:00,,0.332999046431399,1,1,tr,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,gece donu,2026-06-12T07:05:00+00:00,,0.3288430841425738,1,1,tr,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,toprak nemi,2026-06-02T07:08:00+00:00,,0.3285097298432355,4,1,tr,,
@@ -299,12 +303,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,don Brezilya,2026-05-21T06:35:00+00:00,Brazil,0.2568359517996357,1,1,tr,SAM,South-America
 'de55985e54',extremes,Earthquake,#870007,usgs,deprem hadibu,2026-06-08T07:13:00+00:00,Yemen,0.2568337906957363,1,1,tr,ARS,Indian Ocean
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası belçika,2026-05-26T06:31:00+00:00,Belgium,0.2567399532704603,1,1,tr,WCE,Europe
-'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,Arjantin'in donması,2026-05-26T06:31:00+00:00,Argentina,0.25660756627897285,1,1,tr,SES,South-America
+'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,Arjantin'in donması,2026-05-26T06:31:00+00:00,Argentina,0.2566075662789728,1,1,tr,SES,South-America
 'be9f9ddcc5',extremes,Flood,#030ba1,wmo,Danimarka'da sel,2026-06-07T06:48:00+00:00,Denmark,0.2564575349362025,1,1,tr,NEU,Europe
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,dondurucu Brezilya,2026-06-04T07:06:00+00:00,Brazil,0.2564324940288042,1,1,tr,SAM,South-America
 '47ff492c3a',extremes,Storm,#b3b2b1,wmo,fırtına dalgası malampa şefa ve tafea eyaleti,2026-06-12T07:05:00+00:00,Vanuatu,0.2563623634245608,1,1,tr,SPO,Oceania
 '44d9ac0858',extremes,Earthquake,#870007,usgs,deprem pāpa'ikou,2026-06-15T08:36:00+00:00,Hawaii,0.2563567672543797,1,1,tr,NPO,Pacific Ocean
-'8f8c4d17cb',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası etiyopya,2026-06-10T06:49:00+00:00,Ethiopia,0.25632634126628867,1,1,tr,NEAF,Africa
+'8f8c4d17cb',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası etiyopya,2026-06-10T06:49:00+00:00,Ethiopia,0.2563263412662886,1,1,tr,NEAF,Africa
 '104591a5db',extremes,Precipitation,#d60d2b,wmo,yağmur Çad,2026-06-17T07:33:00+00:00,Chad,0.2562913265769299,1,1,tr,SAH,Africa
 '5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,çığ rusya,2026-06-06T06:08:00+00:00,Russia,0.2562273934309408,1,1,tr,ESB,Europe
 'a715281618',extremes,Storm,#b3b2b1,wmo,fırtına dalgası vanuatu,2026-06-09T06:32:00+00:00,Vanuatu,0.256210325410309,1,1,tr,SPO,Oceania
