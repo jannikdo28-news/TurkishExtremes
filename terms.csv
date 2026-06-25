@@ -107,7 +107,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,soğuğu kaydedin,2026-06-16T08:27:00+00:00,,0.3166466207544914,1,1,tr,,
 'b87a41f64c',extremes,Iceberg,#d60d2b,eonet,buzdağı a76c,2026-06-24T06:29:00+00:00,Antarctica,0.3160494325111736,0,1,tr,WAN,Antarctica
 '10fd2d8d46',extremes,Iceberg,#d60d2b,eonet,buzdağı a81,2026-06-24T06:29:00+00:00,Antarctica,0.3159814968609215,0,1,tr,EAN,Antarctica
+'729f81e9bb',extremes,Iceberg,#d60d2b,eonet,buzdağı b22h,2026-06-24T06:29:00+00:00,Antarctica,0.3151917905018551,0,1,tr,WAN,Antarctica
 'f314bb7747',extremes,Flood,#030ba1,aidr,avustralya'da şiddetli sel,2026-06-13T06:38:00+00:00,Australia,0.3136863097585858,0,1,tr,EAU,Oceania
+'5fbcbe15d8',extremes,Iceberg,#d60d2b,eonet,buzdağı d33b,2026-06-24T06:29:00+00:00,,0.3124380319247081,0,1,tr,EAN,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,en sıcak yıl,2026-06-07T06:48:00+00:00,,0.3123176534336523,1,2,tr,,
 'a345aca9eb',extremes,Heat Wave,#c40202,acwe,sıcak hava dalgası victoria,2026-06-20T06:47:00+00:00,Australia,0.3121695567954438,0,1,tr,SAU,Oceania
 '59b5340b69',extremes,Precipitation,#d60d2b,random,hava cephesi,2026-06-04T07:06:00+00:00,,0.3119817097656948,1,2,tr,,
@@ -121,16 +123,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82db593da5',extremes,Precipitation,#d60d2b,wmo,sağanak Coromandel yarımadası,2026-06-23T06:33:00+00:00,New Zealand,0.3080782752094864,0,1,tr,NZ,Oceania
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,yağmur ekvador,2026-06-09T06:32:00+00:00,Ecuador,0.3080028031954469,0,1,tr,NWS,South-America
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,buzdağı arctis,2026-06-12T07:05:00+00:00,,0.3078522543934463,1,1,tr,,
+'155c83286e',extremes,Precipitation,#d60d2b,wmo,yağmur coromandel yarımadası,2026-06-24T06:30:00+00:00,New Zealand,0.30756940341547295,0,1,tr,NZ,Oceania
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,yağış kanada,2026-06-09T06:32:00+00:00,Canada,0.3075303806793295,0,1,tr,NEN,North-America
 '538eadceb4',extremes,Heat Wave,#c40202,random,ılıman kış,2026-06-08T07:13:00+00:00,,0.3071471944247236,1,1,tr,,
 'aacf82e274',extremes,Drought,#edc291,edo,Kuraklık Faroe Adaları,2026-06-17T07:34:00+00:00,Faroe Islands,0.3064454341520451,0,1,tr,NEU,Europe
 '82ed5705b2',extremes,Precipitation,#d60d2b,wmo,sağanak kosta rika,2026-06-23T06:33:00+00:00,Costa Rica,0.3063112568852629,0,1,tr,SCA,North-America
 '98db96b6de',extremes,Drought,#edc291,edo,kuraklık litvanya,2026-06-07T06:48:00+00:00,Lithuania,0.3058646784021231,0,1,tr,WCE,Europe
+'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,don Brezilya,2026-06-15T08:36:00+00:00,Brazil,0.30561891596238305,0,1,tr,SAM,South-America
 'e188f4e183',extremes,Storm,#b3b2b1,wmo,fırtına tanzanya,2026-06-13T06:38:00+00:00,Tanzania,0.3054853095531606,0,1,tr,SEAF,Africa
 'dac860fd6d',extremes,Storm,#b3b2b1,wmo,fırtına dalgası madagaskar,2026-06-22T08:39:00+00:00,Madagascar,0.3054120431594204,0,1,tr,MDG,Africa
 'd709dd70e2',extremes,Thunderstorm,#53785a,wmo,fırtına güneybatı bölgesi,2026-06-04T07:06:00+00:00,North Macedonia,0.3053914133576123,2,1,tr,MED,Europe
 '3421a57149',extremes,Storm,#b3b2b1,wmo,fırtına ekvador,2026-06-08T07:13:00+00:00,Ecuador,0.3052257135729676,0,1,tr,NWS,South-America
+'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,kar yeni zelanda,2026-06-23T06:33:00+00:00,New Zealand,0.3051839076413183,0,1,tr,NZ,Oceania
 '291335c911',extremes,Drought,#edc291,edo,yağmur eksikliği Gabon,2026-06-07T06:48:00+00:00,Gabon,0.3051194707099418,0,1,tr,CAF,Africa
+'39a886a9b9',extremes,Wildfire,#d60d2b,cmeter,orman yangını antarktika,2026-06-24T06:30:00+00:00,Antarctica,0.305113404069782,0,1,tr,EAN,
 '55c39b351d',extremes,Storm,#b3b2b1,random,toz şeytanı,2026-06-17T07:33:00+00:00,,0.3050403589886913,1,1,tr,,
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,fırtına solomon adaları,2026-06-08T07:13:00+00:00,Solomon Islands,0.3049004281614971,0,1,tr,EPO,Oceania
 '6fd99eeafe',extremes,Storm,#b3b2b1,wmo,Clarence'ın kuzeyindeki Marlborough fırtınası,2026-06-20T06:47:00+00:00,New Zealand,0.3045991420378098,0,1,tr,NZ,Oceania
@@ -138,6 +144,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1617e554bb',extremes,Storm,#b3b2b1,wmo,kıyı ve açık deniz bölgelerinde fırtına dalgalanması.,2026-06-13T06:38:00+00:00,Belize,0.3041638602277861,0,1,tr,SCA,North-America
 '7467da3199',extremes,Drought,#edc291,edo,Gabon'da kuraklık,2026-06-02T07:08:00+00:00,Gabon,0.304095918706451,0,1,tr,CAF,Africa
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,don,2026-06-04T07:06:00+00:00,,0.3040197977355579,1,2,tr,,
+'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,dondurucu Kanada,2026-06-22T08:39:00+00:00,Canada,0.3038737122035057,0,1,tr,NEN,North-America
+'e7ee03fac9',extremes,Snow&Ice,#d60d2b,wmo,dondurucu taç aralığı yolu,2026-06-24T06:30:00+00:00,New Zealand,0.30385291777320317,0,1,tr,NZ,Oceania
+'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,fırtına bahreyn,2026-06-06T06:08:00+00:00,Bahrain,0.30374778105025696,0,1,tr,ARP,Asia
+'f3f61a0510',extremes,Flood,#030ba1,wmo,Tomsk bölgesi sel,2026-06-15T08:36:00+00:00,Russia,0.30374759513732363,0,1,tr,ESB,Europe
 '75e7d0319a',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası lüksemburg,2026-06-17T07:33:00+00:00,Luxembourg,0.3032379169443953,0,1,tr,WCE,Europe
 'd737229c25',extremes,Snow&Ice,#d60d2b,wmo,dondurucu Şili,2026-06-11T07:14:00+00:00,Chile,0.3029193782582176,0,1,tr,SWS,South-America
 '39b673714a',extremes,Storm,#b3b2b1,wmo,tüm kıyı sularında fırtına.,2026-06-08T07:13:00+00:00,Vanuatu,0.3024956445297468,0,1,tr,SPO,Oceania
