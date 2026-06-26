@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'184472a9b7',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası polog bölgesi,2026-06-20T06:47:00+00:00,North Macedonia,0.4964773836292285,1,1,tr,MED,Europe
+'f37139fe2d',extremes,Landslide,#572c03,random,toprak kayması,2026-05-30T06:01:00+00:00,,0.5011838588578506,2,2,tr,,
 'c76cb9fc29',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası güneybatı bölgesi,2026-06-21T07:16:00+00:00,North Macedonia,0.4930387899729779,1,1,tr,MED,Europe
 '0c65536a96',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası Pelagonya bölgesi,2026-06-20T06:47:00+00:00,North Macedonia,0.4882125291985126,1,1,tr,MED,Europe
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,çekirgeler,2026-06-06T06:08:00+00:00,,0.485980738942655,1,2,tr,,
@@ -17,12 +17,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,kum fırtınası,2026-06-09T06:32:00+00:00,,0.4481862916827082,4,2,tr,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,kar yağışı,2026-06-03T07:22:00+00:00,,0.4343733245217744,1,3,tr,,
 'fcba098edb',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası kuzey makedonya,2026-06-20T06:47:00+00:00,North Macedonia,0.4327739895083444,2,1,tr,MED,Europe
-'f37139fe2d',extremes,Landslide,#572c03,random,toprak kayması,2026-05-30T06:01:00+00:00,,0.4290396574798242,1,2,tr,,
 'c1eef80860',extremes,Drought,#edc291,edo,kuraklık bulgaristan,2026-06-14T07:07:00+00:00,Bulgaria,0.4258634791135263,1,1,tr,MED,Europe
 'fa248484f4',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası vardar bölgesi,2026-06-21T07:16:00+00:00,North Macedonia,0.4246047911241973,2,1,tr,MED,Europe
 'afad3750e1',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası Üsküp bölgesi,2026-06-20T06:47:00+00:00,North Macedonia,0.4238071455929755,2,1,tr,MED,Europe
 '776fe47817',extremes,Wildfire,#d60d2b,random,orman yangını,2026-05-18T06:38:00+00:00,,0.4235830984285595,2,3,tr,,
-'39bab6b4e3',extremes,Drought,#edc291,edo,kuraklık türkiye,2026-06-13T06:38:00+00:00,Turkey,0.42351771040815434,3,1,tr,MED,Asia
+'39bab6b4e3',extremes,Drought,#edc291,edo,kuraklık türkiye,2026-06-13T06:38:00+00:00,Turkey,0.4235177104081543,3,1,tr,MED,Asia
+'184472a9b7',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası polog bölgesi,2026-06-20T06:47:00+00:00,North Macedonia,0.4220057760848442,2,1,tr,MED,Europe
 '62084daeb0',extremes,Earthquake,#870007,random,deprem,2026-06-21T07:16:00+00:00,,0.4218954047756807,1,3,tr,,
 '40f675561f',extremes,Heat Wave,#c40202,random,en sıcak yaz,2026-06-11T07:14:00+00:00,,0.4218219459981703,1,3,tr,,
 'f484ebfc83',extremes,Storm,#b3b2b1,wmo,fırtına dalgası bulgaristan,2026-06-11T07:14:00+00:00,Bulgaria,0.4093279901358148,3,1,tr,MED,Europe
@@ -214,7 +214,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '70bae49ea5',extremes,Tropical Cyclone,#4f4f4f,eonet,tropik fırtına boris,2026-06-12T07:05:00+00:00,,0.271179373925439,1,1,tr,SCA,North-America
 '5251a639fe',extremes,Wildfire,#d60d2b,eonet,kopshesut orman yangını kuzeybatı arktik alaska,2026-06-12T07:05:00+00:00,,0.2711080965192835,1,1,tr,,
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,avrupa sıcak hava dalgası paris,2026-05-28T06:38:00+00:00,France,0.271043232462277,1,1,tr,,
-'3dc98006fe',extremes,Drought,#edc291,acwe,yağmur eksikliği batı avustralya,2026-05-27T06:46:00+00:00,Australia,0.2709251977492804,1,1,tr,CAU,Oceania
 '567f445b3d',extremes,Tropical Cyclone,#4f4f4f,eonet,tropik fırtına cristina,2026-06-12T07:05:00+00:00,,0.2709186933115594,1,1,tr,SCA,North-America
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,sıcak hava dalgası paris,2026-05-29T06:39:00+00:00,France,0.2706786999369174,1,1,tr,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,kar fırtınası,2026-06-20T06:46:00+00:00,,0.2706190709947583,1,1,tr,,
@@ -284,9 +283,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,yağmur güney afrika,2026-06-03T07:23:00+00:00,South Africa,0.2606442117370721,1,1,tr,WSAF,Africa
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,sağanak kanada,2026-06-09T06:32:00+00:00,Canada,0.2605888346250299,1,1,tr,NEN,North-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,sağanak Arjantin,2026-05-28T06:38:00+00:00,Argentina,0.2605530275386433,1,1,tr,SES,South-America
-'aacf82e274',extremes,Drought,#edc291,edo,Kuraklık Faroe Adaları,2026-06-17T07:34:00+00:00,Faroe Islands,0.26047861902923836,1,1,tr,NEU,Europe
+'aacf82e274',extremes,Drought,#edc291,edo,Kuraklık Faroe Adaları,2026-06-17T07:34:00+00:00,Faroe Islands,0.2604786190292383,1,1,tr,NEU,Europe
 'a0fea22150',extremes,Heat Wave,#c40202,acwe,sıcak hava dalgası yeni güney galler,2026-05-29T06:39:00+00:00,Australia,0.2603897263383807,1,1,tr,EAU,Oceania
-'82ed5705b2',extremes,Precipitation,#d60d2b,wmo,sağanak kosta rika,2026-06-23T06:33:00+00:00,Costa Rica,0.26036456835247346,1,1,tr,SCA,North-America
+'82ed5705b2',extremes,Precipitation,#d60d2b,wmo,sağanak kosta rika,2026-06-23T06:33:00+00:00,Costa Rica,0.2603645683524734,1,1,tr,SCA,North-America
 'fe07b8547c',extremes,Drought,#edc291,edo,kuraklık çekya,2026-06-04T07:06:00+00:00,Czechia,0.2601186180785291,1,1,tr,WCE,Europe
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,fırtına gana,2026-06-11T07:14:00+00:00,Ghana,0.2600131746932644,1,1,tr,WAF,Africa
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,sağanak ekvador,2026-05-30T06:01:00+00:00,Ecuador,0.259898484301544,1,1,tr,NWS,South-America
@@ -367,3 +366,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1878bbb853',extremes,Wildfire,#d60d2b,wmo,tataristan orman yangını cumhuriyeti,2026-06-13T06:38:00+00:00,Russia,0.2556631748946973,1,1,tr,ESB,Europe
 'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,soğuk hava batı avustralya,2026-05-28T06:38:00+00:00,Australia,0.2307745476505753,2,1,tr,CAU,Oceania
 'cfd153353e',extremes,Tropical Cyclone,#4f4f4f,eonet,tropik fırtına jangmi,2026-05-30T06:01:00+00:00,,0.230492690333965,2,1,tr,NPO,Pacific Ocean
+'3dc98006fe',extremes,Drought,#edc291,acwe,yağmur eksikliği batı avustralya,2026-05-27T06:46:00+00:00,Australia,0.23028641808688835,2,1,tr,CAU,Oceania
