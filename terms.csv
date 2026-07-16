@@ -160,9 +160,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd737229c25',extremes,Snow&Ice,#d60d2b,wmo,dondurucu Şili,2026-07-13T05:53:00+00:00,Chile,0.3029539571384551,0,1,tr,SWS,South-America
 'fa6f243498',extremes,Precipitation,#d60d2b,wmo,sağanak yağış mich,2026-07-14T05:14:00+00:00,Mexico,0.3029503621874527,0,1,tr,NCA,North-America
 '08945238c8',extremes,Snow&Ice,#d60d2b,wmo,kar şili,2026-07-14T05:14:00+00:00,Chile,0.3029282148150259,0,1,tr,SWS,South-America
+'ae7c5ba2c1',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası val de ruz colombier,2026-07-11T05:27:00+00:00,Switzerland,0.3028383864382835,0,1,tr,WCE,Europe
 'd77b825e5b',extremes,Flood,#030ba1,wmo,Kanada'da sel,2026-06-30T06:39:00+00:00,Canada,0.3026244254062194,0,1,tr,NEN,North-America
 '5fbb195efb',extremes,Wildfire,#d60d2b,wmo,orman yangını ulyanovsk bölgesi,2026-07-09T06:27:00+00:00,Russia,0.3026101593462736,0,1,tr,ESB,Europe
+'91a13c4ea2',extremes,Fog,#d60d2b,wmo,sis sanirajak igloolik,2026-07-14T05:14:00+00:00,Canada,0.30250217904232324,0,1,tr,NEN,North-America
+'16664cc668',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası verzasca,2026-07-08T05:37:00+00:00,Switzerland,0.30234049742980673,0,1,tr,WCE,Europe
+'ac4720587c',extremes,Snow&Ice,#d60d2b,wmo,donma ayarı. 3 kordillera,2026-07-15T05:15:00+00:00,Chile,0.3023051772637745,0,1,tr,SWS,South-America
 '52af874334',extremes,Drought,#edc291,random,kuraklık,2026-06-23T06:32:00+00:00,,0.3022990568151539,0,1,tr,,
+'54559d4fe4',extremes,Thunderstorm,#53785a,wmo,fırtına moosonee,2026-07-14T05:14:00+00:00,Canada,0.3022893278624632,0,1,tr,NEN,North-America
+'95b5264574',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası kanada,2026-07-01T06:52:00+00:00,Canada,0.30228265174506186,0,1,tr,NEN,North-America
+'d9f5a28608',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası basso moesano,2026-07-10T06:27:00+00:00,Switzerland,0.30221298233947613,0,1,tr,WCE,Europe
+'2b6285aa8a',extremes,Drought,#edc291,edo,kuraklık fildişi sahili,2026-06-25T06:32:00+00:00,Ivory Coast,0.302040266984308,0,1,tr,WAF,Africa
+'96fce9e739',extremes,Flood,#030ba1,wmo,Trinidad ve Tobago'da su baskını,2026-07-13T05:53:00+00:00,Trinidad and Tobago,0.3020076375943224,0,1,tr,NSA,North-America
+'a715281618',extremes,Storm,#b3b2b1,wmo,fırtına dalgası vanuatu,2026-07-13T05:53:00+00:00,Vanuatu,0.3020012331789693,0,1,tr,SPO,Oceania
 '4d446959e2',extremes,Drought,#edc291,edo,kuraklık estonya,2026-06-16T08:27:00+00:00,Estonia,0.300412412646861,0,1,tr,NEU,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,deprem arjantin,2026-06-27T06:08:00+00:00,Argentina,0.3002189958016414,1,1,tr,SES,South-America
 '790ae7e53c',extremes,Snow&Ice,#d60d2b,wmo,buz santarém,2026-06-11T07:14:00+00:00,Portugal,0.3001039159828044,0,1,tr,MED,Europe
