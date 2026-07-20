@@ -31,6 +31,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '373c6724f3',extremes,Drought,#edc291,edo,yağmur eksikliği türkiye,2026-06-23T06:33:00+00:00,Turkey,0.4180472696503735,2,1,tr,MED,Asia
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,sağanak yağmur,2026-06-29T07:12:00+00:00,,0.4155869043091749,1,3,tr,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,çığ,2026-07-04T05:59:00+00:00,,0.4133635000719767,1,2,tr,,
+'538eadceb4',extremes,Heat Wave,#c40202,random,ılıman kış,2026-06-29T07:12:00+00:00,,0.41226052819397685,1,2,tr,,
 '7747997246',extremes,Fog,#d60d2b,wmo,sis rusya,2026-06-26T06:36:00+00:00,Russia,0.4118328894091717,1,2,tr,ESB,Europe
 '83f2a9deea',extremes,Drought,#edc291,edo,Kuraklık Fransa,2026-06-26T06:36:00+00:00,France,0.4110225109159184,1,2,tr,WCE,Europe
 '9778ee6716',extremes,Earthquake,#870007,usgs,deprem yumare,2026-06-25T06:32:00+00:00,Venezuela,0.4106876340640345,1,3,tr,NSA,South-America
@@ -80,7 +81,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0be5ded7e1',extremes,Drought,#edc291,edo,kuruluk hindi,2026-07-11T05:27:00+00:00,Turkey,0.3742075613603994,1,1,tr,MED,Asia
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,çekirge,2026-07-14T05:14:00+00:00,,0.3741774395721957,1,2,tr,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,şiddetli yağmur,2026-06-16T08:27:00+00:00,,0.3707741597868528,1,2,tr,,
-'126dbdb910',extremes,Drought,#edc291,edo,Moldova'nın kuraklığı,2026-07-07T06:30:00+00:00,Moldova,0.3707039121830089,0,1,tr,WCE,Europe
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tayfun,2026-07-19T05:37:00+00:00,,0.3700454692000444,0,1,tr,,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,en sıcak gün,2026-07-18T05:10:00+00:00,,0.3695584958285386,0,1,tr,,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,fırtına dalgası,2026-06-14T07:06:00+00:00,,0.3683469108287308,1,2,tr,,
@@ -101,7 +101,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '59b529f428',extremes,Thunderstorm,#53785a,random,dolu fırtınası,2026-07-08T05:37:00+00:00,,0.3444345011775555,1,1,tr,,
 'bb960b1994',extremes,Drought,#edc291,edo,Moldova'nın kuruluğu,2026-06-25T06:32:00+00:00,Moldova,0.3438667003620936,1,1,tr,WCE,Europe
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,donma,2026-07-03T06:09:00+00:00,,0.3411875110477214,1,2,tr,,
-'530909dfe4',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası rusya,2026-07-03T06:09:00+00:00,Russia,0.34048221255360567,1,2,tr,ESB,Europe
+'530909dfe4',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası rusya,2026-07-03T06:09:00+00:00,Russia,0.3404822125536056,1,2,tr,ESB,Europe
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,soğuk dalga,2026-06-23T06:32:00+00:00,,0.3377433854457866,1,1,tr,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,ulusal kasırga merkezi,2026-06-18T07:16:00+00:00,,0.3365621808132981,1,1,tr,,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,soğuk büyü,2026-06-25T06:32:00+00:00,,0.3359675393239968,1,1,tr,,
@@ -128,14 +128,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,çamur akışı,2026-07-13T05:53:00+00:00,,0.3195097104714772,1,1,tr,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,soğuğu kaydedin,2026-06-16T08:27:00+00:00,,0.3166466207544914,1,1,tr,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,toprak nemi,2026-06-22T08:39:00+00:00,,0.3160868146964091,1,1,tr,,
+'126dbdb910',extremes,Drought,#edc291,edo,Moldova'nın kuraklığı,2026-07-07T06:30:00+00:00,Moldova,0.31509832535555754,1,1,tr,WCE,Europe
 'a652c78afc',extremes,Drought,#edc291,random,mega kuraklık,2026-06-22T08:39:00+00:00,,0.311667023984557,1,1,tr,,
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,buz brezilya,2026-07-08T05:37:00+00:00,Brazil,0.3114577245309905,1,1,tr,SAM,South-America
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,karaya yaklaşma,2026-07-09T06:27:00+00:00,,0.3103451208468912,1,1,tr,,
 'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,kar yeni zelanda,2026-06-23T06:33:00+00:00,New Zealand,0.309811661949666,1,2,tr,NZ,Oceania
-'538eadceb4',extremes,Heat Wave,#c40202,random,ılıman kış,2026-06-29T07:12:00+00:00,,0.3083653096399728,0,1,tr,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,kar paketi,2026-07-01T06:52:00+00:00,,0.3063111277235722,1,2,tr,,
 '55c39b351d',extremes,Storm,#b3b2b1,random,toz şeytanı,2026-06-17T07:33:00+00:00,,0.3050403589886913,1,1,tr,,
-'f1101350a4',extremes,Storm,#b3b2b1,wmo,fırtına şili,2026-07-07T06:30:00+00:00,Chile,0.3037251436890014,0,1,tr,SWS,South-America
 '199a71ffe8',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası karadağ,2026-06-30T06:39:00+00:00,Montenegro,0.3031476855283939,0,1,tr,MED,Europe
 '3d6bde5b08',extremes,Storm,#b3b2b1,wmo,fırtına dalgalanması seyşeller,2026-07-08T05:37:00+00:00,Seychelles,0.3030227607709381,0,1,tr,EIO,Africa
 'eaf1abf1e7',extremes,Snow&Ice,#d60d2b,wmo,buz reg. 4 kordillera,2026-07-20T05:54:00+00:00,Chile,0.3029650983278401,0,1,tr,SWS,South-America
@@ -372,6 +371,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a43b4b4e31',extremes,Storm,#b3b2b1,wmo,fırtına bölgesi kıyısı ve interandina,2026-06-25T06:32:00+00:00,Ecuador,0.2583319955428714,1,1,tr,NWS,South-America
 'ee2bb6403c',extremes,Wildfire,#d60d2b,wmo,başkurdistan orman yangını cumhuriyeti,2026-06-24T06:30:00+00:00,Russia,0.2582919990814946,1,1,tr,ESB,Europe
 'e7ee03fac9',extremes,Snow&Ice,#d60d2b,wmo,dondurucu taç aralığı yolu,2026-06-24T06:30:00+00:00,New Zealand,0.2582749801072226,1,1,tr,NZ,Oceania
+'f1101350a4',extremes,Storm,#b3b2b1,wmo,fırtına şili,2026-07-07T06:30:00+00:00,Chile,0.2581663721356512,1,1,tr,SWS,South-America
 '24b660695f',extremes,Landslide,#572c03,wmo,toprak kayması çin,2026-07-03T06:09:00+00:00,China,0.2581121083929942,1,1,tr,EAS,Asia
 '8b533aa307',extremes,Thunderstorm,#53785a,wmo,şiddetli hava amerika birleşik devletleri,2026-07-01T06:52:00+00:00,United States,0.258093096823116,1,1,tr,CNA,North-America
 '042968096b',extremes,Storm,#b3b2b1,wmo,fırtına izlanda,2026-07-07T06:30:00+00:00,Iceland,0.2580606496758322,1,1,tr,GIC,Europe
