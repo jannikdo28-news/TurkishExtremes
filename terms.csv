@@ -59,7 +59,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '09b8af5c65',extremes,Earthquake,#870007,usgs,deprem hawaii,2026-06-14T07:06:00+00:00,Hawaii,0.4065281582293949,1,2,tr,NPO,Pacific Ocean
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,yağış arjantin,2026-06-18T07:16:00+00:00,Argentina,0.4064143513740682,1,2,tr,SES,South-America
 '8fc6f3f11b',extremes,Precipitation,#d60d2b,wmo,sağanak yağmur dobrich varna,2026-07-13T05:53:00+00:00,Bulgaria,0.4053703273002687,2,1,tr,MED,Europe
-'1c0214d974',extremes,Storm,#b3b2b1,wmo,fırtına güney afrika,2026-06-24T06:30:00+00:00,South Africa,0.40438108937057404,1,2,tr,WSAF,Africa
+'1c0214d974',extremes,Storm,#b3b2b1,wmo,fırtına güney afrika,2026-06-24T06:30:00+00:00,South Africa,0.404381089370574,1,2,tr,WSAF,Africa
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,en soğuk gün,2026-07-08T05:37:00+00:00,,0.4042258682580297,1,2,tr,,
 '27c5f85790',extremes,Drought,#edc291,edo,kuraklık hindisi,2026-06-22T08:39:00+00:00,Turkey,0.4010408196317294,2,1,tr,MED,Asia
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,orman yangını,2026-06-19T07:39:00+00:00,,0.4003495942651949,1,3,tr,,
@@ -194,12 +194,22 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0bc688df44',extremes,Wildfire,#d60d2b,wmo,Buryatia orman yangını cumhuriyeti,2026-07-05T06:25:00+00:00,Russia,0.3002068324872031,0,1,tr,ESB,Europe
 '4b8a98e260',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası glâne,2026-07-11T05:27:00+00:00,Switzerland,0.3001747727970444,0,1,tr,WCE,Europe
 '0fa68c0b80',extremes,Earthquake,#870007,usgs,deprem santa cruz das flores,2026-07-12T05:43:00+00:00,Portugal,0.3001299246499302,0,1,tr,NAO,Atlantic Ocean
+'23cf4b65f8',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası nidau ins,2026-07-10T06:27:00+00:00,Switzerland,0.30012647467570536,0,1,tr,WCE,Europe
+'da616f2571',extremes,Earthquake,#870007,usgs,deprem pichigua,2026-07-17T05:27:00+00:00,Peru,0.3001141057841304,0,1,tr,SAM,South-America
+'3e1f1cf827',extremes,Fog,#d60d2b,wmo,sis bryansk bölgesi,2026-07-15T05:15:00+00:00,Russia,0.30010582480952186,0,1,tr,ESB,Europe
 'e9f2e1fd37',extremes,Flood,#030ba1,wmo,sel aberfoyle,2026-06-20T06:47:00+00:00,United Kingdom,0.3000852650436377,0,1,tr,NEU,Europe
+'2c86ae079a',extremes,Flood,#030ba1,wmo,Wuyi İlçesi'nde sel baskını,2026-07-11T05:27:00+00:00,China,0.30007147432388703,0,1,tr,EAS,Asia
+'40f675561f',extremes,Heat Wave,#c40202,random,en sıcak yaz,2026-07-12T05:43:00+00:00,,0.3000442287587518,0,1,tr,,
 'ecac020f22',extremes,Earthquake,#870007,usgs,deprem la serena,2026-06-25T06:32:00+00:00,Chile,0.3000434068074372,0,1,tr,SWS,South-America
+'9fdafe82e8',extremes,Wildfire,#d60d2b,wmo,adıge cumhuriyeti orman yangını,2026-07-10T06:27:00+00:00,Russia,0.30002015702738405,0,1,tr,ESB,Europe
+'45015c86e8',extremes,Drought,#edc291,edo,kuruluk haiti,2026-07-09T06:27:00+00:00,Haiti,0.3000167746321034,0,1,tr,CAR,North-America
 '9fc8372048',extremes,Storm,#b3b2b1,wmo,fırtına Zimbabve,2026-06-24T06:30:00+00:00,Zimbabwe,0.3000146422563527,0,1,tr,ESAF,Africa
+'cb39822660',extremes,Fog,#d60d2b,wmo,sis Kemerovo bölgesi,2026-07-10T06:27:00+00:00,Russia,0.3000113671243725,0,1,tr,ESB,Europe
 '19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,yeni zelanda don,2026-06-24T06:30:00+00:00,New Zealand,0.2999811894496025,0,1,tr,NZ,Oceania
+'6eb74257af',extremes,Storm,#b3b2b1,wmo,Kuveyt'in fırtına dalgası durumu,2026-07-20T05:54:00+00:00,Kuwait,0.2999497816260409,0,1,tr,ARP,Asia
 '6ae822c377',extremes,Snow&Ice,#d60d2b,wmo,don lindis geçişi sh8,2026-07-08T05:37:00+00:00,New Zealand,0.2999106783095572,0,1,tr,NZ,Oceania
 '6fc6c9445e',extremes,Snow&Ice,#d60d2b,wmo,Avustralya'nın donması,2026-06-27T06:08:00+00:00,Australia,0.2998932314491033,0,1,tr,CAU,Oceania
+'8a67a1fe5c',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası bex villars,2026-07-11T05:27:00+00:00,Switzerland,0.2998881996262594,0,1,tr,WCE,Europe
 '25b6813d1f',extremes,Flood,#030ba1,wmo,Kamçatka Krai'nin güneyinde sel,2026-07-08T05:37:00+00:00,Russia,0.2998666901673264,0,1,tr,ESB,Europe
 '854af57bd3',extremes,Fog,#d60d2b,wmo,sis kanada,2026-06-24T06:30:00+00:00,Canada,0.2998278253343798,0,1,tr,NEN,North-America
 '7df86bf1c9',extremes,Snow&Ice,#d60d2b,wmo,kar avustralya,2026-07-03T06:09:00+00:00,Australia,0.2998198824337232,0,1,tr,CAU,Oceania
