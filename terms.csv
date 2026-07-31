@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'e52ff7b67a',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası doğu bölgesi,2026-07-16T05:25:00+00:00,North Macedonia,0.6101221141611245,0,1,tr,MED,Europe
+'e52ff7b67a',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası doğu bölgesi,2026-07-16T05:25:00+00:00,North Macedonia,0.6687538120369558,1,2,tr,MED,Europe
 'd19a2e53e5',extremes,Heat Wave,#c40202,wmo,Moldova sıcak hava dalgası,2026-07-19T05:37:00+00:00,Moldova,0.5452004003057338,0,1,tr,WCE,Europe
 'd9238d9ef1',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası güneydoğu bölgesi,2026-07-29T05:37:00+00:00,North Macedonia,0.5312827208378504,2,2,tr,MED,Europe
 'd59a7e48d7',extremes,Drought,#edc291,random,buharlaşma-terleme,2026-07-08T05:37:00+00:00,,0.5282952200854824,4,2,tr,,
@@ -85,7 +85,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4f334dd4a7',extremes,Drought,#edc291,edo,yağmur eksikliği bulgaristan,2026-07-09T06:27:00+00:00,Bulgaria,0.3866502319305906,2,1,tr,MED,Europe
 '52af874334',extremes,Drought,#edc291,random,kuraklık,2026-06-23T06:32:00+00:00,,0.3846323410201535,1,3,tr,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,kum fırtınası,2026-07-03T06:09:00+00:00,,0.3843112959466983,1,2,tr,,
-'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,en düşük minimum sıcaklık,2026-07-20T05:54:00+00:00,,0.38364608553987234,0,1,tr,,
+'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,en düşük minimum sıcaklık,2026-07-20T05:54:00+00:00,,0.3836460855398723,0,1,tr,,
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,ısı,2026-07-06T06:52:00+00:00,,0.3831878791584491,1,3,tr,,
 '1405131905',extremes,Thunderstorm,#53785a,random,dolu,2026-06-24T06:29:00+00:00,,0.3825154463491199,1,3,tr,,
 'f37139fe2d',extremes,Landslide,#572c03,random,toprak kayması,2026-06-20T06:46:00+00:00,,0.3788780044436958,1,2,tr,,
@@ -142,7 +142,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,kar yeni zelanda,2026-06-23T06:33:00+00:00,New Zealand,0.309811661949666,1,2,tr,NZ,Oceania
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,kar brezilya,2026-07-05T06:25:00+00:00,Brazil,0.3082713220234095,1,2,tr,SAM,South-America
 '19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,yeni zelanda don,2026-07-25T05:29:00+00:00,New Zealand,0.3080871861162948,0,1,tr,NZ,Oceania
-'cbd214af74',extremes,Drought,#edc291,edo,kuruluk Uganda,2026-07-31T05:51:00+00:00,Uganda,0.30789077302815027,0,1,tr,SEAF,Africa
+'cbd214af74',extremes,Drought,#edc291,edo,kuruluk Uganda,2026-07-31T05:51:00+00:00,Uganda,0.3078907730281502,0,1,tr,SEAF,Africa
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,kar paketi,2026-07-01T06:52:00+00:00,,0.3063111277235722,1,2,tr,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,kar fırtınası,2026-07-26T05:46:00+00:00,,0.3062075515538348,0,1,tr,,
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,fırtına dalgası brezilya,2026-07-18T05:10:00+00:00,Brazil,0.3052837859245118,0,1,tr,SAM,South-America
@@ -150,7 +150,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '56ec1d3897',extremes,Drought,#edc291,edo,kuraklık uganda,2026-07-14T05:15:00+00:00,Uganda,0.3035247289999474,0,1,tr,SEAF,Africa
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,fırtına kabarması arjantin,2026-07-17T05:27:00+00:00,Argentina,0.303309731574475,0,1,tr,SES,South-America
 '863042ed44',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası mısır,2026-07-31T05:51:00+00:00,Egypt,0.30303784297412,0,1,tr,SAH,Africa
-'46b68c9c05',extremes,Snow&Ice,#d60d2b,wmo,kar tacı menzil yolu,2026-07-31T05:51:00+00:00,New Zealand,0.30298688448685374,0,1,tr,NZ,Oceania
+'46b68c9c05',extremes,Snow&Ice,#d60d2b,wmo,kar tacı menzil yolu,2026-07-31T05:51:00+00:00,New Zealand,0.3029868844868537,0,1,tr,NZ,Oceania
 '9f50f80ea2',extremes,Drought,#edc291,edo,Kuraklık Karadağ,2026-07-11T05:27:00+00:00,Montenegro,0.3028788775702595,0,1,tr,MED,Europe
 'eb981e7150',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası suudi arabistan,2026-07-21T05:36:00+00:00,Saudi Arabia,0.3024762978511521,0,1,tr,ARP,Asia
 '053bb10e09',extremes,Heat Wave,#c40202,random,hint yazı,2026-07-11T05:26:00+00:00,,0.3023125195738854,1,1,tr,,
