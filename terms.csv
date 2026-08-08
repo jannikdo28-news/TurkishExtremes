@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '046de84cff',extremes,Wildfire,#d60d2b,effis,orman yangını izmir türkiye,2026-08-07T09:56:00+00:00,Turkey,0.8235872312368251,1,2,tr,MED,Asia
 '9074be8300',extremes,Wildfire,#d60d2b,effis,orman yangını izmir türkiye,2026-08-07T09:56:00+00:00,Turkey,0.7934372127094481,1,2,tr,MED,Asia
-'8c6ebb2fce',extremes,Wildfire,#d60d2b,effis,orman yangını ankara türkiye,2026-08-07T11:06:00+00:00,Turkey,0.7913966321512851,0,1,tr,MED,Asia
 '19e2e5e511',extremes,Wildfire,#d60d2b,effis,orman yangını isparta türkiye,2026-08-07T09:56:00+00:00,Turkey,0.7913966277685078,0,1,tr,MED,Asia
 '39a5dc9dbd',extremes,Wildfire,#d60d2b,effis,orman yangını ankara türkiye,2026-08-07T11:06:00+00:00,Turkey,0.7913966152255953,0,1,tr,MED,Asia
 '56932be330',extremes,Wildfire,#d60d2b,effis,orman yangını isparta türkiye,2026-08-07T11:06:00+00:00,Turkey,0.7913965671702256,0,1,tr,MED,Asia
@@ -16,6 +15,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3267f5413d',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye mardin n.a.,2026-08-07T11:06:00+00:00,Turkey,0.7913732596112237,0,1,tr,WCA,Asia
 '7caeebbe66',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye isparta n.a.,2026-08-07T09:56:00+00:00,Turkey,0.7913446444385578,0,1,tr,MED,Asia
 '7eef914348',extremes,Wildfire,#d60d2b,effis,kontrol edilemeyen yangın türkiye malatya n.a.,2026-08-07T11:06:00+00:00,Turkey,0.791342896009938,0,1,tr,MED,Asia
+'8c6ebb2fce',extremes,Wildfire,#d60d2b,effis,orman yangını ankara türkiye,2026-08-07T11:06:00+00:00,Turkey,0.7107871973285923,1,1,tr,MED,Asia
 '84da2917b8',extremes,Wildfire,#d60d2b,effis,orman yangını mardin türkiye,2026-08-07T11:06:00+00:00,Turkey,0.6728372038293005,1,1,tr,WCA,Asia
 'f7835c01c4',extremes,Wildfire,#d60d2b,effis,kontrol edilemeyen yangın malatya türkiye,2026-08-07T11:06:00+00:00,Turkey,0.6726871543650815,1,1,tr,MED,Asia
 'e2fcf07849',extremes,Wildfire,#d60d2b,effis,orman yangını elazığ türkiye,2026-08-07T11:06:00+00:00,Turkey,0.6726871521190826,1,1,tr,MED,Asia
@@ -262,7 +262,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,donma,2026-07-03T06:09:00+00:00,,0.2915095343905631,2,2,tr,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,cıva düşüşleri,2026-07-20T05:54:00+00:00,,0.2893105376016439,1,1,tr,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,ıslak büyü,2026-07-13T05:53:00+00:00,,0.2870741865040388,1,1,tr,,
-'030aa64ddb',extremes,Drought,#edc291,edo,kuraklık Moldova,2026-07-04T05:59:00+00:00,Moldova,0.2842817601263774,1,1,tr,WCE,Europe
 '3fa143a609',extremes,Storm,#b3b2b1,random,toz kar fırtınası,2026-07-23T05:39:00+00:00,,0.2815588520032889,1,1,tr,,
 '63663feccd',extremes,Drought,#edc291,edo,yağmur eksikliği Moldova,2026-07-30T05:24:00+00:00,Moldova,0.2779947009557513,1,1,tr,WCE,Europe
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,yağmur fırtınası,2026-07-12T05:43:00+00:00,,0.2755618329700516,1,1,tr,,
