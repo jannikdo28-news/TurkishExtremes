@@ -2,10 +2,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '046de84cff',extremes,Wildfire,#d60d2b,effis,orman yangını izmir türkiye,2026-08-07T09:56:00+00:00,Turkey,0.8235872312368251,1,2,tr,MED,Asia
 '71c228acb5',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye,2026-08-07T09:56:00+00:00,Turkey,0.8185445198110866,1,3,tr,MED,Asia
 '9074be8300',extremes,Wildfire,#d60d2b,effis,orman yangını izmir türkiye,2026-08-07T09:56:00+00:00,Turkey,0.7934372127094481,1,2,tr,MED,Asia
+'681ca699af',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye balıkesir,2026-08-07T11:06:00+00:00,Turkey,0.7910879166971938,0,1,tr,MED,Asia
+'a4479c680f',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye eskişehir n.a.,2026-08-07T11:06:00+00:00,Turkey,0.7909506453251549,0,1,tr,MED,Asia
+'757cde1d0e',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye denizli n.a.,2026-08-07T11:06:00+00:00,Turkey,0.7878816933591316,0,1,tr,MED,Asia
+'f26ff70867',extremes,Wildfire,#d60d2b,effis,orman yangını konya türkiye,2026-08-07T09:56:00+00:00,Turkey,0.786596636704918,0,1,tr,MED,Asia
+'7b6f0a5a4b',extremes,Wildfire,#d60d2b,effis,orman yangını balıkesir türkiye,2026-08-07T11:06:00+00:00,Turkey,0.7865945584908762,0,1,tr,MED,Asia
 '39a5dc9dbd',extremes,Wildfire,#d60d2b,effis,orman yangını ankara türkiye,2026-08-07T11:06:00+00:00,Turkey,0.748287182941756,1,2,tr,MED,Asia
+'f931fb4985',extremes,Wildfire,#d60d2b,effis,orman yangını монтана bulgaristan,2026-08-07T09:56:00+00:00,Bulgaria,0.7122569582066809,0,1,tr,MED,Europe
+'1f50df77c2',extremes,Wildfire,#d60d2b,effis,orman yangını bulgaristan,2026-08-07T09:56:00+00:00,Bulgaria,0.7122400376750974,0,1,tr,MED,Europe
+'e9531820d9',extremes,Wildfire,#d60d2b,effis,orman yangını българия  монтана монтана,2026-08-07T09:56:00+00:00,Bulgaria,0.7122226699834653,0,1,tr,MED,Europe
 '8c6ebb2fce',extremes,Wildfire,#d60d2b,effis,orman yangını ankara türkiye,2026-08-07T11:06:00+00:00,Turkey,0.7107871973285923,1,1,tr,MED,Asia
 '7942a3c79f',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye,2026-08-07T09:56:00+00:00,Turkey,0.7094514947251068,1,2,tr,MED,Asia
 '5ab0a2836b',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye,2026-08-07T09:56:00+00:00,Turkey,0.7094512883824217,1,2,tr,MED,Asia
+'04beb00546',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye diyarbakır n.a.,2026-08-09T03:59:00+00:00,Turkey,0.6832282743040645,0,1,tr,WCA,Asia
+'7c38991dc5',extremes,Wildfire,#d60d2b,effis,kontrol edilemeyen yangın türkiye şırnak n.a.,2026-08-09T03:59:00+00:00,Turkey,0.6769904752463555,0,1,tr,WCA,Asia
 '84da2917b8',extremes,Wildfire,#d60d2b,effis,orman yangını mardin türkiye,2026-08-07T11:06:00+00:00,Turkey,0.6728372038293005,1,1,tr,WCA,Asia
 '811df2b2bd',extremes,Wildfire,#d60d2b,effis,orman yangını malatya türkiye,2026-08-07T11:06:00+00:00,Turkey,0.6728368515129489,1,1,tr,MED,Asia
 'f7835c01c4',extremes,Wildfire,#d60d2b,effis,kontrol edilemeyen yangın malatya türkiye,2026-08-07T11:06:00+00:00,Turkey,0.6726871543650815,1,1,tr,MED,Asia
@@ -257,14 +267,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,donma,2026-07-03T06:09:00+00:00,,0.2915095343905631,2,2,tr,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,cıva düşüşleri,2026-07-20T05:54:00+00:00,,0.2893105376016439,1,1,tr,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,ıslak büyü,2026-07-13T05:53:00+00:00,,0.2870741865040388,1,1,tr,,
-'f4e1bf0fdf',extremes,Flood,#030ba1,random,buzul gölü salgını,2026-07-27T06:05:00+00:00,,0.28538503125243764,1,1,tr,,
+'f4e1bf0fdf',extremes,Flood,#030ba1,random,buzul gölü salgını,2026-07-27T06:05:00+00:00,,0.2853850312524376,1,1,tr,,
 '3fa143a609',extremes,Storm,#b3b2b1,random,toz kar fırtınası,2026-07-23T05:39:00+00:00,,0.2815588520032889,1,1,tr,,
 '63663feccd',extremes,Drought,#edc291,edo,yağmur eksikliği Moldova,2026-07-30T05:24:00+00:00,Moldova,0.2779947009557513,1,1,tr,WCE,Europe
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,yağmur fırtınası,2026-07-12T05:43:00+00:00,,0.2755618329700516,1,1,tr,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,toprak nemi,2026-07-13T05:53:00+00:00,,0.2755501260464886,1,1,tr,,
 '8626b81b9b',extremes,Flood,#030ba1,emdat,sel zamora çinchipe,2026-07-21T05:36:00+00:00,Ecuador,0.2720064152251044,1,1,tr,NWS,South-America
 '845dd2d698',extremes,Storm,#b3b2b1,random,kasırga,2026-07-07T06:30:00+00:00,,0.2715309033697947,1,1,tr,,
-'5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,fırtına melbourne victoria 2020,2026-08-05T05:31:00+00:00,Australia,0.26790993628801213,1,1,tr,SAU,Oceania
+'5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,fırtına melbourne victoria 2020,2026-08-05T05:31:00+00:00,Australia,0.2679099362880121,1,1,tr,SAU,Oceania
 '41f3b5b396',extremes,Storm,#b3b2b1,aidr,fırtına şiddetli rüzgar ve yağış victoria 2024,2026-08-04T05:32:00+00:00,Australia,0.2676543328830772,1,1,tr,SAU,Oceania
 'fbcb0a4ae5',extremes,Storm,#b3b2b1,eonet,süper tayfun yunusu,2026-07-30T05:24:00+00:00,,0.2660558188490732,1,1,tr,NPO,Pacific Ocean
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,orman yangını tazmanya,2026-07-30T05:24:00+00:00,Australia,0.2659379747517909,1,1,tr,SAU,Oceania
