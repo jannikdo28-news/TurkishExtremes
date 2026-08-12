@@ -6,13 +6,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7b6f0a5a4b',extremes,Wildfire,#d60d2b,effis,orman yangını balıkesir türkiye,2026-08-07T11:06:00+00:00,Turkey,0.7512297350096581,2,2,tr,MED,Asia
 '7942a3c79f',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye,2026-08-07T09:56:00+00:00,Turkey,0.7094514947251068,1,2,tr,MED,Asia
 '5ab0a2836b',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye,2026-08-07T09:56:00+00:00,Turkey,0.7094512883824217,1,2,tr,MED,Asia
-'f26ff70867',extremes,Wildfire,#d60d2b,effis,orman yangını konya türkiye,2026-08-07T09:56:00+00:00,Turkey,0.6686071411991803,1,1,tr,MED,Asia
+'9cfb4578c4',extremes,Thunderstorm,#53785a,meteo,fırtına Moldova,2026-08-07T11:06:00+00:00,Moldova,0.6840614864677181,2,2,tr,WCE,Europe
 '8c6ebb2fce',extremes,Wildfire,#d60d2b,effis,orman yangını ankara türkiye,2026-08-07T11:06:00+00:00,Turkey,0.6422691777293035,2,1,tr,MED,Asia
 '39a5dc9dbd',extremes,Wildfire,#d60d2b,effis,orman yangını ankara türkiye,2026-08-07T11:06:00+00:00,Turkey,0.6360441655004926,2,1,tr,MED,Asia
 'e52ff7b67a',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası doğu bölgesi,2026-07-16T05:25:00+00:00,North Macedonia,0.6333246569467006,3,2,tr,MED,Europe
-'9cfb4578c4',extremes,Thunderstorm,#53785a,meteo,fırtına Moldova,2026-08-07T11:06:00+00:00,Moldova,0.6281311429031978,1,2,tr,WCE,Europe
 '612f7ce1ec',extremes,Heat Wave,#c40202,meteo,sıcak hava dalgası türkiye,2026-08-08T03:51:00+00:00,Turkey,0.6219506705594218,1,2,tr,MED,Asia
-'498cb312b0',extremes,Wildfire,#d60d2b,effis,orman yangını kıbrıs,2026-08-12T04:22:00+00:00,Cyprus,0.6171643323716489,0,1,tr,MED,Europe
 'f931fb4985',extremes,Wildfire,#d60d2b,effis,orman yangını монтана bulgaristan,2026-08-07T09:56:00+00:00,Bulgaria,0.6054184144756788,1,1,tr,MED,Europe
 '1f50df77c2',extremes,Wildfire,#d60d2b,effis,orman yangını bulgaristan,2026-08-07T09:56:00+00:00,Bulgaria,0.6054040320238327,1,1,tr,MED,Europe
 'e9531820d9',extremes,Wildfire,#d60d2b,effis,orman yangını българия  монтана монтана,2026-08-07T09:56:00+00:00,Bulgaria,0.6053892694859455,1,1,tr,MED,Europe
@@ -49,6 +47,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e8b88dfe6a',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye adıyaman n.a.,2026-08-11T04:01:00+00:00,Turkey,0.571425581546619,1,1,tr,MED,Asia
 '9bc5ffa7b7',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye diyarbakır n.a.,2026-08-10T04:13:00+00:00,Turkey,0.5707584574517972,1,1,tr,WCA,Asia
 '757cde1d0e',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye denizli n.a.,2026-08-07T11:06:00+00:00,Turkey,0.5692445234519726,2,1,tr,MED,Asia
+'f26ff70867',extremes,Wildfire,#d60d2b,effis,orman yangını konya türkiye,2026-08-07T09:56:00+00:00,Turkey,0.5683160700193033,2,1,tr,MED,Asia
 '255e325caa',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye muş,2026-08-11T04:01:00+00:00,Turkey,0.5670530085503226,1,1,tr,WCA,Asia
 'dd436a35cc',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası bulgaristan,2026-08-02T05:42:00+00:00,Bulgaria,0.5662602412400007,1,1,tr,MED,Europe
 '57980ff78c',extremes,Wildfire,#d60d2b,effis,orman yangını Türkiye çorum n.a.,2026-08-11T04:01:00+00:00,Turkey,0.5614646386152916,1,1,tr,MED,Asia
@@ -77,6 +76,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd59a7e48d7',extremes,Drought,#edc291,random,buharlaşma-terleme,2026-07-08T05:37:00+00:00,,0.5282952200854824,4,2,tr,,
 '03b3954623',extremes,Earthquake,#870007,usgs,deprem malatya,2026-07-18T05:10:00+00:00,Turkey,0.5282742555303658,6,2,tr,MED,Asia
 'f0fa775fe5',extremes,Wildfire,#d60d2b,effis,orman yangını bulgaristan,2026-08-07T09:56:00+00:00,Bulgaria,0.5282597096887918,1,1,tr,MED,Europe
+'498cb312b0',extremes,Wildfire,#d60d2b,effis,orman yangını kıbrıs,2026-08-12T04:22:00+00:00,Cyprus,0.5245896825159015,1,1,tr,MED,Europe
 'fcba098edb',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası kuzey makedonya,2026-07-16T05:25:00+00:00,North Macedonia,0.5190177317190702,1,1,tr,MED,Europe
 '1592886933',extremes,Wildfire,#d60d2b,effis,orman yangını diyarbakır türkiye,2026-08-10T04:13:00+00:00,Turkey,0.5185947065998158,1,1,tr,WCA,Asia
 'afad3750e1',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası Üsküp bölgesi,2026-07-17T05:27:00+00:00,North Macedonia,0.5182513748985249,1,1,tr,MED,Europe
