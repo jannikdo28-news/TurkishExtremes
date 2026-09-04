@@ -1,5 +1,15 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '82144550c5',extremes,Wildfire,#d60d2b,effis,orman yangını,2026-08-21T03:30:00+00:00,Cyprus,0.7484419534301506,6,3,tr,MED,Europe
+'2ce43256d6',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye çorum n.a.,2026-09-02T07:16:00+00:00,Turkey,0.7399730031240754,0,1,tr,MED,Asia
+'beccd9bbaa',extremes,Wildfire,#d60d2b,effis,kontrol edilemeyen yangın türkiye bitlis n.a.,2026-09-03T07:20:00+00:00,Turkey,0.7309265834931629,0,1,tr,WCA,Asia
+'3ff7961144',extremes,Wildfire,#d60d2b,effis,kontrol edilemeyen yangın türkiye erzurum n.a.,2026-09-02T07:16:00+00:00,Turkey,0.7271702577055755,0,1,tr,WCA,Asia
+'3b68c3d069',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye ankara,2026-09-02T07:16:00+00:00,Turkey,0.7245884738329409,0,1,tr,MED,Asia
+'00a732291c',extremes,Wildfire,#d60d2b,effis,orman yangını bitlis türkiye,2026-09-03T07:20:00+00:00,Turkey,0.7243032727550144,0,1,tr,WCA,Asia
+'9f1c1df7a8',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye ağrı n.a.,2026-09-03T07:20:00+00:00,Turkey,0.7240404553124453,0,1,tr,WCA,Asia
+'309eeb9708',extremes,Wildfire,#d60d2b,effis,orman yangını çorum türkiye,2026-09-02T07:16:00+00:00,Turkey,0.7189912152705286,0,1,tr,MED,Asia
+'6b42157701',extremes,Wildfire,#d60d2b,effis,orman yangını yozgat türkiye,2026-09-02T07:16:00+00:00,Turkey,0.7123164085065992,0,1,tr,MED,Asia
+'0576e3b26d',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye kırşehir n.a.,2026-09-03T07:20:00+00:00,Turkey,0.711556071618556,0,1,tr,MED,Asia
+'f21b335680',extremes,Wildfire,#d60d2b,effis,orman yangını ağrı türkiye,2026-09-03T07:20:00+00:00,Turkey,0.7059854262655374,0,1,tr,WCA,Asia
 '681ca699af',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye balıkesir,2026-08-07T11:06:00+00:00,Turkey,0.6413048333666641,3,1,tr,MED,Asia
 '798823f228',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye siirt n.a.,2026-09-02T07:16:00+00:00,Turkey,0.6392711071461108,1,1,tr,WCA,Asia
 '39a5dc9dbd',extremes,Wildfire,#d60d2b,effis,orman yangını ankara türkiye,2026-08-07T11:06:00+00:00,Turkey,0.6360441655004926,2,1,tr,MED,Asia
@@ -76,7 +86,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '50ab15c1e2',extremes,Wildfire,#d60d2b,effis,orman yangını eskişehir türkiye,2026-08-07T11:06:00+00:00,Turkey,0.4860160618933375,3,1,tr,MED,Asia
 '5139206b96',extremes,Wildfire,#d60d2b,effis,kontrol edilemeyen yangın türkiye ankara n.a.,2026-08-07T11:06:00+00:00,Turkey,0.4859741991546752,3,1,tr,MED,Asia
 '5c18e90ce8',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye ankara n.a.,2026-08-07T11:06:00+00:00,Turkey,0.4859732376589117,3,1,tr,MED,Asia
-'7da1952208',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye kahramanmaraş,2026-08-07T11:06:00+00:00,Turkey,0.48583961275374793,3,1,tr,MED,Asia
+'7da1952208',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye kahramanmaraş,2026-08-07T11:06:00+00:00,Turkey,0.4858396127537479,3,1,tr,MED,Asia
 'e8b88dfe6a',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye adıyaman n.a.,2026-08-11T04:01:00+00:00,Turkey,0.4857117443146261,2,1,tr,MED,Asia
 '84febdd06c',extremes,Thunderstorm,#53785a,random,fırtına,2026-07-28T05:30:00+00:00,,0.4856275515704674,2,3,tr,,
 '9bc5ffa7b7',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye diyarbakır n.a.,2026-08-10T04:13:00+00:00,Turkey,0.4851446888340276,2,1,tr,WCA,Asia
