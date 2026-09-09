@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'82144550c5',extremes,Wildfire,#d60d2b,effis,orman yangını,2026-08-21T03:30:00+00:00,Cyprus,0.8131623761866023,14,3,tr,MED,Europe
+'82144550c5',extremes,Wildfire,#d60d2b,effis,orman yangını,2026-08-21T03:30:00+00:00,Cyprus,0.7825064861222483,15,3,tr,MED,Europe
 '3b68c3d069',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye ankara,2026-09-02T07:16:00+00:00,Turkey,0.6511427000942998,2,1,tr,MED,Asia
 '681ca699af',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye balıkesir,2026-08-07T11:06:00+00:00,Turkey,0.6413048333666641,3,1,tr,MED,Asia
 '39a5dc9dbd',extremes,Wildfire,#d60d2b,effis,orman yangını ankara türkiye,2026-08-07T11:06:00+00:00,Turkey,0.6360441655004926,2,1,tr,MED,Asia
@@ -30,7 +30,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b15e5cc693',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye diyarbakır n.a.,2026-08-07T11:06:00+00:00,Turkey,0.5716787155542532,2,1,tr,MED,Asia
 '905e5f7944',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye malatya n.a.,2026-08-07T11:06:00+00:00,Turkey,0.571566011702071,2,1,tr,MED,Asia
 '757cde1d0e',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye denizli n.a.,2026-08-07T11:06:00+00:00,Turkey,0.5692445234519726,2,1,tr,MED,Asia
-'7b6f0a5a4b',extremes,Wildfire,#d60d2b,effis,orman yangını balıkesir türkiye,2026-08-07T11:06:00+00:00,Turkey,0.568663637294478,4,1,tr,MED,Asia
 'f26ff70867',extremes,Wildfire,#d60d2b,effis,orman yangını konya türkiye,2026-08-07T09:56:00+00:00,Turkey,0.5683160700193033,2,1,tr,MED,Asia
 '612f7ce1ec',extremes,Heat Wave,#c40202,meteo,sıcak hava dalgası türkiye,2026-08-08T03:51:00+00:00,Turkey,0.5624685142948048,4,1,tr,MED,Asia
 'aef3429ae2',extremes,Wildfire,#d60d2b,effis,orman yangını,2026-08-21T03:30:00+00:00,North Macedonia,0.5614818173820837,1,3,tr,MED,Europe
