@@ -70,9 +70,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '24abd41917',extremes,Wildfire,#d60d2b,effis,orman yangını türkiye yozgat n.a.,2026-09-02T07:16:00+00:00,Turkey,0.5050632355874128,2,1,tr,MED,Asia
 'fa248484f4',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası vardar bölgesi,2026-08-06T05:33:00+00:00,North Macedonia,0.4995564682125474,1,1,tr,MED,Europe
 'fa46d08b1a',extremes,Wildfire,#d60d2b,effis,kuzey makedonya'daki kontrol edilemeyen yangın,2026-08-30T08:29:00+00:00,North Macedonia,0.4995286930637767,1,1,tr,MED,Europe
-'184472a9b7',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası polog bölgesi,2026-08-28T14:32:00+00:00,North Macedonia,0.49939960795665594,1,1,tr,MED,Europe
+'184472a9b7',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası polog bölgesi,2026-08-28T14:32:00+00:00,North Macedonia,0.4993996079566559,1,1,tr,MED,Europe
 'ad0c423cf2',extremes,Wildfire,#d60d2b,effis,orman yangını balıkesir türkiye,2026-08-21T03:30:00+00:00,Turkey,0.4981509763822367,3,1,tr,MED,Asia
-'c76cb9fc29',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası güneybatı bölgesi,2026-08-29T09:18:00+00:00,North Macedonia,0.49788727690406454,1,1,tr,MED,Europe
+'c76cb9fc29',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası güneybatı bölgesi,2026-08-29T09:18:00+00:00,North Macedonia,0.4978872769040645,1,1,tr,MED,Europe
 'f6da83822a',extremes,Thunderstorm,#53785a,wmo,dolu bulgaristan,2026-08-09T03:59:00+00:00,Bulgaria,0.4965137938782142,2,1,tr,MED,Europe
 'f0fa775fe5',extremes,Wildfire,#d60d2b,effis,orman yangını bulgaristan,2026-08-31T08:51:00+00:00,Bulgaria,0.494624966666546,2,1,tr,MED,Europe
 'afad3750e1',extremes,Heat Wave,#c40202,wmo,sıcak hava dalgası Üsküp bölgesi,2026-08-28T14:32:00+00:00,North Macedonia,0.4935412710543496,1,1,tr,MED,Europe
@@ -163,6 +163,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b2eef01ab4',extremes,Wildfire,#d60d2b,effis,orman yangını бургас bulgaristan,2026-08-17T03:28:00+00:00,Bulgaria,0.4411402030203864,1,1,tr,MED,Europe
 '1592886933',extremes,Wildfire,#d60d2b,effis,orman yangını diyarbakır türkiye,2026-08-10T04:13:00+00:00,Turkey,0.4408055006098434,2,1,tr,WCA,Asia
 '812ca16c30',extremes,Wildfire,#d60d2b,effis,kontrol edilemeyen yangın Bulgaristan,2026-09-05T07:04:00+00:00,Bulgaria,0.4407634168099454,2,1,tr,MED,Europe
+'7b765a4d4c',extremes,Precipitation,#d60d2b,random,sağanak,2026-08-15T03:13:00+00:00,,0.4404762472198692,1,3,tr,,
 'd051e38352',extremes,Wildfire,#d60d2b,effis,orman yangını adıyaman türkiye,2026-08-11T04:01:00+00:00,Turkey,0.4401725410574116,2,1,tr,MED,Asia
 'f84da53be1',extremes,Wildfire,#d60d2b,effis,orman yangını българия  пловдив брезово,2026-08-11T04:01:00+00:00,Bulgaria,0.4397940092390593,2,1,tr,MED,Europe
 '1888bfb7ef',extremes,Wildfire,#d60d2b,effis,kontrol edilemeyen yangın северна македонија југозападен ohrid,2026-08-22T03:22:00+00:00,North Macedonia,0.4396409114311816,1,1,tr,MED,Europe
@@ -345,7 +346,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,soğuğu kaydedin,2026-08-22T03:22:00+00:00,,0.3430002942789801,0,1,tr,,
 'fcf38cfed3',extremes,Drought,#edc291,edo,kuraklık kuzey makedonya,2026-08-16T03:28:00+00:00,North Macedonia,0.3403767225565583,2,1,tr,MED,Europe
 'c9080fa8ac',extremes,Drought,#edc291,edo,Kuzey Makedonya'da kuraklık,2026-08-28T14:32:00+00:00,North Macedonia,0.3399252043978951,1,1,tr,MED,Europe
-'7b765a4d4c',extremes,Precipitation,#d60d2b,random,sağanak,2026-08-15T03:13:00+00:00,,0.3359084673174932,0,1,tr,,
 '30c6382c7a',extremes,Wildfire,#d60d2b,effis,orman yangını северна македонија пелагониски novaci,2026-08-14T04:24:00+00:00,North Macedonia,0.333872877508513,3,1,tr,MED,Europe
 '283b154c38',extremes,Wet Spell,#d60d2b,random,ıslak büyü,2026-08-25T03:27:00+00:00,,0.3308400257948005,1,1,tr,,
 '9797aa6299',extremes,Drought,#edc291,edo,yağmur eksikliği kıbrıs,2026-08-23T03:30:00+00:00,Cyprus,0.3306266589598778,1,1,tr,MED,Europe
